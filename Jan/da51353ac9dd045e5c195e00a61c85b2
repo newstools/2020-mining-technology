@@ -1,0 +1,15 @@
+Anglo-Australian mining company Rio Tinto has upped its donation to the Red Cross’ disaster relief and recovery fund by A$750,000, bringing the company’s total donation to A$1m. The funds will be used to help Red Cross emergency service teams to ensure support for communities impacted by ongoing Australian bushfires, including the provision of safe places to take shelter and psychological first aid to reduce trauma.  The charity also announced plans for longer-term recovery programmes, although they provided few details. Rio Tinto is also providing its employees involved in ongoing volunteer firefighting with full leave entitlements. Rio Tinto CEO Jean-Sébastien Jacques said “With the escalation in the bushfire crisis … we are also ensuring any of our employees involved in firefighting and relief efforts are supported throughout this period with full leave entitlements. “Beyond these steps announced today, we will continue to explore ways to help impacted communities in this time of need,” he added. The Australian Red Cross has around 60,000 trained volunteers who joined by voluntary emergency personnel have been helping in relief and evacuation centres in bushfire impacted communities around the country. In the meantime, Australian mines have seen additional scrutiny and several coal mines have ceased operation as a safety measure during the bushfire crisis. At the end of December 2019, there were fears that a “mega-fire” at Gospers Mountain, New South Wales, could tear through Springvale coal mine and Mount Piper Power Station creating a serious harm to the area and its energy production.  The fire risks to the station seem to be put under control now as Australian Energy Market Operator is monitoring the bushfire situation near the Mount Piper power station, despite that the station is operating only with essential personnel. In November 2019, the operator of Hazelwood coal mine, which burnt for 45 days in 2014 bushfire and cloaked the neighbouring town with smoke and ash, was held responsible for the incident. Australia jurors found the operator guilty of ten WorkSafe breaches, including failing to complete an adequate risk assessment and failing to have a reticulated water pipe system for worked-out mines.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
