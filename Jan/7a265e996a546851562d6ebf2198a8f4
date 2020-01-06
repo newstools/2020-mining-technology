@@ -1,0 +1,15 @@
+Nickel miner Panoramic Resources has signed a share purchase agreement (SPA) in line with its wholly owned subsidiary Magma Metals selling all the shares of its Canada-based Panoramic PGMs subsidiary to Regency Gold. Panoramic PGMs is the 100% owner of Thunder Bay North project in Northern Ontario, Canada. The deal is valued at a cash consideration of C$9m ($6.9m). In July last year, Panoramic signed a binding letter of agreement with Benton Resources to divest the Thunder Bay project for the same cash consideration. However, the letter of agreement with Benton has now been terminated while the terms of the sale have not materially changed. A deposit of C$250,000 ($192,219) will become payable on the signing of the share purchase agreement, along with a further C$4.5m ($3.45m) upon completion of the sale. A C$1.5m ($1.15m) payment will become due on the first anniversary of the transaction. An additional C$1.5m ($1.15m) on the second and third anniversary of the deal will each be received by Panoramic Resources. Panoramic Resources said in a statement: “Both Regency and PAN PGM’s will grant first ranking charges over the shares in PAN PGM’s and the Project to secure the deferred payments.” The completion of the SPA is subject to Regency securing enough financing, by way of debt or equity, to enable it to pay that portion of the purchase price. It is also subject to Regency receiving shareholder, regulatory or governmental approvals required for the completion of the sale of Panoramic PGMs. In the event that the conditions are neither satisfied nor waived within 150 days of the date of the SPA, it will terminate unless both parties otherwise agree.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
