@@ -1,0 +1,15 @@
+UK-based copper-gold exploration and development company Bezant Resources has secured an extension to the initial expenditure phase for its conditional option to buy a 50% stake in a copper mining licence area, which contains the Buffalo exploration project in Zambia. The project is a 398ha copper-gold deposit in the Central Zambian iron oxide copper-gold (IOCG) belt. It is approximately 300km north-west of Lusaka. In April 2019, Bezant signed a memorandum of agreement with KPZ International for the option over an interest in the small-scale copper mining licence. Under this agreement, Bezant Resources received a conditional option to acquire a 50% interest in licence number 15164-HQ-SML, which includes the Buffalo exploration project. As part of the original terms of this option agreement, Bezant was also required to complete an initial assessment of the licence area for $200,000 by 1 February this year. Also known as the initial expenditure phase, the initial assessment has been now extended until this April in order to enable the progression of the ongoing assessment of the exploration project. Bezant Resources executive chairman Colin Bird said: “This extension will allow Bezant to fully understand the geological structure and presentation of mineralisation in an area, which has produced promising copper results and indicated the presence of other base metals. “We look forward to reporting our findings during the extended option period.” In July 2019, Bezant Resources completed a review of the Buffalo project. Carried out by the company’s geological survey team, the review discovered a structural zone centred on a site of artisanal copper/gold mining activity within the Buffalo open pit.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
