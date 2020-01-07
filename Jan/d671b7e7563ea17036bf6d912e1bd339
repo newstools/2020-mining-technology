@@ -1,0 +1,15 @@
+Atlantic Nickel and Appian Capital Advisory have announced an offtake contract to sell a portion of the output from the restarted Santa Rita nickel sulphide project in Brazil. As part of the company’s strategy, Atlantic Nickel has signed a three-year offtake contract for a part of the production from the project and a $40.8m financing arrangement with global commodities trader Trafigura. Santa Rita is an open-pit nickel-copper-cobalt sulphide operation, considered as one of the largest open-pit nickel sulphide mines in the world. Atlantic Nickel is set to deliver its first shipment this month. In July last year, blasting activities were recommenced at the mine site in the Bahia state of Brazil. The plant has completed refurbishment and ramped up commissioning activities, which resulted in early nickel concentrate production. Atlantic Nickel has produced more than 11,000 dry metric tonnes of nickel sulphide until now. Production from the mine is expected to reach nominal annualised capacity this year. Atlantic Nickel and Appian Brazil CEO Paulo Castellari said: “This important milestone for both Atlantic Nickel and Appian demonstrates the technical excellence of our team who have brought the project back to production ahead of schedule in a safe and responsible manner. “Following our updated mineral resource estimate, Santa Rita is an asset with significant upside, with the potential for further expansion both underground and through an open pit satellite resource. “Today’s announcement further de-risks the project and I remain confident in Santa Rita’s prospects as a low-cost, long-life mine that is well-positioned to benefit from the growth in electric vehicles to generate strong investor returns.” Following drilling results, an updated open pit reserve statement is scheduled for completion in the first quarter of this year. The company also plans to undertake further drilling this year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
