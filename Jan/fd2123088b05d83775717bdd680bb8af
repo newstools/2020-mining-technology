@@ -1,0 +1,15 @@
+Anglo American is advancing its discussions with Sirius Minerals, which has plans to develop a polyhalite mine in North Yorkshire, UK. Under the project, polyhalite will be extracted from the mine, which is touted to hold the world’s thickest and highest grade polyhalite resource. In September last year, Sirius Minerals was reportedly forced to cancel a $500m bond issue after the UK Government refused to support its potash mine in the North Yorkshire Moors. In the same month, the company announced that it was undertaking a strategic review to assess the development plan for the North Yorkshire polyhalite project. Last November, the company stated that it is seeking to secure $600m in funding for the first stage of the project and also unveiled development and optimisation plans for the two-stage development of the project. Polyhalite is a mineral salt that can be used as a fertiliser and in potentially other industrial applications. Anglo American confirmed that it is in advanced negotiations with Sirius in relation to a possible offer valued at 5.5p for each share in cash. The proposal values the entire issued share capital of Sirius at £386m ($507.3m). Anglo American said in a statement: “Anglo American identified the project as being of potential interest some time ago, given the quality of the underlying asset in terms of scale, resource life, operating cost profile and the nature and quality of its product.” The company added that the project has the potential to fit well with Anglo American’s portfolio trajectory towards later cycle products that support a cleaner, greener and sustainable world.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
