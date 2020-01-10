@@ -1,0 +1,15 @@
+The US and Canada have finalised the Canada-US Joint Action Plan on Critical Minerals Collaboration on minerals such as uranium and rare earth elements. The collaboration is aimed at advancing the countries’ mutual interest in obtaining supply chains for the critical minerals needed for aerospace and defence, clean technology and other manufacturing sectors. Supplying 13 of the 35 minerals that the US has identified as critical, Canada is the largest provider of potash, indium, aluminium and tellurium to the US. It is also the second-largest supplier of niobium, tungsten and magnesium to the US. Canada Natural Resources Minister Seamus O’Regan said: “With $2.6bn worth of goods and services moving between Canada and the US every day, both of our economies are better off when we work together. “By finalising the Canada–US Joint Action Plan on Critical Minerals Collaboration, we are advancing secure access to the critical minerals that are key to our economic growth and security, including uranium and rare earth elements, while bolstering our competitiveness in global markets and creating jobs for Canadians.” The newly finalised Action Plan will guide cooperation in areas such as industry engagement and efforts to secure critical minerals supply chains for strategic industries. It also improves information sharing on mineral resources and potential, as well as cooperation in multilateral fora and with other countries. Both the countries’ experts will shortly reveal plans to advance joint initiatives in order to address concerns of shared mineral security. This ensures continued economic growth and national security in both nations. Last month, Canada joined the US-led, multi-country energy resource governance initiative, which is aimed at promoting secure and resilient supply chains for critical energy minerals. In February 2018, the US Government revealed plans to boost production of 35 important minerals, including uranium, cobalt, and lithium, to reduce the nationwide dependence on overseas suppliers.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
