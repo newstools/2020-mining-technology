@@ -1,0 +1,15 @@
+Autonomous solutions provider Hexagon has strengthened its Smart Mine solutions portfolio with the acquisition of Blast Movement Technologies (BMT), a provider of blast movement monitoring and analysis for open-pit mines. BMT’s technologies will be a complementary addition to Hexagon’s drilling and blasting solutions and will enable accurate delineation of ore boundaries, such as ore location information, after blasting in open-pit mining. The acquisition will enable Hexagon’s mining customers to better address revenue from ore loss, where ore is sent to the waste pile, as well as dilution, where waste is sent to the mill. Hexagon stated that BMT’s solution, which is a combination of sensors and software, provides customers with accurate blast information that is used to recover a mine’s resources. Data is collected from blast movement sensors, which move with the blasted material, while the software is used to transform the data from the post-blast location of ore to the outputs of more precise dig lines. Hexagon president and CEO Ola Rollén said: “Controlling ore loss and dilution is critical for mining operations, particularly when profit margins are tight during commodity down-cycles. “Today’s acquisition of BMT is a powerful addition to our Smart Mine portfolio, further closing the drill and blast loop for our customers, and ultimately, improving their ability to measure, manage and improve mining operations from pit to plant.” BMT will be completely consolidated and operated within the mining unit of Hexagon’s division. BMT CEO Jacques Janse said: “BMT complements the Hexagon suite of products in the drill and blast space and will ensure that Hexagon remains at the forefront of innovation in the blast movement space. “Hexagon has the capacity to fast-track improvements to the BMT solution and its expertise in software will enhance the BMT offering, ensuring customers receive valuable information to aid confident decision-making and increase ore yield.” Australia-based BMT operates worldwide with more than 100 customer sites mining nine commodities across 40 countries.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
