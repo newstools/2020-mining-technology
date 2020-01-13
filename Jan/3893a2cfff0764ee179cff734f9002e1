@@ -1,0 +1,15 @@
+Siemens chief executive officer Joe Kaeser has announced that the company will fulfil its contract with Adani Mining to provide rail signalling systems at the proposed Carmichael coal mine in Queensland, Australia. The decision follows significant pressure from environmental protesters which urged Siemens to renege on its contract with Adani. Kaeser previously tweeted that he was “not aware of” the contract, but that he would “diligently look into the matter”. In an open letter, Kaeser explained Siemens’ decision to go ahead with the Adani contract in light of the dispute, which has ramped up in the wake of the Australian bushfire crisis. “I do realise, most of you would have hoped for more,” Kaeser said. “While I do have a lot of empathy for environmental matters, I do need to balance different interests of different stakeholders.” In 2015, Siemens announced its intention to halve the carbon footprint of its operative business by 2020 and become carbon neutral by 2030. Kaeser said: “There is practically no legally and economically responsible way to unwind the contact without neglecting fiduciary duties. “However, given the importance of legitimate environmental concerns, we have secured the right to pull out of the contract if our customer violates the very stringent environmental obligations.” The Queensland government approved Adani’s groundwater management plans in June 2019, clearing the company to begin work on its mine. Adani expects the mine to produce 2.3 billion tonnes of coal over 60 years. On its website Adani says the Carmichael mine project will create “more than 1,500 direct jobs on the mine and rail project” as well as “thousands” of indirect jobs in the surrounding areas. In response to the announcement that Siemens will continue its arrangement with Adani, the Australian Conservation Foundation’s senior campaigner Christian Slattery said: “Siemens’ announcement that it will continue working on Adani’s coal mine while bushfires rage in Australia is nothing short of shameful.” Mining Technology has approached Adani and Siemens for further comment but they are yet to respond.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
