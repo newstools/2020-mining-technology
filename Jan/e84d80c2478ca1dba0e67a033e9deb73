@@ -1,0 +1,15 @@
+Rio Tinto has awarded an A$400m ($275m) contract towards the design and construction of the Western Turner Syncline phase two (WTS2) iron ore mine in Western Australia’s Pilbara region. The contract was awarded to Mondium, a joint venture (JV) comprising two Perth-based companies in Monadelphous and Lycopodium. The company will design, engineer, procure and handle site construction works associated with the WTS2 development. The contract scope also includes designing and constructing the process plant, overland conveyor and other associated non-process infrastructure. Rio Tinto Iron Ore CEO Chris Salisbury said: “We’re committed to supporting Western Australian businesses, buying locally and supporting our communities through the creation of jobs. We’re pleased to award this contract to Mondium who share those values. “We’re continuing to invest in Western Australia and have a number of development projects in the pipeline that will continue to provide opportunities for local companies.” Rio Tinto noted that the contractual work is expected to generate 450 jobs starting in the first quarter of this year. The work is expected to be completed next year. Under the contract, Mondium and Rio Tinto will also collaborate to ensure local and indigenous employment and business opportunities across the region. The WTS2 mine is part of the company’s Greater Tom Price operations. In November 2019, Rio Tinto approved an A$1bn ($749m) investment towards the WTS2 mine. Under this investment, the company will be able to mine existing and new deposits, as well as construct a new crusher and a 13km conveyor.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
