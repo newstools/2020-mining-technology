@@ -1,0 +1,15 @@
+Apple is using its Daisy robot to disassemble its iPhone to recover and recycle minerals. Reuters reported that new mines will still be needed by producers to address the increasing demand for electronics. The robot has been designed to break apart iPhones to extract and recycle 14 minerals, including lithium. Less than 20 yards in length, Daisy uses a four-step process to remove an iPhone’s battery with a blast of -80°C (-176°F) air. This process makes screws and modules pop out from the device, including the haptic monitor that makes the device vibrate. Apple said that the components are then sent to recyclers for mineral refining and extraction. Daisy processed one million iPhones in 2017 and is capable of tearing 200 iPhones an hour. iPhone repair firm iFixit chief executive Kyle Wiens was quoted by the news agency as saying: “There’s this ego that believes they can get all their minerals back, and it’s not possible.” Apple environment, policy and social initiatives head Lisa Jackson said that the firm has chosen the iPhone to be the first among its products that would be disassembled by Daisy. The manufacturer is also considering plans to share the Daisy technology with electric automakers and others. International Council on Mining and Metals president Tom Butler said: “Apple is in an enviable position because they can do this. Not everyone else will be able to follow suit.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
