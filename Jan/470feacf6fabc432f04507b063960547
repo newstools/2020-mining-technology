@@ -1,0 +1,15 @@
+US-based engineering firm Fluor has erected the first 1,500t of modules in the ore handling plant of BHP’s $3.6bn South Flank iron ore project in the Pilbara region of Western Australia. Fluor is providing engineering, procurement and construction management services for the project, which will feature a crushing and screening plant, an overland conveyor system, and rail-loading facilities. The engineering company said the construction milestone is part of the critical sequence to the production of first ore, which is expected in 2021. Fluor is part of an integrated project team, which is undertaking engineering and procurement operations from BHP’s office in Perth. Fluor’s mining and metals business president Tony Morgan said: “The pioneering integrated team approach on this project is truly a collaborative effort. We look forward to continuing our long and successful relationship with BHP on this project and beyond.” Fluor was awarded the project and construction management contract for the South Flank Iron ore project in August 2018. The company also undertook the feasibility study of the project, which is expected to employ more than 9,000 people. The South Flank project is expected to produce 80Mtpa of iron ore over its 25 years of estimated project life. The project will expand BHP’s Mining Area C operation located 8km to its north and replace production from the 80Mtpa Yandi mine, which is nearing the end of its mine life. South Flank will be a conventional open-cut mining operation involving drilling, blasting and hauling. It integrates the latest advances in autonomous-ready fleets, digital connectivity and modular design. The project’s iron ore will be transported using BHP-owned railway network connecting Port Hedland for shipping.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
