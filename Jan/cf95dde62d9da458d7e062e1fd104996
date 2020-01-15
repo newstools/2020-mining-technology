@@ -1,0 +1,15 @@
+Endeavour Mining has dropped its plan to acquire mining firm Centamin for $1.9bn as it did not get enough information on the latter’s assets during an assessment. Centamin is a mineral exploration, development and mining company. It is dual-listed on the London and Toronto Stock Exchange. Its key asset, the Sukari Gold Mine, is located in the Eastern Desert approximately 700km from Cairo, Egypt, and 25km from the Red Sea. Endeavour CEO Sebastien de Montessus said: “The quality of information received during the accelerated due diligence process has been insufficient to allow us to be confident that proceeding with a firm offer would have been in the best interests of Endeavour shareholders.” In December 2019, Centamin rejected the takeover proposal from Endeavour as it did not offer sufficient value to its shareholders. After that, Centamin’s panel agreed to extend the deadline for Endeavour to come up with a firm offer, thereby enabling both the entities more time to share information. de Montessus said that the company is convinced about the strategic rationale of combining the two entities to create a diversified gold producer with a quality portfolio of assets. Last week, Centamin reported that its fourth-quarter production increased by 51% to 148,387oz, taking its output of 2019 to 480,529oz. This production, however, was short of its annual target range though a 2% year-on-year increase.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
