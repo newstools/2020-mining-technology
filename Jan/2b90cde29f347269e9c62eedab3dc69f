@@ -1,0 +1,15 @@
+India’s state-owned mineral producer NMDC is set to win a multi-billion dollar contract to mine diamonds at the Bunder deposit in the state of Madhya Pradesh. The Madhya Pradesh government asked NMDC to explore the site, which is estimated to contain 34.2 million carats in diamond deposits. “Our geological survey has shown that the entire area, which has largely remained unexplored, is rich in diamonds,” the state’s Mineral Resource Department principal secretary Neeraj Mandloi told Reuters. “We have requested NMDC to do a composite role of exploring and mining and the company has shown a preliminary interest.” NMDC already operates Asia’s only diamond mine in the Panna district of Madhya Pradesh, which has a capacity of approximately 84,000 carats per year, according to the company’s website. Multinational mining company Rio Tinto discovered the diamond deposit in 2004, but abandoned work on the project in August 2016 due to “commercial considerations”. In February 2017, Rio Tinto announced it would hand ownership of the Bunder project site and all its assets to the Madhya Pradesh government. In December 2019 the state government awarded a portion of the site to Essel Mining & Industries, and NMDC is among a number of mining companies to have reportedly expressed an interest in taking up operations at the site. The revival of the Bunder project could be a boon to Prime Minister Narendra Modi’s efforts to further develop India’s mining sector. Last week, India’s Environment Ministry gave clearance to 10 new coal mining projects and in 2019 the Ministry of Mines updated its National Mineral Policy to integrate mining into the country’s overall strategy for economic development. Mining Technology has approached MRD and NMDC for comment.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
