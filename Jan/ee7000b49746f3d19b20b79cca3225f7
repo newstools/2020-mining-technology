@@ -1,0 +1,15 @@
+Metallurgical coal producer Coronado Global Resources has suspended operations at the Curragh coal mine complex near Blackwater, Queensland, Australia, following the death of a mineworker. The coal mine is located 14km north-west of Blackwater in the bowel basin of Central Queensland. A 33-year-old Thiess employee was involved in the incident. Queensland Ambulance Service noted that it responded to reports that a patient had become trapped in machinery, reported ABC. According to the news agency, five Queensland mineworkers died at work last year. The death at the Curragh coal mine marks the eighth fatality in the state’s mining industry in the past two years. Meanwhile, the Queensland Resources Council (QRC) said that it is saddened by the tragic news and offered condolences to the worker’s family, friends and workmates, on behalf of the industry. QRC chief executive Ian Macfarlane said: “The resources industry is tight-knit, so this tragedy will deeply affect everyone who works in and with the resources community. “Safety is always the resource sector’s number one priority. The industry is working with the Queensland government and unions to ensure an ongoing safety focus to maximise safety across the sector.” Queensland Acting Mines Minister Mark Ryan said that inspectors are currently investigating the accident. He stressed that Queensland now has the toughest mine safety and health regulation in the world. The Curragh coal mine has been in operation since 1983. It produced seven million tonnes per annum (Mtpa) of coal in 2017. In September 2019, Thiess received a contract extension valued at A$1.3bn ($893m) to provide mining services at the mine. Meanwhile, an isolated ground fall that occurred at Level 49 Deeps operation at the Black Mountain Mine (BMM) Deeps Shaft in the Northern Cape of South Africa has killed a mining operator. BMM is owned by Vedanta Resources subsidiary Vedanta Zinc International (VZI). Production has currently been suspended at the Deeps operation.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
