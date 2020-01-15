@@ -1,0 +1,15 @@
+Australia’s Resolute Mining has signed a definitive agreement to sell Ravenswood Gold Mine in a deal that can earn the company up to A$300m ($206.9m). Located in Queensland, the mine will be acquired by a consortium comprising a fund (EMR Fund) managed by EMR Capital Management and Golden Energy and Resources (GEAR). As agreed, Resolute will receive an upfront payment of A$100m in a combination of cash and promissory notes. The company can also earn up to A$50m based on the average gold price over a four-year period and an additional A$150m based on the investment outcomes from Ravenswood for the EMR Fund. The proceeds received from the transaction will be used to reduce company debt and strengthen its balance sheet. Resolute managing director and CEO John Welborn said: “The divestment has strong strategic merit for Resolute. “We have delivered on our objective of ensuring a new long-life future for Ravenswood under a world-class operator and can now focus our attention and energy on our African portfolio and the abundant opportunities our experience provides for further growth and value creation.” Currently, Ravenswood Gold Mine employs 200 full-time workers. It has been in continuous operation since 1987 when Carpentaria Gold commenced mining activity at the site. Resolute added Ravenswood to its portfolio after it acquired Carpentaria Gold in 2004. Welborn added: “Since acquisition in 2004, Resolute has mined and processed over 40 million tonnes of ore and produced almost two million ounces of gold.” Last year, Resolute carried out a strategic review of the project to update the previously published Ravenswood Expansion Project (REP) study. The REP strategic review supported higher throughput and production rates at the mine than estimated in earlier REP studies. It is estimated Ravenswood has the potentiality to deliver around 200,000oz of gold annually for 15 years from 2022, following completion of REP.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
