@@ -1,0 +1,15 @@
+Canadian augmented reality (AR) developer NexTech AR Solutions has partnered with Canadian mineral exploration company Romios Gold Resources to create 3D AR core samples for mining exploration projects. NexTech CEO Evan Gappelberg said: “The mining sector is certainly a new industry for us and we are the first companies to create 3D AR core samples, which we believe could become a new industry standard for the entire mining industry.” “Imagine being able to have core samples in your back pocket,” Gappelberg told Mining Technology. “You could send us a video of a core sample and in 24 hours we can create a 3D asset that you can show to investors anywhere in the world.” Gappelberg said that while this is the company’s first foray into the mining industry, the partnership with Romios presents new opportunities for both companies. Gappelberg said his company is looking for new partnerships in the mining industry and will be attending the Prospectors & Developers Association of Canada (PDAC) trade show in March 2020. Romios Gold Resources President and CEO Tom Drivas said: “We believe there is great value in allowing potential investors and industry experts to view core samples from our exploration projects in high-fidelity 3D. “Going forward we will look to find other innovative ways to leverage this technology into our various marketing strategies, and pioneer together, new industry standards.” In a statement, NexTech said the AR technology will drive Romios’ marketing activities in 2020 and create new business opportunities for NexTech. NexTech previously announced it was working with Google on its 3D AR advertising platform, set to launch in 2020. Gappelberg said that the services provided to Romios Gold Resources will integrate with that platform.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
