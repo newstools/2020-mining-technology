@@ -1,0 +1,15 @@
+Vysarn subsidiary Pentium Hydro has secured a goods and services contract from Iluka Resources for the Cataby mine in Western Australia. The mine is a chloride ilmenite deposit located in the Shire of Dandaragan, approximately 150km north of Perth. The $1.8m contract will see Pentium deliver drill dewatering and injection wells at the mine’s southern area development project. It is expected that work would be completed by the end of this financial year while Pentium anticipates site mobilisation by early next month. With operations commenced in the second quarter of last year, the mine is expected to have a mine life of eight years and six months. It also has the potential to be further extended to an additional four years. Pentium Hydro managing director Sheldon Burt said: “Pentium is delighted to be chosen as the successful tenderer, an endorsement of the quality of Pentium’s commercial team’s interpretation of Iluka’s needs and their appreciation of the Pentium service offering. “The mobilisation of this rig will be the seventh rig of the fleet committed to a drilling programme since acquiring the assets and the company’s relisting on ASX in September 2019. “The award of this work further strengthens the company’s strategy to become the premium dewatering service provider in Western Australia, specifically to tier-one mining clients.” Cataby is expected to produce an average of around 370ktpa of chloride ilmenite, which will be processed into approximately 200ktpa of premium grade synthetic rutile at the company’s SR2 kiln at Capel, around 350km south of Cataby. Furthermore, the mine will produce around 50ktpa premium grade zircon and approximately 30ktpa rutile.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
