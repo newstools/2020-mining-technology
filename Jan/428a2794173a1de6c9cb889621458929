@@ -1,0 +1,15 @@
+Diversified natural resources company Teck Resources has bought the SunMine solar energy facility in Kimberley, British Columbia (BC), Canada. Acquired from the City of Kimberley, SunMine is a 1.05MW solar facility located on fully reclaimed land at the company’s former Sullivan Mine site. According to the company, approximately 1,100ha of former mining area has been reclaimed. A major producer of zinc, lead and silver, the Sullivan mine was closed in 2001 after being in operation for more than 100 years. SunMine has been in operation since 2015 and is the first grid-connected solar facility in BC. Teck Resources noted that the SunMine development aligns with the company’s approach to working with stakeholders in order to develop post-mining land uses, ranging from wildlife habitat to diversifying the economy. The solar energy facility is also the first built facility on a reclaimed mine site with a potential for further expansion. Teck Resources president and CEO Don Lindsay said: “Our involvement with SunMine is part of our commitment to taking action on climate change, advancing renewable energy development, and supporting the global transition to a low-carbon economy. “SunMine will help us gain firsthand experience with solar power generation as we advance the use of solar power at other operations.” Valued at $2m, the sale is equal to the City of Kimberley’s outstanding debt for SunMine. Teck Resources has been providing the land and site infrastructure for the development of the SunMine solar facility since it began operations. In April 2018, Teck Resources raised its stake in the Quebrada Blanca copper mine to 90% by acquiring Chilean company Inversiones Mineras, which held a 13.5% stake in operating company Compañía Minera Teck Quebrada Blanca (QBSA). In February 2017, the company signed an agreement to sell its 70% interest in Haib Minerals to Deep-South Resources, which already owns an existing 30% stake.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
