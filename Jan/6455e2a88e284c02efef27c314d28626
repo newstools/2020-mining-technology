@@ -1,0 +1,15 @@
+US Representative for Minnesota Betty McCollum passed new legislation to permanently ban copper-nickel mining across the Boundary Waters Canoe Area Wilderness (BWCAW). McCollum said that the Boundary Waters Wilderness Protection and Pollution Prevention Act, H.R. 5598, would protect more than 234,000 acres of federal wilderness lands and waters within the Superior National Forest and Rainy River watershed that lies outside the Boundary Waters from copper-nickel mining projects. The new bill would also protect the site of the proposed Twin Metals mine in Minnesota, which submitted plans to state and federal regulatory bodies last month to open an underground copper-nickel mine outside Ely. Minnesota House Natural Resources Committee chairman Raul Grijalva said: “This administration has signed off on some of the most destructive polluter giveaways in our nation’s history, and it obviously has no intention of stopping. “If we don’t draw the line at the Boundary Waters, there is no line – we have to fight this, and we have to win. Building a mine near a sensitive wilderness area shows exactly whose side President Trump is on and how his government will operate unless Congress and the American people put a stop to it.” The proposed legislation would not impact the copper-nickel mine project operated by PolyMet Mining, which is planned to be built south of the Twin Metals project. This project is one in the watershed of the St Louis River and flows into Lake Superior. The bill will also not affect taconite or iron ore mining in Minnesota. The proposed legislation has two Republican co-sponsors, including Florida representative Francis Rooney, who told McCollum that ‘we are united with you to protect our national treasures’. In May last year, the US Department of the Interior renewed two mining licences in the Boundary Waters Wilderness area, marking the latest in a series of policies that aim to open up more areas of US land to mining operations.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
