@@ -1,0 +1,15 @@
+Environmental fast-tracking is set to be extended to US non-energy mining projects after a federal permitting committee voted to include mining as a covered infrastructure sector under the Fixing America’s Surface Transportation (FAST) Act. Passed by the Obama administration in 2015, the FAST Act created the Federal Infrastructure Permitting Improvement Steering Council (FPISC), aimed at streamlining the permit process for “high priority” infrastructure projects costing upwards of $200m. Permitting Council executive director Alexander Herrgott said: “Today’s action by the Permitting Council furthers the President’s commitment to demystify and standardise an overly-complicated federal decision-making process. “This step will provide unprecedented transparency, predictability and accountability to the public, all while ensuring governors, mayors, local communities, tribes and the private sector always have a reliable Federal partner in Washington D.C.” The FAST Act limits the duration of public comment periods during the environmental impact statement process and reduces the statute of limitations for litigation. The extension of the FAST Act’s provisions to mining projects has drawn criticism from environmental groups, which say that fast-tracking the environmental review process for mining projects will further threaten the environment and risk harm to people and wildlife. Natural Resources Defense Council senior advocate Taryn Kiekow Heimer said: “Mining is inherently toxic, and the industry is one of America’s least regulated and dirtiest polluters. “Projects that pose such potential danger to our waterways, lands, and communities should be scrutinised not rushed.” Earthworks, an environmental pressure group for the mineral and energy sectors, said: “Congress never intended this permitting scheme to cover hardrock mining,” and said that there needs to be more oversight to reduce the negative effects of mining on communities and wildlife, not less. National Mining Association senior vice president of communications Ashley Burke told Mining Technology: “Permitting efficiencies can be achieved without sacrificing environmental protection. The best indicator of environmental performance is the strength and enforcement of applicable standards, not the length of time spent in the permitting process.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
