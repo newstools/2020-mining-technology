@@ -1,0 +1,15 @@
+Canadian exploration company Kinross Gold has completed its previously announced acquisition of heap leach development project Chulbatkan in Russia from N-Mining for $283m. The deal was initially announced in July 2019. Located in the Khabarovsk region of Far East Russia, Chulbatkan is an open-pit, heap leaching project that is expected to have significant upside potential and low relative execution risk. The project is estimated to approximately have 3.9 million ounces (Moz) of gold in indicated mineral resources and 80,000oz of gold in inferred mineral resources. Kinross has already started an exploration drilling campaign at Chulbatkan to update the current resource by the end of this year. It expects to spend $10m on initial exploration project drilling during the year and plans to convert estimated mineral resources. Kinross will also complete pre-feasibility and feasibility studies within three years, followed by a two-year construction period. Last October, the company received an anti-monopoly approval on the acquisition from the regulatory authorities of Russia. All other conditions with respect to the acquisition were satisfied. As agreed in the deal, Kinross made the first instalment of $141.5m and $3.1m of ordinary course working capital adjustments, which represents 50% of the $283m consideration. Kinross said in a statement: “The agreement was amended to permit the first instalment to be paid all in cash, which has minimised share dilution and leveraged the company’s strong liquidity profile. “The amendment also provides that 60%, and at Kinross’ sole discretion up to 100%, of the second and final instalment of $141.5m, due on the first anniversary of closing, may be paid in Kinross shares.” The deal enables Kinross to strengthen its 25-years of operational and development expertise in Russia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
