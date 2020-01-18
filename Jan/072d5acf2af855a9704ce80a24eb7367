@@ -1,0 +1,15 @@
+Australian mining company Indiana Resources has become the second company in a week to declare a dispute with the Tanzanian government over repossessed retention licences. Indiana Resources released a statement threatening legal action against Tanzania for alleged breach of contract. In December 2019, the Mining Commission of Tanzania announced a public invitation to tender for the joint development of areas previously covered by retention licences. Initially, the tender was conditional on the successful bidder compensating the previous licence holder for its exploration costs. This requirement was later removed. Indiana Resources said: “It is now clear that Tanzania has removed the ownership of the project from investors, and in doing so has breached its obligations to the investors under the BIT [bilateral investment treaty] and international law.” Earlier this week, Winshear Gold announced it they had filed a dispute with the Attorney General of Tanzania for a number of acts and omissions by the Tanzanian government relating to its SMP Gold project that Winshear alleges are in breach of international law. “The abolition of the SMP Retention Licences and the removal of the rights to the land conferred thereunder has rendered the project valueless,” Winshear Gold said in a statement. “Thus, as a direct consequence of the legislative, regulatory and other measures by Tanzania, the company has lost completely its investment.” Both companies said they have retained international arbitration counsel and will pursue any means available to protect their investments in Tanzanian mining projects. Indiana Resources chair Bronwyn Barnes said: “Indiana and its partners have at all times operated to the letter of the law and complied with all government reporting and regulations. “I am very disappointed that the Tanzanian Government has unilaterally revoked our retention licence and subsequently advertised the project on its website as available to potential new investors without consultation. “Shareholders should also be aware that such actions by the Tanzanian Government are not limited to Indiana with a total of ten licences related to other resource projects involving foreign investors having also been revoked.” According to Barnes, Indiana Resources has so far invested more than AUD$60m (USD $41.3m) into its Ntaka Hill nickel project in southern Tanzania. A representative for Tanzania’s Mining Commission could not be reached for comment.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
