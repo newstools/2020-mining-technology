@@ -1,0 +1,15 @@
+The UK Prime Minister Boris Johnson has announced plans to stop foreign aid for coal mines and coal-fired power. Johnson made the announcement while speaking at a UK-Africa summit in London this morning. He said there would be ‘no point’ in the UK reducing its coal use “if we then trundle over to Africa and line our pockets by encouraging African states to use more of it”. “So from today, the British government will no longer provide any new direct official development assistance, investment, export credit or trade promotion for thermal coal mining or coal power plants overseas,” Johnson said. “Instead, we’re going to focus on supporting the transition to lower- and zero-carbon alternatives.” He went on to say this would mean greater focus on oil and gas extraction “in the cleanest, greenest way possible”. There would also be a shift toward encouraging renewable power. He told representatives of 21 African nations that the UK should be their “partner of choice” “I want to intensify and expand that trade in ways that go far beyond what we sell you and you sell us. “A decade ago we were one of the most carbon-heavy nations in Europe. Today we are a world leader in offshore wind. “We regularly generate more of our electricity from renewables than from fossil fuels, regularly, and we have almost entirely weaned ourselves off coal.” The UK Government’s overseas investment is handled by UK Export Finance (UKEF). According to a joint investigation by Private Eye magazine and Greenpeace’s Unearthed, UKEF provided over £1.1bn of financial support to fossil fuel projects in 2016, including coal mining in Russia. This news came after India announced plans to stop all substituable import of coal over the next four years.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
