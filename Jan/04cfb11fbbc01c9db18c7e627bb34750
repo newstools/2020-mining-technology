@@ -1,0 +1,15 @@
+Anglo American has made an offer to purchase Sirius Minerals, which values the entire issued and to be issued share capital of the latter at £404.9m ($526.5m). Anglo American noted that Sirius Minerals shareholders will now be required to vote on the proposed transaction at a general meeting. The company noted that Sirius Minerals’ North Yorkshire polyhalite project, which has the potential to become a low-cost and long-life asset, will be a complementary addition to its portfolio upon the completion of the deal. The deep shaft mine is planned to be developed in two phases. Commenting on the acquisition, Anglo American chief executive Mark Cutifani said: “The addition of the project supports our ongoing transition towards supplying those essential metals and minerals that will meet the world’s evolving needs – in terms of the undoubted need for cleaner energy and transport, and providing infrastructure and food for the world’s fast-growing and urbanising population. “Our development of the project in the years ahead reinforces the quality of our portfolio and our long-term growth profile, further enhancing our ability to deliver leading returns on a sustainable basis and enduring value for all stakeholders.” Anglo American recently advanced talks with Sirius Minerals to develop the polyhalite mine. In September 2019, Sirius Minerals was reportedly forced to cancel a $500m bond issue after the UK Government refused to support its potash mine in the North Yorkshire Moors. In the same month, the company announced that it was undertaking a strategic review to assess the development plan for the North Yorkshire polyhalite project. Last November, the company stated that was looking to secure $600m in funding for the first stage of the project and also unveiled development and optimisation plans for the two-stage development of the project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
