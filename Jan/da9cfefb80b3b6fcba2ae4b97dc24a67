@@ -1,0 +1,15 @@
+Indian Coal and Mines Minister Pralhad Joshi has announced that the government’s plans to stop the substitutable import of coal within the next three to four years. Joshi said that the government may conduct an auction of 100 fully explored blocks. The government recently introduced an ordinance to amend regulations to open up coal mining to other firms outside of the steel and power sectors, reported PTI. The news agency quoted Joshi as saying in an interview: “Whatever the substitutable shortfall is there, we want to achieve it in the coming three-four years. That may be around 2023-2024. We want to stop the substitutable import of the coal. “I can say today as on date around 100 new greenfield blocks fully explored coal blocks are with us. Fully explored blocks 100 greenfield blocks are with us now.” The latest move in the coal sector is expected to create an efficient energy market, thereby bringing more competition, while reducing coal imports. The move will, however, end state-owned coal mining firm Coal India’s monopoly in the country’s mining sector. The minister added: “We want that Coal India should do its job, do its job well…remaining whatever is the gap of 400-500 million tonnes that will be taken care of by private people.” More than 80% of domestic coal output in the country is produced by Coal India. Recently, the Environment Ministry of India gave its clearance to ten coal mining projects with an annual capacity of 160Mtpa. Four washeries, which can handle 31Mtpa, also received clearance. The government also amended mining laws to fast-track mining at lapsed mining leases. This new legislation will enhance the exploration and auction of precious minerals such as gold and diamond.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
