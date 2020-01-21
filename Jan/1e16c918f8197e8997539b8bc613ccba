@@ -1,0 +1,15 @@
+Australian company Western Areas has secured new contracts to supply high-grade concentrate from its Forrestania operations to BHP unit Nickel West and China’s nickel matte and cathode producer Jinchuan. The Forrestania Nickel project is located 400km east of Perth in Western Australia. Western Areas opened the plant in March 2009. The new contract with BHP’s Nickel West, which is valid for three years from February, involves the supply of 10,000tpa of nickel concentrate. Meanwhile, Western Areas will supply 10,000tpa of nickel concentrate under the contract with Jinchuan. This contract is valid for two years with a one-year extension option. Western Areas managing director Dan Lougher said: “The company is very pleased with the execution of the new agreements that extend our long and mutually beneficial relationship with Nickel West and reintroduces Jinchuan as an offtake customer following completion of the Tsingshan contract as at 31 January 2020. “It is notable that both of our offtake customers are involved in the downstream operation of nickel smelters. Western Areas firmly believes that the smelting of concentrates is a key process to continue to feed both the emerging electric vehicle (EV) battery market, via nickel sulphate, and the traditional stainless-steel market.” After the execution of the new agreements with Nickel West and Jinchuan, Western Areas’ existing contract with Tsingshan will be ended by the end of this month. Flying Fox is the first mine to be developed at the Forrestania project, which contains some of the highest grade nickel in the world. Last month, Western Areas resumed normal operations at Forrestania project, following a bush fire incident in Australia that likely took place due to a lightning strike.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
