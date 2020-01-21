@@ -1,0 +1,15 @@
+South Africa’s Association of Mineworkers and Construction Union (AMCU) has reported the deaths of three on-duty mineworkers in the Free State and North West. According to the union, two deaths were reported at Harmony Gold’s Free State operations and another worker died at Sibanye-Stillwater’s Bambanani shaft in the North West. The first incident took place on 11 January, when a locomotive driver who was on night shift died due to a mud-rush incident. AMCU board member Gabriel Nkosi told media sources: “Reportedly, the worker went to inspect the box chute, which conveys ore into locomotive carriers and, for some reason yet unknown, the box opened and overwhelmed him with collected ore.” A few days later, another mineworker had been absent from the end of a night shift and was later found dead underground at the Phakisa mining operation near Odendaalsrus in the Free State. Commenting on the second incident, Nkosi told sowetanlive.co.za: “On Tuesday 13 January, a mineworker was found dead underground at Phakisa mine, after he was absent from the end of the night shift. We await the conclusion of the investigation.” AMCU noted that a rock drill operator working at Sibanye-Stillwater’s Bambanani Shaft at Kroondal operations in Rustenburg died following fall of ground. Investigations are still underway at Bambanani Shaft, said Nkosi. Nkosi added that these incidents are a tragic start to this year. In February 2018, all 955 underground workers were rescued from Sibanye Gold’s Beatrix gold mine in South Africa’s Free State province after becoming trapped due to a power failure.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
