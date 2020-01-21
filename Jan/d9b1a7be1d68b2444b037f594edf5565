@@ -1,0 +1,15 @@
+Canadian exploration and development firm Caledonia Mining has completed the purchase of Fremiro Investments’ 15% shareholding in the Blanket gold mine in Zimbabwe. In November 2018, Caledonia Mining initially signed a binding agreement to purchase a 15% stake in the gold mine, which came after the two parties signed a memorandum of understanding (MoU) for the acquisition of the stake for $16.66m in August. The company reached the initial deal to increase its stake after the Zimbabwe government amended the Zimbabwean Indigenisation and Economic Empowerment Act in March 2018. With the completion of the deal, Caledonia Mining will now have a 64% interest in the Blanket Mine while Fremiro will own 6.3% of Caledonia’s issued share capital. Caledonia issued 727,266 of its new shares at an issue price of $7.15 a share. Caledonia Mining CEO Steve Curtis said: “I am pleased to report that the company has concluded its transaction with Fremiro to increase Caledonia’s shareholding in Blanket to 64%. “I would like to thank Fremiro for its support as a shareholder in Blanket during the last seven years and am confident that Fremiro, now as a significant shareholder in the company, will continue to be supportive of Caledonia’s business going forward.” In October 2019, Caledonia Mining installed and commissioned an oxygen plant at the Blanket gold mine. The company reported a resource upgrade at the mine in September 2018. According to the update, the total measured and indicated gold ounces at the mine rose 13% from 714,000oz in August 2017 to 805,000oz as of July 2018. The Blanket gold mine produced 54,512oz of gold in 2018.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
