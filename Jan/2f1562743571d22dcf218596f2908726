@@ -1,0 +1,22 @@
+Canadian-based mining company Orsu Metals estimates its Russian gold field, the Sergeevskoe Gold Project, contains over 30 million tonnes of gold ore, graded at 1.45 g/t gold. It believes a cut-off grade of 0.5 g/t will give the company 1.4 million oz. of gold, or 39,689 kg. Across the 200 ha site, it estimates 179 segments of sheeted quartz/tourmaline/sulphide veins and said veins have been found on new areas of the site. Orsu director of exploration Alexander Yakubchuk said: “As a result of the 2019 exploration programme, Orsu was able not only to double the mineralized footprint to 2×1 km at Sergeevskoe, the company also succeeded in increasing by 19.3% its previously announced maiden mineral resource. “We have no doubt that it is possible to further grow this resource as, due to the size of the limited drilling programme, obvious gaps were left along the strike of mineral wireframes. In addition, the system remains widely open to the west and north.” Orsu expects a 1,000 x 100m “high-grade zone” to yield more than 2g/t. It said the potential of the field “remains unconstrained”, with more ore available to the north and northwest. It said unassessed reserves below current ones and along unassessed faults could yield more finds. The estimate, independently made by Wardell Armstrong International, will be confirmed in a technical report filed in the next 45 days. Estimators dug 96 drillholes and 62 trenches to assess the field, and have “good” confidence in the result. Orsu sold its 94.75% stake in the Kazakhstani Karchiga project in 2016 to focus on the Sergeevskoe reserve.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
