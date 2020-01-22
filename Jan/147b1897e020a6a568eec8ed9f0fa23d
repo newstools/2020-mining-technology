@@ -1,0 +1,22 @@
+Pembridge Resources and its subsidiaries have announced its decision to appoint a third-party operator for its recently acquired Minto mine in Canada’s Yukon territory. In June 2019, Pembridge purchased 100% of Minto Explorations from Capstone Mining through the signing of a definitive share purchase agreement (SPA). Minto is an open pit and underground copper-gold-silver mine in central Yukon. It is approximately 240km north of the capital city Whitehorse, along the Klondike Highway. The company restarted production at the mine in October last year. Pembridge noted that the appointment of a third party to run the mine would allow it to channel efforts towards complementary activities and bring in new investment opportunities. Minto Board chairman and CEO Gati Al-Jebouri said: “Pembridge has worked hard to get the mine into production since it was acquired in June 2019. “It has become apparent that there are a number of inefficiencies associated with the time zone difference between the UK and Yukon. Therefore, installing an operator for day-to-day support to Minto management not only aims to improve the efficiencies of operating Minto but reduces the management costs attributable to Pembridge. “This step completes phase one of our development strategy and allows Pembridge to concentrate on its next phase of growth.” Meanwhile, in another statement, Pembridge noted that 14,000m of diamond drilling has commenced at the Minto mine. As part of the programme, a total of 53 holes will be drilled, targeting the identified deposits of Copper Keel West, Copper Keel North, Copper Keel South and Minto East II. The drilling is aimed at expanding the boundaries of these deposits and move additional resources to reserves while expanding existing reserves.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
