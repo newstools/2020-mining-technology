@@ -1,0 +1,22 @@
+CIMIC Group subsidiary UGL has secured contracts to provide services for maintenance, shutdowns and sustaining capital projects for its mining clients in Western Australia. CIMIC noted that these contracts are valued at A$180m (approximately $123.4m). Under the new contracts, which will be executed over a three-year period, UGL will provide mechanical, electrical, instrumentation and other access services. UGL is set to deliver these services for Alcoa at the Wagerup and Pinjarra sites in Western Australia’s Peel region. The company will also deliver maintenance, shutdown and project services for multiple clients within the Bowen Basin of Queensland. CIMIC Group CEO Michael Wright said: “These contract awards demonstrate UGL’s position as a market leader in the Australian mining industry for the delivery of maintenance and mechanical, electrical and instrumentation access services.” Wagerup is an alumina refinery with an annual nameplate production capacity of 2.56 million metric tonnes. It is located approximately 150km south of Perth. Pinjarra, which is also an alumina refinery, has an annual nameplate production capacity of 4.2 million metric tonnes and is located within the Shire of Murray in the Peel region south of Perth. UGL managing director Jason Spears said: “We are excited to be leveraging our 30 years of experience in the mining industry to support key organisations in the resources sector. “Our strong working partnerships with leading mining organisations support UGL’s reputation for solid performance and safe delivery of maintenance and shutdown services.” Last month, Rio Tinto selected CIMIC Group company CPB Contractors to deliver three separate packages of work at the Robe Valley project in Western Australia for $150m ($103m).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});  For decades, the robust measurement technology from VEGA has proven itself in all areas of metal production.  Enter your details here to receive your free whitepaper.
