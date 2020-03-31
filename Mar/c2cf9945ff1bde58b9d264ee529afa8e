@@ -1,0 +1,22 @@
+Diversified miner Vedanta Resources’ unit Vedanta Zinc International (VZI) has announced plans to suspend operations at its Skorpion Zinc (SZ) mine and refinery in Namibia by the end of next month. According to VZI, the scale down of operations will occur progressively during next month, overlapping with the nation-wide lockdown to contain the spread of the Covid-19 pandemic. Vedanta said that the decision to place the mine on care and maintenance was taken because of pit failures that had paralysed a significant portion of the open-cast mine. Other inefficiencies such as labour disruptions have resulted in irregular halts and delays which in turn extended the project timeline, thereby, eventually eroding the project value. The failures, the latest of which occurred in January this year, resulted in an ore gap in excess of ten months, said VZI, adding that further technical studies had indicated that similar failures exist at depth. More than 1,500 employees in the southern African country will be affected by the suspension of the mine and refinery operations. In a press statement, VZI said: “The decision has been taken to cease all mining operations while studies continue to look at feasible ways to make the pit safe for mining options which would allow for the extraction of the remainder of the accessible ore.”   How concerned are you about spread of Coronavirus?  View Results In March last year, Vedanta Zinc International opened the $400m first phase of the Gamsberg mine, outside Aggeneys in the Northern Cape Province of South Africa. Last January, Vedanta Resources planned to invest up to Rs600bn ($8.42bn) in its Indian operations over the next three years, alongside a $1.2bn investment in its South African projects.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
