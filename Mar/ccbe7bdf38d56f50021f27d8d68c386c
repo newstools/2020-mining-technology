@@ -1,0 +1,15 @@
+The coronavirus (Covid-19) pandemic may increase the burden for the already struggling coal miners in the US, as three companies announce suspension of operations in the country to contain the spread of the virus. Australia’s Coronado Global Resources has suspended its US thermal and metallurgical coal mines due to global economic downturn induced by coronavirus. Coronado Global Resources managing director and CEO Gerald Spindler said: “Given the challenging and unprecedented macro environment, these are prudent measures designed to ensure that Coronado remains in a solid financial position. “We will continue to deliver on our commitments to our global customers and actively monitor the situation to respond in the best interests of our employees and shareholders.” Coal operating company Consol Energy also said that it would curtail production at its Bailey mine in Pennsylvania for two weeks, after two employees have been tested positive for the virus. The miner noted that its Enlow Fork and Harvey mines in the Pennsylvania Complex will remain in operation. Furthermore, Alliance Resource Partners (ARLP) announced plans to temporarily stop the production of coal at its Illinois basin mines as global measures to contain the spread of the virus.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results ARLP chairman, president and CEO Joseph Craft said: “Although we are suspending formal guidance, we currently anticipate ARLP’s total sales tons for 2020 will be approximately 25% below our initial expectations. “At the same time, assuming we can successfully fulfill our coal sales commitments this year, the improvements to ARLP’s cash flow resulting from the steps outlined above are expected to substantially offset lower revenues, allowing us to maintain ample liquidity and protect our strong balance sheet.” At present, there are 161,807 confirmed Covid-19 cases in the US, and a total of 2,978 deaths.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
