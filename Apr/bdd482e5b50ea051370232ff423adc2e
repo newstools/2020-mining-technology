@@ -1,0 +1,22 @@
+Donations from mining sector interests in the US overwhelmingly fund Republican candidates and interests. From the 2012 election cycle onwards, at least 90% of the mining industry’s political donations have gone to the GOP. In the 2016 cycle, not a single Democrat broke the top 20 recipients of mining industry funding. The 2016 election saw the mining industry’s second-highest contribution total, at almost $17.5m, trailing behind 2012’s total of $23m. President Trump’s 2016 candidacy took less than $361,000 from mining interests, compared with almost $1.5m taken by Mitt Romney four years prior. As the election cycle ramps up over the summer, we’ll see whether Trump’s friendliness to the coal industry pays dividends for his re-election war chest. Here, Mining Technology takes a look at the lobbying and funding going into US politics, and the top donors to US election campaigns. Pebble Mine Pebble Mine is the largest known undeveloped copper ore body in the world, and also holds significant deposits of gold and molybdenum. It was estimated that Pebble contains over $300bn worth of recoverable metals in early 2010. The proposed mine at the site in the Bristol Bay region of Alaska is highly controversial, with opponents citing significant disruption to the environment as well as the salmon and fishing industries in the region. According to the Center for Responsive Politics, which tracks political donations and lobbying in politics, lobbying on behalf of the Pebble Limited Partnership forms the most significant lobbyist activity in Washington, DC for the mining sector. Just under $1.6m was spent on lobbying for the Pebble mine in 2019, adding to a total of more than $11m spent since 2007. The mine is unpopular among Alaskans, and groups including the Natural Resource Defense Council oppose its construction. An increase in year-on-year spending to sway DC officials into supporting the mine since 2016 signifies that Pebble’s proponents sense favourable conditions in pushing the project through under the Trump administration.   How concerned are you about spread of Coronavirus?  View Results  Alliance Resource Partners Diversified coal producer and marketer Alliance Resource Partners is the single biggest donor to Republican candidates and conservative interests. In the 2016 cycle, Alliance contributed more than $3.5m, with 100% of its donations to candidates going to the GOP. In the 2012 cycle, Alliance pumped more than $5.6m into conservative interests. Most of Alliance’s political activity is directed to supporting coal-friendly candidates for congress, senate, and the presidency. Its lower spending on the 2016 election indicated a lack of enthusiasm for the Republican nominee that year compared to 2012. Their lobbying activities in recent years have focused largely on regulation in the energy sector, and they have so far donated more than $1.1m into GOP candidates and conservative interests, perhaps indicating a renewed enthusiasm for the party following the Trump administration’s lifting of Obama-era climate policy. Jennmar Corp Jennmar Corp offers ground support products for the coal mining industry, from reinforcement and hydraulics equipment to ventilation systems. So far in the 2020 cycle, it has donated $509,508 to Republican candidates and a further $26,000 to outside spending groups. By comparison, Alliance’s donations to candidates so far come in at just over $10,000 more than Jennmar’s donations. In the whole 2016 cycle, Jennmar donated a total of $694,668 to candidates and outside spending groups, ranking seventh on the list of mining industry donors. If the company continues with donations to GOP campaigns throughout the remainder of the 2020 election cycle, it could sail past that total. It will take a significant push to beat the company’s spending on the 2018 midterm elections, however, when Jennmar put more than $1.3m into candidates, marking the highest mining industry spend on candidates in those midterms. All of that money went toward funding Republican candidates.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
