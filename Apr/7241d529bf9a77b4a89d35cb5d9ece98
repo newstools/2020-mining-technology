@@ -1,0 +1,15 @@
+Harmony Gold has announced that it expects limited gold production during the 21-day lockdown in South Africa in the wake of the fast-spreading coronavirus (Covid-19) pandmeic. With the lockdown measures in place, the company expects to only produce between 650kg and 700kg of gold. The company has temporarily shuttered its nine underground mines in the country to comply with the lockdown measures imposed by the government. Harmony Gold’s Hidden Valley gold mine in Papua New Guinea will remain open, until it receives any directive issued in line with the country’s coronavirus pandemic response. Harmony Gold CEO Peter Steenkamp said: “The health and safety of all of our employees – and in particular those who continue to work on the care and maintenance of our mines, as well as at Hidden Valley – remain our highest priorities. “We continue to ensure compliance with all prescribed and recommended preventive measures – in both South Africa and Papua New Guinea.” The company is, however, keeping the Kalgold mine open for operation in the North West Province, but at a reduced rate. It is also proceeding with operations at surface treatment plants and retreatment facilities.   How optimistic are you about your company’s growth prospects?  View Results Harmony Gold stated: “Cash preservation is key, and as such all exploration and capital projects have been suspended.” According to Reuters, South Africa accounts for nearly 75% of the world’s platinum and 38% of palladium supply. It also produces minerals from gold and manganese to chrome and iron ore. Meanwhile, the country has reported 1,353 Covid-19 infected cases as of the time of writing, with a total of five deaths across the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
