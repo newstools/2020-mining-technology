@@ -1,0 +1,15 @@
+Exploration and development company TNG has said that the Covid-19 pandemic is likely to impact the timing of its Mount Peake project in the Northern Territory of Australia. TNG noted that the Mount Peake vanadium-titanium-iron mine was at an advanced stage of pre-development planning, with the front-end engineering design (FEED) study progressing simultaneously with design and tendering for the supporting infrastructure. With measures now being taken to contain the spread of Covid-19, the company noted that a range of other supporting FEED workstreams have been impacted due to temporary shutdowns, and said they would be deferred for the meantime. In a press statement, TBG said: “The company’s primary aim is to ensure the safety of its employees, directors, consultants, contractors, advisors and the broader community in which it operates, and TNG has implemented a range of measures to comply with its own internal policies and those of the Federal, State and Territory governments. “These include the commencement of working from home arrangements, suspension of face-to-face business meetings and suspension of all business travel in Australia and internationally. “All field-based activity in, and travel to, the Northern Territory has been suspended until circumstances permit in compliance with government travel restrictions. The Company is operating using a range of sophisticated software to enable work to be progressed as efficiently as possible.” Currently, there are 4,557 confirmed Covid-19 cases in Australia, with 19 deaths across the country.   How optimistic are you about your company’s growth prospects?  View Results In November 2018, TNG awarded a contract to German metallurgical engineering firm SMS group to begin the FEED process for the Mount Peake project. In March 2017, TNG signed a project facilitation agreement (PFA) with the government of Australia’s Northern Territory for the proposed location of TIVAN Metals Refinery near Darwin, which was developed as part of the Mount Peake Project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
