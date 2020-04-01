@@ -1,0 +1,15 @@
+Australian rare earths miner Lynas has announced that it will follow the Malaysian government’s order to extend lockdown restrictions by two weeks to 14 April, to contain the spread of the coronavirus (Covid-19) outbreak. Lynas has halted operations at its Malaysian plant recently following the government’s restrictions on movement in the country. The Malaysian processing plant has been closed since March 23, days after the country first announced an initial two-week restriction on movement until 31 March. Lynas said that its flagship Mt Weld mine in Australia would continue to operate with essential working personnel. In a  press statement, Lynas said: “At all times during the period the Lynas Malaysia plant is in care and maintenance and after the Lynas Malaysia plant resumes production, our number one priority will continue to be the health and safety of our people and our local communities. “We will continue to follow all guidelines of the Malaysian government, including the Ministry of Health, and we are proud of our long track record of safe and compliant operations.” In January this year, Lynas reached a deal with the Malaysian state of Pahang to build a waste treatment plant.   How concerned are you about spread of Coronavirus?  View Results Last June, the company was reportedly allowed to continue operating a rare earths processing plant in Malaysia. Meanwhile, Malaysia has so far confirmed 2, 908 cases of Covid-19, with 45 deaths. Nearly 645 people in the country have already recovered from the disease. Besides extending movement control measures, the Malaysian government has also unveiled ‘economic stimulus package’ to support businesses and reduce the economic burden on people affected by the coronavirus pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
