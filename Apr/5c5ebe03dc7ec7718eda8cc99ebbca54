@@ -1,0 +1,22 @@
+Gold and silver producing firm Polymetal International has signed a refractory gold concentrate offtake agreement and formed a strategic alliance with Australian gold miner Blackham Resources (BLK). The two firms signed the agreement covering either 70% of refractory sulphide gold concentrate from BLK’s Wiluna Stage 1 expansion project or 122,500t of concentrate of gold – whichever is greater – during its first three years of operation. Meanwhile, the long-term strategic agreement will see Polymetal obtain exclusive offtake rights for up to 100% of concentrate from the expanded Wiluna Stage 2. Under the alliance, the companies will also share their technical and market information aimed at expanding Wiluna and seek other regional gold concentrate opportunities with refractory ores. BLK owns 100% of the Wiluna gold operation located in Western Australia. The project is in close proximity to the town of Wiluna and is around 750km northeast of Perth. Polymetal Group CEO Vitaly Nesis said: “Using POX technology to process refractory gold concentrates results in the smallest environmental footprint.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results “Our collaboration with BLK addresses a crucial challenge of the global gold mining industry and leverages Polymetal’s core technical capabilities.” In February last year, Polymetal International said it was all set to start construction of the POX-2 project in Russia, following the completion of a feasibility study. In December 2018, the company signed an agreement to divest its 100% interest in Khakanja gold-silver operations located in Russia to local buyers due to declining production and high all-in sustaining cash costs (AISC).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
