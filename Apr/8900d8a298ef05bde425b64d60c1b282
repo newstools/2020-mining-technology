@@ -1,0 +1,22 @@
+Argonaut Gold has announced plans to temporarily suspend mining activities in Mexico to comply with the government-mandated suspension of all non-essential businesses until April 30. The company’s latest declaration comes after Mexico’s confirmed Covid-19 cases surpassed 1,000, with the death toll standing at 37. Argonaut Gold has confirmed that it is suspending mining, crushing and stacking activities in Mexico, but noted that it would continue operating heap leach mines. The company also expects to proceed with metal production and metal sales during the suspension. In Mexico, miners are required to continue only those operations that are considered to be essential during the public health crisis caused by the coronavirus pandemic. Argonaut Gold president and CEO Pete Dougherty said: “It is important to recognise the seriousness of the Covid-19 pandemic and while we have not experienced a known or suspected case in the company to date, we have been and will continue to take precautionary measures. “The health and safety of our workforce, their families and the communities in which we operate is paramount and we continue to be dedicated to maintaining a safe work environment.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results “We must continue to process pregnant solution coming from the heap leach pads for the safety of the environment.  Therefore, we expect to continue metal production and sales.” Argonaut also said it is withdrawing its full-year guidance across all operations. In 2019, the company’s El Castillo Complex and La Colorada mines in Mexico produced over 131,277 gold equivalent ounces (GEOs) and 55,338 GEOs, respectively. Last January, Argonaut Gold received federal government approval of assessment for its wholly owned Magino Project in Ontario, Canada.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
