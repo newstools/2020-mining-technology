@@ -1,0 +1,15 @@
+India’s government-owned coal mining firm Singareni Collieries Company (SCCL) has declared temporary layoffs of underground miners until India’s national lockdown, set in response to the Covid-19 pandemic, is lifted. The company has suspended all its operations in 22 underground mines. The company said it is part of a precautionary measure to curtail the spread of the Covid-19 virus and is in accordance with the lockdown restrictions imposed by the Government of India amid the outbreak. However, SCCL satted that the mechanised sections in the ALP, VK-7 Inc, Shanthikhani, GOK-11A and Kondapur mines will remain in operation until further notice. About 20,000 underground coal miners and 9,000 department employees will be away from their normal duties as social distancing cannot be maintained in their daily activities. Open cast mines and projects will continue to operate until further orders from the government as some social distancing measures can be effective at the sites. The Financial Express quoted SCCL as saying: “The layoff may not result much in irregular coal supplies to thermal power stations as the total production from the laid off mines contribute around 10% of total company production only.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Meanwhile, the number of Covid-19 cases have crossed 2,000 in India, while the death toll has reached more than 60. In January this year, the Environment Ministry of India gave its clearance to ten coal mining projects with an annual capacity of 160Mtpa. Four washeries, which can handle 31Mtpa, also received clearance.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
