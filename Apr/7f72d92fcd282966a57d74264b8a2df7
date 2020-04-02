@@ -1,0 +1,15 @@
+OceanaGold has announced that its Haile gold mine in South Carolina, US continues to operate despite the state government’s announcement to shut down all non-essential businesses for a period of 14 days. The shutdown in the state is effective until 14 April. According to OceanaGold, the status of the Haile gold mine remained unchanged and operations were not impacted by the government’s directive. The Haile gold mine is an open-pit operation located along the eastern US coast. The company confirmed that no employee or contractor from the Haile operation had yet tested positive for the Covid-19 virus. For the past three weeks, the Haile operation has only permitted entry to essential working personnel, while the administrative staff have been working at home where possible. OceanaGold acting president and CEO Michael Holmes said: “We will continue monitoring the health and safety situation across the business and will move swiftly to continue protecting the health and wellbeing of our workers and supporting them through these challenging times. We remain engaged with public health authorities in all jurisdictions.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Meanwhile, South Carolina health officials announced 210 new cases, with total cases now rising to 1,293 across the state. Currently, the death toll stands at 26. Last April, OceanaGold signed an earn-in agreement regarding American Pacific Mining (APM)’s Tuscarora Gold Project in Nevada, US. In February 2019, OceanaGold obtained resource permits to commence operations at its Martha underground project in Waihi, New Zealand.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
