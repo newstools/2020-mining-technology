@@ -1,0 +1,22 @@
+Brazil’s National Mining Agency (ANM) has ordered Vale to shutter operations of at least 25 mining dams, part of a total 47 dams which the regulator has ordered to close. According to Reuters, ANM has ordered operations to halt at these dams as they lack certification of their stability. At least 54 Brazilian dams failed to certify their stability in October last year. Many of them remain on the list, with new dams operated by Vale or its affiliates added to it. The safety of Vale’s facilities has been under huge inspection after one of its dams collapsed last year, causing a mudslide to hit the town of Brumadinho. This incident claimed the lives of about 270 people. It was the second Vale dam to collapse after a similar incident at Samarco in Minas Gerais in 2015. The Samarco incident killed 19 people, unleashing a mixture of mud and tailings into the state’s rivers and waterways. Vale acknowledged that it failed to register the declaration of stability for the Santana dam in the city of Itabira in Minas Gerais state. This dam was put on a level 1 emergency alert level in October last year. Last month, Vale partnered with NORCAT to develop and deploy a ‘blended learning programme’ for the training and education of workers in the global mining industry. The training will use virtual reality (VR) as well as augmented reality (AR) software.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results In March last year, the company announced that it raised the warning level of three more of its dams, following an audit by independent investigators, which found that they would not be considered safe under Brazil’s new mining laws.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
