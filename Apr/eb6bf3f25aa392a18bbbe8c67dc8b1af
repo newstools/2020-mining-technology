@@ -1,0 +1,22 @@
+US digital solutions provider Wabtec is set to supply 28,360 tonne integrated electric drive systems to China’s mining truck manufacturer Inner Mongolia North Hauler Joint Stock (NHL) for a new order in Australia. The supply of these systems will support NHL’s 360t mining truck contract with Australian coal producer Yancoal. With Wabtec’s integrated electric drive systems, the 1.4-million-pound mining trucks will be able to carry a payload of about 400t. Wabtec Mining Equipment general manager Bappa Banerjee said: “We are proud to partner with NHL and support their growth. “These integrated electric drive systems will improve the performance of their mining trucks by reducing fuel costs and increasing reliability, giving their customers a distinct sustainable cost advantage over the service lifetime of their trucks.” The electric drive systems will help Yancoal’s mining trucks achieve increased productivity and speed, thereby, reducing fuel costs as well as equipment wear. Wabtec noted that the drive systems are expected to be delivered over the next three years. Initial three units will be shipped to Australia this year.   How optimistic are you about your company’s growth prospects?  View Results Banerjee added: “Our electric drive systems help mines get mineral and energy resources out to the market safer, quicker and cheaper, in a sustainable way.” Last July, Wabtec collaborated with Hifi Engineering in an effort to bring advanced sensing and monitoring solutions to mine operators. In June last year, Wabtec  and GE Digital partnered to continue commercialisation of value-added applications such as Predix operations performance management (OPM) and Predix asset performance management (APM) solutions to advance digital evolution in the mining industry.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
