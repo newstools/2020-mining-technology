@@ -1,0 +1,22 @@
+Destructive, polluting and generally aesthetically unappealing, many depleted mines have simply been abandoned and left to gather dust; but there are alternatives. Here, Mining Technology looks at some innovative ways some former mining sites are being repurposed. Scottish energy storage start-up Gravitricity is developing a novel storage technology based on raising and lowering a heavy weight to store and release energy. The system suspends weights in a deep shaft using cables, and electrical power is generated or absorbed by dropping or raising the weight. The system essentially requires big vertical holes to operate in, and the company has taken a particular liking to South Africa, which has numerous high-quality, disused mine shafts – some being as deep as 3km. Gravitricity is also in discussion with mine owners in the UK, Finland, Poland and the Czech Republic to take over abandoned mine shafts for the technology. The company recently received £300,000 from Innovate UK’s energy catalyst programme to explore South Africa’s suitability for the system. There is potential that the technology could contribute to a solution to South Africa’s energy crisis – the country currently has an insufficient grid capacity to meet demand. It is estimated that a full-scale project could drop 24 weights totalling 12,000 tonnes to a depth of 800 metres to produce enough electricity to power 63,000 homes for over one hour. South Africa’s deeper mine shafts could see higher power outputs. Mushroom grower and marketer Herman Knaust purchased an old iron ore mine in New York in 1936, using the space to grow his product. By 1950, Knaust was looking for alternative uses for his mine after the mushroom market began to dry up. Spotting a business opportunity at the onset of the Cold War, Iron Mountain was founded offering underground “vaults” to protect corporate information from a nuclear attack or natural disasters. Iron Mountain has since moved into the data centre sector, with its flagship facility being a 1.7 million square foot former limestone mine in Pennsylvania that the company operates as an energy-efficient underground data centre. More than 200 feet underground, the facility maintains a cool temperature and the limestone walls absorb heat, eliminating the need for power-consuming cooling systems used in other data centres.   How optimistic are you about your company’s growth prospects?  View Results The converted mine is protected by armed guards, and stores corporate data as well as Universal Music Group’s master recordings and the original reels for Hollywood movies. The facility is believed to be one of the most secure locations in the world. An abandoned gold mine in Queensland, Australia is the site of a large renewable energy project under construction by Genex Power. Consisting of an underground tunnel and a reversible turbine system, the project will make use of two existing mining pits that will form an upper and a lower reservoir for a 250MW hydropower operation. The Kidston Pumped Storage Hydro Project (K2H) will be co-located with a 270MW solar project, K2S. Electricity generated from K2S will pump water from K2H’s lower to the upper reservoir. During peak periods, water will be released from the upper to lower reservoir to generate electricity, before being pumped back to the upper reservoir. This process will be repeated each day, with a storage capacity of 2,000MWh. The project has received funding from the Queensland government and received an AUD610m ($369m) loan from the Northern Australia Infrastructure Facility. Repurposing the mine has revitalised the area following the mine’s closure in 2001, enthusing the government with the project’s potential for job creation.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
