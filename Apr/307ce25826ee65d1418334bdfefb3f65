@@ -1,0 +1,22 @@
+Cyprus-based mining company Atalaya Mining has announced that operations at its Proyecto Riotinto copper mine in southwest Spain have been allowed to recommence amid the coronavirus Covid-19 pandemic. On 30 March, the company announced it would cease operations at Proyecto Riotinto in response to the Spanish government’s Royal Decree which declared mining a non-essential industry in the nation’s battle against the virus. The government’s Royal Decree was implemented to tighten national protective measures against Covid-19. The measures suspended non-essential business operations to suppress the spread of the virus. The Andalucía regional government’s mining department issued clarifications to Atalaya Mining on 3 April that the definition of essential industry would be extended to mining as it is a required supplier to other essential industries covered by the Royal Decree. With authorisation, the company was able to resume operations at the Proyecto Riotinto site. Atalaya Mining says that the health and safety measures imposed by the Spanish government continue to be mandatory on site. The mine is operating only with a critical workforce, and non-essential activities have been deferred. The company says it is focusing on the production of concentrates to fulfil national and international commitments to supply essential industries. As of the time of writing, Spain has recorded 135,032 Covid-19 cases, the most of any European country. The country has documented 13,055 deaths from the virus.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
