@@ -1,0 +1,22 @@
+Russian firm Rusal has approved a new long-term aluminium supply contract worth $16.3bn with Glencore. Glencore has been one of the main clients of Rusal, and also owns a stake in Rusal parent En+ Group. Rusal noted that the new contract is for 2020 to 2024, with an option to be extended for another year, until 2025. Under the contract, Rusal will supply up to 6.9 million tonnes (Mt) of the metal to Glencore, including 344,760t in 2020 and approximately 1.6Mt a year from 2021 to 2024. According to Rusal, its board of directors approved the deal in December last year, which replaces a previous contract that expired in late 2018. The contract is yet to seek approval from Rusal shareholders. Reuters quoted Rusal as saying: “This agreement provides the company with significant volumes of primary aluminium sales at market price with a number of quantitative options.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results The news agency noted that Glencore declined to comment on the contract. Last month, Glencore halted operations at a number of its mines in four countries due to government restrictions to contain the spread of the coronavirus pandemic. This February, Glencore predicted a 30% reduction in carbon emissions by 2035 as its coal resources deplete over time, but the company will not set itself climate targets. In May last year, Rusal secured a licence to develop the Goryachegorsk nepheline mine in the Krasnoyarsk region of Russia.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
