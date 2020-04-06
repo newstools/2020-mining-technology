@@ -1,0 +1,15 @@
+Endeavour Silver has suspended three mining operations in Mexico until 30 April as mandated by the government. The move comes after the Mexican Government has declared a national health emergency to limit the spread of the coronavirus (Covid-19) outbreak. The government has ordered the suspension of non-essential businesses, with only essential services remaining open. Endeavour noted that it is retaining only essential workforce at each mine site during the suspension period to maintain safety protocols, environmental monitoring and social distancing. Endeavour CEO Bradford Cooke said: “Suspending our mining operations on a temporary basis is the best way to ensure the health of our workforce during this Covid-19 crisis. “We are also working with the local communities to protect the health of the local people, inform them of the precautions needed to stay healthy, and provide medical supplies, masks, cleaners and disinfectants as needed.” Until now, 1,378 confirmed cases of Covid-19 were reported in Mexico and a total of 37 deaths from Covid-19 so far.   Will a global recession spell bad news for the mining industry?  View Results Meanwhile, Mexico’s Deputy Health Minister Hugo Lopez-Gatell said that there is no plan to seal the borders to curtail the spread of the pandemic. This is raising concerns among the public about the effectiveness of the mechanism for controlling Covid-19. Covid-19 cases have crossed one million globally with the pandemic being responsible for more than 52,000 deaths to date. Last June, Endeavour Silver received the final tailings permit for its Terronera silver-gold mine project in the Mexican state of Jalisco. Precious metals mining company Endeavour Silver owns and operates four high-grade, underground, silver-gold mines in Mexico.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
