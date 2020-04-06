@@ -1,0 +1,15 @@
+The South Australian Government has cut all exploration and licence fees in the minerals sector to soften the impact to the industry during the region’s Covid-19 containment procedures. The fee relief will extend the due date for licences until 31 December this year. According to South Australia Minister for Energy and Mining Dan van Holst Pellekaan, the pandemic has caused a significant impact on mineral exploration amid travel restrictions and social distancing. Pellekaan said: “The Marshall Liberal Government has implemented an immediate deferral of mineral exploration licence fees and annual petroleum and geothermal licence fees due in the next six months. These licence fees will now not be due until 31 December 2020. “In addition, there is a 12-month waiver of committed expenditure for all mineral exploration licence holders as well as an expansion of allowable expenditures towards minimum Petroleum Retention Licence requirements during a period of low oil prices. “These economic measures will provide the mining and petroleum sectors in South Australia with some financial relief and help support the state’s economy to respond to the difficulties posed by the coronavirus containment measures.” The license fee relief also extends to the petroleum sector.   Which commodity do you expect to be most severely impacted by the COVID-19 outbreak?  View Results As of the time of writing, 5,800 confirmed cases of Covid-19 were recorded in Australia. Authorities have reported a total of 40 deaths from the virus so far. Last month, exploration companies in Western Australia (WA) were offered an expenditure exemption from the state government if they are unable to meet the tenement’s requirements in light of the Covid-19 outbreak.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
