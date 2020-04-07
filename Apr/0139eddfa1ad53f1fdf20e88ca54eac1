@@ -1,0 +1,12 @@
+German heavy machinery manufacturer GHH has developed a new 45 tonne (t) payload dump truck that offers maximum drive power, improved turning radius, large dumping angle, and high levels of safety. The dump truck is specially designed for use in underground hardrock mining applications. Fulfilling the latest emission standards as per Stage V, the 460kW Mercedes OM473 forms the basis of the engine of the truck. The German manufacturer also offers Tier 3 and 4 versions for less regulated markets, while providing an alternative Volvo TAD1651 or 1671. The vehicle is equipped with Kessler axles with an oscillating articulation as well as front axle suspension, while the power is transmitted via a converter and gearbox combination from the Dana 8000 series. In a press statement, GHH said: “Special emphasis was placed on a safe and simple design in the best sense of the word: Low maintenance and repair costs are a core discipline of the manufacturer, with operator safety and comfort in mind through the entire design process: “The ROPS/FOPS certified cab is ergonomically designed to be spacious, quiet, pressurised and effectively air-conditioned, to ensure maximum operator comfort while minimising fatigue. And the strategically placed trainer seat provides for effective operator training maximising the outputs and minimising time spent on training.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results GHH noted that the new MK-42 fits seamlessly into the manufacturer’s range of dump trucks and serves as one of the best haulage partners for GHH’s LF-14 loader with three pass loading. The prototype truck is in its final stage of testing and is shortly expected to enter global sales. The company will exclusively market the special version MK-A45 for the Russia market. GHH is a provider of services such as extensive consulting, aftermarket support, parts sales and technical training to customers worldwide. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
