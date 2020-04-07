@@ -1,0 +1,22 @@
+The ongoing coronavirus Covid-19 pandemic has so far wiped $282bn from the value of the top 50 mining companies worldwide, according to new figures published by Mining.com. The figures show a struggling industry overall, despite a resurgent gold price in recent months. The top 50 companies by market value compiled by Mining.com showed a combined market value of almost $1tn in 2019, after adding close to $160bn in market capitalisation over the previous year. In the first quarter of 2020, the top 10 mining companies lost a combined $170bn in market value. Glencore has dropped to ninth place in the ranking following a 50% drop in market value. Two years ago the commodities giant was the third-largest mining company in the world. Polish copper company KGHM dropped out of the top 50 altogether. The biggest drops in market value came from Vedanta, Teck Resources, and Anglo American Platinum. The only company to see double-digit growth was Polyus, Russia’s largest producer of gold. The company rose 10.2% so far this year. The combined market cap for all the top 50 mining companies now sits at just under $704bn. Over 30% of that value comes from the six Australian companies on the list. Canadian and US companies are the other major players, contributing 16.4% and 11.1% respectively to the overall value of the top 50 companies.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
