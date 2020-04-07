@@ -1,0 +1,15 @@
+Rio Tinto has introduced new measures at its Pilbara operations in Western Australia (WA) to combat the coronavirus Covid-19 pandemic. The mining major has introduced these measures to protect its employees and the communities it operates in, while keeping its businesses operating safely. Last week, more than 1,200 Rio Tinto employees at the Yandicoogina and Greater Brockman sites in WA started their new two weeks on, two weeks off rosters. The rosters have been redesigned as part of the new measures to limit the risk of spreading the virus. Furthermore, the company has secured additional charter flights with Qantas and Virgin Australia to and from its Pilbara sites, ensuring that employees maintain social distancing on planes. Rio Tinto also noted that it is enforcing employee screening and temperature checks prior to staff boarding flights, as well as reduced passenger capacity on buses, with every second seat tagged out as unavailable. Rio Tinto iron ore business chief executive Chris Salisbury: “Our number one priority is the health and safety of our people and our communities. We will continue to strengthen measures throughout our operations and at airports to ensure we are doing everything we can to put the health and safety of people first.   In the current COVID-19 crisis, what the level of impact do you expect on mining capital expenditure?  View Results “These measures mean we can keep our operations running, to ensure we continue delivering products to our customers and making a strong contribution to the Western Australian and Australian economies at a very challenging time.” Last month, Rio Tinto announced that its operations at the mineral sands mine in South Africa will be halted and activity in Quebec, Canada, will slow down due to government directives in both countries to contain the spread of the virus. In the same month, the company temporarily halted operations at its Kennecott copper mine in Utah, US, due to a magnitude 5.7 earthquake close to the town of Magna.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
