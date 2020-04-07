@@ -1,0 +1,15 @@
+Three employees at Freeport-McMoRan’s Chino copper mine in New Mexico have tested positive for coronavirus (Covid-19), according to state’s lieutenant governor Howie Morales. It was not immediately clear if operations at the mine have been affected, reported Reuters. The Chino copper mine is located near New Mexico’s southwest border with Arizona. In 2019, the mine produced about 175 million pounds of copper. The employees at the mine’s truck shop tested positive last week. Morales told Reuters that the workstations of these employees have been disinfected and the employees were sent home. Morales was quoted by Reuters as saying: “I’m very concerned for the health and safety of the miners.” New Mexico Governor Michelle Lujan Grisham considered mining an essential industry for the state’s economy when she issued a statewide quarantine order for non-essential services last month.   In the current COVID-19 crisis, what the level of impact do you expect on mining capital expenditure?  View Results Morales added: “I have encouraged Freeport and every employer in the state that they must take any complaint [of Covid-19 symptoms] seriously.” Meanwhile, global deaths from Covid-19 virus have crossed 69,844, while the confirmed cases stand at 1,279,336. About 272,671 are reported to have recovered from the virus. Currently, the global recovery rate stands at 21.04%. Last month, Freeport-McMoRan explored options to keep its Cerro Verde operation in Peru open with a reduced workforce, following the government’s declaration of a state of emergency in Peru. In the same month, the company put its Cerro Verde mine in Peru on care and maintenance for 15 days in response to measures taken by the Government of Peru to contain the coronavirus pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
