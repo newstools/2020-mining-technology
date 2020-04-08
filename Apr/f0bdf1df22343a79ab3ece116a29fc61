@@ -1,0 +1,12 @@
+Mining and commodities trader Glencore has declared force majeure at its Mopani Copper Mines (MCM) subsidiary in Zambia. The company plans to suspend operations in the country for three months citing the effects of the Covid-19 pandemic, said Zambia mines minister Richard Musukwa. Musukwa said he would not let the company proceed with the plan as it had not complied with the law, reported ZNBC News. Musukwa noted that the Zambian Government has also rejected an attempt by MCM to give it less than 24 hours’ notice to lay off more than 11,000 workers. He added: “The Ministry is not aware of any event that has happened that is beyond the reasonable control of MCM and which makes mining impossible.” Last month, MCM said it is reviewing its business in a bid to reduce capital spending due to lowered copper prices and unprecedented impact caused by the coronavirus pandemic. Reuters quoted MCM as saying: “In addition to the impacts of a rapid decline in the copper price, Mopani’s situation has been further impacted by the critical disruptions to international mobility, transportation and supply chains arising from Covid-19.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Mopani Copper Mines is 73.1% owned by Glencore, 16.9% by First Quantum Minerals and the remaining 10% by Zambia’s mining investment arm ZCCM-IH. In 2018, MCM produced 119,000 tonnes of copper. In August last year, Mopani Copper Mines reportedly shut down two shafts at its Nkana mine in Zambia. Last April, MCM announced resumption of operations at two of its projects following an investigation into the deaths of five workers earlier last year.  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
