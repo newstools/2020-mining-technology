@@ -1,0 +1,12 @@
+US-based precious metals miner Hecla Mining has announced that it is withdrawing its full-year 2020 guidance to assess the impact of Covid-19 on its production and costs. Hecla said that the first quarter production met the company’s expectations, producing over three million ounces (Moz) of silver and 57,238oz of gold. The company’s three mines in the US – Greens Creek in Alaska, its Nevada operations and Lucky Friday, will remain fully operational as they are considered to be essential infrastructure operations by the US government. These mines represent 69% of its 2019 gold-equivalent output. Meanwhile, work at mines in Mexico and Quebec has been temporarily halted due to government-mandated distancing restrictions in response to the global coronavirus pandemic. Hecla’s President and CEO Phillips S. Baker said: “Hecla’s quick response to the COVID-19 outbreak began in February and has protected our workforce, enabling them to continue to safely operate our mines. “While government orders have shut down two mines, our US mines continue to operate as planned. Our balance sheet is strong with over $200 million in cash, and no near-term debt maturities with our revolver debt not due until 2023 and senior notes in 2028.   How concerned are you about spread of Coronavirus?  View Results “Also, our charitable foundation is stepping up to support the communities we operate in during this time of need.” In March 2018, Hecla Mining reached a deal to acquire all outstanding shares in Klondex Mines, which owns Fire Creek, Midas and Hollister mines, for total consideration of $462m. Coronavirus global impact Global deaths from Covid-19 virus have crossed 69,844, while the confirmed cases stand at 1,279,336. About 272,671 are reported to have recovered from the virus. Currently, the global recovery rate stands at 21.04%. The number of deaths related to Covid-19 jumped by 1,939 in the United States yesterday. America has now seen a total of 12,722 deaths – with that number rising by nearly 20 per cent in just 24 hours. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
