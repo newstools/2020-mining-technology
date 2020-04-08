@@ -1,0 +1,15 @@
+First Quantum Minerals has received an order from the Ministry of Health of the Republic of Panama (MINSA) to temporarily suspend labour activities at its Panamanian subsidiary as a sanitary control measure due to coronavirus. The company decided to place the Cobre Panama copper mine operation under care and maintenance until the ministry is satisfied that the operation has met the quarantine conditions. The order was issued just a day after one of the workers at the company’s Cobre Panama operation died due to complications caused by Covid-19. Cobre Panama operations general manager Gordon White said: “We have been working very closely with MINSA throughout the current Covid-19 pandemic. “We respect and support the Government’s efforts to reduce the impact of the pandemic in Panama and we will cooperate fully with MINSA.” First Quantum said the heightened quarantine conditions require the suspension of all mining and processing operations. Cobre Panama is also evaluating ways to cut down the operating costs on the site for the expected duration of extended quarantine, including access to emergency labour code concessions for contracts suspension.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results First Quantum said the temporary suspension of the copper mine is expected to cost approximately $4m to 6m per week, assuming labour contracts as well as other variable and fixed costs are suspended. Last month, the company was reportedly considering the sale of a minority stake in its flagship Cobre Panama mine to reduce its debt. In October last year, First Quantum Minerals started commercial production at the Cobre Panama copper mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
