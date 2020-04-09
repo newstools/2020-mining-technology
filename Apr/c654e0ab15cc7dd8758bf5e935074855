@@ -1,0 +1,15 @@
+Brazilian metals and mining firm Vale has announced that it is extending the care and maintenance period at its Voisey’s Bay copper mine in Labrador, Canada, for up to three months. Last month, Vale announced that it would be reducing activity and output at the copper mine as a precaution to protect nearby indigenous communities from the coronavirus (Covid-19) infection. Vale confirmed that no employee at Voisey’s Bay has tested positive for Covid-19. Last year, the mine produced 25,000 tonnes (t) of copper concentrate. According to Vale, production will be reduced due to the temporary suspension, with an impact of as much as 6,000t in the first half this year. In a press statement, Vale said: “The Long Harbour Processing Plant (LHPP) will continue to operate, drawing down on stockpiled concentrates to produce nickel and cobalt at forecast levels.” In 2015, Vale launched the Voisey’s Bay Mine Expansion (VBME) project to promote the transition of the mine from open pit to underground. Expected to be completed by 2022, the $1.7bn expansion project is expected to increase the life of the mine to 2034.   Which commodity do you expect to be most severely impacted by the COVID-19 outbreak?  View Results Earlier this month, Brazil’s National Mining Agency (ANM) ordered Vale to shutter operations of at least 25 mining dams, part of a total 47 dams which the regulator has ordered to close. In July 2018, Vale sold cobalt production from Voisey’s Bay mine to Wheaton Precious Metals and Cobalt 27 Capital for around $690m.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
