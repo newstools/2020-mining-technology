@@ -1,0 +1,15 @@
+Multinational commodities giant BHP has confirmed that a small number of its global workforce have tested positive to coronavirus and noted that all of them are recovering well. BHP said that there had not been any wider transmission from the infected staff to other employees, nor was there any impact on the company’s sites or operations. All of the individuals who tested positive followed the required protocols of self-quarantining and reporting, to avoid putting other colleagues at risk. The commodities major promised to conduct safe ongoing operations at its sites, that adhere with strict health and travel guidelines put in place by the government to contain the spread of the virus. BHP has also put protective measures in place for staff at higher risk, such as Indigenous employees over the age of 50 in Australia, offering that they work from home where possible. BHP CEO Mike Henry said: “Our over-riding priority remains to help reduce the risk of transmission and help protect our people and communities. We are absolutely committed to playing our part in the collective response to the Covid-19 pandemic.” “The resources industry is one of the few industries that can provide regional jobs, products to customers and payments to suppliers to help underpin continued economic activity.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “We are also working hard to directly support the mental health and resilience of our people and communities, regional health and community services, and the vulnerable in our community as we manage through this difficult period.” Last month, BHP announced an A$50m ($28.7m) Vital Resources Fund to support regional Australian communities in its areas of production in response to the significant challenges to those communities caused by the pandemic. In the same month, the company reduced payment terms for small, local and indigenous businesses in a bid to support its communities and regional economies during the Covid-19 pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
