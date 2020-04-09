@@ -1,0 +1,15 @@
+Canadian uranium miner Cameco has announced it is placing its plant at the Port Hope conversion facility in Ontario on a “temporary safe shutdown” for four weeks. The latest move comes in face of the increasing challenge of maintaining an adequate working personnel as a result of screening protocols and other measures to limit the spread of the coronavirus pandemic. As the majority of the uranium trioxide (UO3) produced at the Blind River refinery is used to produce uranium hexafluoride (UF6) at the conversion facility, the production of the refinery will also be temporarily suspended. Though the production is temporarily suspended, the operation, according to the company, will be open to receive uranium concentrate deliveries. Cameco president and CEO Tim Gitzel said: “While our fuel services facilities have been able to operate safely, it has become increasingly challenging to maintain a sufficient roster of qualified operators for the UF6 plant. “The UF6 plant is designed for continuous operation, and we need to prevent unplanned interruptions arising from personnel shortages. “Therefore, after weighing many factors, including the state of the pandemic, we made a measured decision to suspend production in a careful, planned manner at the UF6 plant and the UO3 refinery which feeds it.”   How concerned are you about spread of Coronavirus?  View Results In July 2018, Cameco suspended production at its McArthur River and Key Lake uranium sites in Canada for an indefinite period in response to a weak uranium market. In December 2017, National Atomic Company Kazatomprom and Cameco completed restructuring of their Kazakhstan-based joint venture (JV) Inkai.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
