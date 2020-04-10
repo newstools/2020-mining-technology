@@ -1,0 +1,22 @@
+Diversified mining firm Glencore has launched a $25m fund in response to the novel coronavirus (Covid-19) outbreak. Glencore noted that the fund will support the company’s teams that are working in close cooperation with governments and health agencies in over 35 countries and at 189 sites. The funds will be used to identify their needs to provide the best possible and effective response. The company launched $25m under Glencore Community Support Fund. According to Glencore, the fund is designed to be flexible and responsive, and complement existing efforts by local teams who are extending their support to the respective communities during this unprecedented time. The company said it will initially prioritise assistance to local health authorities and community organisations to help them respond to the immediate effects of the Covid-19 crisis. Glencore CEO Ivan Glasenberg said: “We have all witnessed the rapid spread of the virus, and the increasing need for support worldwide. That’s why today, we are announcing the Glencore Community Support Fund. “Our assets and offices are best placed to respond to Covid-19 in their regions and this fund will support actions that are designed and implemented locally, in collaboration with the organisations on the front line.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “We hope that these efforts will help ease the burden on our host communities as we work together towards a common goal of combatting the impact of the coronavirus” Recently, Glencore declared force majeure at its Mopani Copper Mines (MCM) subsidiary in Zambia. Earlier this month, Russian firm Rusal approved a new long-term aluminium supply contract worth $16.3bn with Glencore. Last month, Glencore halted operations at a number of its mines in four countries due to government restrictions to contain the spread of the coronavirus pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
