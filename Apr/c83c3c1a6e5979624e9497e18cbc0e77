@@ -1,0 +1,15 @@
+Glencore’s Katanga Mining will repatriate 350 Indian contractors at its 75%-owned Kamoto Copper Company (KCC) after the company halted the commissioning of its acid plant in the Democratic Republic of Congo (DRC). Katanga Mining is 99.5% owned by Glencore. According to Reuters, the contractors were sent from the mine site near Kolwezi to Haut-Katanga’s capital Lubumbashi, and are awaiting flights back to India. Haut-Katanga governor Jacques Kyabula Katwe was quoted by the news agency as saying: “If it is not possible for them to go back to India next week, I will send them back to Kolwezi.” Last month, the company said that the commissioning of the acid plant will be delayed to the second half of this year due to travel restrictions caused by the Covid-19 pandemic. KCC had already repatriated 26 foreign workers in March in response to the global outbreak. Last December, KCC signed an agreement with Democratic Republic of Congo (DRC) State miner Gécamines, which has a 25% shareholding in KCC, to acquire land for its operations for $250m.   How optimistic are you about your company’s growth prospects?  View Results In November 2018, KCC temporarily suspended the sale of cobalt at Kamoto mine following the detection of radioactivity in supplies. KCC resumed the export and sale of a limited quantity of cobalt from Kamoto Project in April last year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
