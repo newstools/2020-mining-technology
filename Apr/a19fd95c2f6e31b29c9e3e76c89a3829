@@ -1,0 +1,22 @@
+Sandfire Resources America has announced that the Black Butte underground copper mining project in the US state of Montana has received a record of decision (RoD) for operating the mine. The operating permit has been issued by the Montana Department of Environmental Quality (MTDEQ) to Sandfire. With the RoD permit in hand, Sandfire and its subsidiary Tintina Montana can now proceed with developing and mining the Johnny Lee deposit at the Black Butte project. Besides the RoD, the company has also received its preliminary air quality permit and a Montana pollution discharge elimination system permit. The MTDEQ has 40 days to finalise a financial bond calculation, which, once done, will pave the way for construction and production at Black Butte. Sandfire America project development CEO and vice-president Rob Scargill, said: “The issuance of the RoD by the MTDEQ is a clear indication that the State of Montana is a good place to invest and create new jobs. “Our project design robustly meets and exceeds some of the strictest environmental requirements for mining worldwide and demonstrates that 21st Century mining and environmental excellence can go hand-in-hand.”   How optimistic are you about your company’s growth prospects?  View Results According to Sandfire, the Johnny Lee deposit represents one of the highest copper grade undeveloped projects in the world. It has a measured and indicated undiluted resource of 10.9 million tonnes (Mt) grading 2.9% copper. Sandfire America senior vice-president Jerry Zieg said: “Black Butte Copper will represent mining innovation at its best. We are embracing accountability and being responsible custodians of our environment. We are continuing to engage with our communities and creating a new model for sustainable value for all our stakeholders.” In May 2018, Sandfire Resources acquired a 7.7% interest in Adriatic Metals following the completion of a subscription of shares.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
