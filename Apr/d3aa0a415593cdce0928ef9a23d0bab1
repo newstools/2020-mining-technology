@@ -1,0 +1,12 @@
+Peruvian base metals miner Compania Minera Antamina has announced that it will temporarily suspend operations at its Antamina copper and zinc mine to contain the spread of Covid-19 outbreak. BHP and Glencore each own a 33.75% stake in Antamina. Teck Resources holds a 22.5% stake in the mine, while the remaining 10% is owned by Mitsubishi Corporation. The company’s decision follows the Peruvian government’s Emergency Decree in regards to the coronavirus pandemic. During the suspension, it will seek to adapt its operations and services to the new stage that Peru will enter when the State of National Emergency comes to an end. The state of emergency in the country had previously been extended until 26 April. In a press statement, BHP said: “The Government has now allowed Antamina to demobilize the majority of the 2,400 people on site over the coming days and Antamina has suspended operations to do so. “The site will go into care and maintenance, with a skeleton staff performing essential tasks, including disinfecting the site, to enable the operation to restart when it is deemed appropriate. The current expectation is this could take up to two weeks, however this may change.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results BHP noted that strict controls will be put in place during the demobilisation so as to safeguard the health of the local communities and workers. Last year, Antamina produced 101 million tonnes (mt) of copper. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
