@@ -1,0 +1,15 @@
+Copper major Freeport-McMoRan has announced that its Cerro Verde mine in Peru remains operational, though its operations are limited by the government’s extension of a state of emergency to limit the spread of the coronavirus Covid-19 pandemic. The Peruvian Government has extended the declaration of a national emergency until 26 April. The initial state of emergency was due to expire on 12 April. The Cerro Verde mine is an open-pit copper and molybdenum mining complex located 32km south-west of Arequipa in Peru. Freeport-McMoRan, through its subsidiary Cyprus Climax Metals, owns a 53.56% stake in the mine. The company noted that Cerro Verde’s concentrator has operated at around one-third of planned rates from 01 April to 11 April. In a press statement, Freeport-McMoRan said: “Our principal focus is on the health and well-being of our workers, their families and the community while maintaining environmental safeguards and protecting the long-term values of this important resource. “Cerro Verde is a major contributor to the national and local economy and is one of the largest employers in the Arequipa region.”   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results Last year, Cerro Verde produced over one billion pounds of copper and 29 million pounds of molybdenum. Last week, three employees at Freeport-McMoRan’s Chino copper mine in New Mexico tested positive for coronavirus, according to state’s lieutenant governor Howie Morales. The Peruvian Ministry of Health (MINSA) has reported 6,848 confirmed cases of COVID-19 in Peru as on 11 April, with 181 reported deaths. Meanwhile, global deaths from Covid-19 virus have crossed 120,450, while the confirmed cases stand at 1,930,780. About 462,061 are reported to have recovered from the virus. Currently, the global recovery rate stands at 23.93%.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
