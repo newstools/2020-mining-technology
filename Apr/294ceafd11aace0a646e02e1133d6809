@@ -1,0 +1,22 @@
+Canada’s Eldorado Gold has announced that it will resume operations at its Lamaque mine today after Quebec’s provincial government confirmed mining is an essential industry. Lamaque is an underground gold mine in Val-d’Or, Quebec. Eldorado noted that it already has safety protocols in place at all its sites to reduce the risk of the Covid-19 infection being passed on. The company added that it is strictly following safety measures such as temperature screening, added hygiene measures, and task observation to ensure that all work is performed while ensuring physical distancing. Isolation procedures are also in place should an employee fall sick while at work, and the staff has been trained in these updated protocols, Eldorado said. Lamaque operations were moved to care and maintenance on 23 March to comply with the government-mandated restrictions to limit the spread of Covid-19. Eldorado Gold president and CEO George Burns said: “We are pleased to resume operations at Lamaque.  Keeping our people safe is our priority each and every day.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results “With the safety measures we have put in place at all our sites, we are confident that we can adapt our business and continue to create long term value for our stakeholders.” Last month, Eldorado Gold achieved commercial production at Lamaque mine with 100,000oz-110,000oz of gold production expected this year. Lamaque has an initial mine life of seven years and its production is expected to rise to 125,000oz-135,000oz of gold in this year and next year. Meanwhile, global deaths from Covid-19 virus have crossed 127,601, while the confirmed cases stand at 1,997,321. About 500,819 are reported to have recovered from the virus. Currently, the global recovery rate stands at 25.07%.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
