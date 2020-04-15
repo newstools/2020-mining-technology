@@ -1,0 +1,15 @@
+Australian development and exploration firm Panoramic Resources has temporarily suspended the operations of Savannah nickel mine in Western Australia due to the ongoing impact of the coronavirus Covid-19 pandemic. The nickel-copper-cobalt mine is located in Western Australia’s East Kimberley region,  110km north of Halls Creek. The pandemic has been adversely impacting multiple aspects of Savannah’s operations including transportation, availability and cost of its work force, as well as the accessibility of equipment and supplies. As a result of this crisis, Panoramic has decided to temporarily halt operations at Savannah. However,  its employees and contractors have been informed that essential services, safety and environmental monitoring will continue. Panoramic managing director and CEO Victor Rajasooriar said: “This has been a difficult decision to take but is unquestionably the right one for the current operating environment and Panoramic’s particular circumstances. “We believe that it will protect the welfare of our staff and contractors, and the surrounding communities, as well as target the preservation of shareholder value through these difficult times. “We greatly appreciate the support of all our stakeholders through this period in what is an incredibly challenging environment for them also.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Panoramic said that Savannah’s temporary suspension will help in the preservation of cash, with the company also working towards reviewing its funding structure to ensure the safe restart of the mine. Besides suspending operations, Panoramic has withdrawn its production and cost guidance along with a suspension to trading its shares on the Australian Stock Exchange until its plans for the mine’s future are finalised. In January this year, Panoramic Resources chose Barminco as its preferred underground contractor for the Savannah project. This A$200m (approximately $135m) contract will see Barminco complete mine development, production and haulage in three years.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
