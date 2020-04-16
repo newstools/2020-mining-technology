@@ -1,0 +1,22 @@
+UK-based Bluejay Mining has secured two new mineral exploration licences in South Greenland, further expanding its footprint in the region. The licences, to be known as the Thunderstone Project, were awarded by the Mineral Licence and Safety Authority, Greenland (MLSA) nearly a year after the company submitted its applications. Overall, the licences cover an area of 2,025km2 and are located in a region which is known as highly prospective for several commodities such as base metals, gold and uranium. Bluejay CEO Roderick McIllree said: “Historical work at Thunderstone by the Geological Survey of Denmark and Greenland underpins its potential to host several commodities, including zinc, gold and uranium; with this in mind, it is a fantastic addition to our already exciting project portfolio in our country of expertise and with minimal initial holding costs. “Bluejay is already very familiar with this region and our technical team has several decades of combined expertise in the geology of South Greenland. This is supported by our recent re-analysis of all available historic stream sediment samples by modern analytical techniques.” The Thunderstone region has seen minimal mineral exploration activities, despite earlier surveys indicating the regions as highly anomalous in zinc and uranium. Recently, Bluejay, in collaboration with Geological Survey of Denmark and Greenland (GEUS) commissioned a re-analysis of all available historical stream sediment samples for Thunderstone licences and surrounding areas.   How optimistic are you about your company’s growth prospects?  View Results Currently, the data is being compiled to identify high-priority areas that require a follow-up fieldwork. Bluejay is a Greenland focused exploration and development company and holds three additional projects in the region. The Company also holds full interest in a portfolio of copper, zinc and nickel projects in Finland.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
