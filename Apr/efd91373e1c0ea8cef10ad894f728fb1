@@ -1,0 +1,22 @@
+South African gold miner AngloGold Ashanti has restarted some of its operations in the country, with nearly 8% of its total workforce back at work. The Covid-19 pandemic has forced several mining companies to halt the operations at their mines globally. The South African Department of Mineral Resources & Energy has granted permission for the limited restart of AngloGold’s surface operations in the country. AngloGold started processing marginal ore dumps at its West Wits operations and reclaiming tailings at the Mine Waste Solutions business unit in the Vaal River region. The company said only one of its 14 operations in the country, Mponeng, remains suspended until the end of the lockdown period on 30 April 2020. AngloGold Ashanti CEO Kelvin Dushnisky said: “A diverse portfolio and proactive management of our balance sheet has given us flexibility during this unprecedented time. “We’re focused on the health of our employees and our communities, while ensuring we have the ability to contribute meaningfully to a range of vital public health and economic initiatives in each of our operating jurisdictions.”   Which commodity do you expect to be most severely impacted by the COVID-19 outbreak?  View Results Outside South Africa, AngloGold has also restarted operations in Argentina and Brazil with limited staffing. The company restarted milling operations at its sole mine in Argentina, Cerro Vanguardia, and resumed operations at Mineração Serra Grande in Brazil. In each case, AngloGold said the resumption of operations took place alongside stringent screening, hygiene, social distancing and other measures designed to mitigate the risk of infection.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
