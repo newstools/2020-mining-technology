@@ -1,0 +1,22 @@
+Zambia intends to revoke the mining licenses of Mopani Copper Mines (MCM), a subsidiary of Glencore, as the firm did not give sufficient notice before suspending its mining operations due to the coronavirus Covid-19 crisis. Mining Licensing Committee secretary Michael Chibonga sent a notice dated 14 April to Mopani chief executive Nathan Bullock. The notice stated that Mopani did not give sufficient notice to the government before the mines were kept on care and maintenance. According to the letter seen by Reuters, Mopani is alleged to have also violated the country’s labour laws by making its workers opt for forced leave and ending the contracts of mining supplies and services While referring to Mopani’s Nkana and Mufulira mines, the letter said: “In view of the above, the Mining Licensing Committee intends to revoke the large-scale mining licences.” Glencore has to reply to the committee in seven days detailing why its licences should not be revoked by the government. A Mopani spokesman told Reuters that Glencore was in talks with the government on the future course of action.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results Although Mopani closed its mines on 8 April, it continued with processing material it has on location in its smelter and refinery. Mopani had cited the reason for the closure due to a quick fall in the copper price, and disruptions to transportation and supply chains as a result of Covid-19. Last week, Glencore launched a $25m fund in response to the novel coronavirus (Covid-19) outbreak. Glencore noted that the fund will support the company’s teams that are working in close cooperation with governments and health agencies in over 35 countries and at 189 sites. The funds will be used to identify their needs to provide the best possible and effective response.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
