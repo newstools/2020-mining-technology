@@ -1,0 +1,22 @@
+Concerns over the spread of coronavirus have increased as more countries announced COVID-19 cases in March. Verdict launched a poll on 13 March to study the concerns over the spread of coronavirus and has been tracking the COVID-19 Concern Index since then through the ongoing poll. The index is based on respondents, who answered that they are very concerned about the spread of COVID-19. The COVID-19 Concern Index went northwards from 16 March to hit a high on 31 March, with 80% of the respondents expressing a very high concern. The index was at 71.6% on 16 March. The concern eased in the second week of April, with the index declining to 75% and has been stable since 11 April. The Index reached a low of 71.34% on 07 April, a level that was witnessed three weeks ago, on 18 March. The analysis is based on a total of 94,548 responses received up to 13 April. The poll is still running and the analysis will be posted periodically.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
