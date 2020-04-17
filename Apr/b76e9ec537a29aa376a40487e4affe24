@@ -1,0 +1,15 @@
+Barrick Gold has said that it is positioned to achieve its full-year production targets despite a drop in gold output in the first quarter of this year. The company registered preliminary first quarter production of 1.25 million ounces of gold in the first three-month period of 2020, dropping from 1.37 million ounces of gold reported last year. Barrick also reported preliminary first quarter sales of 1.22 million ounces of gold and 110 million pounds of copper. Additionally, the Canadian firm noted that copper output was 115 million pounds in the same period. The figure is an 8.5% increase on a year-on-year basis, reported Reuters. Barrick Gold president and CEO Mark Bristow said: “These results positioned Barrick well to achieve its guidance for the year despite the impact of the global Covid-19 pandemic and the resultant lockdowns.” The company also said it has devised a comprehensive programme to combat the impact of this pandemic on its businesses. Headquartered in Toronto, Barrick is one of the largest gold miners in the world.   How concerned are you about spread of Coronavirus?  View Results Earlier, the company forecast full-year attributable gold production in the range of 4.8 million ounces to 5.2 million ounces. The company also aims to produce around 440 million to 500 million pounds of copper this year. Barrick is expected to announce its first quarter results on 6 May. Recently, the company signed an earn-in agreement with Precipitate Gold to acquire a 70% stake in the Pueblo Grande project. The Pueblo Grande project is located adjacent to Barrick’s Pueblo Viejo mine in the Dominican Republic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
