@@ -1,0 +1,12 @@
+Canada-based mining firm B2Gold has reported that one of its employees near the Fekola mine site in Mali has tested positive for the Covid-19 virus. The employee was deployed at the Fekola exploration camp, a few kilometres away from the mine site. However, regular operations at the mining site have not been affected as the positive case was identified in the exploration camp. Currently, the infected employee is quarantined at the camp. As a precautionary measure, B2Gold has also isolated the entire Exploration Group within the camp and identified all individuals who came in contact with the individual. It has also initiated a disinfection process of the site to prevent the disease from further spreading. In a statement, the company noted: “B2Gold will continue to update its plan and response measures based on the safety and wellbeing of its workforce, the severity of the pandemic in areas where it operates, global response measures, government restrictions and extensive community consultation.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “The company is working closely with national and local authorities and will be monitoring each site’s situation closely while ensuring the safe operation of its mines.” The Fekola Mine is located in south-western Mali on the border between Mali and Senegal. B2Gold owns an 80% stake in the site, while the remaining interest is with the State of Mali. As of 17 April, Mali reported a total of 171 Covid-19 cases in the country. Globally, the pandemic has infected more than 2.1 million people, while more than 146,000 people have lost their lives. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
