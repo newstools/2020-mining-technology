@@ -1,0 +1,15 @@
+Newmont chief executive Tom Palmer has said that the company is planning to restart some of its gold mines in Canada and South America that were closed last month to limit the spread of the Covid-19 pandemic. The decision comes as Buenos Aires and Quebec City authorities have lifted restrictions around mining which is now deemed as an essential service, reported Reuters. Palmer was quoted by the news agency as saying: “I would expect we would be able to bring operations that have been on care and maintenance back into some level of production.” He added that the company is looking towards a phased restart. Palmer said that the company is also in talks with the governments of Peru and Mexico regarding the importance of mining to the economy and local communities. Argentina President Alberto Fernandez, who imposed the lockdown in the mid of last month, has moved to put mining on an essential sectors list. But that has done little to help restart operations with transport systems closed down to contain the virus, said Reuters.   How optimistic are you about your company’s growth prospects?  View Results Earlier this month, Newmont announced that it would scale back operations at its Penasquito gold mine in Mexico. According to Johns Hopkins Coronavirus Resource Center, the global death toll is approaching 165,000. The total number of infections worldwide is at 2,394,291. About 632,484 are reported to have recovered from the virus. Last month, Newmont Corporation withdrew its full-year 2020 guidance after placing four of its operations into temporary care and maintenance as part of global efforts to limit the spread of Covid-19 outbreak. In the same month, Newmont Corporation announced plans to scale down operations at its Yanacocha gold mine in Peru due to coronavirus-related restrictions in the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
