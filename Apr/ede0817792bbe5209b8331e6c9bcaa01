@@ -1,0 +1,12 @@
+Multinational commodities giant BHP has established a $25m fund to aid its contractors in Chile. The decision comes after the miner was forced to progressively reduce the number of contractors at its operations due to the coronavirus (Covid-19) pandemic. BHP has reduced the number of employees in its operations from the existing 7,310 to 4,910 and reduced contractor workers from 21,911 to 11,289 due to the Covid-19 health emergency. The company will voluntarily undertake a major portion of the cost of contractor companies to maintain the remuneration of its demobilised workers. BHP previously contributed $8m of aid which was implemented between 23 March and 13 April. BHP Minerals Americas supply vice-president Pedro Correa said: “These measures constitute a powerful tool to contribute to the well-being of our economy and local and regional communities. “Our objective is to protect people’s health and maintain operational continuity, because we have a responsibility to the country where we operate, to the Antofagasta and Tarapacá regions and to the workers and their families.”   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results This month, BHP confirmed that a small number of its global workforce have tested positive for coronavirus and noted that all of them are recovering well. Last month, BHP announced an A$50m ($28.7m) Vital Resources Fund to support regional Australian communities in its areas of production in response to the significant challenges to those communities caused by the pandemic. In the same month, the company reduced payment terms for small, local and indigenous businesses in a bid to support its communities and regional economies during the Covid-19 pandemic. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
