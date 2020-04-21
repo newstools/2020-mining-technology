@@ -1,0 +1,12 @@
+Multinational mining company Anglo American has announced that its board of directors will donate 30% of their salaries for three months to Covid-19 related charities or funds in response to the risisng cases the disease. Anglo American and diamond producer De Beers also announced additional donations of $2m to South Africa’s Solidarity Fund to help address the impacts of coronavirus. Anglo American also donated $1m to the Oppenheimer family’s South African Future Trust, which was established to support small and medium-scale businesses through the crisis. Anglo American chief executive Mark Cutifani said: “Our wide-ranging efforts in response to this pandemic are directed at where support is most needed, very often in terms of basic services at the local community level in remote areas around our mines. “We also recognise the extraordinary work of so many major charitable and aid organisations. Our employees ask us how they can best contribute financially, beyond the work that so many of them are already doing on the ground. “We are continuing to identify additional areas for monetary and in-kind support that we can provide as conditions evolve – building on the $25m value of our additional Covid-19 global relief donations and in-kind contributions to date across our host jurisdictions in southern Africa, the Americas, Australia, and the UK.” Last month, Anglo American Platinum began the controlled ramp down of its underground mining operations at Amandelbult, the Modikwa JV and the Kroondal JV, as well as the Mortimer smelter and Waterval Smelter, in preparation to place the operations into care and maintenance for the duration of South Africa’s nationwide lockdown.   How concerned are you about spread of Coronavirus?  View Results In the same month, Anglo American provided an update on measures it is introducing across its global operations in an attempt to slow the spread of the Covid-19 pandemic. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
