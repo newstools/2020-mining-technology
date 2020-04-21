@@ -1,0 +1,15 @@
+Multinational precious metals streamer Wheaton Precious Metals has launched a $5m fund to support global efforts to limit the spread of the coronavirus (Covid-19) outbreak. The Community Support and Response (CSR) fund is designed to meet the immediate needs of the communities in which the company operates. The new fund is in addition to Wheaton’s existing Community Investment Programme that provides support to more than 50 initiatives in various communities across the world. Communities which are directly affected by the company’s mine operations will receive 80% of the CSR fund. Wheaton said the company would work in close collaboration with partners to identify the needs of the community and assess where funds could be used to fill an immediate gap. Wheaton president and CEO Randy Smallwood said: “Although both Wheaton and our partners have been impacted as result of the Covid-19 pandemic, it is clear that many of our neighbours in the community face even greater challenges and will continue to do so over the coming months. “We extend our deepest sympathies to everyone that has been impacted by Covid-19. It is during challenging times like these when charity is most important – it is simply the right thing to do.”   Will a global recession spell bad news for the mining industry?  View Results Vale Base Metals CEO Mark Travers said: “We are grateful to Wheaton Precious Metals for supporting our fight against Covid-19. “It is a testament to our partnership with Wheaton in Canada and Brazil and reinforces our mutual interest in the long-term health and prosperity of communities where we operate.” In July 2018, Wheaton Precious Metals, through its subsidiary, signed an agreement to buy gold and palladium from Stillwater and East Boulder mines (Stillwater), located in Montana in the US and owned by South African firm Sibanye Gold.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
