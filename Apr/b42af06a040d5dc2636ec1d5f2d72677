@@ -1,0 +1,22 @@
+Russian gold miner Nordgold has signed an agreement to build a new power plant at its Lefa mine in Guinea, as part of efforts to reduce greenhouse gas (GHG) emissions. The company has signed an engineering, procurement and construction (EPC) agreement with China’s manufacturing service group SUMEC to construct a 33MW plant at the gold mine. Nordgold noted that the new heavy fuel oil (HFO) facility would replace the existing power plant. The move is expected to reduce fuel consumption for electricity production by 15% as well as engine oil by 30%. This could result in an emissions reduction of 17,000 tonnes per annum (tpa). Design and construction cost of the project is estimated at $23m. The power plant is expected to be completed by the end of next year. Nordgold CEO Nikolai Zelenski said: “Even during these challenging times, we remain committed to investing in Guinea. The new power plant is an important investment as it enables us to both decrease greenhouse gas emissions and provide sustainable power generation for our Lefa mine.”   Which commodity do you expect to be most severely impacted by the COVID-19 outbreak?  View Results Nordgold acquired the gold mine in 2010. Lefa is one of the largest gold mines in Guinea. The mine employs around 1,200 people directly, and provides over 800 indirect jobs. Last year, Nordgold signed a deal with Total Eren, an independent power producer specialising in renewable energies, and its strategic development partner Africa Energy Management Platform, to construct a 13MW solar photovoltaic power plant for its Bissa and Bouly gold mines in Burkina Faso. Nordgold, which acquired many of its major assets during the 2008-2009 financial crisis, also operates in Russia and Kazakhstan.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
