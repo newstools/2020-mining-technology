@@ -1,0 +1,22 @@
+Indian company Adani Mining has awarded an A$220m ($138m) civil construction contract to Australian rail firm Martinus to build a critical section of the Carmichael Rail Network in Australia. The Carmichael project is located in the Galilee Basin in Central Queensland, Australia. The company has continued the construction of the mine and rail project, with employees working under strict coronavirus (Covid-19) safety measures. Adani noted that the civil construction contract is the second major package of works that it awarded to Martinus. The current contract follows the AUD100m ($63m) contract awarded to the rail company in October last year. Under the latest contract, Martinus will deliver 86km of rail formation works, a road over rail bridge, and nine waterway bridges. The contract also includes the construction of more than 200 culverts and 35 rail crossings. According to the company, Carmichael Rail works will comprise 460 culverts, 17 bridges over waterways, two road over rail bridges, as well as 68 railway crossings and local road upgrades.   How concerned are you about spread of Coronavirus?  View Results Adani Mining CEO Lucas Dow said: “We have implemented measures, including social distancing, health screening and increased hygiene, in the hope that more of our contractors, suppliers and the businesses who depend on us can also weather the storm, keeping their doors open, services running, and importantly provide certainty of employment. “At a time when our country is facing some of its toughest challenges, we’re determined to deliver on our commitments of jobs and opportunities. Despite a sustained nine-year campaign, anti-coal activists have failed to stop our project from going ahead. “Their recent claims that contractors have pulled out of our project are false and we remain on track to create more than 1500 direct jobs during the construction and ramp-up of our project and some further 6,750 indirect jobs.” Last June, Adani Enterprise received the final environmental approval to commence work on its Carmichael mine, following years of protests and court battles. In November 2018, Adani Mining announced that the Carmichael mine and rail project was set to begin operations and will be completely financed through the company’s resources.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
