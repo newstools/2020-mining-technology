@@ -1,0 +1,15 @@
+Centamin Egypt has reported a year-on-year rise in quarterly production with the production of 125,090oz from its Sukari gold mine in Egypt during the first quarter of this year. The company also reported that it has reduced its 2020 capital expenditure and expects it to be in the range of $150m-$170m from $190m. It noted that 2020 full-year guidance will continue to be maintained and the company targets gold production between 510,000oz and 540,000oz. Concurrent with the first-quarter results, Centamin’s board of directors has also declared a 2020 first interim dividend of six cents per share payable on 15 May this year. Centamin CFO Ross Jerrard said: “The commitment and response by our workforce to the Covid-19 pandemic has been exceptional, and we would also like to acknowledge the assistance and support of the Egyptian government. Centamin has and will continue to implement proactive measures to minimise the impact on our people, business, community and wider stakeholders. “Centamin is a resilient and responsibly run business with zero debt and $379.2m in cash and liquid assets, as at 31 March 2020. I am confident in our long-term strategy and our ability to respond quickly in this difficult environment.” During the first quarter, the company generated revenue of $222.2m from the sale of 139,784oz of gold at an average realised price of $1,587 per ounce.   How concerned are you about spread of Coronavirus?  View Results As of 20 April, Centamin said it had not recorded any cases of coronavirus at the company’s operations, and there have been no material interruptions to its operations, supply chain, and gold shipments. The company has put necessary contingency plans in place to deal with various possible disruptions. Centamin is a mineral exploration, development and mining company. It is dual-listed on the London and Toronto Stock Exchange. Its key asset, the Sukari Gold Mine, is located in the Eastern Desert approximately 700km from Cairo, Egypt, and 25km from the Red Sea. In January, Endeavour Mining dropped its plan to acquire Centamin for $1.9bn as it did not get enough information on the latter’s assets during an assessment.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
