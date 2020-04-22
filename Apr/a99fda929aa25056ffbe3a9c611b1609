@@ -1,0 +1,12 @@
+Endeavour Mining president and CEO Sebastien de Montessus will donate 30% of his base salary to support Covid-19 relief efforts. The company’s leadership team and the Board of Directors are also set to donate a portion of their salaries or fees for the next 90 days. The donations and company fund match will amount to around $1m. It will be used to secure medical equipment for local community health centres and financial support to families and schools. Endeavour has also noted that its operations are functioning at normal levels. The company is continuing to ship gold and sales are uninterrupted. It has enhanced health and safety measures in place to safeguard employees from the viral infection. Sebastien de Montessus said: “The world is currently facing an unprecedented challenge fighting Covid-19 and dealing with the economic, social and health consequences that have arisen. “Beyond financial aid, we have leveraged our global supply chain, broader network and medical expertise to obtain key medical supplies to bolster the national authorities’ response across Cote d’Ivoire, Burkina Faso and Mali. “In addition, I’d like to thank our Directors and employees who have contributed both financially and by supporting the implementation of our business continuity program. In particular, we have seen tremendous dedication at our mine sites as employees have committed to extended rotations to help maintain production levels.”   Will a global recession spell bad news for the mining industry?  View Results Endeavour operates mines in Cote d’Ivoire, Burkina Faso, and Mali in Africa. Meanwhile, the company has announced that its employees who tested positive for Covid-19 have successfully recovered from the infection and no new cases have been reported. The company is working with the health authorities in its host countries and sent an expert medical response team to West Africa. Meanwhile, global cases of Covid-19 have passed 2.47 million and over 170,000 deaths are reported worldwide. One third of the world’s total cases (787,960) and a quarter of global deaths (42,518) from Covid-19 infection are reported from the US alone. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
