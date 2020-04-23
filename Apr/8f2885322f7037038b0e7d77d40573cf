@@ -1,0 +1,22 @@
+The country’s new lockdown rules, seen on Wednesday by Reuters, will see sectors categorised into five groups, and with access to each opened up based on developments in the spread of Covid-19. The aim is to implement a more flexible response to the pandemic, where some sectors can be permitted to continue working to prevent a total economic standstill, while other, more at-risk industries continue with quarantine practices. Authorities imposed a 21-day lockdown on 26 March, which has since been extended to the end of April, and has had a significant impact on the country’s industrial output. South Africa’s Durban port, for instance, received nearly 40% fewer ships between 24 March and 6 April, and the mining industry has been hit particularly hard, with closures such as those at Bushveld Mineral’s Vametco and Vanchem mines hampering mineral supply. Bushveld produces around 3,000 tonnes of vanadium a year, and the loss of production at some of the country’s mines has caused concern around the South African mining sector. The news follows last week’s announcement by mineral resources and energy minister Gwede Mantashe that the majority of the country’s mining operations would be permitted to restart operations at 50% capacity during the lockdown, and is the latest step in a move towards a return to work across the country’s industrial sectors. Mantashe announced that South African mines would be expected to maintain high standards of safety, and subject workers to regular testing, to monitor and limit the spread of Covid-19 among miners. The government is aiming for a return to work by the middle of May, but moves towards this target have been met with opposition within the sector. The influential Association of Mineworkers and Construction Union argued that the very nature of mining, where employees often work in cramped conditions, and are transported in small lifts that do not allow for adequate social distancing, means any premature return to work is a significant risk. “Nobody want more for life to resume as normal, but it cannot be at the expense of life,” said the union. “AMCU cannot allow its members to report for duty in circumstances where it has not been privy to any framework or ramp-up plans, and cannot be assured that its members are safe. “The decision is unreasonable and unconstitutional.”
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
