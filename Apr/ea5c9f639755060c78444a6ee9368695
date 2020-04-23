@@ -1,0 +1,15 @@
+Copper mining firm Antofagasta has reduced capital expenditure (capex) for this year and noted that copper production would be at the lower end of its initial guidance due to the Covid-19 pandemic. The company is reducing spending for the year to less than $1.3bn compared to an original plan of $1.5bn, owing to the temporary suspension of its Los Pelambres mine for 120 days, as well as lower mine development, and a weaker Chilean peso. The miner said copper production in the first three months of this year, however, rose 4.6% to 194,000 tonnes (t) compared with the previous quarter (Q4 2019). Gold production stood at 65,100 ounces (oz), which was 4.7% higher than in Q1 2019, while molybdenum production fell to 2,400t, a decrease of 1,100 t compared to the same period last year due to lower grades at Los Pelambres. Antofagasta expects Covid-19 restrictions to only put a slight dent in copper production for this year as around two-thirds of its workforce is currently operating on-site at its mining operations in Chile. The company is implementing social distancing and other precautionary health measures and anticipates production down at the lower end of its original 725,000-755,000t guidance. Antofagasta CEO Iván Arriagada said: “We have a solid balance sheet with $2.5bn of cash which put us in a strong position to confront this unprecedented situation of operational uncertainty and lower copper price environment.   In the current COVID-19 crisis, what the level of impact do you expect on mining capital expenditure?  View Results “We are expanding our Cost and Competitiveness Programme and continue to review all expenditure to preserve our financial strength while operating safely and efficiently.” In April last year, Antofagasta subsidiary Antofagasta Minerals completed the financing of the $1.3bn expansion of Los Pelambres copper mine in Chile. Antofagasta’s board of directors approved a $1.3bn expansion of the Los Pelambres copper mine in November 2018. Antofagasta holds a 60% stake in the Los Pelambres project, while the remaining 40% is held by consortiums led by JX Nippon and Mitsubishi.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
