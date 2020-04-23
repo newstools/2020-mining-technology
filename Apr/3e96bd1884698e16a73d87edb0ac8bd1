@@ -1,0 +1,12 @@
+Metals and mining major Vedanta has announced that it has so far spent Rs1.51bn ($19.7m) in several initiatives to aid against the coronavirus (Covid-19) outbreak in India. The initiatives taken up by the mining major include providing preventive healthcare to local communities and distributing free meals to those in need. Vedanta said that it has reached out to over 700,000 community members around its operations and plants in the country to provide assistance in limiting the spread of the virus. The company has established a Rs1bn ($13.1m) support fund to aid daily workers, supplying healthcare kits, and for the welfare of employees and contract partners. So far, the mining major has provided more than 550,000 meals to daily wage earners across the nation. Furthermore, dry ration packets are being provided to over 13,500 fisherman families at Mumbai’s Worli Koliwada. Vedanta chairman Anil Agarwal said: “India has shown tremendous resilience in fighting the impact of Covid-19. We have earned goodwill from the world for supplying critical medicines to many countries. “I am confident that our economy will become self-sufficient. ‘Make in India 2.0’ will be the mantra, Start-ups will innovate, MSMEs will provide work, the mining & manufacturing industry will resurrect, and our people will emerge stronger.”   In the current COVID-19 crisis, what the level of impact do you expect on mining capital expenditure?  View Results Vedanta also said it has promised one million meals to daily wage earners in Mumbai, Delhi, and Patna. Last month, Vedanta Resources’ unit Vedanta Zinc International (VZI) announced plans to suspend operations at its Skorpion Zinc (SZ) mine and refinery in Namibia by the end of next month. In January last year, Vedanta Resources plans to invest up to Rs600bn ($8.42bn) in its Indian operations over the next three years, alongside a $1.2bn investment in its South African projects. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
