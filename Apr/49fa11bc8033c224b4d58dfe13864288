@@ -1,0 +1,15 @@
+The Zambia Chamber of Mines has urged the government to address the issues faced by mining companies amid the Covid-19 pandemic by engaging with the sector. Reuters cited the chamber as saying in a statement that it had submitted a three-phase economic plan to the government to manage the economic impact arising from the coronavirus. The statement reads, “Since then all mining industry stakeholders have been hoping that some significant stimulus measures would be instituted, as is being seen across the world. “This was with a view to providing some guidance to government on the critical areas to be urgently addressed.” According to the chamber, the proposal includes immediate relief measures that could be followed by an emergency support package for which funding could be sought from the World Bank and the International Monetary Fund (IMF). The proposal also includes a ‘fight back’ fiscal regime to be implemented once the pandemic abates. Tax relief measures, such as the removal of the provisions of Statutory Instrument 90 and the suspension of import duties on concentrates and export duties on precious metals form part of proposals for a broader relief package.   How concerned are you about spread of Coronavirus?  View Results The chamber said that industry’s financial circumstances have become desperate and Glencore’s Mopani Copper Mines (MCM) issue was an example of the industry’s troubles. Commodities trader Glencore said it will reverse its earlier decision to close its Zambia subsidiary MCM if it reaches a deal with the Government of Zambia. Recently, Glencore declared force majeure at its Mopani Copper Mines (MCM) subsidiary in Zambia. Last week, Zambia intended to revoke the mining licenses of MCM, as the firm did not give sufficient notice before suspending its mining operations due to the coronavirus Covid-19 crisis. Although Mopani closed its mines on 8 April, it continued with processing material it has on location in its smelter and refinery.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
