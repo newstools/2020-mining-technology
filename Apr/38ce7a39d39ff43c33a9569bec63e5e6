@@ -1,0 +1,22 @@
+Mining major Rio Tinto and communications provider Motorola Solutions have jointly designed and deployed a backup communications stool. The solution is for Rio Tinto Aluminium’s integrated operations centre (IOC) in Brisbane, Queensland. Under the strategic collaboration, Motorola is helping Rio Tinto to continue supply to its customers, while protecting communities and workers during the coronavirus crisis. According to Motorola, the backup communications system enables continued critical communications between Rio Tinto’s mines during an emergency. The existing IOC provides 24/7 monitoring of all safety, production and quality aspects at bauxite mine sites in Queensland’s Weipa, and Northern Territory’s Gove mines. Motorola noted that the IOC is essential in supporting Rio Tinto’s bauxite supply to Australian alumina plants and other export markets. The system was developed and deployed in a period of just five days.   How concerned are you about spread of Coronavirus?  View Results In case the IOC becomes inaccessible for some reason, the back-up system allows Rio Tinto to continue tracking mine production movements via a TETRA digital two-way radio communications system connected to the mining major’s Disaster Recovery Centre. Motorola Solutions Australia & New Zealand Energy and Natural Resources general manager Martin Chappell said: “Any communications equipment used in mining must adhere to the highest standards to keep workers safe and maintain security and reliability across the entire operation. “Through a combination of rugged radios, purpose-built dispatch consoles and essential back-up links, we are providing Rio Tinto Aluminium with effective protection for its people and assets to ensure business continuity throughout the Covid-19 pandemic.” In order to manage field operations safely and efficiently, Rio Tinto uses a combination of TETRA DIMETRA and MOTOTRBO radio handsets and dispatch consoles across the mine sites. Earlier this month, Rio Tinto introduced new measures at its Pilbara operations in Western Australia to combat the coronavirus (Covid-19) pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
