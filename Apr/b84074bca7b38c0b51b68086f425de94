@@ -1,0 +1,22 @@
+Shareholders of European Metals Holdings (EMH) have approved energy group CEZ’s investment in the Cinovec lithium-tin project. The approval paves the way for further development of the project in the Czech Republic. CEZ will invest €29.1m ($31.4m) for a 51% equity interest in EMH’s Czech subsidiary Geomet, which is also a holder of the Cinovec project licences. The Cinovec project is a high-grade underground deposit located in Prague, Czech Republic. It is one of the largest lithium deposits known in Europe. It is also one of the biggest tin resources being developed in the world. According to EMH, Cinovec is now fully financed through the period to construction decision. The transaction is slated for completion on 27 April this year, with the work programme to commence soon.   How concerned are you about spread of Coronavirus?  View Results European Metals managing director Keith Coughlan said: “This is a very significant day in the life of the Cinovec Project. To have Europe’s largest hard rock lithium project fully funded to decision to construct ensures that Cinovec is firmly entrenched as the pre-eminent lithium deposit in Europe. “We are very pleased to be in partnership with CEZ in the development of the Cinovec Project. CEZ not only provide corporate, technical and financial strength, they fully share the Company’s vision for the development of a lithium ion battery industry in Czech Republic.” Last August, European Metals was granted an exploration licence extension at the Cinovec lithium-tin project. In January last year, the company received an offer from Krupa Global Investments (KGI) to purchase the Cinovec lithium deposit.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
