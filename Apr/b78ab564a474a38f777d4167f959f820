@@ -1,0 +1,15 @@
+Australian firm MMG has reported a 24% fall in its copper output in the first quarter this year due to lower production at the Las Bambas mine in Peru. The decrease in output at the mine is due to the declaration of force majeure in the country as a result of disruptions owing to the Covid-19 pandemic. The site faced additional interruptions to mining and production activities due to maintenance requirements as well as the enactment of a State of Emergency in Peru on 15 March. MMG also withdrew 2020 guidance for Las Bambas due to the ongoing uncertainties and the current market conditions. MMG CEO Geoffrey Gao said: “The first quarter was very challenging for the entire business but particularly for our largest operation, Las Bambas. “We are continuing to expend considerable effort to ensure that we can return to normal operations at Las Bambas as quickly as possible and will update the market in due course.” MMG’s zinc output at the Queensland’s Dugald River mine and Tasmania’s Rosebery deposit was at 52,957 tonnes in the first quarter.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Gao added: “Like the rest of the global community, MMG has been impacted by the spread of coronavirus with cases recorded in each of our host countries. We acted swiftly to implement stringent safety measures to protect our people and communities. “Each of our operations has implemented business continuity plans designed to assist in limiting the potential for the virus to spread and to mitigate operational risks and impacts.” In March 2017, MMG announced the sale of its Century zinc mine in Queensland to Attila Resources. In the same year, the company signed a deal to sell its Golden Grove copper and zinc mine in Western Australia to EMR Capital unit EMR Golden Grove Holdings.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
