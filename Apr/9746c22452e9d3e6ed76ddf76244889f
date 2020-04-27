@@ -1,0 +1,22 @@
+Multinational commodities giant BHP has announced it will allocate A$7.6m ($4.85m) from its recently created Vital Resources Fund to support the establishment of Covid-19 testing centres in Queensland, Australia. Last month, BHP announced an A$50m ($28.7m) Vital Resources Fund to support regional Australian communities in its areas of production in response to the significant challenges to those communities caused by the pandemic. The Covid-19 testing centres will be delivered in Moranbah and Proserpine, and will be managed by private health provider Vanguard Health. These centres will enable patients to be tested for Covid-19 after presenting clear symptoms of the virus. The Queensland Resources Council (QRC) has welcomed the investment by BHP, noting that it was an example of the sector’s commitment of ensuring its workers’ safety. QRC Chief Executive Ian Macfarlane said: “Our sector always has and always will put safety as its number one priority including working with health authorities to assist with greater resources during this outbreak. “I congratulate BHP on this significant contribution into the health infrastructure of the Isaac and Whitsunday regions.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “While it is critical for the economy that we continue to safely operate our mines, we understand the community concerns. Our sector has not only adhered to the advice of the State’s Chief Health Officer but has implemented more safety measures to protect the men and women working in the resources sector, their colleagues, their families and their communities.” Recently, BHP established a $25m fund to aid its contractors in Chile. This decision comes after the miner was forced to progressively reduce the number of contractors at its operations due to the Covid-19 pandemic. This month, BHP confirmed that a small number of its global workforce have tested positive for coronavirus and noted that all of them are recovering well. In the same month, the company reduced payment terms for small, local and indigenous businesses in a bid to support its communities and regional economies during the pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
