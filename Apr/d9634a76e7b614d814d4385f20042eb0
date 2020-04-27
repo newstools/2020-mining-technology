@@ -1,0 +1,15 @@
+Copper major Freeport-McMoRan has reported a quarterly loss, as production fell in South America and Indonesia. The copper producer has also announced an $800m reduction in 2020 estimated capital expenditure (capex). Freeport-McMoRan reported a net loss of $491m, or $0.34 per share, for the first quarter of this year. Production of copper fell 6.3% to 731 million pounds in the first quarter. Furthermore, the company has announced revised operating plans in response to the Covid-19 pandemic and the resulting negative impact on the economy worldwide. It is implementing a series of actions to adjust mine plans and corresponding milling and mining rates in an effort to increase cash flow at lower prices. The company will focus on maximising cash flow and will preserve asset values for anticipated improved copper prices as economic conditions recover. Freeport-McMoRan president and CEO Richard Adkerson said: “Our global team is demonstrating an effective response to protect the health of our workforce, provide for business continuity, and support our communities during this unprecedented challenge.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results “The prudent steps we are taking to safeguard our business, address costs and capital spending, and preserve our strong liquidity position are necessary to protect long-term asset values in the current weak and uncertain economic environment and to position us to ramp up and resume normal operations safely and quickly as health and economic conditions improve. “We continue to achieve important progress in establishing large-scale, low-cost copper and gold production from our underground ore bodies at Grasberg and advance initiatives in the Americas to position FCX for significant increases in cash flows in 2021 and beyond.” Recently, Freeport-McMoRan announced that its Cerro Verde mine in Peru remains operational, though its operations are limited by the government’s extension of a state of emergency to limit the spread of the coronavirus Covid-19 pandemic. Earlier this month, three employees at Freeport-McMoRan’s Chino copper mine in New Mexico tested positive for coronavirus, according to state’s lieutenant governor Howie Morales.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
