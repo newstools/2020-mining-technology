@@ -1,0 +1,22 @@
+Papua New Guinea’s government will take control of the Porgera gold mine after refusing to extend Barrick Niugini’s special mining lease (SML) over the facility. Papua New Guinea Prime Minister James Marape refused the extension citing environmental concerns, reported Reuters. The Porgera gold mine is located in Enga Province, about 600km north west of Port Moresby. The special mining lease for the Porgera gold mine was first approved in 1989. Marape was quoted by the news agency as saying: “We are now going through transitional arrangements … and once the transition phase has been completed, then the state will enter into owning and operating the mine. “The state has every right to refuse the lease, or to extend the lease, and in this instance, because of the environmental issues, resettlement issues and many, many other legacy issues … the state has now refused the lease to Porgera.” Barrick Niugini said that it is willing to talk regarding the issue with James Marape.   How concerned are you about spread of Coronavirus?  View Results Barrick Niugini, which is jointly owned by Barrick Gold and China-based Zijin Mining, owns a 95% stake in the Porgera Joint Venture that owns the Porgera gold mine. The remaining stake of 5% is owned by Mineral Resource Enga, a consortium between the Enga provincial government (2.5%) and the Porgera landowners (2.5%). The mine, which has been employing over 3,000 people, had produced over 20 million ounces (Moz) of gold in 2017. Barrick president and chief executive Mark Bristow said: “The Government values our continued partnership with Barrick and it is our intention to do everything possible to ensure that arrangements are in place to enable continued operations of the Porgera Gold Mine once the current SML expires in August 2019”. Barrick Niugini said that it will not engage in discussing transitional arrangements for the management of the Porgera mine as proposed by the Papua New Guinea government, citing that it was not consistent with the company’s rights. In August last year, the company’s right to the renewal of the license was confirmed by the country’s National Court. Prior to this confirmation, Barrick Niugini applied for the extension of the SMP for the Porgera gold mine in June 2017. Since then, is said to have been engaging with the government. Last year, the company proposed a benefit-sharing arrangement which would generate more than half of the economic benefits to stakeholders and the Government for 20 years. The company, however, did not receive a favourable response from the Papua New Guinea government.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
