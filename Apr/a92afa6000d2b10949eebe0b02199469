@@ -1,0 +1,22 @@
+Polish state-operated miner Polska Grupa Górnicza (PGG) has announced that it has closed two of its mines until Sunday 3 May to limit the spread of Covid-19, following the confirmation of cases at the miner’s facilities. PGG, which employs around 40,000 people, confirmed 70 cases of Covid-19 among its workforce at the Murcki Staszic and Ruch Jankowice operations, as the enclosed, often cramped working conditions of underground mines are conducive to the spread of the disease. “Employee health and safety is a priority for us,” said Tomasz Rogala, PGG president. “We want to reduce the risk of illness among employees and ensure that after a period of epidemics, plants can function normally and safely. “The mines will return to work within the prescribed period,” he added. The closure will be a cause for concern among the Polish coal industry, which is one of the country’s largest industrial sectors; with reserves of over 28 billion tons, and an annual production of over 143 million tons as recently as 2016, the pandemic poses a serious threat to one of the country’s most important industries. PGG has access to around one quarter of these reserves, making the state-owned miner a key component of the national mining industry. The news follows weeks of uncertainty across Polish coal in general, and PGG in particular. Earlier this month, the miner asked unions to agree to a 20% wage cut for employees for three months, in order to improve the company’s financial performance and cause it to become eligible for government support during the pandemic. The unions rejected the proposal, leading to PGG closing its operations for four days a month in order to limit the wages it would be obligated to pay to its workers, and the latest closures will do little to reassure either company or workers about the future of coal amid the pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
