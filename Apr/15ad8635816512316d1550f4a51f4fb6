@@ -1,0 +1,22 @@
+Canadian precious metals producer Silvercorp Metals has signed a definitive agreement to buy all of the issued and outstanding shares of Guyana Goldfields in a cash and stock deal valued at C$105m ($75m). Under the terms of the agreement, Silvercorp will give Guyana’s shareholders the option to receive C$0.60 ($0.42) a share in cash or 0.1195 of a share in the company, to a maximum cash consideration of C$33.2m ($24m). The deal will enable the precious metals producer to add two profitable underground mines, one in China and another gold operation in Guyana, to its portfolio. It also allows the firm to strengthen its underground expertise with a strong balance sheet to fund growth. Silvercorp chairman and CEO Rui Feng said: “This transaction will create a new globally diversified precious metals producer with the addition of Aurora to our growing asset portfolio. “We believe this is a rare opportunity to leverage our underground mining expertise and strong balance sheet to unlock value for all shareholders through the development of the Aurora Underground Project as well as aggressive exploration programs in a proven gold district.” Besides the acquisition agreement, the two companies have also reached a loan agreement, pursuant to which Silvercorp will lend about $15m to Guyana Goldfields for ongoing operations at the Aurora mine and for working capital purposes.   Will a global recession spell bad news for the mining industry?  View Results Guyana Goldfields president and CEO Alan Pangbourne said: “This transaction provides our shareholders with an immediate and significant upfront premium and exposure to a geographically diverse mid-tier precious metal company. “With a strong operating history, solid balance sheet and significant underground experience, Silvercorp’s management team is well-positioned to fund and continue to advance the underground project at Aurora.” Last July, Guyana Goldfields announced a wildcat work stoppage at the Aurora mine. The company announced its first sale of 1,400oz of gold from Aurora gold mine in October 2015.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
