@@ -1,0 +1,15 @@
+Six workers at Canadian firm Fortuna Silver Mines’ Caylloma operation in southern Peru have tested positive for Covid-19. The news comes after the miner has implemented health and safety protocols at Caylloma mine, which continues to operate during the Covid-19 pandemic. These protocols included medical screening, use of protective equipment, social distancing measures, improved site and camp hygiene, among others. As part of this testing, the company has identified six individuals that have tested positive for the virus, all of whom remain asymptomatic. Caylloma is a gold, lead, silver, and zinc mine located approximately 225km northwest of the city of Arequipa in Peru. On 15 March, the Government of Peru introduced a series of measures to limit the rapid spread of Covid-19, which included a declaration of a 15-day period of mandatory national physical isolation. The physical isolation period in the country was subsequently extended until 10 May. During this period, Fortuna Silver has been working under a regulatory framework, which allows mines to operate with just an essential workforce.   How concerned are you about spread of Coronavirus?  View Results The company has suspended all nonessential work and is carrying out critical work with only 40% of its regular workforce at the Caylloma mine. According to the company, the mine produced 249,111 ounces (oz) of silver in the first quarter this year. Lead and zinc production for Q1 2020 stood at 7,722,793 pounds and 11,821,186 pounds, respectively. The Canadian firm noted that the mine is continuing to operate to support the local economy. In June 2016, Fortuna Silver Mines signed an agreement to acquire Canada-based Goldrock Mines for C$129m ($101m).
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
