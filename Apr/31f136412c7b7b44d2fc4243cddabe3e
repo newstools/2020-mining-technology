@@ -1,0 +1,22 @@
+Global mining giant Rio Tinto has signed an earn-in and joint venture agreement with Vancouver-headquartered Midnight Sun Mining. Under the agreement, Rio Tinto can buy up to a 75% interest in the Solwezi licences in Zambia for a total of $51m. The Solwezi licences consist of two individual exploration licences. Totalling 506km2, these licences are located in Zambia’s north-western province, adjacent to First Quantum’s Kansanshi mine. Midnight Sun Mining acting CEO Al Fabbro said: “I am excited to be partnering with one of the preeminent leaders in the mining industry. “Rio Tinto’s enthusiasm towards the Solwezi Licences reflects my own. Their expertise combined with their aggressive exploration plans are precisely what I want to see for this project.” As part of the earn-in agreement, Rio Tinto will make an initial cash payment of $700,000 to Midnight Sun, and also fund an initial work programme on the Solwezi licences. Rio Tinto will spend $3m, of which $2m is a firm commitment, within the next two field seasons.   Is investing heavily in battery minerals a risk given the pace of EV technology change?  View Results Upon completion of the firm commitment, another $300,000 will be paid to Midnight Sun before Rio Tinto progresses with other extra expenditures. Rio Tinto can earn 51% ownership of the Solwezi licences on completion of the initial work programme. It will have to spend a further $16m in work expenditures in four years. In addition, Midnight Sun will receive a total of $1m in additional scheduled cash payments. According to Midnight Sun Mining, Rio Tinto can later earn a further 14% and 10% ownership of the licences by spending an additional $14m and $15m, respectively, on work in two years. Last week, Rio Tinto and communications provider Motorola Solutions jointly designed and deployed a backup communications tool. Earlier this month, Rio Tinto introduced new measures at its Pilbara operations in Western Australia to combat the coronavirus (Covid-19) pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
