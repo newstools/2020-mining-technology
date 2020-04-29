@@ -1,0 +1,15 @@
+Mongolia has reportedly scrapped near-term initial public offering (IPO) plans for state-owned coal mining company Erdenes Tavan Tolgoi as the coronavirus Covid-19 pandemic weakens financial markets. Mongolia’s cabinet also cited “political distortions” as one of the main reasons behind the annulment. The Tavan Tolgoi mine is located in the Ömnögovi Province in southern Mongolia. It is one of the world’s largest untapped coking and thermal coal deposits. Tavan Tolgoi is divided into six sections including Tsankhi, Ukhaa Khudag, Bor Tolgoi, Borteeg, and South-west and Eastern coalfields. The mine is 100%-owned by state company Erdenes, while the Ukhaa Khudag section is mined by Mongolian Mining Corporation. According to Reuters, the project, which has estimated reserves of more than seven billion tonnes of coal, has long sought to raise funds for transportation infrastructure in order to deliver coking coal to markets in China and beyond. In October last year, Bloomberg News reported that the company was working with an adviser to prepare for a planned Hong Kong IPO that could raise more than $1bn. The IPO was aimed at funding the project and related railway links.   How concerned are you about spread of Coronavirus?  View Results Mongolian state-owned firm, Erdenes-Tavan Tolgoi, had originally aimed to build a rail link which will deliver 30 million tonnes (Mt) of coking coal to China per year by next year. In July 2015, Mongolia was reportedly planning to divest stake in its $4bn Tavan Tolgoi coal mine to help attract foreign investment in the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
