@@ -1,0 +1,15 @@
+Gold mining firm OceanaGold has resumed operations in New Zealand after the government lowered the country’s Covid-19 alert level from four to three. At Waihi in in New Zealand, the development of Martha underground mine as well as regional exploration activities have restarted, adhering to the required safe working practices. OceanaGold has also resumed mining at Macraes mine, which is the country’s largest gold producing operation. In 2018, Macraes mine produced 202,990 ounces gold. With the Haile gold mine in South Carolina, US operating at full capacity, the miner will retain its 2020 guidance. OceanaGold president and CEO Michael Holmes said: “The health and wellbeing of our workforce is paramount and the safe working practices at both the Waihi and Macraes operations align well with the Government’s directives. “At OceanaGold, safe operating practices include effective health screening procedures, physical distancing, contact tracing and restricted site access to essential employees and contractors only. With these strict protocols in place, we have resumed mining and processing at Macraes and development of the Martha Underground. “We continue to be focused on managing the near-term risks while executing on our operational plans, working with the Philippine government to renew our FTAA and resume operations at Didipio, and advancing our solid pipeline of organic growth opportunities including the Martha Underground.”   Will a global recession spell bad news for the mining industry?  View Results The company has not reported any of its employees or contractors as testing positive for the virus. Earlier this month, OceanaGold announced that its Haile gold mine continues to operate despite the state government’s announcement to shut down all non-essential businesses for a period of 14 days. In February last year, OceanaGold obtained resource permits to commence operations at its Martha underground project in Waihi, New Zealand.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
