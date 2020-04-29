@@ -1,0 +1,22 @@
+Multinational commodities giant BHP has announced an A$300m ($194m) investment over a five-year period to improve air quality and reduce dust emissions across its Pilbara operations. The new investment follows another A$400m ($259m) which the company has already spent on dust emissions across its supply chain over the past decade. According to BHP, the Pilbara air quality programme will build a strong foundation for the sustainable future of the company’s operations. It involves the construction of wind fences at port operations, which is a proven method to significantly reduce the potential for dust lift-off from stockpiles. BHP Port general manager Nilson Davila said: “BHP has reviewed global best practice dust management and air quality control methods and identified new opportunities to further improve our approach. “We recognise we have a shared responsibility to address dust issues in the Pilbara. “We have worked, and will continue to work closely with government, industry and the community to further improve air quality controls at our operations and for the communities in which we operate.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Davila added that individual projects would still be subject to all the necessary approvals of internal and state government. In another statement, the company said BHP Foundation has committed A$3m ($1.94m) to the prevention and treatment of Covid-19 with support for two Australia-based research institutions. Recently, BHP established a $25m fund to aid its contractors in Chile. This month, BHP confirmed that a small number of its global workforce have tested positive for coronavirus and noted that all of them are recovering well. Last month, BHP announced an A$50m ($28.7m) Vital Resources Fund to support regional Australian communities in its areas of production in response to the significant challenges to those communities caused by the pandemic. In the same month, the company reduced payment terms for small, local and indigenous businesses in a bid to support its communities and regional economies during the Covid-19 pandemic.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
