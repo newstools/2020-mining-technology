@@ -1,0 +1,22 @@
+So far, 32 countries have passed partial or total lockdown orders, leading to the suspension of activities at more than 1,600 mines as of 3 April. Since then, some countries have eased lockdowns or allowed mines to restart, and at the end of April 729 mines remain closed. GlobalData said that despite mines being declared essential in some countries, the reduced workforces being used to maintain safe practices in light of Covid-19 are slowing returns for mining companies. GlobalData mining analyst Vinneth Bajaj said: “Silver production is currently being severely damaged by lockdown measures. As of 27 April, the equivalent of 65.8% of annual global silver production was on hold. Silver mining companies such as First Majestic, Hochschild, Hecla Mining and Endeavour Silver have all withdrawn their production guidance for 2020 in the wake of the outbreak.” Other commodities hit hard by mine closures are uranium, which has seen almost a third of production halted, zinc, platinum, nickel and diamond. “32% of uranium production, 23.8% of zinc, 19.5% platinum, 14.6% of nickel, 14.4% of diamond, and 12.7% of copper were placed on hold as of 27 April,” Bajaj said. “Progress has also been halted on 23 mines under construction, including the US$5.3bn Quellaveco copper mine in Peru, which is one of the world’s biggest copper mines currently under development.”  While many companies have remained magnanimous when it comes to 2020 outlooks, there is no doubt that the ongoing pandemic has sent the global economy into disarray. Unemployment claims in the US reached an unprecedented 26.4 million last week, and the International Monetary Fund has warned that the world faces its worst recession since the Great Depression of the 1930s.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results In a press release following the Mexican government’s declaration of a national health emergency, which closed non-essential businesses in the country, Endeavour Mining announced it would be withdrawing its production and cost guidance. The company owns and operates three high-grade underground silver-gold mines in Mexico. At the time, Endeavour CEO Bradford Cooke said: “Suspending our mining operations on a temporary basis is the best way to ensure the health of our workforce during this COVID-19 crisis. We are also working with the local communities to protect the health of the local people, inform them of the precautions needed to stay healthy, and provide medical supplies, masks, cleaners and disinfectants as needed.” While Endeavour’s first-quarter production remained on track with the withdrawn guidance, a prolonged period of lockdown or restricted operations could further disrupt the company’s operations. Silver companies are also battling falling prices for the commodity, with the gold-silver ratio – how many ounces of silver it would take to buy one ounce of gold – reaching record-high levels during the Covid-19 outbreak at 125.89 on 18 March, now sitting around 112.23 as of the time of writing.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
