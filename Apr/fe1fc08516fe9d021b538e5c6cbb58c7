@@ -1,0 +1,22 @@
+Contract miner Byrnecut Australia and mining firm OZ Minerals have successfully upgraded automation for Sandvik development drills, despite challenges due to the Covid-19 crisis. Byrnecut Australia has become the first underground operator to use a new automation and tele-remote package for Sandvik development drills. Last month, the contract miner introduced a Sandvik DD422i development drill featuring the package to OZ Minerals’ Prominent Hill gold-copper mine located in southeast of Coober Pedy, South Australia. Byrnecut Australia Managing Director Pat Boniwell said: “We’re conservatively looking at a 10-percent increase in productivity with this machine through being able to drill extra holes and the machine being used more consistently. “It picks up on the deadtime, and if it does stop for any reason we’re able to remotely reset it.” In order to complete remote commissioning of the rig, Byrnecut, OZ Minerals and Sandvik experts collaborated via phone, teleconference and email, as travel restrictions prevented Sandvik staff from attending site. Within the first few weeks of operation, the DD422i drill was able to drill 60-70 holes while being operated autonomously and remotely from surface.   How optimistic are you about your company’s growth prospects?  View Results Besides the collision avoidance and tele-remote capabilities, the new automation package of the drill allows for semi-autonomous bit changing. OZ Minerals Prominent Hill operations general manager Gabrielle Iwanow said: “We’re interested in innovation and looking for safer, faster, and more efficient ways of doing our work. “People from the Sandvik factory in Finland were able to remote into the machine over the internet and adjust settings that were stopping some of the functions from working.” Last month, Sandvik released an autonomous truck haulage system, which provides unmanned truck haulage in both underground environments as well as on the surface. In the same month, Sandvik launched its first automation-ready underground in-the-hole (ITH) longhole drill for production drilling, service support and mechanised slot raising.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
