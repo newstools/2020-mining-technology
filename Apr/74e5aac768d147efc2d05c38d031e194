@@ -1,0 +1,22 @@
+US Energy secretary Dan Brouillette said: “The decline of the US industrial base in the front end of the nuclear fuel cycle over the past few decades has threatened our national interest and national security. “This Strategy to Restore American Nuclear Energy Leadership recognises this challenge and lays out an array of policy options to restore America’s leadership in nuclear energy and technology. As a matter of national security, it is critical that we take bold steps to preserve and grow the entire US nuclear energy enterprise. The Trump administration is committed to regaining our competitive global position as the world leader in nuclear energy.” The report outlines several recommendations to support the development and deployment of nuclear energy technologies on US soil, including streamlining the permitting process for public land access, which would make it easier to get uranium mining projects off the ground. The US Government has identified potential national security and geopolitical standing issues arising from Russian and Chinese state-owned companies currently dominating nuclear technology markets. The US commercial nuclear sector, the report states, is at “high-risk of insolvency” after decades of neglect. To regain American nuclear energy leadership, the report recommends leveraging American technological innovation and investment in research, development and demonstration projects to restore American credibility in the sector. The US is also absent from a nuclear reactor market that the US Department of Commerce estimates to be valued at $500-740bn over the next decade. The strategy “will most importantly restore America’s sovereign ability to control its use of the most powerful naturally occurring element on the planet – uranium – for peaceful uses and defence purposes.” The FY21 budget proposes a $1.5bn budget over 10 years to build a US uranium reserve to address sectors most immediately at risk. The report goes further, recommending the direct purchase of 17-19Mlb of uranium compound triuranium octoxide beginning in 2020, which would provide direct support to the front end of the fuel cycle and be enough to support at least two US uranium mines.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results US Environmentalists expressed concern at the Department of Energy move, which they said resembles similar moves by the Trump administration to support the coal industry in the country. The Natural Resources Defense Council (NRDC) opposed the national security rationale for the strategy, stating that the American uranium supply comes from its allies such as Canada and Australia. Opponents also cite the International Atomic Energy Agency, the UN’s nuclear watchdog, and its Low Enriched Uranium Bank designed to discourage nations from enriching nuclear fuel. The bank stores up to 90 tonnes of nuclear fuel and can sell it to members if they cannot procure it elsewhere. NRDC senior attorney Geoff Fettus said: “Rather than try to protect people and their health, the Trump administration is jumping in with plans to prop up this dirty, dying industry. “This is a wasteful solution in search of a problem. We get much of our uranium from allies like Canada and Australia. There’s no national security reason to protect these polluters.” Rolling back environmental regulations could clear the way for mining on protected lands, with the Wilderness Society warning that the proposals could put the Grand Canyon region at risk. “Enriching special interests with taxpayer resources so they can plunder national treasures like Bears Ears and the Grand Canyon will harm our land, water, and public health,” said Wilderness Society representative America Fitzpatrick. “To do so in the face of a global pandemic is an abuse of public trust.”
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
