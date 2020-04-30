@@ -1,0 +1,22 @@
+Mineral exploration firm Strandline Resources has selected Macmahon Holdings as the preferred contractor for its Coburn mineral sands project in Western Australia. The two companies have signed an early contractor involvement (ECI) agreement associated with the contract mining services for the project, and will now work exclusively over the coming months to optimise the mining solution and finalise contract documentation. Discovered in 2000, the Coburn mineral sands project is located in the Gascoyne region of Western Australia, about 240km from the port of Geraldton. Under the work scope of the contract, Macmahon will provide and operate a mining fleet for ore mining, overburden removal, pit backfill, as well as land recontouring. The contract is expected to last until the first five years of the project life. Strandline Managing Director Luke Graham said: “We are pleased to establish this relationship with Macmahon and look forward to further optimising the mining solution and contract documentation in readiness for development. “Coburn has a world-scale inventory, it is in a Tier-1 location, we have binding offtake agreements in place with top-shelf customers, reputable contractors on board developing solutions and project funding discussions progressing strongly.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results A definitive feasibility study on Coburn has estimated that the project expected to produce an average of 229,000 tonnes per annum (tpa) of HMC, comprising 58,000t of zircon concentrate, 110,000t of ilmenite, and 20,000t of HiTi (a blend of rutile and leucoxene containing 90% titanium dioxide). The project will produce a high-value heavy mineral concentrate and final product over its mine life of 22.5 years. In April 2017, Macmahon was chosen as the preferred mining contractor for the establishment and operation of the new Byerwen Coal Mine near Glenden in Bowen Basin, Queensland.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
