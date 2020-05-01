@@ -1,0 +1,22 @@
+Metals and mining major BHP has joined the international non-profit organisation Responsible Steel, signalling its commitment to continue developing a responsible steel standard. This includes requirements for responsible sourcing of raw materials, as well as measuring and reporting greenhouse gas (GHG) emissions. Responsible Steel brings together organisations from across the steel supply chain, including steel makers, commodities producers, and civil society groups. BHP Sustainability and Climate Change vice-president Fiona Wild said: “At BHP we take a product stewardship view of how our commodities are used through the value chain. “We are pleased to join Responsible Steel and continue to partner with our customers to help improve sustainability and emissions standards in the steel making value chain.” Responsible Steel has created a new standard and certification programme which seeks to enhance responsible sourcing, production, as well as use and recycling of steel. The non-profit organisation works with companies such as BHP to increase their sustainability on the back of this new standard.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results According to BHP, this is the first ever global standard for sustainable steel. Responsible Steel executive director Matthew Wenban-Smith said: “We are delighted that BHP has joined as our newest Business Member. “Having one of the largest resource and mining companies in the world as a member sends a very strong signal and commitment to the steel sector to help achieve the responsible sourcing and production of steel.” Recently, BHP announced an A$300m ($194m) investment over a five-year period to improve air quality and reduce dust emissions across its Pilbara operations.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
