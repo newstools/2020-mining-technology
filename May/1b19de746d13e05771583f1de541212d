@@ -1,0 +1,22 @@
+Glencore has announced its financial results for the first quarter of 2020, which are headlined by a 29% drop in copper production and a 44% decline in cobalt production compared to the first quarter of 2019, with the Covid-19 pandemic leading to mine closures and supply chain disruption across its operations. The company has seen widespread reductions in production, with lead, ferrochrome and gold output falling 17%, 3%, and 1% respectively, with the impacts of the healthcare crisis not limited to the miner’s core commodities. While there have been bright spots, such as a 13% increase in lead production compared to the first quarter of 2019, the overall trend is disheartening for the miner. “The Covid-19 pandemic is an unprecedented challenge for all of us, including our colleagues, families, local communities and society at large,” said Glencore in its results announcement. “As a responsible operator, our top priority is to protect the safety and health of our people and the communities that host our businesses. “Our goal is to operate only when we can keep our people safe and healthy, while safeguarding jobs and providing support to our local communities. A near-total restriction on non-essential travel has been implemented as well as remote working, where possible.” These restrictions have hamstrung operations at a number of the miner’s facilities, including the Raglan and Matagami mines in Canada, which have had work suspended since March, and oil and coal projects in Chad and Colombia respectively, which have been placed under care and maintenance. The pandemic has also affected the development of new projects, such as the Katanga copper and cobalt facility in the Democratic Republic of the Congo, where the construction of a new acid plant has been delayed until the second half of this year, and the Kazzinc zinc mine in Kazakhstan, which is now set to begin production in 2021. This disruption has led the miner to scale down many of its production estimates for the remainder of 2020, with Glencore predicting a 45,000 ton decline in copper production compared to pre-pandemic estimates. Indeed, the miner expects production to fall across all of its commodities, and the vast majority of minerals to see lower levels of production than in 2019; the sole exception is zinc production, which Glencore still hopes will increase, targeting 1,160 kilotons of production in 2020, compared to 1,078 kilotons in 2019. The miner has also revised down its capital expenditure, cutting spending from $5.5bn to between $4bn and $4.5bn.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “[This reflects] some assets curtailing production levels, with associated capex savings, various deferrals and lower equivalent US dollar costs due to generally weaker producer currencies and lower input costs, particularly through oil price changes,” said Glencore.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
