@@ -1,0 +1,22 @@
+As Covid-19 continues to batter the global economy, the mining sector is facing volatile commodity prices, restrained production outputs and an uncertain project timeline, causing a reduction in overseas investment in the sector. Alongside this, the UN Conference on Trade and Development reported on 26 March that total global FDI flows were expected to shrink by between 30% and 40% across 2020 and 2021. The sectors facing the most severe revisions of their 2020 earnings estimates include the energy and basic materials industries, airlines, and the automotive industry, with -208%, -116% and -47%, respectively. These sectors are all linked with the mining industry, and with cash flow and travel heavily restricted, mining is suffering a backlash from their downturns. It is perhaps not surprising, then, that cross-border deal activity has slowed, as this mirrors a general global decline in M&A activity. Figures from GlobalData reveal that in the first quarter of 2020 the number of cross-border deals in the mining sector was down by 11% compared with the same quarter in 2019, while the overall value of cross-border mining deals was down by 32%. In January, deal volume saw little difference when judged on a year-on-year basis, with a 2% decrease. However, data from the first week of April 2020, in comparison with the same week in 2019, has seen new deals almost halved. Furthermore, value has gone back into the negative, with a 20% decrease. As government-mandated lockdowns cause leading mining companies to slash capital expenditure, mining activities in a number of countries are being suspended. Even in countries where lockdowns are not occurring, restrictions on the movement of people and supply chain disruptions are causing delays to production and development work.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “We are… implementing a number of cash improvement measures, including operating cost reductions of at least $500m and an approximate $1bn reduction to our 2020 capital expenditure guidance,” said Mark Cutifani, CEO of UK-based multinational Anglo American. The Quellaveco project in Peru – in which Anglo American holds a 60% stake – has seen a reduction of up to $300m in its development work for the next three months. This follows Anglo American cutting capital costs by $1.5bn, demobilising approximately 10,000 construction workers at the copper plant, as part of its Covid-19 response. Other leading mining companies, such as Rio Tinto, are also reviewing their capital expenditure guidance. Following Covid-19, its capital expenditure is expected to be $5bn to $6bn in 2020, down from the previous projection of $7bn. Rio Tinto also stressed that the strong US dollar had been influential in this revision. From mid-March, GlobalData began surveying mining sites across the globe to gauge both the impact that the virus was having and how it was affecting the expectations of those in the industry. In the first four weeks of the survey, sentiment worsened among respondents. With a score of 1 indicating the coronavirus pandemic having ‘no impact’ and 10 representing a ‘severe impact’, the average score of those surveyed rose from 5.79 in the second half of March to 6.05 in the first half of April. The expectation of the length of the impact on mining caused by the Covid-19 pandemic has also increased. In the second half of March, 45% of respondents thought the impact would be for less than three months, whereas in the first half of April this figure had dropped to 25%. Overall, the highest share (31%), when asked in the first half of April, stated that they expected the impact to last for three to six months.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
