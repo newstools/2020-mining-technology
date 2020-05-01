@@ -1,0 +1,12 @@
+Australia-based diamond miner Lucapa, and its partners Endiama and Rosas & Petalas, have announced the restart of scaled operations at the Lulo alluvial diamond mine in Angola. Lulo operations were reduced to essential services only following the declaration of a State of Emergency in Angola to limit the spread of Covid-19. The mine will resume operations on a two shift six-day week basis this week. Lucapa noted that mining operations will be scaled to exceed more than half of the nameplate capacity initially, which will position the diamond miner to ramp up full scale operations once restrictions are completely lifted. Lucapa Managing Director Stephen Wetherall said: “it is pleasing to be able to report that after 4 weeks of reduced activities at the Lulo mine, production is re-commencing in a scaled manner whilst ensuring the safety of the employees and contractors.” “Lucapa and its partners continue to work with leaders in our industry on innovative solutions to ensure that our mines receive the best possible value for their special product”. Furthermore, Lucapa is also with the Government of the Kingdom of Lesotho to discuss the potential restart of mining activities at its 1.1 million tonne per annum (Mtpa) treatment plant at the Mothae kimberlite diamond mine in Lesotho.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results In January last year, Lucapa began commercial recoveries at the Mothae diamond mine. The company owns a 70% interest in the project and the Government of Lesotho holds the remaining 30%. In December 2018, Lucapa began commercial diamond production at the Mothae mine.  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
