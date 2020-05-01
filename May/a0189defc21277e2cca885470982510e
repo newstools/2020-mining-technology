@@ -1,0 +1,12 @@
+Canadian miner Yamana Gold has increased its annual dividend by a further 25% to $0.0625 a share on the back of first-quarter results this year. Yamana noted that this is the third dividend increase announced by it over the past year, representing a cumulative total increase of 213%. For Q1 2020, Yamana posted net earnings of $45m or $0.05 a share, an improvement over the $4.1m net loss reported a year earlier (Q1 2019). The company’s adjusted net earnings came to $47.2m or $0.05 a share, nearly double the $24m or $0.03 a share recorded last year. Across all its operations, the Canadian miner’s gold production totalled 192,238oz for this quarter, in line with guidance. According to Yamana, the Jacobina, El Peñón, and Minera Florida mines all exceeded targets, despite the government-mandated Covid-19 restrictions to operations at both Cerro Moro and Canadian Malartic mines. Furthermore, the company said it is working with its host communities to support their needs during the Covid-19 pandemic.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results In its quarterly result, the company announced that it formed a crisis response group comprising its entire senior executive group and operational leaders in the early phases of the outbreak. This was aimed at ensuring it was in a position to take decisive action in what remains a fluid and fast-moving environment. Last month, Yamana Gold signed an agreement to sell shares and warrants in Vancouver-headquartered Equinox Gold for C$201m (approximately $144m). In July last year, the company reported positive results of the pre-feasibility study (PFS) on the Agua Rica project located in the Catamarca Province of Argentina. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
