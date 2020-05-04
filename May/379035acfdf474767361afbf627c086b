@@ -1,0 +1,15 @@
+Australian rare earths miner Lynas has restarted operations at its Malaysian plant after the country’s Prime Minister lifted Covid-19 restrictions. Operations at the plant will begin to ramp up with the guidance of health and hygiene requirements, global economic activity, as well as customer demand. The Malaysian processing plant has been closed since 23 March, after the country first announced an initial two-week restriction on movement until 31 March. Lynas said that it had put strict health and hygiene protocols in place at its sites, and added that these measures comply with the federal and state government requirements. The rare earths miner stated that the Malaysian plant will resume operations at 70% of Lynas NEXT production rates. In a press statement, Lynas said: “We expect that producing at this rate will enable us to refill supply chains and to restock depleted inventories of critical materials, while maintaining new health and hygiene protocols at each site. “Our number one priority will continue to be the health and safety of our people and our local communities.”   How concerned are you about spread of Coronavirus?  View Results Lynas said that its flagship Mt Weld facility in Western Australia would continue to operate with essential working personnel. In January this year, Lynas reached a deal with the Malaysian state of Pahang to build a waste treatment plant. Meanwhile, Malaysia has so far confirmed 6,176 cases of Covid-19, with 103 deaths. Nearly 4,326 people in the country have already recovered from the disease since the outbreak began.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
