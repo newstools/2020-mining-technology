@@ -1,0 +1,22 @@
+Mopani Copper Mines (MCM), the Zambian subsidiary of Glencore, has announced its plans to restart mining operations for 90 days, but still expects to proceed with its original plan to place its mining operations under care and maintenance. The initial plan to put MCM under care and maintenance has drawn the ire of the Zambian government, which warned of revoking the mining licences as the firm did not serve sufficient notice to the government, before the mines were kept on maintenance. Mopani stated that it held constructive talks with the Zambian government, according to Reuters. The news agency quoted Mopani as saying: “During the 90-day period, Mopani will continue to engage with the government on potential solutions to its current challenges.” Mopani further added that the health and safety of the staff and surrounding communities was a top priority, and Mopani would engage with its employees and local communities regarding the resumption of operations. Although Mopani closed its mines on 8 April, it continued with processing material it has on location in its smelter and refinery. Mopani had cited the reason for the closure due to a quick fall in the copper price, and disruptions to transportation and supply chains as a result of Covid-19.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Last month, Glencore launched a $25m fund in response to the Covid-19 outbreak.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
