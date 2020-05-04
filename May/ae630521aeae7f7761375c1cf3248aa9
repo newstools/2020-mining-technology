@@ -1,0 +1,15 @@
+Engineering company Monadelphous said it has seen deferments on large resources construction projects as a result of supply chain issues in Australia due to the Covid-19 pandemic. Coronavirus has affected the firm’s Engineering Construction division given that awards for potential new contracts for construction projects have been deferred. Monadelphous also saw a material reduction to activity levels in the Maintenance division, particularly in fly-in, fly-out operations with companies reducing non-essential work, as well as delaying maintenance expenditure and deferring shutdowns. The firm stated it will not offer revenue guidance for the financial year ending on 30 June this year. However, the company expects revenue to be similar to that of the previous corresponding period should the current activity levels continue until the end of the financial year. Monadelphous managing director Rob Velletri said: “We will continue to work closely with our customers during these challenging and uncertain times. “Our disciplined and prudent management, loyal workforce and strong balance sheet mean that we are well positioned to deal with the challenges ahead, and the opportunities that will arise in time.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “I am confident that the actions we have taken to refocus the Water Infrastructure business will deliver more profitable and sustainable pipeline of opportunities over the longer term.” In February this year, Monadelphous Group secured a $108m contract at BHP’s $3.6bn South Flank iron ore project in Western Australia’s Pilbara region. In October 2018, BHP Billiton Iron Ore awarded a A$240m ($171.54m) contract to Monadelphous Group to provide general maintenance services at its mine sites, located in the Pilbara region.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
