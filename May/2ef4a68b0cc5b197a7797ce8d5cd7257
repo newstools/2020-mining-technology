@@ -1,0 +1,15 @@
+Global mining giant Rio Tinto is set to contribute $10m to support Covid-19 community initiatives in the US and Canada. The funding will be used to support deprived families and supply critical equipment to frontline workers. Additionally, Rio Tinto is supporting projects to create and maintain regional economic development. In Canada, the company has provided support to the local communities through its operations in Quebec, British Columbia, Labrador and Northwest Territories. Meanwhile, in the US, Rio Tinto’s Resolution Copper project in Arizona and the company’s Kennecott copper operation in Utah are involved in the local community efforts to fight Covid-19. Rio Tinto chief executive J-S Jacques said: “Rio Tinto is proud to play our part in supporting the outstanding and innovative efforts of our people, partners and wider communities in responding to the Covid-19 crisis. “Our investments are targeted at practical solutions like funding the food banks or counselling and support services that are helping frontline response workers and the communities around our operations. We will also play our part in supporting and stimulating current and future economic activity through regional development initiatives that are vital for local jobs and businesses. “Rio Tinto is committed to safely continuing to deliver products to our customers, spending money with our suppliers and investing in local initiatives, while supporting the efforts of governments to protect people and stimulate economic recovery.”   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results Last month, Rio Tinto and communications provider Motorola Solutions jointly designed and deployed a backup communications tool. In the same month, Rio Tinto introduced new measures at its Pilbara operations in Western Australia to combat the coronavirus pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
