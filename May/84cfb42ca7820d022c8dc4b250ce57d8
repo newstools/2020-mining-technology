@@ -1,0 +1,22 @@
+Canada-based mining firm First Cobalt has reported positive results from an independent feasibility study conducted on its permitted cobalt refinery in Ontario, Canada. The Canadian firm said that the expansion of its refinery, which it is carrying out in partnership with commodities trading giant Glencore, would help North America reduce its reliance on supply from China. Last August, Glencore provided a $5m loan facility to First Cobalt to help the Canadian firm to advance engineering, fieldwork, metallurgical testing and permitting associated with the expansion of the First Cobalt refinery. Glencore at that time said it would invest another $40m into recommissioning and expanding the refinery. According to First Cobalt, the project needs an initial capital injection of about $56m. First Cobalt president and CEO Trent Mell said: “The study shows strong asset-level economics that position the refinery to be competitive globally and provide attractive investment returns. The outlook for electric vehicles and the push by automakers to develop shorter supply chains creates an excellent opportunity. “With most of the world’s cobalt refining capacity located in China, there is strong demand for a North American alternative. Our focus will now turn to working with Glencore, our strategic partner, on implementing a new, ethical and transparent supply chain.”   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results Based on a feasibility study conducted by Ausenco Engineering Canada, if the facility operated at 55 tonnes per day (tpd), it could produce 5,000 tonnes per annum (tpa) of cobalt sulphate. By the fourth quarter of next year, the refinery’s production could reach 5,000t of cobalt or 25,000t of cobalt sulphate, representing 5% of the global refined cobalt market. Nico Paraskevas, Glencore copper and cobalt marketing head added: “I would like to congratulate the First Cobalt team on a positive feasibility study. As the world transitions to a low-carbon economy, cobalt will play an essential role in the growth of mobility electrification.” In May last year, the two companies signed a memorandum of understanding (MoU) to finance First Cobalt’s refinery. The deal will also see cobalt feedstock provided to the project. In March 2018, First Cobalt started a metallurgical study on a refinery located near its mill facility in the Canadian Cobalt Camp.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
