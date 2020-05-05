@@ -1,0 +1,22 @@
+The South African Labour Court has ordered that the country’s mining sector must publish safety guidelines on working amid the Covid-19 pandemic by 18 May, a move heralded as a major victory for mineworkers and unions as South Africa begins to relax its lockdown laws. The Department of Mineral Resources and Energy has implemented a temporary Standard Operating Procedure (SOP), which will be in place until a permanent set of guidelines can be announced by the mid-May deadline, and includes a number of measures to better protect workers. The SOP includes rules such as a requirement for mining companies to train employees on the correct use of personal protective equipment, to provide hand sanitiser at mine entrances and exits, and to clean and sanitise surfaces. Miners are also obligated to implement safety measures typically withheld for responses to disasters. The ruling follows significant pressure from the Association of Mineworkers and Construction Union (AMCU), an influential trade union that has been pushing hard for better protection for miners during the crisis. “Today we can truly celebrate May Day, as a day on which the most basic rights of workers have been enhanced,” said AMCU president Joseph Mathunjwa last week.  “Even if we had to use many resources, the end result is truly a massive victory that will undoubtedly save lives of mineworkers, their families as well as the communities. “Our biggest fear was about mineworkers in congested areas like cages and underground conveyancing, and this was also addressed by the SOP,” Mathunjwa continued. “We will now monitor the compliance of mines with these standards, and as AMCU we will support a responsible return to work, once we are satisfied that the mines comply.” The Labour Court also ruled that the publication of permanent safety regulations must follow consultation with the Mine Health and Safety Council, alongside trade unions and employer organisations, to ensure the guidelines cover as much ground as possible.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results The news follows plans by the national government to ease lockdown measures for the country’s critical mining sector  announced last month. With the cooperation of health and safety organisations and trade unions, there is hope that the new regulations will strike a balance between profitability and worker protection.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
