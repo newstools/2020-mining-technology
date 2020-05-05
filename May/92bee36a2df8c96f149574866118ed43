@@ -1,0 +1,22 @@
+Japanese conglomerate Sumitomo and Bowen Coking Coal (BCB) have announced that they will proceed with an earn-in at the Hillalong joint venture, in Queensland. BCB has received a further A$1.2m ($0.76m) through its farm-in agreement with Sumitomo. The Japanese firm will gain a 10% interest in the Hillalong Coking Coal project. In exchange, Bowen is receiving A$2.5m ($1.6m) to fund phase one exploration at Hillalong. According to BCB, the latest A$1.2m payment completes the first tranche of the agreement and the two companies can now proceed with the joint venture (JV) to complete phase one exploration at Hillalong. The joint venture will be managed by Bowen Coking Coal. Sumitomo first signed a formal farm-in agreement in November last year with Bowen, under which it would earn an initial 10% interest in the project, with the right to earn an additional 10% by further funding A$5m ($3.2m). Commenting on the latest developments, Bowen Coking Coal managing director Gerhard Redelinghuys said: “We are extremely pleased with the move towards a Joint Venture with a very capable partner like Sumitomo.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “Not only does it demonstrate confidence in Hillalong’s potential, but it also formalises the relationship to achieve the future milestones in the development of the project.” Bowen Coking Coal said that it would very soon provide an update on the first phase of exploration programme at Hillalong. The Sumitomo Group is one of the Japan’s largest conglomerates. It was initially founded in 1615 and now encompasses a diverse list of businesses operating in the mining and materials. In August 2017, Sumitomo Metal Mining was set to exit the nickel exploration project in the Solomon Islands due to falling nickel prices and unfavourable business conditions.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
