@@ -1,0 +1,15 @@
+UK-based mineral exploration company Erris Resources has raised approximately £330,000 ($410,000), through a share placing, in order to advance its Loch Tay gold project in Scotland once lockdown restrictions are lifted in the country. Erris noted that 7,767,357 shares were placed priced at 4.25 pence per share. The proposed work on the project comprises a major soil sampling programme over the Lead Trial -Dunan and Glen Almond target areas with ongoing licence wide sampling and geological mapping. These works are intended to finalise the selection of prospective drill targets for testing before year-end, subject to timing on lifting the government-mandated coronavirus lockdown restrictions. Erris and its Loch Tay option agreement partner GreenOre have agreed to temporarily suspend the earn-in period so as to ensure that no time will be lost as a result of the Covid-19 lockdown measures. Once the work starts to commence, Erris said it will have three years and eight months left on the earn-in period. Erris Resources CEO David Hall said: “Securing these funds from new and existing shareholders is an endorsement of the opportunity that the Loch Tay Project offers.   Will a global recession spell bad news for the mining industry?  View Results “The Project area is highly prospective and lies within the Grampian Gold Belt, which hosts significant gold deposits such as Curraghinalt and Cononish. “We are thankful for the support that we have received both from new and existing shareholders and I look forward to providing further updates on our progress.” In October 2018, Erris Resources intersected additional high grade mineralisation at its wholly owned Abbeytown zinc-lead-silver-copper project in Ireland. In June 2018, the company started surface diamond drilling at the south end of Abbeytown project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
