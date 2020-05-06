@@ -1,0 +1,22 @@
+Freeport-McMoRan has announced plans to cut production at a number of its operations around the world as the Covid-19 pandemic interferes with mining operations and the global supply chain. The miner said that it would cut molybdenum production in half at its Climax mine in the US state of Colorado, down from a peak last year of 17 million pounds of molybdenum, and that it would make a series of layoffs at its Chino mine in New Mexico, which was closed down last month after three workers tested positive for Covid-19. Freeport-McMoRan expects to lay off up to 825 employees at the mine, which produced 215 million pounds of copper as recently as 2017, and was expected to continue operations until 2034, but now could be permanently closed to help stop the spread of the virus. The company’s operations beyond the US have been hit even harder, with the Catholic News Agency (CNA) and UCA News reporting that 51 employees at its Grasberg gold mine in Indonesia had contracted the virus. The mine employs around 20,000 people, and boasts the world’s largest single known reserve of gold, a deposit of 2.8 billion tonnes at 1.09%. According to CNA, nine miners have been hospitalised with the virus, and a further 42 forced into quarantine to minimise the spread, a dramatic human cost that is the latest struggle for the US-based miner. “Our team has substantial experience in successfully executing under volatile market conditions,” said Freeport-McMoRan president and CEO Richard Adkerson, announcing the miner’s first-quarter results. “I am confident that we will overcome the current challenges and ‘prove our mettle’ as we have effectively done in previous periods of economic weakness. “We continue to achieve important progress in establishing large-scale, low-cost copper and gold production from our underground ore bodies at Grasberg and advance initiatives in the Americas to position FCX for significant increases in cash flows in 2021 and beyond.” Alongside these comments, the miner announced revisions to its operating plans for 2020, highlighted by a $1.3bn reduction in operating costs, and an $800m reduction in capital expenditure, declines of 18% and 30% respectively compared to estimates made prior to the Covid-19 pandemic. The company also estimates a 15% reduction in copper sales volumes originating from North and South America as the pandemic continues to disrupt the global mining industry.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
