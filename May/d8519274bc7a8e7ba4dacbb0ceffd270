@@ -1,0 +1,15 @@
+Multinational commodities giant BHP has allocated A$25m from its A$50m Vital Resources Fund over the past six weeks to support regional communities during coronavirus pandemic. In March this year, BHP announced the A$50m ($28.7m) Vital Resources Fund to support regional Australian communities in its areas of production in response to the significant challenges to those communities caused by the coronavirus pandemic. Since then, the company supported 46 projects across Australia and also provided in-kind support to a number of smaller projects. BHP noted that the spending was focussed on critical areas for Australia’s Covid-19 response, including local healthcare, essential services, mental health services, education, and Indigenous communities. BHP Minerals Australia Operations acting president Edgar Basto said: “We established the BHP Vital Resources Fund to support our regional communities during Covid-19. In just six weeks we have committed half the funding to 46 projects across Australia.” “This funding is being delivered to the people and communities who need it the most, through the organisations and initiatives who are working hard to provide vital support through this difficult time. “We are determined to play our part and the BHP Vital Resources Fund provides critical financial support to help regional communities across the country.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Recently, BHP announced an A$300m ($194m) investment over a five-year period to improve air quality and reduce dust emissions across its Pilbara operations. Last month, BHP established a $25m fund to aid its contractors in Chile. In the same month, BHP confirmed that a small number of its global workforce have tested positive for coronavirus and noted that all of them are recovering well.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
