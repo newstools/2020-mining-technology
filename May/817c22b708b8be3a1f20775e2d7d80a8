@@ -1,0 +1,15 @@
+Barrick Gold has reduced its 2020 production guidance following a conflict with the Papua New Guinea government regarding the Porgera mine last month, concerning the renewal of a 20-year special mining lease. This year, the miner now expects to generate gold between 4.6 and 5 million ounces (Moz), which is 200,000oz lower than its earlier estimate. Barrick stated that it did not expect any further impact on production due to the coronavirus pandemic, which has compelled mine closures across the world. Last month, Papua New Guinea’s government announced it would take control of the Porgera gold mine after refusing to extend Barrick Niugini’s special mining lease (SML) over the facility. Barrick Niugini, which is jointly owned by Barrick Gold and China-based Zijin Mining, owns a 95% stake in the Porgera Joint Venture that owns the Porgera gold mine. The Porgera gold mine is located in Enga Province, about 600km north west of Port Moresby. Barrick previously said that it would contest the move, which it regards as “tantamount to nationalisation”.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Barrick Gold president and CEO Mark Bristow said: “Our sustainability and regional teams have done a great job in taking timely action to introduce comprehensive and carefully considered measures at all our sites and offices to manage and mitigate any impacts of Covid-19 on our employees and contractors. “In Barrick’s spirit of partnership, we have extended Covid-19 support to our local communities and our host countries and are working closely with their health authorities. “To date we have donated more than $20m to our host countries, many of whom have limited healthcare facilities, to fund the purchase of medical equipment and PPE.” Furthermore, Barrick reported net earnings of $400m during the first quarter this year, compared to $111m in the first quarter of last year. The company’s adjusted net earnings came to $285m in Q1 2020, compared with $184m in the same period last year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
