@@ -1,0 +1,12 @@
+Canadian mining firm Kinross Gold has reported that its net earnings almost doubled to $122.7m for the first quarter this year, compared with net earnings of $64.7m during the same period last year. The company noted that the increase was mainly due to higher margins, which outpaced the increase in average realised gold price, and lowered other operating expenses. During the first quarter this year, Kinross produced 567,327 attributable gold equivalent ounces, compared with 606,031 in Q1 2019. The decrease in production during this quarter was mainly due to lower production at Brazil’s Paracatu mine, Russia’s Kupol and Ghana’s Chirano mines, and the end of production at Chile’s Maricunga, partially offset by higher production at Fort Knox mine in Alaska, US. Meanwhile, revenue from metal sales increased to $879.8m in Q1 2020, compared with $786.2m during Q1 2019. Kinross Gold President and CEO Paul Rollinson said: “During the quarter, we focused on protecting the health and well-being of our employees and communities against the spread of Covid-19 while maintaining the continuity of our operations in a safe manner. “The Company generated strong free cash flow and increased earnings year-over-year, ending the quarter with excellent liquidity, low net debt, and with investment grade credit ratings from all three major rating agencies.   How concerned are you about spread of Coronavirus?  View Results “During the quarter, our margins increased by 33%, outpacing the 21% increase in average realized gold price. In January this year, Kinross Gold completed its previously announced acquisition of heap leach development project Chulbatkan in Russia from N-Mining for $283m. In June 2018, Kinross continued with the initial Gilmore expansion project at its Fort Knox mine, located in Alaska, US. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
