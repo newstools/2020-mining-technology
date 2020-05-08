@@ -1,0 +1,12 @@
+Western Australia has unveiled new administrative procedures to support mining companies during the coronavirus pandemic. The state’s Department of Mines, Industry Regulation and Safety (DMIRS) will accept electronic signatures on documents which are not required to be witnessed. Furthermore, DMIRS will deliver other tenement-related documents via email where possible. Western Australia Mines and Petroleum Minister Bill Johnston said: “The streamlining of these administrative procedures is another example of the McGowan Government and industry working together to identify opportunities to better support them during this challenging time. “The mining sector has been co-operative and compliant in response to the measures the Government has put in place to slow the spread of Covid-19. “Maintaining a strong resources sector will be critical in ensuring our State and the wider Australian economy are well-positioned to bounce back when the global economy recovers from this pandemic.” The Western Australian Chamber of Minerals and Energy has welcomed the latest move, with CEO Paul Everingham saying it was a ‘win for common sense’, especially during the pandemic.   How optimistic are you about your company’s growth prospects?  View Results Paul added: “CME sought this practical approach from the Government not only for streamlining and efficiency purposes, but also to ensure that necessary industry engagement could continue during Covid-19.” In March this year, Western Australia announced that exploration companies within the region can apply for an expenditure exemption from the state government if they are unable to meet the tenement’s requirements in light of the Covid-19 outbreak. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
