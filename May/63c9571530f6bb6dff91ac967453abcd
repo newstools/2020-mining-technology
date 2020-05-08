@@ -1,0 +1,22 @@
+Albemarle has expressed interest in acquiring all or part of Chinese manufacturing firm Tianqi Lithium’s controlling stake in Australia’s Greenbushes lithium mine. The mine is located approximately 250km south of Perth. Talison Lithium, a joint venture between Tianqi (51%) and its partner Albemarle (49%), is the operator of the project. Last month, the Chinese firm said it was exploring ways to sell equity and assets, including Greenbushes, to reduce debt, Reuters reported. With a 49% stake in the project, Albemarle has the ‘right of first refusal’ over any stake sale. This puts Albemarle in a better position over competitors Rio Tinto and Wesfarmers, which are considered as potential buyers of Greenbushes stake. Albemarle chief executive Kent Masters was quoted by the news agency as saying: “We’re interested in it. We’re following it, but we’re also mindful of the current market environment. “We know that the Chinese government will probably have influence on where that asset ends up.”   How optimistic are you about your company’s growth prospects?  View Results Reuters reported that the takeover of Greenbushes mine will enable Albemarle to gain control over cheap source of the white metal. Recently, Albemarle reduced its 2020 budget as a result of the impact due to the spread of coronavirus outbreak. In May last year, Western Australian Environmental Protection Authority (EPA) approved the proposed expansion of Talison Lithium’s Greenbushes mine. In October 2018, Tianqi received a favourable ruling from Chile’s antitrust court regarding the completion of the $4.1bn acquisition of around 25% stake in lithium producer Sociedad Química y Minera de Chile (SQM).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
