@@ -1,0 +1,15 @@
+Great Panther Mining has reported that two employees that live in the nearby communities of the Tucano Gold Mine in northern Brazil have tested positive for Covid-19. They are currently stable with mild symptoms and remain in isolation at home. Operations at the mine have not been impacted and the company has continued to operate the mine at full capacity with strict Covid-19 mitigation protocols implemented since mid-March. The company noted that there were no other confirmed or suspected cases at its Mexican operations or Peru’s Coricancha Mine, and said that these mines are complying with temporary government-mandated restrictions in light of the coronavirus pandemic. In a press statement, Great Panther said: “The restart of operations in Mexico and Peru will be a phased approach following health guidelines and government regulations in each jurisdiction with appropriate protocols in place to protect the health and safety of our workforce and communities. “Great Panther places the safety and wellbeing of its personnel and communities as its highest priority. Consequently, all operations have implemented pandemic plans aligned with local health authorities and the World Health Organization guidelines. “These plans cover a large number of measures that are reviewed continuously, and some of the steps implemented are listed below.  Additionally, each country management team has set up special committees to rapidly respond to changing conditions in their regions.”   How concerned are you about spread of Coronavirus?  View Results Great Panther said it is planning to resume a safe ramp-up of operations at the Topia mine in Mexico on 18 May, while the Guanajuato mine complex in the country is expected to restart operations from 30 May. Meanwhile, the Coricancha mine, which is currently under care and maintenance, would be allowed to resume operating activities in July. Last July, Great Panther approved a positive production decision for Coricancha mine based upon the final results of the mine’s trial stope and bulk sampling programme (BSP). In March last year, the company acquired gold producer Beadell Resources.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
