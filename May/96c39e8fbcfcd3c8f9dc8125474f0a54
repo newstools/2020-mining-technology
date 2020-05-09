@@ -1,0 +1,12 @@
+Chinese state-controlled firm Shandong Gold Mining has signed an agreement to acquire all of the outstanding shares of Canadian miner TMAC Resources. The deal will see the Chinese firm pay C$1.75 ($1.24) a share in cash to TMAC. According to TMAC, the offer represents a premium of 52% to TMAC’s 20-day average price as of 06 May. The total equity value of the transaction is $149m. TMAC noted that Shandgold had also committed to purchase another 12 million shares, at the same price, in a private placement for around $15m. The transaction enables the Chinese firm to secure continued investment in the remote Hope Bay mine in Nunavut. Hope Bay is a high-grade gold camp which produced 138,510oz last year.   How optimistic are you about your company’s growth prospects?  View Results It is located approximately 685km northeast of Yellow Knife and 125km south-west of Cambridge Bay, in the western Nunavut territory of Canada. The mine began its commercial production in May 2017. TMAC president and CEO Jason Neal said: “The Transaction is the culmination of the strategic review process we announced earlier this year. “Over the past several months, SD GOLD has completed a significant due diligence review of TMAC, including a site visit to Hope Bay earlier this year. “SD GOLD, as one of the world’s largest gold producers, has the financial strength, technical capability and long-term vision to maximize the value of the Hope Bay camp.” In September 2018, Barrick Gold signed a mutual investment agreement with Chinese mining company Shandong Gold. This agreement is set to further bolster the relationship between the parties. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
