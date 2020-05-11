@@ -1,0 +1,15 @@
+Almost 90 Covid-19 cases have been recorded among employees of Polyus Krasnoyarsk, a unit of Russian gold producer Polyus. As part of a continuous testing programme for the virus, some tests have returned positive results at Polyus Krasnoyarsk-operated Olimpiada gold mine. The mine is located in Severo-Yeniseisk district of Krasnoyarsk Krai region. The regional branch of Russia’s consumer health watchdog Rospotrebnadzor noted that of the 89 infected employees at the unit, 82 tested positive for the virus in a day. Currently, those infected with the virus are in self-isolation and testing of more employees continues. According to Rospotrebnadzor, nearly 47.2% of the total 89 cases are residents of the Krasnoyarsk Territory. The consumer health watchdog said that a sanitary and epidemiological investigation is currently underway at the mine site.   How optimistic are you about your company’s growth prospects?  View Results Polyus noted that most of the employees who had tested positive for the virus were asymptomatic. In a press statement, Polyus said: “To recap, special preventive measures have been introduced at Polyus’ operations since late March. These include health checks for workers on arrival, daily temperature checks for all staff and contractors and intensive deep cleaning and disinfection of areas and equipment. In the event that any worker develops Covid-19 symptoms quarantine zones are in place at all operating assets. “Operations at Olimpiada are currently uninterrupted. To date, the coronavirus has had only insignificant impact on production or product shipments at the Krasnoyarsk Business Unit.” Polyus Krasnoyarsk is the largest business unit of Polyus. It operates Olimpiada, Blagodatnoye and Titimukhta mines. As of 9 May, Russia had reported 198,676 cases of coronavirus and 1,827 deaths. The country now stands at the fifth place with the highest total of confirmed coronavirus cases, reported Reuters. In June 2018, Polyus was planning to make a final investment decision (FID) on the Sukhoi Log gold deposit in eastern Siberia by 2020-2021.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
