@@ -1,0 +1,22 @@
+Multinational mining company Anglo American has started a staged re-entry to the Grosvenor coal mine in Queensland after receiving approval from the state’s mines inspectorate. Last week, Anglo American suspended operations at the Grosvenor coal mine after an explosion injured five people. The explosion prompted an evacuation after which the company sent its 800 workers and contractors at the Bowen Basin mine home on full pay. Last week, Anglo American noted that the company is engaged in working with the local authorities to ensure that the mine is safe to return underground. Grosvenor Coal Mine is located in the Moranbah region of central Queensland, Australia. It is a longwall metallurgical coal operation that was commissioned in 2016. Anglo American metallurgical coal business CEO Tyler Mitchelson said: “Our five injured colleagues continue to receive the best treatment possible from the Royal Brisbane and Women’s Hospital, and we are incredibly grateful to all the staff who are caring for our colleagues and their families, and to all those who are also offering support. “The staged re-entry ensures that all safety controls are in place including reconnecting the gas monitoring equipment, restoring power to the underground and pumping excess water from the mine.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results “Our team at Grosvenor has worked tirelessly, under challenging circumstances, to ensure we can safely re-enter the mine so we can begin investigations and I want to acknowledge their work and dedication.” Tyler confirmed that the operations at Grosvenor will remain suspended until the cause of the accident has been identified.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
