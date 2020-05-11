@@ -1,0 +1,15 @@
+Engineering contractor CIMIC Group has reported revenue of $3.3bn in Q1 2020, compared to $3.4bn in the corresponding period last year. It delivered a net profit after tax of $166m during the first quarter. CIMIC Group CEO Juan Santamaria said: “During the first quarter, we maintained a disciplined focus on sustaining a strong balance sheet, generating cash, and taking a rigorous approach to tendering, project delivery and risk management. “We continue to pursue an increasing number of contracts that effectively manage risk in construction (such as alliances and collaborative partnerships, and managing contractor and cost reimbursable contracts), and grow our longer-term contracts in PPPs, services and mining and minerals processing.” In the first quarter this year, CIMIC Group announced several major contracts that contributed to the company’s first quarter performance. These contracts included a $100m contract awarded to its subsidiary Thiess as part of a five-year framework agreement with Rio Tinto Iron Ore in Western Australia. In January this year, CIMIC Group subsidiary UGL secured contracts valued at A$180m (approximately $123.4m) to provide services for maintenance, shutdowns and sustaining capital projects for its mining clients in Western Australia.   Will a global recession spell bad news for the mining industry?  View Results CIMIC Group executive chairman Marcelino Fernández Verdes said: “Our priorities at this time are the health and safety of our people and the continued provision of essential services and critical infrastructure for the communities where we operate. “Notwithstanding the short-term impacts from the evolving Covid-19 situation, the outlook across the Group’s core markets remains positive. Once we have better visibility of the consequences of Covid-19 on the business we will provide an update to 2020 profit guidance, if required.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
