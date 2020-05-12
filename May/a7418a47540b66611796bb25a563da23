@@ -1,0 +1,22 @@
+Canadian silver miner Fortuna Silver Mines has announced that it has entered into an agreement with a syndicate of underwriters which has agreed to purchase 20 million common shares of the company for $3 per share for aggregate gross proceeds of $60m. Fortuna has also granted the underwriters an over-allotment option, allowing for the purchase of up to an additional three million shares to cover any over-allotments as well as for market stabilisation purposes. In the event the over-allotment option is exercised in full, the gross proceeds to Fortuna will be $69m. The funds raised from the offering will be used to fund the remaining construction- and preproduction-related expenditures at Fortuna Silver Mines’ Lindero gold project in Argentina. The closing of the offering is subject to the satisfaction of certain conditions, including the receipt of all necessary regulatory approvals. The deal is expected to close on 20 May. At the end of last week, Fortuna provided an update on resuming construction activities at its Lindero project. The Argentinian government declared a period of national “social isolation” to tackle the Covid-19 pandemic on 19 March, initially to be in place until 31 March. The isolation period was extended until 10 May to curb the spread of Covid-19 in the country. As a result of Argentina’s measures, construction at Lindero was halted and the site was reduced to a skeleton task force to maintain essential activities. At the start of April, the Argentinian government included mining and related work in the list of essential industries permitted to operate during the isolation period. To resume operations, companies were required to submit a Minimum Emergency Operations Program. Fortuna’s plan was submitted and approved on 28 April. Fortuna Silver Mines said that it needed between $75m and $80m to complete the construction and fund the project up until the start of commercial production in the first quarter of 2021. Once commercial production begins, the mine is expected to produce between 145,000 and 160,000 ounces of gold per year at an all-in sustaining cost of $520 to $620 per ounce.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results Fortuna shares have risen by more than 1% on the Toronto Stock Exchange following the funding announcement.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
