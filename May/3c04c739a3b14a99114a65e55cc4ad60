@@ -1,0 +1,15 @@
+Canadian miner Pure Gold Mining has announced that it remains on track to pour first gold by the end of this year at its Madsen gold mine in Red Lake, Ontario. Pure Gold Mining reported “significant progress towards completing construction” of the mine with Covid-19 related measures in place to contain the spread of the virus. Last September, the Canadian firm started construction of Madsen mine. It is claimed to be one of the highest grade development-stage gold projects in Canada. Pure Gold noted that it continued to build size and scale at the mine. This month’s drilling at the mine site will focus on converting resources to reserves. The company also said that drilling is aimed at increasing resources from new high-grade discoveries, both at surface and depth. According to the company, the detailed engineering of the process plant is 95% complete and the mine is almost nearing completion of construction.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Pure Gold Mining president and CEO Darin Labrenz said: “We are not just building an integrated mining operation. We are building a fully funded, long-life growth company uniquely positioned in the Red Lake camp, one of the world’s largest gold-producing districts. Our opportunity is tremendous: the real potential to become Red Lake’s next senior gold producer. “Our 47km2 property possesses a proven, large high-grade gold system, with the same rocks, structure, timing, geology, grade and endowment potential as Evolution’s Red Lake mine just 15km away. “Work to date has proven we have a clear and precise understanding of the geology and district, and we have demonstrated our ability to execute on our goals.” In February last year, Pure Gold Mining released Madsen mine’s feasibility study that outlined a 12-year, high-grade underground mining operation that can produce about 125,000 ounces of payable gold per annum. In October last year, Pure Gold Mining intersected gold mineralisation at Madsen mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
