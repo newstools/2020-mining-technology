@@ -1,0 +1,22 @@
+Canadian precious metals producer SSR Mining has signed a definitive agreement to acquire Alacer Gold in an all-stock deal valued at C$2.41bn ($1.72bn). Under the terms of the agreement, Alacer shareholders will receive 0.3246 of an SSR share for each Alacer share held, which equates to a consideration of C$8.19 ($5.84) per Alacer share. Upon closing of the transaction, SSR and Alacer shareholders will collectively own approximately 57% and 43% of the combined entity, respectively. SSR Mining president and CEO Paul Benson said: “The zero-premium merger of SSR Mining and Alacer creates an exciting leading intermediate gold producer with exceptional financial strength, robust margins, strong cash flow generation, and long mine lives that will be run by highly experienced management with a track record of value creation. “Consistent with our long-standing strategy of growth through a combination of organic development and M&A, the new SSR Mining will be well positioned to build on the strong foundation of both companies to continue growing and delivering value for all shareholders.” The new entity will continue to operate as SSR Mining. It will be headquartered in Denver, Colorado. The merger will create a diversified precious metals producer with assets spanning across four countries, namely Alacer’s flagship Çöpler mine in Turkey, Marigold gold mine in Nevada, Seabee gold operations in Saskatchewan, and the Puna operations in Jujuy, Argentina.   Will a global recession spell bad news for the mining industry?  View Results Alacer Gold president and CEO Rodney Antal said: “The complementary nature of the assets and the cultural alignment of the organisations will facilitate an effective integration and allow us to continue to deliver value to our shareholders.” Last September, SSR Mining acquired Golden Arrow Resources’s remaining 25% interest in Puna Operations, post which it became the sole owner of Puna Operations.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
