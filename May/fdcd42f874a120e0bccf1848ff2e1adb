@@ -1,0 +1,22 @@
+Valmec has secured a contract with Newmont Mining Services for an additional package of infrastructure works associated with its proposed Tanami Expansion 2 (TE 2) project in Australia. The TE 2 project is located 540km north-west of Alice Springs in Australia’s Northern Territory. It is an underground gold mine capable of producing more than 496,000 referred ounces of gold per annum. The contract, alongside Valmec’s new infrastructure services contract for Water Corporation, has a combined value of around A$23m (approximately $15m). Last June, Valmec secured the first construction contract from Newmont for infrastructure works associated with Tanami Expansion 2, which is valued at around A$6m ($5m). Later in October, Newmont moved into the execution phase of Tanami’s expansion project. Valmec managing director Steve Dropulich said: “We are pleased to announce our latest awarded contracts with Water Corporation and Newmont Mining Services and to be able to continue our strong trading relationships with both customers, demonstrating both the strength of our existing relationships and Valmec’s ongoing ability to diversity and grow its presence within the greater government utilities and resources sectors. “Together with Valmec’s current suite of services in onshore gas infrastructure, our latest awarded projects and service contracts are testament to the resilience of our market offerings, even within these challenging Covid-19 economic conditions.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Established in 1921, Newmont produces silver, copper, zinc and lead.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
