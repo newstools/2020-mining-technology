@@ -1,0 +1,22 @@
+Out of the total 519 votes, 45,1% think that yes, caution is needed as more efficient batteries are being developed all the time, 39,5% say that no, such investments are still strategic as battery minerals will be essential for decades to come, while 15,4% unsure about the prospects of battery minerals. The popularity of battery minerals such as cobalt, copper, nickel, lithium, manganese, and related minerals, which have been central to the creation of electric vehicle (EV) batteries, has risen along with the growing demand for electric cars. While only 3.3 million battery EVs were in use globally in 2018, according to Statista, their number is projected to increase to 125 million by 2030, according to forecasts by the International Energy Agency. Currently, these estimates are putting pressure on the battery industry to source materials for manufacturing as even more batteries will have to be designed, manufactured, and deployed. Battery minerals will also have to compete with smart-home systems such as Alphabet’s Nest thermostat and Amazon’s Alexa personal assistant which are already predicted to consume about 1.5 million tonnes of copper by 2030, according to British consultancy BSRIA, contributing to the scarcity of cobalt and other technology minerals. As a result, the EV industry will either have to source more of the essential battery minerals to keep powering electric batteries or come up with a different type of technology that uses easy-to-obtain materials. Scientists have been on the search for a new generation of batteries that require less or even no cobalt and lithium. These efforts to reduce dependency on the mineral industry and the strain on the environment intensive mining causes, in turn, make investments in already-known battery minerals risky. For example, Samsung SDI, the storage battery manufacturer, released plans in February 2018 to recycle cobalt from used mobile phones and develop lithium-ion batteries with a minimum amount or no cobalt at all, in an attempt to make the industry more sustainable.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results Another ambitious project, endorsed by the Renault-Nissan-Mitsubishi Alliance by US startup Ionic Materials, focuses on the manufacturing of solid-state cobalt-free battery materials to come up with a solution to the metal shortage problem. Ionic Materials has also created a solid plastic electrolyte designed to replace the unstable liquid electrolyte in a battery. Another example of alternative battery technology is the world’s first rechargeable proton battery, created by researchers at RMIT University in Melbourne, Australia, which uses carbon and water instead of lithium. While this battery is only a small-scale prototype, for the time being, the company believes that it can become competitive with lithium-ion batteries in the near future. While researchers are looking to diversify the EV battery market and come up with new technologies, the industry is likely to keep relying on existing battery minerals for quite some time until a more stable and efficient solution is tested, approved, and commercially manufactured. Major AV companies like Tesla continue to put emphasis on the global shortages of nickel, copper, and other electric-vehicle battery while countries such as Australia and the UK are planning to ban fossil fuel and hybrid car sales by 2035. This combination of big manufacturers sticking to traditional battery minerals for the foreseeable future to supply rapidly growing markets fuelled by aggressive national government schemes should result in a lucrative demand for battery minerals for some time. Miners should however keep in mind the pace of change, batteries as we know them today barely existed a decade ago, and the next game-changer could be right around the corner.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
