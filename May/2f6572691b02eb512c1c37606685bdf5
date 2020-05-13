@@ -1,0 +1,12 @@
+Wireless networks provider Rajant and Hitachi Construction Machinery Australia have partnered on the use of autonomous haulage systems (AHS) in an Australian coal mine. The partnership is aimed at improving operational safety and productivity through the use of AHS. Hitachi has chosen Rajant’s Kinetic Mesh system as it is the only industrial wireless network that enables vehicle-to-vehicle (V2V) communication. Rajant Kinetic Mesh allows autonomous vehicles to talk directly to each other and provides improved coverage and reliability. Hitachi Australia AHS Business Unit general manager Greg Smith said: “Rajant is a Hitachi central wireless network partner for the mining industry when it comes to automation. “Deployed in 200 of the largest mines globally, Rajant has the network Hitachi relies on for our autonomous haulage systems, significantly reducing human exposure to safety hazards in mining’s hostile environments.” Rajant’s proprietary InstaMesh networking software protocol optimises performance of the Kinetic Mesh as network characteristics change, without the need for a human intervention.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results According to Rajant, mobile nodes can directly communicate with each other, allowing vehicle-to-vehicle communications between manned and unmanned vehicles. Rajant CEO Robert Schena said: “In our Australian coal mine deployment with Hitachi, there are currently six autonomous haul trucks in production, scaling to over 45 during 2020/21, with Rajant. “The mine’s existing Rajant wireless network deployed across a vast number of mobile and fixed infrastructure easily met the requirements to support and enable Hitachi’s Autonomous operations. “Additionally, Hitachi systems can be retrofitted onto existing vehicles expanding their scope and market significantly.” Rajant’s wireless solutions provide networks for mining, homeland security, first responders, as well as telecommunications service providers. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
