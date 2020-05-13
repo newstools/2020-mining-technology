@@ -1,0 +1,22 @@
+Record low rainfall is severely limiting water resources across vast swathes of Australia, including the all-important Murray-Darling basin. We look at the impact persistent drought can have on mining, and ask if more can be done to limit water use in this notoriously thirsty industry. We also look at how, with Newmont achieving the largest gold reserves in its history, the company’s Australian efforts have paid off in recent years. Elsewhere, we investigate whether the Australian Government is allowing mining majors to avoid climate regulation. Finally, we break down the Wright family court case and what it says about mining dynasties, profile exploration in Victoria, and consider the mining collaboration announced between Nigeria and Australia. Click here to read the latest power industry news and analysis, and join the conversation on Twitter. Drought: how water scarcity could affect mining in Australia With record low rainfall severely limiting the availability of water resources across vast swathes of Australia, Scarlett Evans speaks to Associate Professor Claire Côte, director of the Centre for Water in the Minerals Industry at the University of Queensland, about the impact of drought on mining operations. Read more.   How optimistic are you about your company’s growth prospects?  View Results Going for gold: Newmont’s Australian success Through technological innovation, extensive exploration work and its merger with Goldcorp, Newmont has become the world’s largest gold producer, with its Australian operations leading the way. JP Casey learns more. Read more. Emissions scandal: why the government let major miners’ limits slide New analysis has revealed BHP and other major miners were routinely given government approval to exceed their emission limits. Heidi Vella asks: what does this say about the often contradictory and complex relationship between governance, the mining sector and climate change mitigation in Australia? Read more. Family feud: court cases and controversy among Australia’s mining dynasties Julian Wright, estranged son of late Australian mining mogul Peter Wright, is suing his siblings for allegedly lying to him about the value of his share in the company, effectively cheating him out of billions of dollars in inheritance money. JP Casey considers the case, and how it reflects on Australia’s mining dynasties. Read more. Victoria: how is the state meeting its exploration targets? In 2018, the Victorian Government announced a five-year plan to put A$220m towards exploration in the state, aiming to turn Victoria from an area of mining headquarters to an area of mining production. Two years into the scheme, Scarlett Evans considers its successes and failures, and what the future holds for the state’s blossoming minerals sector. Read more. Can Australian expertise help Nigeria’s mining industry to take flight? Following the Nigeria-Australia Investment Forum held in Melbourne in March, the two nations plan to work together to develop the former’s nascent mining sector. Can Australian expertise kick-start a new industry in Nigeria, or will old problems continue to hold it back? Heidi Vella investigates. Read more. The Covid-19 outbreak has brought huge restrictions for fly-in/fly-out workers, who make up a large proportion of the Australian mining workforce. We ask, how has Covid-19 disrupted Australian mining’s flow, and could the crisis prompt a rethink about this way of working? We also look at whether iron ore will hold up under the uncertainty of the coming months, explore the long-term future of Tasmania’s mining sector, and examine Australian operations in Africa. Finally, we map out autonomous and remote-control projects in Australian mining, chart the effect of Covid-19 on the country’s mining sector as it happened, investigate the future of rare earths in Australia, and speak to Australian Mines about its drive towards carbon neutrality.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
