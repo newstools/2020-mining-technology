@@ -1,0 +1,15 @@
+Canadian precious metals exploration SilverCrest Metals has announced that it will resume exploration and development work at its Las Chispas gold-silver project in Sonora, Mexico. The mine, which underwent a temporary suspension due to national covid-19 containment protocols, is expected to restart operations by mid-May. The company also reported in-fill and expansion drill results for the Babi Vista Vein at Las Chispas, highlighting hole BV19-39, which intersected 1.8m grading 78.83 grams per tonne (g/t) of gold and 5,235.4 g/t silver. SilverCrest CEO Eric Fier said: “The Babi Vista Vein continues to add value to Las Chispas as we in-fill drill for resource conversion and expansion of additional high-grade silver-gold mineralisation. “Babi Vista was discovered in 2019 while constructing the Santa Rosa decline to intercept the Babicanora Vein in the Area 51 zone. With the schedule delays caused by Covid-19 global impact, resource estimation for the ongoing feasibility study has been pushed for completion to Q4, 2020 which allows for additional drill results, including Babi Vista, to be added to the study. “More specifically, this additional time should better define the Babi Vista Vein and help in mine design and schedule by accelerating this conveniently located (access via the decline) high-grade vein early in the mine life.” The Las Chispas property is located approximately 180km northeast of Hermosillo in Sonora, Mexico.   How concerned are you about spread of Coronavirus?  View Results The Government of Mexico has announced that mines would be allowed to reopen in Sonora as long as they were following strict Covid-19 protocols from 18 May. SilverCrest plans slow restart of operations at the mine site with an initial remote isolated camp in order to reduce physical contact with communities surrounding the mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
