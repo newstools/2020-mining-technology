@@ -1,0 +1,22 @@
+US equipment and machinery maker Caterpillar has expanded the Cat MineStar Solutions suite of technologies with a new technology platform MineStar Edge. The new platform is a cost-effective solution that is also suitable for smaller mining operations. Caterpillar says it is adding this new technology in order to align with the way many mining operations manage their businesses. The MineStar Edge platform creates an operational ecosystem instead of just maintaining data. It keeps building itself, learns decision-making and recognises patterns by making use of cloud computing and data fusion, machine learning, and artificial intelligence. The new platform allows the mine managers to focus on improving operations rather than gathering and interpreting data. Cat MineStar Solutions commercial manager Ryan Howell said: “In early deployments of Edge Equipment Tracking and Production Recording, we saw the mines achieve significant gains. A phosphate mine was able to increase the average tons per load by 15% and to reduce the number of underloads by 29%. The mine also reduced shift change time by 17%.   How concerned are you about spread of Coronavirus?  View Results “A limestone quarry increased production by 20% by using the information to reduce underloads, and tracking data helped them improve blend compliance. “We estimate that sites currently using paper reporting systems will be able to increase production by 20% to 30%. For mines using production recording technology, Edge will increase accuracy, and, through the use of cloud technology, Edge will reduce system support tasks for the customer.” In May last year, Caterpillar signed an agreement to supply Rio Tinto with mining machinery to improve operational safety and performance at the latter’s Koodaideri iron ore project in the Pilbara, Western Australia.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
