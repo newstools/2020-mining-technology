@@ -1,0 +1,22 @@
+Industrial machinery company Metso and technology firm Outotec have received an unconditional merger control clearance from the European Commission for the combination of Metso’s Minerals business with Outotec. Metso and Outotec received clearances from the competition authorities of a number of other jurisdictions, including Canada, Chile and Turkey. Both the companies involved in the transaction are based in Finland. In July last year, Metso Minerals and Outotec initially signed an agreement to create a new leading entity in process technology and services for the mineral and metal industries. According to the initial agreement, the combined company will be named Metso Outotec and does not include Metso Flow Control. Under this agreement, Metso Flow Control, which is a part of Metso Minerals, will be operated as a pure-play listed entity under the name of Neles. Outotec and Metso expect the completion of the merger on 30 June this year, subject to approval by other required regulatory authorities, including clearances from certain competitors. Upon completion of the merger, the new company will have 15,600 employees, and an illustrative 2018 combined sales and adjusted EBITA of €3.9bn ($4.21bn).   How optimistic are you about your company’s growth prospects?  View Results The combination will enable the companies to strengthen their capabilities in technology and R&D, product and process excellence, as well as increase their global footprint. Outotec CEO Markku Teräsvasara said: “The combination of Outotec and Metso marks an important milestone in each companies’ histories and in Outotec’s strategic development. “I am excited about the many benefits that the combination will deliver for customers, employees and ultimately shareholders, with the larger scale and combined strengths of both companies.” In September last year, Metso opened its first performance centre in Santiago, Chile, to boost its remote-monitoring capabilities for the mining industry.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
