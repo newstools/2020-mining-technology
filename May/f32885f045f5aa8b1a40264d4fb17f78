@@ -1,0 +1,22 @@
+Engineering company Civmec has secured a contract for significant development works at Rio Tinto’s Mesa A operational hub in the Robe Valley, Western Australia. Rio Tinto’s Robe Valley Sustaining iron ore project is located in the Pilbara region of Western Australia. The iron ore project will encompass the development of three new mining deposits and supporting infrastructure for Rio Tinto’s existing Mesa A and Mesa J operational hubs. This contract, alongside other recent work orders for Civmec’s maintenance division from Rio Tinto, is valued at A$165m ($106.7m). Under the contract package, Civmec will supply, fabricate, modularise, transport, erect, modify, install and commission structural, mechanical, piping, electrical and instrumentation, as well as communication work for the Mesa A wet plant. This will also include the screening, surge bin, scrubbing facilities and associated conveyor systems, sub stations and all piping and cabling, as well as trenching for underground services. Civmec CEO Patrick Tallon said: “Rio Tinto has always been a good client for us and we have a long history of supporting the safe, high quality and timely delivery of their projects in Western Australia and Queensland, across construction, manufacturing and maintenance.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results “We are very pleased to have secured this opportunity to partner with them again.” Civmec noted that fabrication is due to commence at its Henderson facility in the coming weeks. This work will employ about 200 people. The on-site structural, mechanical and piping will require about 240 workers at the peak stage of the project, which will begin later this year. Meanwhile, the electrical work is due to start early next year, providing approximately 100 jobs. Civmec’s total order book value currently stands at $895m ($579m). In February last year, Civmec secured a contract from Albemarle Lithium to build a lithium hydroxide plant in south-west Western Australia (WA).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
