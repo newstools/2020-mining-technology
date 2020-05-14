@@ -1,0 +1,22 @@
+It marks a shift for the fund’s ethical considerations and underlines the growing importance of climate considerations for securing investment. Already this year, BlackRock and other investment firms have announced they would no longer fund coal projects. Norway’s sovereign wealth fund, officially the Government Pension Fund of Norway, was established in 1990 to invest Norway’s surplus oil and gas revenues in a way that would be sustainable in the long-term as well as ensure the wealth benefits current and future generations. Climate concerns Last year, Norway’s parliament agreed to toughen limits on coal investments using the fund, by excluding companies that mined more than 20 million tonnes of coal a year or generated more than 10 gigawatts of power using coal. These new exclusions are the first application of these coal requirements. The fund held stocks worth $1.6bn in companies that were excluded by the new rules as of the end of 2019. The fund has also put another set of companies including BHP under observation for possible exclusion at a later date. Along with Uniper, Enel and Vistra Energy, BHP has been warned that it will lose investment from Norway if it does not address its coal use and production. Speaking to Reuters, acting environmental policy leader at WWF Norway said: “This is good news that the biggest producers of coal in absolute terms are finally out of the fund.” The fund operates in line with ethical guidelines set out by the Norwegian parliament and has previously excluded tobacco companies, weapons manufacturers, as well as companies with documented human rights violations.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results The fund has also moved to exclude four Canadian oil companies for excessive greenhouse gas emissions after the Council on Ethics recommended that companies with “an unacceptable level of greenhouse gas emissions” be excluded from investment. Greenhouse gas emissions became a potential exclusionary criterion in 2016, but it took time to agree on what constituted an unacceptable level of emissions. The decision to exclude the four Canadian oil companies on that basis could pave the way for further future exclusions. Response from excluded companies A spokesperson for Anglo American said of the company’s exclusion: “We are working towards an exit from our remaining thermal coal operations in South Africa, ensuring that we do so responsibly.” Enel said it was developing its business in line with the Paris Agreement, which seeks to limit global temperature rises to no more than 1.5 degrees Celsius and cut carbon emissions to zero by 2050. Uniper, one of the companies under observation for possible future exclusion, said: “Uniper in its strategic new focus has presented a clear exit plan from coal and aims for climate-neutral power production in Europe by 2035.”
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
