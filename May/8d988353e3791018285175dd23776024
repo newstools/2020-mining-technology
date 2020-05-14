@@ -1,0 +1,22 @@
+Sandvik is continuing its sustainability drive, announcing that it is trialling its first Stage V compliant underground truck at the Boliden-owned Tara zinc mine in Ireland. The Stage V loaders were first announced in December last year. Despite current global market uncertainty as a result of coronavirus pandemic, Sandvik’s flagship truck TH663i, which is equipped with Stage V engine technology, is currently undergoing an extensive field trial period at Tara zinc mine. Trialing this technology enables Sandvik to obtain first-hand customer feedback on both technical and operational performance of the truck. The Stage V engine in the 63 tonne (t) truck is expected to deliver reduced emissions. This contributes to reduction in mine ventilation rates. Sandvik Mining and Rock Technology Trucks product line manager Pia Sundberg said: “We want to allow enough time for sufficient testing of new technology, since it is of benefit to both sides. Possible hiccups that can often occur when developing something new are identified prior to the product being fully commercialized, which enables us to serve our customers better in the long run. “Based on the feedback that we receive, we are still able to do some modifications if necessary and thereby make sure that the TH663i meets expectations when it is released to the market with the latest engine technology at a later stage.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “Of course, there is also some additional new technology on the test truck that we are testing at the same time.” Last month, contract miner Byrnecut Australia and mining firm OZ Minerals have successfully upgraded automation for Sandvik development drills, despite challenges due to the Covid-19 crisis. In March this year, Sandvik released an autonomous truck haulage system, which provides unmanned truck haulage in both underground environments as well as on the surface.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
