@@ -1,0 +1,22 @@
+Pershimex Resources has received approval from the Quebec Ministry of Energy and Natural Resources for the restoration plan of the Pershing-Manitou mine site in Canada. The request for the restoration plan was submitted in November last year. According to Pershimex, the plan will allow the rehabilitation as per the current environmental standards in the Quebec state. The approval will enable shipment of the pile of mineralised material (2,000 tonnes) to a contract processing plant for Phase 1 of the project that is currently underway. Currently, Pershimex is in talks regarding the conditions for processing the mineralised material pile at an ore processing plant in the city of Val- d’Or. In the wake of Covid-19 related restrictions across the country, negotiations with plants have been slowed down. But, following the recent resumption of mining activities amid partial easing of lockdown measures across the nation, Pershimex is confident that a final agreement will be reached very soon.   How optimistic are you about your company’s growth prospects?  View Results Pershimex Resources president and CEO Robert Gagnon said:  “The Quebec Government approval of the Pershing-Manitou site restoration plan confirms the relevance of our development plan. “Obtaining this approval also confirms the seriousness of our approach to rehabilitating an environmental liability by transforming it into a substantial gain for all stakeholders. “This project is a concrete way to demonstrate our commitment, professionalism and determination to carry out mining work that benefits the Company.” In March this year, the company completed a drilling programme to confirm the presence of gold mineralisation in the surface crown pillar of the former Pershing-Manitou Mine (Phase 2). Data derived from the drilling results also provides the necessary information on the various engineering works with respect to the completion of the bulk sampling of the second phase.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
