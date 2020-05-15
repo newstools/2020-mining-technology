@@ -1,0 +1,22 @@
+Pembroke Resources has received approvals from Australia’s Department of Agriculture, Water and the Environment for its A$1bn ($643m) Olive Downs coking coal project in central Queensland. The mine is 40km south-east of Moranbah in the Bowen Basin, Australia. The final approvals, which are granted under the Environment Protection and Biodiversity Conservation Act, pave the way for the granting of mining leases and the commencement of construction. These project could create up to 1,000 new jobs in the region. Pembroke chairman and CEO Barry Tudor said: “This is an exciting time for the Company and the region’s wider community. The EPBC approvals, and the EA, which was granted last year, represent key milestones for the Project. “The next key milestone is securing the grant of the mining leases, which will enable us to commence construction. We anticipate these to be granted in the coming months and look forward to construction and employment commencing shortly after this.” Pembroke forecasts that the project would produce up to 15 million tons per annum (Mtpa) of saleable coal over its 79-year mine life.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results Queensland Resources Council Chief Executive Ian Macfarlane said: “Resource projects, like tourism, renewable energy and other major projects, go through comprehensive and transparent Queensland and Australian Government assessment and approval processes. “The resources sector injected $73bn and supported 372,000 jobs across Queensland last financial year.  Covid-19 is impacting all parts of our lives and our economy.  The announcement today reinforces the role of the resources sector in Queensland’s recovery.” In May last year, the Queensland government approved the Olive Downs coal project. In December 2018, Pembroke awarded a A$184m ($131.96m) engineering, procurement and construction (EPC) contract to CIMIC Group subsidiaries Sedgman and CPB Contractors for a coal handling and preparation plant (CHPP) at the Olive Downs project. Olive Downs mine was granted with coordinated project status in February 2017.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
