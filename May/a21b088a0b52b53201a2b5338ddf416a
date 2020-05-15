@@ -1,0 +1,15 @@
+Global mining giant Rio Tinto’s iron ore business continues to support jobs in Western Australia (WA) as the state’s Covid-19 recovery phase ramps up. The company’s iron ore business in the state is continuing to recruit apprentices, graduates and Aboriginal trainees as it progresses development plans in the Pilbara region. More than 300 jobs, including skilled operational and maintenance roles, are currently being offered. Furthermore, the company’s medical provider for Covid-19 screening at Perth Airport has recently hired more than 100 staff. Rio Tinto Iron Ore chief executive Chris Salisbury said: “Throughout this challenging period we are committed to keeping our people and our communities safe and supporting Western Australians with employment opportunities to help deliver on our plan to invest A$10bn in the Pilbara over the next three years. “We believe this is an important time for Rio Tinto to deliver on skills for those apprentices and trainees whose future employment prospects would benefit from extra training. “Our strong partnership with SM TAFE and regional TAFEs in Western Australia will increase the number of apprentices in the State with the skills and knowledge to work in an automated environment, thereby increasing the likelihood of their employment in the resources sector.”   Will a global recession spell bad news for the mining industry?  View Results Earlier this month, Rio Tinto said it is set to contribute $10m to support Covid-19 community initiatives in the US and Canada. This funding will be used to support deprived families and supply critical equipment to frontline workers. Last month, Rio Tinto and communications provider Motorola Solutions jointly designed and deployed a backup communications tool. In the same month, Rio Tinto introduced new measures at its Pilbara operations in Western Australia to combat the pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
