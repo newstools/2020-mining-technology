@@ -1,0 +1,12 @@
+Australia-based coal miner TerraCom has tightened its hold on UK-based coal miner Universal Coal as it moves to purchase all of the shares which it does not already own in the company After receiving more than 92% of Universal Coal shareholders’ votes on the takeover bid last month, the Australian coal miner is entitled to proceed with a compulsory acquisition. Should the remaining shareholders of the UK-based coal miner not exercise their sell-out right by next month, TerraCom would acquire them on the same terms of its takeover offer. TerraCom noted that it is urging shareholders to exercise their sell-out rights as early as possible due to postal delays caused as a result of the Covid-19 pandemic. In an ASX announcement, TerraCom stated: “If you exercise your sell-out right before 30 June, it should enable you to receive your consideration more promptly than under the compulsory acquisition procedure. “If the exercise of your sell-out right cannot be processed prior to 30 June, your shares will be compulsorily acquired for the same consideration.” In February this year, Universal Coal sought legal action against TerraCom’s unsolicited takeover offer in order to ensure that all Universal Coal shareholders were given equal opportunity to realise the full value of their investment in the company. Our parent business intelligence company In October last year, TerraCom signed a binding agreement to purchase a substantial stake in Universal Coal. Under this agreement, TerraCom intended to purchase approximately 19.9% of the issued capital of Universal from Coal Development Holding for a combination of cash and TerraCom shares. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
