@@ -1,0 +1,22 @@
+Equipment supplier Sandvik Mining and Rock Technology is in the process of revising its business model, shifting to a “direct to customer” model for mining and construction customers in Africa. According to Sandvik, the business model will be revised to customers in Central and Western Africa currently serviced by Sandvik’s distributor BIA Group. Under the revised business model, BIA will cease Sandvik’s distribution and support equipment in Senegal, Cote D’Ivoire, Mauritania, Burkina Faso, Guinea, Sierra Leone, Liberia, Niger, Cameroon, Togo, Benin, as well as Democratic Republic of Congo and Republic of Congo after the notice period that ends on 30 October. Until then, there will be no change to the current business model. BIA and Sandvik will also partner on a seamless handover to the latter, ensuring that customers’ operations are not impacted. Sandvik Mining and Rock Technology Sales Area vice-president Nuhu Salifu said: “Africa boasts a growing, young workforce and vast natural resources. We see the demand for mining continuing to rise across the continent. “Sandvik is honored to serve this vast market. We look forward to working with BIA during the transition period on a mutual solution to continue helping to improve our customers’ productivity through our technology and services. Our parent business intelligence company “Regardless of the model, we remain steadfastly committed to providing our high-quality products and services to our customers who are seeking to operate more safely and productively.” Last week, Sandvik announced that it is trialling its first Stage V compliant underground truck at the Boliden-owned Tara zinc mine in Ireland. Last month, contract miner Byrnecut Australia and mining firm OZ Minerals successfully upgraded automation for Sandvik development drills, despite challenges due to the Covid-19 crisis. In March this year, Sandvik released an autonomous truck haulage system, which provides unmanned truck haulage in both underground environments as well as on the surface.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
