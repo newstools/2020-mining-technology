@@ -1,0 +1,15 @@
+South African platinum mining company Impala Platinum has temporarily suspended operations at its Marula operation in Limpopo province after it identified 19 positive tests for Covid-19 at the site. Impala noted that all the employees who had tested positive for the virus were asymptomatic. Of these cases, 14 were identified as the result of proactive testing of employees returning to work. One of the remaining five was identified as a primary contact and the remaining four were identified through contact tracing. Two of the active cases had recently returned from the Eastern Cape. Our parent business intelligence company According to the company, the infections included a local health provider and four mine-employed health providers working at the clinic of the Marula operation. Implats CEO Nico Muller said: “Implats fully supports the decisive action taken by our government to help mitigate the health, labour market and economic impacts of the coronavirus. We continue to comply with the government and industry Standard Operating Procedures related to Covid-19, as well as our own initiatives to manage this virus. “Promoting best practice Covid-19 health guidelines in our workplace, at home and in the community is a priority.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “Any Covid-19 infection is a reminder to every citizen that we must remain vigilant and continue practising appropriate social distancing and the simple but essential hygiene and infection mitigation measures.” As on 16 May, South Africa has reported more than 13,500 infected cases of the highly infectious respiratory disease and witnessed close to 250 deaths, according to Reuters. In July 2018, Impala Platinum slashed more jobs as it looked at curbing losses at ageing shafts and offset dropping prices for the metal.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
