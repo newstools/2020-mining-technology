@@ -1,0 +1,15 @@
+Chinese miner Chifeng Jilong Gold Mining has started processing gold ore from its Sepon mine in Laos three months ahead of schedule, despite the coronavirus (Covid-19) outbreak. This marks the first time the project has produced gold in almost six and a half years, Reuters reported. Located in the south of Laos in Savannakhet Province, Sepon mine is an open pit operation. According to the news agency, the Covid-19 outbreak has prompted investors to pile into the precious metal, usually seen as a safe-haven investment during tumultuous times. Our parent business intelligence company The company said in a statement on its website that finished gold can be produced early next month. Global resources firm MMG, the previous owner of the Sepon copper and gold mine, had ceased the mine’s gold operations in December 2013 due to depleting ore reserves and lower margins. In 2018, the Chinese firm bought a 90% stake in the Sepon mine owner Lane Xang Minerals from MMG for $275m.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Chifeng Jilong’s vice general manager told Reuters that the company intends to produce 1-1.6 tonnes (t) of gold from Sepon this year and about seven tonnes next year, once the plant operates at peak capacity. He added that the firm also plans to produce 45,000t of copper this year, an estimate down from 72,000t last year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
