@@ -1,0 +1,15 @@
+The Indonesian subsidiary of Freeport-McMoRan has announced plans to cut the workforce at its Grasberg mine following an increase in Covid-19 infections in the area, including at the mine workers’ living quarters. Three deaths in the area have also been reported, according to Reuters. The move is aimed at ensuring workers at the mine can comply with physical distancing measures, while avoiding any further spread of the virus. Reuters cited Freeport Indonesia spokesman Riza Pratama as saying that a total of 17,514 have been infected with Covid-19 in Indonesia, with 1,148 deaths so far. Our parent business intelligence company Riza Pratama added: “We are trying to reduce the numbers of workers, reduce the population. We just have a skeletal team to run the mine. “For contractors whose projects have been delayed or postponed, we have returned their employees. We have also removed workers who are in the risk category.” As of 17 May, coronavirus infections in the Mimika Regency, where Grasberg mine is located, reached 150 cases, including 102 cases in Tambagapura, where the living quarters were built for Grasberg’s workers and their families.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Last week, Freeport Indonesia said it has around 50,000 rapid and polymerase chain reaction test kits on site. Earlier this month, Freeport-McMoRan announced plans to cut production at a number of its operations around the world as the Covid-19 pandemic interferes with mining operations and the global supply chain. Last month, the company reported a quarterly loss as production fell in South America and Indonesia. Exports of copper concentrate from Grasberg mine were predicted to drop last year due to a decline in production as operations shift from open pit to underground mining.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
