@@ -1,0 +1,22 @@
+Equatorial Guinea’s Ministry of Mines and Hydrocarbons (MMH) has signed fivemining contracts, marking the first mining contracts signed by the country in its history. The move comes on the heels of the conclusion of the country’s inaugural mining bidding round last year (EG Ronda 2019). Equatorial Guinea’s ministry has signed five mining contracts with three different companies. Among those include one gold exploration contract in Block I with Manhattan Mining Investment. Other contracts included three prospecting contracts with Blue Magnolia in Block B for bauxite and precious metals, Block K for gold, and Block H for precious metals, base metals, and rare earth minerals. Our parent business intelligence company Also included is the prospecting contract with Shefagold in Blocks N and O for platinum, palladium, silver, magnesium, phosphorus, chrome, copper, iron-ore and other associated minerals. According to MMH, the new contractors are expected to start exploration activities in the Rio Muni area, which is rich in minerals such as diamonds, gold, base metals, iron-ore and bauxite. Equatorial Guinea Minister of Mines and Hydrocarbons Gabriel Mbaga Obiang Lima said: “Mining is a key contributor to economic growth and jobs creation across West and Southern Africa, and we truly believe that it is time that Equatorial Guinea enters the race and starts developing its potential in minerals.   Will a global recession spell bad news for the mining industry?  View Results “The development of this industry is central to the government’s economic diversification agenda and is expected to create thousands of jobs in the future.” Earlier this month, the MMH published a new regulatory framework for mining operations across the country. MMH said that the new regulation applies to all exploration and exploitation activities by both foreign and local firms wishing to operate in the Republic of Equatorial Guinea.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
