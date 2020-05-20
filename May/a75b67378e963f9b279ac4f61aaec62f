@@ -1,0 +1,15 @@
+Mineral exploration firm Japan Gold, in alliance with Barrick Gold, has announced to jointly explore and develop certain gold mineral properties and mining projects in Japan. Barrick Gold and Japan Gold announced their alliance in February this year. Japan Gold will serve as the operator of the work, which includes stream sampling and gravity surveys. This work programme will progress from the south to the north of Japan and is expected to be completed within a year. The regional programme will include stream sediments sampling for bulk leach extractable gold and multi-element pathfinder analysis. Our parent business intelligence company Also included as part of the work programme is the gravity surveys over the 1,521km2 covered by the Barrick alliance projects on the Kyushu, Honshu and Hokkaido islands. Japan Gold also noted that it has taken appropriate measures so that the Barrick alliance crews can operate effectively while following government health protocols to curb the spread of the novel coronavirus outbreak. Japan Gold chairman and CEO John Proust said: “The regional exploration program will assist the Barrick Alliance in evaluating the Japan Gold portfolio of projects to determine areas with anomalous gold showings and potentially fertile large structures.   How optimistic are you about your company’s growth prospects?  View Results “This will enable focused exploration on highest priority areas to generate drilling targets. We are very pleased to be able to commence this important initiative with Barrick during the evolving Covid-19 pandemic.” Last September, Japan Gold acquired five new gold projects in the Southern and Middle Kyushu Epithermal Gold Provinces. In October 2017, Japan Gold added two projects in the Southern Kyushu province, expanding its epithermal gold exploration portfolio in Japan.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
