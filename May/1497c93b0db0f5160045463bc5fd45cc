@@ -1,0 +1,22 @@
+The South African Department of Mineral Resources and Energy (DMRE) has published guidelines for the management of Covid-19 in the country’s mining sector, as work continues amidst the pandemic. Miners are now obligated to implement a code of practice that complies with “any relevant guidelines and instructions issued by [the] government”, according to the DMRE, and names a number of specific regulations mining companies must follow in order to continue operating. These include compliance with the 2002 Disaster Management Act and working alongside recommendations from the country’s department of health, department of employment and labour, and the World Health Organisation, to limit the spread of the virus as much as possible. Failure to comply with these regulations is considered a criminal offence, and could see miners charged should they be found guilty of failing to implement the rules. “The objective of this guideline is to assist employers as far as reasonably practicable to establish and maintain a Covid-19 prevention, mitigation and management programme,” announced the DMRE. “This is to ensure that mine employees returning to work, and any other persons at mines, are protected from transmission of the Ccoronavirus at the workplace, and, where reasonably practicable, in the community, whilst providing guidance to all stakeholders regarding their roles and responsibilities in the management of the virus.” Our parent business intelligence company The announcement follows the news that some of the country’s mines would be re-opened last month, and be permitted to operate at 50% capacity, as the government is wary that the country’s critical mining industry could be completely derailed by the virus. The country’s statistics office reported that nation-wide mining production was 1.3% lower in 2019 than in 2018, which itself was 2.1% lower than in 2017, so a prolonged lockdown could have dire consequences for an industry that has already been struggling. Earlier this month, the country’s Labour Court ordered the government to publish mining safety guidelines by 18 May, following pressure from groups such as influential trade union the Association of Mineworkers and Construction Union (AMCU). In addition, the guidelines were developed in consultation with the Mine Health and Safety Council, and the DMRE noted that the review process included public comments to ensure popular support for the regulations. However, the AMCU is not satisfied with the regulations, due to the regulation’s requirement that employees be screened for Covid-19, rather than physically tested, ahead of entering mines. Screening involves questioning patients about their contact with the virus to determine if a patient is at risk, but as the AMCU noted yesterday, this ignores asymptomatic patients, who can carry and be affected by the virus without showing signs.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “We have consistently called for proper testing before mineworkers go underground,” said AMCU president Joseph Mathunjwa. “Screening is not sufficient as it fails to detect those workers who don’t display the known symptoms like high temperature.” “We said all along that AMCU is not opposed to the mines opening, but that we only want to ensure the safety of the workers first,” he continued. “We now demand that each and every worker must be tested for Covid-19 before he or she is allowed to go underground.”
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
