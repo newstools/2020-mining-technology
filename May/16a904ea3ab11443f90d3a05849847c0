@@ -1,0 +1,12 @@
+Gold mining firm Newmont Corporation has issued new production guidance for this year, as the company began ramping up operations at four sites which were placed on temporary care and maintenance amid the Covid-19 pandemic. Newmont now lists guidance for attributable gold production of approximately six million ounces (Moz) of gold this year, compared to January’s guidance of 6.4Moz. The gold miner also cut its capital expenditure (capex) due to coronavirus-related reduction in non-essential activities. Currently, Newmont expects total 2020 capex at about $1.3bn. Our parent business intelligence company Newmont will continue to ramp up operations at Peñasquito, Cerro Negro, Éléonore and Yanacocha. In the coming weeks, 13 sites among the company’s 12 operating mines and two joint ventures will be completely operational. Newmont president and CEO Tom Palmer said: “We are pleased to be ramping up operations at our four sites previously placed in care and maintenance and we remain committed to protecting our workforce and neighboring communities.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results “We continue to respond to this pandemic from a position of strength and Newmont’s diverse portfolio in top-tier jurisdictions provides a long-term, stable production profile with the potential to generate significant free cash flow over time.” Last month, the company announced plans to restart some of its gold mines in Canada and South America that were closed last month to limit the spread of the Covid-19 pandemic. In March this year, Newmont withdrew its full-year 2020 guidance after placing four of its operations under temporary care and maintenance as part of global efforts to limit the spread of Covid-19 outbreak. In the same month, Newmont announced plans to scale down operations at its Yanacocha gold mine in Peru due to coronavirus-related restrictions in the country. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
