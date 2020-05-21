@@ -1,0 +1,15 @@
+Harmony Gold has confirmed that two employees of a contractor working at its Kalgold gold mine located near Mafikeng in South Africa’s North West province have tested positive for Covid-19. Both the individuals were asymptomatic and identified as positive cases through the company’s testing process that is being conducted in collaboration with the Department of Health. The company is currently tracing possible contacts and all those identified will either self-quarantine or be quarantined at a company facility for 14 days. The Kalgold mine employs over 600 people, the majority of whom have been tested for coronavirus. Our parent business intelligence company According to the company, most of the mining activities at Kalgold mine have largely been suspended but the plant continues to operate. The employees who have tested negative for the virus have returned to work. Harmony Gold CEO Peter Steenkamp said: “Every effort is made at our mines to mitigate the impact of the Covid-19 virus.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “We thank the Department of Health for its assistance with the testing at Kalgold and will only return to full production at the mine once it is safe to do so,” said Peter Steenkamp, chief executive officer of Harmony.” The open-pit gold mine makes up 3% of Harmony’s total production. Earlier this month, Harmony Gold announced its plans to establish testing facilities at its sites. In March this year, Harmony Gold said it expected limited gold production during the lockdown in South Africa in the wake of the fast-spreading Covid-19 pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
