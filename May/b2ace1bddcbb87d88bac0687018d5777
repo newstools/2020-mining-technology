@@ -1,0 +1,22 @@
+UK-based Arc Minerals has acquired another 20% stake in the Zaco prospect in Zambia, increasing its holding to 72.5% from 52.5% in exchange for Arc shares. Arc Minerals noted that the remaining interest would be held by its Zamsort project partner Kopara Investments. The additional stake has been acquired from Arc non-executive director and Zamsort project founder Mumena Mushinge through an all-equity deal for ten million new ordinary shares. Mumena’s stake in the Arc will increase to 6.87% of the company. Our parent business intelligence company The Zaco exploration licence covers a highly prospective area of 465km2. It is located adjacent to the Zamsort exploration license and comprises notable exploration targets including the Fwiji, West Lunga, Nyambwezu, Muswema South, and the Chihindi targets. Arc Minerals executive chairman Nick von Schirnding said: “In line with our stated strategy, we are pleased to further consolidate our interest in Zaco and we regard this significantly increased interest as an important strategic step for Arc Minerals. “We are now fully funded for our exploration programme for both the Zamsort and Zaco licenses and we are excited to start drilling the various targets. At Zaco, we will initially focus our drilling programme at the Fwiji target.”   How optimistic are you about your company’s growth prospects?  View Results In November, Arc Minerals signed a binding sale and purchase agreement with Canadian private equity group Century Capital Management with respect to the sale of its 99.43% stake in Casa Mining. In April last year, Arc Minerals commissioned the Kalaba Demonstration Pilot Plant, which will initially produce copper cobalt sulphide concentrate.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
