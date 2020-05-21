@@ -1,0 +1,22 @@
+Rio Tinto subsidiary Kennecott has started an initial four-hole 2,000m drill programme at the Alderan Resources-owned Frisco copper-gold-silver project in Utah, US. Kennecott will initially spend A$6m ($3.94m) on exploration at the project area to gain a 55% interest in the project. It will earn 70% of the project by completing three stages which will total A$30m ($19.7m) in exploration expenditure. In a press statement, Alderan Resources said: “During the March 2020 quarter, Kennecott conducted field visits to assess ground conditions and determine logistics and safety requirements to support an initial drill program. “Kennecott spent several weeks reviewing selected drill holes to understand the geology and planned an initial diamond drill program to follow up high-grade intersections at the Cactus Breccia and Accrington Skarn targets, as well as a deeper hole testing the Reciprocity IP Anomaly.” Our parent business intelligence company Rio Tinto subsidiary and Alderan subsidiary Volantis Resources are working with the Utah Division of Oil, Gas and Mining to permit near-term drilling activities. Nearly 15 previously permitted drill sites have been transferred from Alderan’s subsidiary to Kennecott to advance the project. Kennecott plans to drill high-grade intersections at the Cactus breccia and Accrington skarn targets, as well as complete deeper hole testing at the Reciprocity induced polarisation (IP) anomaly.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results It will also test a step-out zone 50m from historic intercepts at Accrington skarn in order to determine continuity in the area. At the Reciprocity target, Rio Tinto subsidiary’s remodelled geophysical data shows a previous hole drilled by Volantis might have been terminated before reaching the depth of the anomaly. According to Alderan Resources, further drilling will be dependent on results of the initial programme.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
