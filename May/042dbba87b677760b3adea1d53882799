@@ -1,0 +1,15 @@
+Gold mining firm Golden Star Resources has reported two positive Covid-19 cases among employees at its Prestea mine in Ghana. As a result, the company has placed about 60 employees under quarantine. Both the individuals who tested positive for the virus had mild symptoms and are currently being closely monitored. The company has not reported any cases of Covid-19 at its Wassa mine, which remains operational. Our parent business intelligence company In a press statement, Golden Star said: “Consistent with the company’s Covid-19 management protocols and those of the Ghana Health Service, contact tracing has been carried out and as a result close to 60 members of our Prestea team are currently in quarantine and awaiting test results. “Of these, the majority are involved in mining activities (including rock breaking, scoop operations and blasting) and engineering activities (including winder operations and pumping). “As a result, site management is revising planned operations in the short-term in order to ensure the safety of all team members and to allow for possible critical skill shortages.  This is likely to have some impact on production from 24 Level over the coming weeks until employees who are currently in quarantine are able to safely return to work.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results The company anticipates that the impact on the crucial development activities on 17 Level will be minimal at this point of time. Golden Star is targeting this year’s production to be at 195,000oz to 210,000oz at an all-in sustaining cost of $1,080/oz to $1,m180/oz. The company noted that neither the supply chains nor the export and sale of gold doré at the Wassa and Prestea mines were impacted. In January 2017, Golden Star began commercial production at Wassa underground gold mine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
