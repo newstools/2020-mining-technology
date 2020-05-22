@@ -1,0 +1,22 @@
+Russian potash producing company Uralkali has signed a supply contract with India for the rest of this year at $230 per tonne delivered to the buyer’s port. Uralkali subsidiary Uralkali Trading concluded the potash supply contract with Indian Potash Limited (IPL), the Indian importer of fertilisers. Uralkali said that the contract price reflects the current market situation ‘in contrast to the commercial terms of the Chinese contract’, which were considered suboptimal by many companies in the industry. Uralkali Trading CEO Alexander Terletsky said: “Uralkali believes that overall the price parameters of this agreement reflect the current market environment and consider the interests of both consumers and producers equally in the economic crisis, while supporting the Company’s position in one of its key markets.” Our parent business intelligence company Uralkali is one of the largest potash producers and exporters in the world. The company’s assets comprise five mines and seven ore treatment plants in Russia. The company employs approximately 12,000 people in its main production unit. Uralkali’s shares are traded on the Moscow Exchange.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results In September 2015, Uralkali started construction of permanent power supply facilities at the Ust-Yayva mine. In November 2014, Uralkali announced plans to carry out repair work at the damaged Solikamsk-2 mine, after flooding halted production last week.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
