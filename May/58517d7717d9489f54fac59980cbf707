@@ -1,0 +1,22 @@
+According to a new mine safety law passed by the Queensland parliament, mining executives will now face up to 20 yearsin prison if mine and quarry workers die as a result of criminal negligence. This law in the Australian state could see mining executives spend up to 20 years in jail, and companies hit with fines of up to A$13m ($8.6m) if found criminally negligent over deaths at their operations. The legislation extended industrial manslaughter laws to the resources sector, as part of a package of safety and other reforms for an industry that employs 50,000 mine and quarry workers in the state. Queensland Mines Minister Anthony Lynham said: “This offence sends the clear message to employers and senior officers that the safety and health of their workers is paramount. Our parent business intelligence company “In the past two years we’ve had eight workers die, and a gas explosion in an underground coal mine has put five miners in hospital. It’s not acceptable. “Safety on a mine site is everybody’s responsibility.” The new laws were passed following the deaths of eight miners in Queensland in the past two years.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results This also includes an underground gas explosion earlier this month at the Anglo American-operated Grosvenor Coal Mine, near Moranbah region of Queensland. Lynham added: “These new sanctions bring the resources sector and its workers in line with every other workplace across the State — but with higher financial penalties. “This provides these critical officers with confidence that they can raise and report safety issues without fear of reprisal or impact on their employment.”
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
