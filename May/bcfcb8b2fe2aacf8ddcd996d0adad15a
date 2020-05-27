@@ -1,0 +1,15 @@
+The Minerals Council of Australia (MCA) is pushing the federal government to introduce “pragmatic and targeted reforms” to protect the minerals industry in the country. The reforms are part of the MCA’s priorities to accelerate Australia’s post-coronavirus economic recovery in the mining sector. MCA chief executive officer Tania Constable said: “Our world-leading minerals companies are hampered by regulatory duplication and overlap, while projects take too long to be approved – denying regional communities jobs and investment. “Expediting environmental assessments and approvals, reforming greenfields agreements and expanding incentives for exploration will also help realise and refresh the potential pipeline of new and expanding mining projects.” Our parent business intelligence company According to MCA, Australia could look at investing A$100bn ($65.3bn) in coal, iron ore, base metal, critical mineral and gold projects. The country also plans ‘tens of billions of spending’ to encourage the mining industry. Constable added: “In this context, Australia’s company tax rate of 30% is too high and not internationally competitive. “Future mining investment should not be put at risk by any move to increase the already high burden on the sector. In particular, the fuel tax credit scheme, which operates to avoid taxing a vital business input, should remain in its current form.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “Skills and training needs will require a particular focus, including retraining and reskilling entrants from other industries affected by Covid-19. The minerals industry stands ready to accelerate 1,000 new apprenticeships through the Mining Skills Organisation Pilot.” Two weeks ago, MCA presented record highs in company taxes and royalties paid by Australia during the 2018-19 financial year, cashing out A$39.3bn ($25.6bn) in total. In February last year, MCA voiced its concern over new industrial manslaughter laws in the Australian state of Victoria. It stated that harsher sentences for managers and senior staff will not contribute to improved operational health and safety in the sector.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
