@@ -1,0 +1,15 @@
+Gold exploration and development firm Newcrest Mining is supporting an initiative for the procurement of personal protective equipment (PPE) for national distribution to Papua New Guinea’s (PNG’s) frontline health workers. It has invested AUD600,000 ($392,303) towards a UNICEF initiative to get PPE to PNG’s frontline health workers. The gold explorer is working with the Australian Department of Foreign Affairs and Trade, the World Bank and the Japanese Government to support the procurement by UNICEF. Newcrest PNG chief operating officer Craig Jones said that the company is supporting the PNG government and its host communities to manage the challenges posed by the coronavirus outbreak. Our parent business intelligence company Craig Jones said: “We understand the importance of PPE in protecting the front-line health workers and the assurance it will provide those who deliver essential healthcare to children and families affected by disease in PNG.” According to Newcrest, the money has directly funded 84,600 examination gloves, 47,000 N95 particulate respirators, 9426 protective goggles, 65,800 surgical face masks, 9400 surgical gowns, as well as 25,000 face shields. UNICEF Australia CEO Tony Stuart said: “Access to PPE for health workers and in other frontline services, is essential in order to be able to prevent transmission of the virus, as well as to ensure front line workers are able to continue providing essential services to children, families and communities.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “We need solidarity and generosity to overcome this global crisis. Vital assistance from private sector actors such as Newcrest Mining helps us to deliver critical emergency services.” In March this year, Newcrest Mining finalised the sale of its wholly owned subsidiary Newcrest Singapore Holdings (NSH) to Indotan Halmahera Bangkit.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
