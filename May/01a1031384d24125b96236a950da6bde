@@ -1,0 +1,22 @@
+Finnish industrial machinery company Metso has introduced two new solutions for crushing and screening plants, flexible FIT stations and smart Foresight stations. These two cost-efficient production solutions are intended to provide significant resource and time savings for mines. The new stations offer flexible solutions to simplify maintenance and save time at mine operations. The FIT stations are designed with a primary focus on speed and flexibility, comprising two stations, the Recrushing station and the Jaw station. Our parent business intelligence company The Foresight stations are equipped with smart automation technology, which includes Metso’s Metrics and VisioRock, level sensors, as well as a crusher variable-frequency drive (VFD). According to Metso, both stations deliver maximum productivity for even the most challenging mining applications. Metso Crushing Systems vice-president Guillaume Lambert said: “We have the experience in delivering crushing and screening plants with over one hundred installations globally. We also understand the needs of customers today in the evolving industry.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results “That is why we are using our legacy and expertise to introduce these modularised crushing stations that focus on capex reduction and shorter lead times.” Two weeks ago, Metso and technology firm Outotec received an unconditional merger control clearance from the European Commission for the combination of Metso’s Minerals business with Outotec. In September last year, Metso opened its first performance centre in Santiago, Chile, to boost its remote-monitoring capabilities for the mining industry.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
