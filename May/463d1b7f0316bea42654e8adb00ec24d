@@ -1,0 +1,22 @@
+Barrick Gold’s Tanzania subsidiary Twiga Minerals has received clearance to resume export of gold concentrate for its first shipments. The company’s exports were previously halted due to a dispute over taxes between the country and the gold miner. The dispute originally involved UK-listed Acacia Mining, which was acquired by Barrick in a $1.2bn buy-out deal in September last year. In 2017, the Government of Tanzania imposed a ban on exporting concentrates after accusing Acacia of tax evasion. Our parent business intelligence company Twiga Minerals is a joint venture between Barrick Gold and the Tanzanian government. Barrick president and chief executive Mark Bristow said: “This is a striking example of what a true partnership can achieve in building a sustainable business capable of creating long-term value for all stakeholders.” Barrick said that the shipping of some 1,600 containers of gold and copper concentrate from the Bulyanhulu and Buzwagi mines resumed last month.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results The first $100m received from the sale had been paid to the Tanzania government, as part of the $300m-deal agreed in January this year. In a press statement, Barrick said: “At the same time, some 90% of the outstanding land claims at North Mara have been settled with payment scheduled to start today. “Contrary to the past, where these claims were handled by the mine, the compensation process is being overseen by a committee representing Twiga, the government, the local authorities and the affected communities. This will ensure that the process is transparent and that issues are dealt with fairly and promptly.” In January this year, Barrick Gold and the Government of Tanzania signed an agreement to launch a new joint venture to oversee the company’s future gold mining operations in the country.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
