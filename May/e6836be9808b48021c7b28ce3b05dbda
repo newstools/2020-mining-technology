@@ -1,0 +1,22 @@
+Engineering and construction company Downer EDI has secured a contract from Fortescue Metals Group to complete works at the Eliwana iron ore mine in the Pilbara region of Western Australia. The contract is valid for a period of five years and is valued at around A$450m ($294.2m). Downer noted that it will complete early works operations over two years while the mine site is established. Following this initial period, Eliwana’s operations will transition to Fortescue’s autonomous mining fleets. Downer will remain on-site and provide maintenance services for an additional three years. Our parent business intelligence company Downer CEO Grant Fenn said: “Downer has a long-standing relationship with Fortescue and we are very pleased to be expanding our services. “We are proud to be supporting the development of the Western Hub and the communities that will benefit from the mine.” The Eliwana mine and rail project will include the construction of 143km of rail and a dry ore processing facility (OPF) capable of producing 30 million tonnes per annum (mtpa), as well as developments to infrastructure.   How optimistic are you about your company’s growth prospects?  View Results The project is anticipated to create 1,900 jobs during construction and 500 full-time site positions once operations begin. It will allow the introduction of a 60.1% iron grade product and is expected to maintain an overall production rate of a minimum 170mtpa over 20 years. In July last year, FMG began construction on the Eliwana iron ore mine and rail project, following a sod-turning ceremony. In May 2018, FMG was granted the go-ahead for the $1.275bn development of the Eliwana mine and rail project.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
