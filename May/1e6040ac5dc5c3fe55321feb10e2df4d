@@ -1,0 +1,22 @@
+The COVID-19 concern index, as measured by responses to a poll launched by Verdict in March, has been tracking how the concerns over coronavirus have been changing over time. Concerns during the first half of April remained high but declined steadily from mid-April through the first week of May reflecting confidence over the pandemic’s containment following the lock-down announcements globally. However, as the infection rates started to drop and governments saw the need to reopen their economies, a significant number of countries started announcing either a partial or full reopening of non-essential businesses and national/international transport. Following these announcements, the trend reversed from the second week of May, with a significant increase in the number of respondents that expressed a high concern. Our parent business intelligence company The percentage of highly concerned respondents, which was at a peak of 80.08% at the end of March, declined steadily to 64% by the first week of May but reversed thereafter to reach 78.58% on 16 May. Germany was one of the first countries in Europe to ease lockdown restrictions as it allowed shops to reopen on 06 May. Baltic countries allowed cross border travel, while Serbia lifted its state of emergency on 06 May. Spain, Italy and France are few other European countries that have gradually eased restrictions.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results Among Asian countries, New Zealand was the first to move out of the national state of emergency on 13 May. Although lockdown is in place until 31 May, India eased certain restrictions such as allowing domestic travel and opening of select non-essential businesses. Some of the US states have started allowing certain businesses to open although a nationwide lockdown is still in place. Russia started lifting restrictions on 11 May allowing public gathering to resume and approving the entry of foreign athletes. Turkey started to ease restrictions allowing shopping malls, barber shops, and beauty salons to open although a four-day lockdown was implemented over the Eid weekend. Malaysia has extended its movement restriction ban until 06 June although some businesses have been allowed to open. At least 33 more countries have eased restrictions, including Switzerland, Senegal, Iran, Slovenia, Jordan, Croatia, Kyrgyzstan, Lebanon, Greece, Philippines, North Macedonia, Mexico, Japan, Brunei, Myanmar, Tunisia, Poland, Egypt, Israel, Malta, Nigeria, UAE, Syria, Czech Republic, Singapore, Thailand, Qatar, Cyprus, Venezuela, Cambodia, Denmark, Palestine, and Iceland. The COVID-19 concerns could continue to remain high amid increased public movement and fears of a second wave of infections. Further, more countries are expected to ease lockdown measures in the coming weeks. Countries that are likely to either ease lockdown measures or reopen their economies over the next few weeks include Scotland (28 May), Kuwait and Algeria (31 May), Nepal (02 June), Argentina (07 June), Morocco (10 June), Armenia (13 June), and UK (15 June).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
