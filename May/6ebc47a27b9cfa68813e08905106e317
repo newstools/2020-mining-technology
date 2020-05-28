@@ -1,0 +1,15 @@
+Teck Resources has announced that Compania Minera Antamina has restarted operations at the Antamina mine with comprehensive Covid-19 protocols in place to safeguard the health of workers and local communities. Antamina, which has mobilised a reduced workforce, plans to work at roughly 80% of full capacity. A gradual ramp-up to peak production is expected in the third quarter of this year. Peruvian base metals miner Compania Minera Antamina is jointly owned by Teck, BHP, Glencore and Mitsubishi Corporation. BHP and Glencore each own a 33.75% stake in Antamina. Teck Resources holds a 22.5% stake in the mine, while the remaining 10% is owned by Mitsubishi Corporation. Our parent business intelligence company The Antamina copper-zinc mine is located in the Andes Mountains of Peru, approximately 285km north of Lima in the Department of Ancash. Last month, Compania Minera Antamina announced temporary suspension of operations at its Antamina mine to help contain the spread of the country’s Covid-19 outbreak. The company’s decision to suspend operations followed Peruvian government’s Emergency Decree in regards to the pandemic.   How optimistic are you about your company’s growth prospects?  View Results Last year, Antamina produced 101 million tonnes (mt) of copper. During the mid-1990s, the Antamina deposit was considered to be the largest undeveloped copper/zinc orebody in the world. Construction began following the completion of a feasibility study in 1998, with Bechtel appointed as the principal engineering contractor for the project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
