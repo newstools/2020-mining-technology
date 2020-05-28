@@ -1,0 +1,15 @@
+The Government of Queensland has called on the Queensland Resources Council (QRC) to maximise the resource sector’s role in the economic recovery to follow the Covid-19 pandemic. This news comes after the industry mourned the death of a 30-year-old Blackwater miner who recently passed away from coronavirus. The casualty is reported to be the youngest Covid-19 death recorded in Austraia. Queensland Premier Annastacia Palaszczuk said: “The man was showing symptoms prior to his death but also had other illnesses. He tested positive at the postmortem and his partner is now sick with symptoms and has been transferred to the Rockhampton hospital where she is being isolated. Our parent business intelligence company “Blackwater has never had a case of Covid-19 before and contract tracing is extensively underway and the police and ambulance officers who attended the scene are also now in quarantine.” QRC chief executive Ian Macfarlane said that as the peak representative for the state’s coal metal, oil and gas producers, suppliers and explorers, QRC and its members were well-placed to Queensland’s recovery. Ian Macfarlane added: “We have worked within the restrictions on worker movement to slow the spread and keep as many of the 372,000 Queenslanders who rely on us for their work and pay on the job.   How optimistic are you about your company’s growth prospects?  View Results “We have already been in talks with the Government about the recovery and I look forward to joining the Premier on the Alliance today. “Already, we have secured some interim relief for exploration companies that are the key to the new coal, metal, gas and oil discoveries. Before Covid-19, we were injecting more than $200m ($74bn per annum) into the Queensland economy every day.”
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
