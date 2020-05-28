@@ -1,0 +1,22 @@
+Taseko Mines has signed an agreement with an indigenous nation as it seeks to secure regulatory approval for the Yellowhead copper project in Canada. Located about 150km north‐east of Kamloops near Vavenby, the 90,000 tonne per day (tpd) open pit copper mine project could become one of the largest in North America. According to Taseko, the latest agreement represents its commitment to recognise and respect local communities’ inherent rights to govern their lands. Taseko CEO Russell Hallbauer said: “We are pleased to have come to an agreement to move forward with open discussions. Our communication with the leadership over this past year have been good, frank and insightful. Our parent business intelligence company “We have gained significantly in our understanding of their role as caretakers of the lands and their approach to stewardship and economic opportunity, and we thank them for taking this first important step with us.” The project has a mine life of over 25 years. It has an estimated capital cost of C$1.3bn ($930m). Hallbauer added: “Advancing this project now is especially timely given the economic and human needs of the region and the province. Construction and operation of a long life mine will significantly elevate opportunities for the people of this area for decades into the future.”   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results In January this year, Taseko updated technical work on the Yellowhead copper project. In December 2017, the Federal Court of Canada dismissed tandem judicial review applications filed by Taseko Mines over the national government’s rejection of the company’s $1.5bn New Prosperity open-pit copper-gold mine project near Williams Lake.
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
