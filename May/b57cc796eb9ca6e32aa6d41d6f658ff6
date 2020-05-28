@@ -1,0 +1,22 @@
+Yamana Gold has completed the sale of a portfolio of royalty interests and a contingent payment agreement to Nomad Royalty Company for a consideration of $65m. Formerly known as Guerrero Ventures, Nomad will start trading on the TSX by 29 May. According to Yamana, the contingent payment agreement relates to declaration of commercial production at the Deep Carbonates project at Argentina’s Gualcamayo gold mine. Yamana has received an initial upfront cash consideration of $10m from Nomad towards the transaction. It also received $45m in common shares of Nomad priced at C$0.90 ($0.65) a share. Our parent business intelligence company In a press statement, Yamana stated: “In addition, Yamana has the right to receive an additional $10m through a deferred cash payment, that may be paid in cash or common shares of Nomad. “Yamana is entitled to receive interest on the Deferred Cash Payment at a rate of 3% per year and the Deferred Cash Payment may be converted at any time, in whole or in part, by Yamana into shares of Nomad at a conversion price of C$0.90 ($0.65) per share. “While the Deferred Cash Payment will be due for payment in full at the end of two years, Nomad may prepay the Deferred Cash Payment at the end of one year, subject to additional payment by Nomad equal to 5% of the Deferred Cash Payment, or $500,000, and the right of Yamana to convert the Deferred Cash Payment into shares of Nomad at a price of C$0.90 ($0.65) per share.”   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results Last month, Yamana Gold increased its annual dividend by a further 25% to $0.0625 a share on the back of Q1 2020 results. Yamana Gold also signed an agreement to sell shares and warrants in Equinox Gold for C$201m ($144m).
+
+
+										    
+
+
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
