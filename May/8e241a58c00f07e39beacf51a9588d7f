@@ -1,0 +1,21 @@
+West African gold producer Endeavour Mining has announced that its shareholders have voted “overwhelmingly” in favour of its acquisition of Semafo, which was announced in March this year. Pursuant to the agreement, the gold miner will indirectly acquire all Semafo common shares on the basis of 0.1422 of an Endeavour common share for each outstanding Semafo share. The combined entity is expected to become one of the biggest gold miners in West Africa, capable of annual production of one million ounces (Moz). With shareholder approvals in place, the two firms will now seek to obtain approval for the arrangement from the Superior Court of Quebec. Our parent business intelligence company Endeavour president and CEO Sebastien de Montessus said: “We are pleased to have the strong support of the shareholders of Endeavour as we take this important step to create a leading West African gold producer. “The combined company will have improved strategic positioning, an enhanced ability to manage risks, a stronger capital market profile and sustained ability to produce over 1 million ounces of gold while improving the combined group’s ability to generate shareholder returns. “We look forward to working closely with the SEMAFO team to close the transaction and integrate our teams.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results In January this year, Endeavour Mining dropped its plan to acquire mining firm Centamin for $1.9bn as it did not get enough information on the latter’s assets during an assessment. In November 2019, Semafo suspended operations at its Boungou mine in Burkina Faso after an attack on a convoy of the Canadian miner’s workers left 39 dead.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
