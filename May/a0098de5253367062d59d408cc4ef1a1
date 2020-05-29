@@ -1,0 +1,21 @@
+Swedish mining equipment manufacturer Epiroc has secured a large equipment and service contract from Chilean state-owned copper miner Codelco for use at its Chuquicamata mine in northern Chile. Located 1,650km north of Santiago in Chile, Chuquicamata is an open-pit underground copper mine. Valued at $20m, the contract includes supply of underground loaders, face drill rigs, rock bolting rigs and mine trucks for the underground mine project. Epiroc will also deliver multiple units of the Scooptram ST1030 and ST18 loader, the Boomer S2 face drilling rig, the Boltec M bolting machine, and the Minetruck MT65, which is a high payload capacity underground truck. Our parent business intelligence company Epiroc president and CEO Helena Hedblom said: “We are proud to be a key partner of Codelco as it significantly extends the life of the Chuquicamata mine in the most productive, efficient and safe manner possible.” Epiroc expects to deliver the equipment later this year. According to the Swedish firm, the machines delivered will be equipped with 6th Sense solutions for automation, connectivity and information management.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Currently, the Chuquicamata mine is being transformed from the world’s largest open-pit mine into a high-technological underground mine operation. The transformation, according to Codelco, is expected to extend the mine life of Chuquicamata by 40 years. Codelco sourcing category manager Juan Mariscal said: “Epiroc was chosen because it complied with all the technical, safety and performance requirements that Codelco demanded for the Chuquicamata Underground Mine Project, while being the supplier that provided the best economic proposal for all its equipment as a whole.” In April 2019, Sandvik announced it would provide automation and digitalisation solutions to Codelco for implementation at the Chuquicamata mine.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
