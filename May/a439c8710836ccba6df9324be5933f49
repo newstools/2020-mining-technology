@@ -1,0 +1,21 @@
+Canadian mining company Labrador Gold has announced that it intends to complete a non-brokered private placement to raise CAD3.5m ($2.54m). The company will raise up to CAD2.5m ($1.81m) through the issuance of 14.285.714 units at a price of CAD0.175 ($0.13) per unit – each unit is comprised of one common share of Labrador Gold and one common share purchase warrant, exercisable to acquire a common share at CAD0.30 ($0.22) for two years after the issue date. Labrador Gold intends to raise a further CAD1m ($726,675) through a further non-brokered private placement of up to four million flow-through units at a price of CAD0.25 per flow-through unit. The company may also pay a finder’s fee to parties who introduce Labrador Gold to investors, in accordance with the policies of the TSX Venture Exchange. Our parent business intelligence company Labrador Gold is a mineral exploration company focused on the acquisition and exploration of gold projects in the Americas. The proceeds of the placement will be used primarily to fund exploration at the company’s Kingsway project and its Hopedale project. In March, the company acquired the option to earn a 100% interest in the Kingsway project, situated in the Gander area of Newfoundland. The Kingsway licences cover approximately 16km of the Appleton fault zone which has been associated with gold occurrences in the region. Providing an update on the Kingsway project in mid-May, Labrador Gold CEO and President Roger Moss said: “Historical exploration and more recent work has clearly demonstrated the potential of the Kingsway project for the discovery of orogenic gold deposits associated with deep-seated structures. The presence of the Appleton and Dog Bay structures on the property with evidence of gold in till, vegetation, soil, stream sediments, lake sediments and float suggest the presence of a significant mineralized system.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results “Detailed soil sampling combined with ground magnetic and VLF-EM are planned for the coming field season to define targets for subsequent drill testing. In the meantime, compilation and interpretation of the historical work continue to define the most prospective areas for successful follow up.” Labrador Gold is listed on the TSX Venture Exchange, where its share price rose 8.11% following the announcement of the financing. Labrador Gold also announced today that it has appointed Bill Johnstone as corporate secretary and Eric Myung as chief financial officer.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
