@@ -1,0 +1,15 @@
+Canadian miner Endeavour Silver has resumed mining operations at its three underground silver-gold mines in Mexico. The development follows after securing approvals from the Secretariat of Health in the country to restart operations. The approvals come after the company filed its mine operating and health plans developed using the current measures to monitor, prevent and respond to the virus infection at the three mines. Last month, Endeavour Silver suspended mining operations at these three mines when the country declared a national health emergency to limit the spread of the coronavirus (Covid-19) outbreak. Our parent business intelligence company The Canadian miner noted that all employees and contractors who report for duty will undergo medical screening. Furthermore, Covid-19 test kits are available if the company’s doctors recommend testing of employees. Endeavour director and CEO Bradford Cooke said: “Following the recent government decree that mining is now an essential activity, we are efficiently ramping up our mining operations in a safe and timely manner.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “Everyone is happy to be returning to work where our strict health and safety measures take care of our people and their communities.” At the Guanacevi mine, plant staff installed two rebuilt cone crushers during the suspension period to enable the plant to return to its production capacity of 1,200 tonne per day (tpd) next month. At Bolanitos, mine employees are completing development of the San Miguel orebody over the next two months. This is to allow the plant reach 1,100tpd before the end of second quarter this year. Meanwhile, the plant at El Compas has started processing of the low-grade stockpile while the mine ramps up ore extraction to 250tpd in June. Each of these mines has commenced processing ore stockpiles so as to quickly ramp up to their original capacities.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
