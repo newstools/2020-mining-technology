@@ -1,0 +1,12 @@
+Diversified commodities miner Glencore has agreed to sell a 20.5% stake in Unicorn Chrome to a subsidiary of Merafe Resources for R32.2m. Merafe Resources subsidiary Merafe Ferrochrome and Mining will gain access to Unicorn’s shareholding in a UG2 chrome concentrate producer that extracts chrome concentrate from a tailings stream in the North West province of South Africa. Merafe noted that it also considers Unicorn to be a valuable addition to its chrome interests. The net asset value of Unicorn at the year ended on 28 Feb last year was R21.2m and it made a profit of R28.6m for the year. Our parent business intelligence company Merafe also confirmed that it has sufficient cash reserves to complete the acquisition. The company considers the acquisition as a long-term strategic investment that will place the company ahead of its peers from an operational perspective. Merafe noted that the acquisition is not subject to shareholder approval, but an independent professional expert from Tamela Holdings has considered that the acquisition terms are fair to shareholders. In a press statement, Merafe said: “Merafe has sufficient cash reserves to complete such a beneficial Acquisition successfully. Merafe considers this Acquisition as a long-term strategic investment which will place the Company in a better position and ahead of its peers from an operational perspective.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results “Given the cyclical nature of the mining industry, prudent cash management is crucial, especially now during Covid-19 pandemic. Merafe continues to closely monitor the costs and capital expenditure of the Company.” In December 2014, Glencore and Merafe Resources reached an agreement with the National Union of Metalworkers of South Africa to end a strike at the companies’ chrome joint venture. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
