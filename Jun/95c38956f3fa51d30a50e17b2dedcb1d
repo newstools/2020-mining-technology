@@ -1,0 +1,15 @@
+Tennessee-based coal supplier Contura Energy has completed its exit from the Powder River Basin in Wyoming after two of its fully-owned entities were merged with subsidiaries of Eagle Specialty Materials (ESM). The merger became effective from 29 May. Contura Coal West and Contura Wyoming are the surviving entities of the merger deal. They are now fully-owned subsidiaries of ESM. According to Contura, one of the surviving entities of the merger Contura Coal West, which is no longer part of Contura, will continue to hold the mining permits for the Eagle Butte as well as Belle Ayr coal mines in the Powder River Basin. Our parent business intelligence company Contura Energy chairman and CEO David Stetson said: “With today’s announcement, Contura has completed the final element of its years-long exit from the Powder River Basin. “We are pleased to conclude this clean-up transaction and continue our focus on operating and developing our Central Appalachian metallurgical properties.” Pursuant to the terms of the deal, Contura Energy will receive about $625,000 in cash consideration from ESM for assets owned by Contura Coal West that were not previously conveyed.   How optimistic are you about your company’s growth prospects?  View Results In May 2018, Contura Energy signed a definitive agreement to merge with Alpha Natural Resources with the aim of creating a US-based metallurgical coal platform and cost-competitive thermal coal portfolio.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
