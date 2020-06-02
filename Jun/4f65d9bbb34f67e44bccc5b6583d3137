@@ -1,0 +1,21 @@
+Finnish technology company Outotec has secured a contract from La Sino-Congolaise Des Mines (Sicomines) to deliver copper solvent extraction technology to Sicomines’ project near Kolwezi in the Democratic Republic of the Congo (DRC). Sicomines is a joint-venture between companies from China and the DRC. Valued at about €20m ($22.2m), the contract has been booked under the company’s Q2 2020 order intake. Under the work scope of the contract, Outotec will deliver basic engineering, technology and equipment deliveries, as well as and advisory services to Sicomines for mechanical installation, commissioning, as well as start-up of the modular VSF®X copper solvent extraction plant. Our parent business intelligence company Outotec’s Metals Refining business head Kalle Härkki said: “We look forward to working with Sicomines on this project. “We will be happy to deliver the technology package including our modern VSF®X modular concept and benefits that come with it – a fast-track delivery and installation as well as environmentally friendly and safe performance of the plant. “The Sicomines project will be a great reference for Outotec in the active African copper/cobalt market.” Last month, Outotec and industrial machinery company Metso received an unconditional merger control clearance from the European Commission for the combination of Metso’s Minerals business with Outotec. In July last year,  Outotec and Metso Minerals initially signed an agreement to create a new leading entity in process technology and services for the mineral and metal industries.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
