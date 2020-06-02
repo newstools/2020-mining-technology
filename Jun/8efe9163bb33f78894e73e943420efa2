@@ -1,0 +1,21 @@
+Finnish miner Keliber has submitted the programme for environmental impact assessment (EIA) of the Päiväneva mine and concentrator site to the respective authorities. The company has chosen the Päiväneva area as the mine site. The site is located approximately 10km northeast from the nearest municipality Kaustinen in Finland. The EIA programme covers relevant environmental and social factors to be further investigated, and also involves assessment on the options for the implementation of mines and concentrator. Other aspects reviewed during the EIA process are the current state of the area’s environment and the impacts of future activities on the environment. Our parent business intelligence company Furthermore, impacts of soil and bedrock, surface and groundwater, as well as the effects on the landscape, land use and community structure of the area are also reviewed. Keliber president and CEO Hannu Hautala said: “The environmental impact of operations plays an important role in our decision to locate the concentrator in the main mining area, and in addition this move will improve the cost efficiency and return on investment. “I would like to thank all who are working on the EIA on their contribution to the process. Together, we will ensure that the impacts are carefully considered and that the EIA process is taken forward on schedule.” Keliber’s lithium deposits and future mines are located in Kaustinen, Kokkola and Kruunupyy regions. According to the company, the ore from these mines will be processed in the concentration plant located in Päiväneva. It will then be processed into lithium hydroxide in the chemical plant that is located in the Kokkola Industrial Park.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
