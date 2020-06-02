@@ -1,0 +1,15 @@
+Canadian mining firm Lundin Gold has announced that its first phases for resumption of operations at Fruta del Norte mine have begun. The Fruta del Norte gold mine is located approximately 9km south-west of the village of San Antonio, within the Cordillera del Cóndor region of Zamora-Chinchipe, Ecuador. Ecuador’s national government issued Covid-19 protocols on 15 May that set out health and safety guidelines for the mining industry to restart operations. Lundin has shipped all of the concentrate and doré stored at the site since it suspended operations on 22 March. Our parent business intelligence company Additionally, the company is transporting reagents, spare parts and other supplies that had been accumulating at the port of Guayaquil to the site. Lundin Gold president and CEO Ron Hochstein said: “The reestablishment of transportation corridors was an important first step in our plan to restart operations at the Mine. “We are in the last stages of finalizing the restart of our operations, which is expected to occur early in the third quarter of this year.” During the two months of suspension, Fruta del Norte workers carried out several projects and maintenance work in preparation for the resumption of operations. As part of the maintenance work, the SAG mill was relined, maintenance of underground dewatering equipment took place and mill modifications to improve mill recoveries were also implemented. In November last year, Lundin Gold inaugurated Fruta del Norte gold mine and reported the commencement of production at the mine site. The initial mine life of the project is estimated at 15 years.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
