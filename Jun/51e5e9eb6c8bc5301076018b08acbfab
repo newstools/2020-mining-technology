@@ -1,0 +1,21 @@
+The World Gold Council (WGC), the market development organisation for the gold industry, has welcomed African gold producer, developer and explorer Hummingbird Resources to its Board of Members. As part of joining the World Gold Council, Hummingbird has agreed to adopt and adhere to the Responsible Gold Mining Principles. Hummingbird CEO Dan Betts said: “We are delighted to now be members of the World Gold Council and to contribute to its important work. Sustainability is at the heart of everything we do at Hummingbird and adopting the Responsible Gold Mining Principles underpin our commitment as a sustainable operator. “Additionally, our development of Single Mine Origin Gold, which confirms that gold is derived from a responsible source, due to a keen focus on traceability and provenance, is a testament to this. Our parent business intelligence company “I am looking forward to working with the Council and its Members to share best practice and to promote the long-term development of the gold industry.” Founded in 2005, Hummingbird is engaged in the exploration, evaluation and development of mineral properties in West Africa. Currently, the company has two operations, Yanfolila and Dugbe, in south west Mali and Liberia, respectively. World Gold Council chair Kelvin Dushnisky: “I am delighted to welcome Hummingbird Resources to the World Gold Council. Hummingbird Resources brings with them a wealth of experience and plays an important role in the production and exploration of gold across West Africa.” In September last year, WGC launched a set of principles for gold miners designed to address key environmental, social and governance (ESG) issues.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
