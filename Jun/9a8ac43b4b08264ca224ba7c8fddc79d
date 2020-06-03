@@ -1,0 +1,15 @@
+Swedish mining equipment manufacturer Epiroc has provided a notice of termination to 425 employees in Sweden. According to the company, 350 jobs will go at its Örebro facility and the remaining 75 at its Fagersta location. The move comes in the wake of drop in demand from customers as a result of the Covid-19 pandemic’s effects on the global economy. The workforce reductions are also part of the company’s efforts to adapt to the changing Covid-19 demand situation in the mining and infrastructure sectors. Our parent business intelligence company Epiroc noted that half of the losses are for production positions. In Sweden, Epiroc employs about 3,100 employees, out of its global staff of about 14,000. Epiroc president and CEO Helena Hedblom said: “We are taking these actions to adapt to the new market situation following the Covid-19 pandemic and to make us stronger and more resilient for the future. Unfortunately we must take such a drastic action as giving notice of termination.   Will a global recession spell bad news for the mining industry?  View Results “We regret the negative consequences this will have for our colleagues and those close to them, and we will support our employees in this difficult situation. “These actions will allow us to continue to prioritise innovation and to develop our technology leadership in order to support our customers’ operations and improve their productivity.” Last month, Epiroc secured a large equipment and service contract from Chilean state-owned copper miner Codelco for use at its Chuquicamata mine in northern Chile. In March this year, ASI Mining signed a subcontract with Epiroc to supply its autonomous haul truck solution to Roy Hill in Western Australia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
