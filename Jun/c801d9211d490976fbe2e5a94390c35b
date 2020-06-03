@@ -1,0 +1,21 @@
+Canadian mining and exploration firm Centerra Gold has announced commercial production from its Öksüt Mine in Turkey, four months after the company achieved its first gold pour at the operation. The Öksüt gold mine is located approximately 48km south of Kayseri in south-central Turkey and fully owned by Centerra. It is 295km to the south-east of Ankara. It is being developed as a conventional truck and shovel open-pit mining operation. The mine has an initial life of eight years. Our parent business intelligence company Centerra Gold president and CEO Scott Perry said: “Commercial production at Öksüt marks a major milestone for the Company. “Öksüt was delivered on time and under budget. Centerra now has three producing operations which are expected to generate meaningful free cash flow as we continue to deliver growth and value for shareholders.” The project received all regulatory permits in January 2018, while construction was started in March 2018.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results Centerra already operates two flagship assets, namely the Kumtor Mine in the Kyrgyz Republic and the Mount Milligan mine in British Columbia, Canada. Öksüt is the company’s third operating asset. In January this year, Centerra received all the necessary permits and approvals to restart open-pit mining at the Kumtor mine. In 2018, Kumtor mine produced 534,563oz of gold.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
