@@ -1,0 +1,21 @@
+The global economic growth in 2020 has been eclipsed since the COVID-19 pandemic outbreak causing fears of looming unemployment and recession in a number of countries. Verdict has been tracking the optimism over global economic recovery through an online poll started in April and still ongoing in 22 of the network’s websites. Respondents have answered to how much time it would take for the global economy to recover post COVID-19, from four options to choose from – less than a year, one to three years, three to five years, and more than five years. Analysis of the poll results until the end of May shows that the optimism levels reached the lowest in two months, in the last week of May (25 to 31 May). Our parent business intelligence company The percentage of respondents who were optimistic about a recovery in less than one year decreased significantly from 20.6% in April to 11.8%, the lowest, in the last week of May. The percentage in this category never fell below 16% since the poll began. Similarly, the percentage of respondents who voted that the recovery would take more than five years reached a high of 25.5% in the last week of May, compared to a low of 16.7% between 13 April and 19 April.    How optimistic are you about your company’s growth prospects?  View Results The analysis is based on 47,316 responses received between 06 April and 31 May. The significant fall in optimism could be attributed to downward revisions of economic growth forecasts in most of the major global economies in May, as below. S&P Global forecast in April that the global gross domestic product (GDP) will decline by 2.4% in 2020, but in May a number of organisations cut their 2020 growth forecast. The UN forecasts global GDP to contract by a steeper 3.2%, whereas the International Monetary Fund (IMF) expects a 3% decline, as of May. Growth estimates for most of the top global economies have been revised downwards by leading rating agencies and financial institutions in May, compared to April, as below. S&P Global forecasted in April that the US GDP will contract by 5.2%, while Deutsche Bank forecasted in May that the economy will contract by 7.1% during the year. The UK GDP was estimated to contract by 6.8% by Ernst & Young in April, while Deloitte in May forecast the same to contract by a higher 7.9% whereas Bank of England forecast an even steeper 14% contraction. Germany’s annual GDP forecast was revised from a 5.5% contraction in April to 9% in May by Deutsche Bank, while that of Italy was estimated to fall by 9.1% by the IMF compared to 14% contraction by Deutsche Bank in May. Similarly, by Deutsche Bank’s May forecast of 14% contraction of the French economy was nearly double compared to the IMF’s estimate of 7.2% in April. Among Asian countries, China’s GDP growth was projected at 1.2% in April by the IMF. In May, Deutsche Bank forecast the economy to contract by 1.1%. Japan’s GDP contraction was estimated at 5.2% in April by the IMF, although the forecast by Morgan Stanley in May was at a lower 3.5%. Japan officially entered recession following two straight quarters of contraction. India is expected to face one of the worst economic blows in 40 years. A 0.8% growth forecast by Fitch Ratings in April was revised to 5% contraction in May due to lockdown extension.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
