@@ -1,0 +1,15 @@
+Canadian miner Great Panther Mining is restarting operations at its Topia and Guanajuato mines in Mexico after temporarily closing the mines as a result of government-mandated restrictions put in place to contain Covid-19. The company noted that it is restarting the mines under a phased approach to work under strict safety and health protocols to limit the spread of the virus. The company has already commenced operations at the Topia mine, while the Guanajuato mine complex is expected to resume work next week. Great Panther president and CEO Rob Henderson said: “We are pleased to be resuming our Mexican operations and are conducting the ramp-up in a safe and cautious manner to protect the health and well-being of our most valuable assets: our people.” Our parent business intelligence company On the operational front, Great Panther noted that permitting for its Phase III tailings storage facility (TSF) project at the Topia mine is currently underway. Meanwhile, Great Panther’s Tucano gold mine in Brazil continues to operate under strict protocols to contain the spread of coronavirus, collaborating closely with the local and state government agencies. Earlier last month, Great Panther reported that two employees that live in the nearby communities of the Tucano Gold Mine in northern Brazil have tested positive for Covid-19. Last July, Great Panther approved a positive production decision for Coricancha mine based upon the final results of the mine’s trial stope and bulk sampling programme (BSP). In March last year, the company acquired gold producer Beadell Resources.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
