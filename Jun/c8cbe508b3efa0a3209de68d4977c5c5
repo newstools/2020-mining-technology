@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Gold mining company AngloGold Ashanti is looking to gradually ramp-up operations at its Mponeng underground gold mine in South Africa, and is aiming to operate the mine at 50% capacity. Mining activities at Mponeng, the world’s deepest operating mine, were suspended for after a total of 196 Covid-19 cases were identified at the site. The Mponeng mine is located in Gauteng province in South Africa. It is 76km from Johannesburg. According to Reuters, the company started a phased resumption of Mponeng with only four crews on the first shift. This is only 9% of the normal full capacity of 44 crews. Our parent business intelligence company AngloGold Ashanti spokesman Stewart Bailey was quoted by the news agency as saying: “Our aim is a gradual ramp up to 50% capacity.” In South Africa, all mines were allowed to operate at full capacity from 1 June, after the country further eased Covid-19-related restrictions.  These restrictions have already likely knocked off 8-10% of mine production for this year. In March this year, AngloGold Ashanti halted production at Mponeng mine following a collapse at the site that claimed the lives of three miners. This February, AngloGold Ashanti signed an agreement to sell its remaining producing assets and related liabilities in South Africa to gold Harmony Gold for $300m. In May last year, AngloGold Ashanti unveiled plans to sell all its remaining assets in South Africa, primarily comprising the Mponeng mine. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
