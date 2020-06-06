@@ -1,0 +1,21 @@
+Australia has signed a memorandum of understanding (MoU) to supply India with critical minerals needed for the new-energy economy. The latest announcement comes following the virtual summit between India’s Prime Minister Narendra Modi and his Australian counterpart Scott Morrison. Australia Resources Minister Keith Pitt said: “My department has worked closely with the Ministry of Mines to develop the MoU, which focuses on avenues to increase trade, investment and R&D in critical minerals between our two countries. “The MoU identifies specific areas where Australia and India will work together to meet the raw material demands of the future economy, particularly the increased global demand for critical minerals. Our parent business intelligence company “India presents growing opportunities for Australia’s critical minerals, especially as the nation looks to build its manufacturing sector, defence and space capabilities.” Australia has so far served as one of the top suppliers of cobalt and zircon to India. The country stands in the third position in the global production of these minerals. Furthermore, the country has many reserves of other critical minerals such as antimony, lithium, rare earth elements and tantalum, to supply to India. The ‘Make in India’ programme announced by the Indian government is expected to increase demand for critical minerals in the country. India’s goal of moving to 100% electric mobility by 2030 will also see a surge in demand for these minerals. In November last year, the Australian Government announced new financing measures for its rare earths and critical minerals sector. In January, the US and Canada have finalised the Canada-US joint action plan on critical minerals collaboration on minerals such as uranium and rare earth elements.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
