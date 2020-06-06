@@ -1,0 +1,21 @@
+Adani Australia has awarded BMD a $350m ($242m) contract for civil construction works for the Carmichael rail network in Queensland. The Carmichael project is located in the Galilee Basin in Central Queensland, Australia. Under the civil components of the contract, BMD will deliver earthworks, drainage, bridges, rail camp construction and associated road upgrades of the project. This work is expected to result in the creation of around 600 jobs. Our parent business intelligence company The latest contract is the largest Carmichael construction contract that Adani has awarded so far, taking the total value of the project contracts to over A$1bn ($690m). Adani Mining CEO Lucas Dow said: “Construction of Adani’s Carmichael Mine and Rail project is continuing with strict measures in place to manage the risk of the Covid-19 virus. “We’re following all advice from Queensland Health and the Federal Government and doing all we can to keep our people and the community safe. “We also understand how important it is to continue our operations where safe and practicable to provide certainty of employment for our staff, contractors and the thousands of people across north and central Queensland who indirectly rely on our project for their livelihoods. “We remain on track to create more than 1500 direct jobs during the construction and ramp up of our project and some further 6,750 indirect jobs.” Last June, Adani Enterprise received the final environmental approval to commence work on its Carmichael mine, following years of protests and court battles. In November 2018, Adani Mining announced that the Carmichael mine and rail project was set to begin operations and will be completely financed through the company’s resources.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
