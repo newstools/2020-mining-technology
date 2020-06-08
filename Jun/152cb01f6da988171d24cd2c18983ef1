@@ -1,0 +1,21 @@
+Gold and copper miner SolGold has raised new capital to fund its mining exploration activities in Ecuador. The move comes a month after the company signed up to a $150m net smelter returns financing agreement with Franco-Nevada for the Alpala copper-gold project in Ecuador. In the latest fundraising, SolGold secured a total of £27.1m, much higher than its initial target. The company raised £26.1m through placing of 121 million shares and subscription of new shares. A retail offer by SolGold fetched additional £1m. Our parent business intelligence company Initially, the miner aimed to raise around £16m, reported Reuters. SolGold CEO Nick Mather said: “SolGold is pleased with the strong institutional support for the raising. In additional to the completion of the FNV Royalty Financing, the new capital will see SolGold fully funded through to the delivery of the DFS study, whilst at the same time, allow our award winning geologists to rapidly explore the high priority regional exploration targets throughout Ecuador along the spine of the Andean Copper Belt. “Alpala is one of the top undeveloped copper gold projects globally and the Company looks forward to the transition from explorer into developer in the near future.” The Alpala project study is expected to complete next year, with production is slated to begin from 2025. Headquartered in Australia, SolGold focuses on the discovery and development of copper-gold deposits. Besides Ecuador, it has operations in Australia and Solomon Islands. In March, the company restricted mining operations in Ecuador due to Covid-19 related measures.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
