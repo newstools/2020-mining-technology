@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian miner Vale has been ordered by a local court to close a series of mines over Covid-19 concerns. The Regional Labour Court of the 3rd Region ordered the miner to suspend all activities in the Itabira mining complex, after 188 workers tested positive for Covid-19. The mining complex includes the Conceição, Cauê and Periquito mines. In a statement, Vale noted that the suspension will remain in place until another judgment or until labour inspectors approve Vale’s implementation of Covid-19 control measures, with a daily fine set at BRL500,000 ($100,828). Our parent business intelligence company “Vale informs that the shutdown of the activities at these mines follows all technical criteria and safety protocols, to protect the health of workers,” the statement added. The decision is expected to impact Vale’s iron-ore production. According to Reuters, Itabira mining complex accounts for nearly 10% of the company’s iron-ore output. It reported a production of 36 million tonnes last year. The expected monthly production from the Itabira Complex was 2.7 million tonnes for the upcoming months. However, Vale said that it does not plan to revise its production guidance for 2020 at this moment. The company further noted that it has ramped up testing of its workforce in line with the World Health Organization (WHO) recommendations to identify asymptomatic people and identify the workers who came in contact with Covid-19 patients. As of last week, the company has tested more than 75% of its workforce and nearly all its workers in Itabira. It has also rolled out several other steps to ensure the safety of its workers. Brazil is one of the countries worst affected by the Covid-19 pandemic. As of 8 June, more than 691,000 cases were confirmed in the country. Source: PR: http://www.vale.com/EN/aboutvale/news/Pages/Vale-informs-on-the-interdiction-of-the-Itabira-Complex-and-the-support-to-fight-COVID-19.aspx ADDL: https://www.reuters.com/article/us-health-coronavirus-brazil-vale-sa/brazilian-judge-shuts-down-vale-complex-due-to-coronavirus-concerns-idUSKBN23C34K https://finance.yahoo.com/news/vale-ordered-brazil-judge-halt-165557729.html Image: https://commons.wikimedia.org/wiki/File:3D_medical_animation_coronavirus_structure.jpg
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
