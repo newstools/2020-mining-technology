@@ -1,0 +1,21 @@
+Chinese miner Zijin Mining Group plans to acquire a 50.1% equity interest in Tibet Julong Copper, a company with rights to two copper deposits in Tibet, for CNY3.88bn ($548m). The acquisition will be handled through the company’s subsidiary, Tibet Zijin. The 50.1% stake in Julong Copper will be purchased from Zangge Group, Zangge Holding, Zhongsheng Mining, Shenzhen Chenfang and Huibaihong Industrial, all of which hold various interests in Julong Copper. Primarily known as a gold miner, Zijin’s proposed acquisition is aimed at boosting the company’s resource base and achieving sustainable development, according to the company’s announcement. Zijin, a state-owned company, is also seeking to bolster the supply capacity of large-scale copper mines in China. The move also comes amid concerns from copper smelters over the supply of the metal following mine closures as a result of the Covid-19 pandemic. Our parent business intelligence company According to Zijin’s filing, the Qulong mine can produce 30 million tonnes of ore annually and the smaller Zhibula mine can produce 1.2 million tonnes a year. Tibet Julong holds the licence for Qulong until 2037, while the company’s mining rights for Zhibula expire in September. The Zhibula licence is in the process of renewal, however. Both mines also contain molybdenum and silver. In the filing, Zijin said that the sellers will be compensated further if Qulong’s 150,000 tonnes per day mining and ore processing project fulfils certain conditions, which Zijin has not publicly specified. Qulong is China’s largest copper mine and is notable for its operating depth of more than 5,000m. In addition to Qulong and Zhibula, Tibet Julong also owns the Rongmucuola project, which has completed detailed exploration and the company is in the process of applying for a mining permit for the project. Zijin already controls a significant portfolio across 14 provinces in China and has operations across 11 other countries including Papua New Guinea, Colombia and the Democratic Republic of the Congo.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
