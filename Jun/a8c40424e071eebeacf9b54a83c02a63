@@ -1,0 +1,21 @@
+Greatland Gold has executed a series of agreements to support the application process for a mining lease at the Havieron project in Western Australia. The company noted that Newcrest Operations, its farm-in partner in the project, and Western Desert Lands Aboriginal Corporation (Jamukurnu-Yapalikunu), the prescribed body corporate for the Martu People of the Central Western Desert region in Western Australia (WDLAC), became parties to an Indigenous Land Use Agreement (ILUA). The ILUA establishes a framework between the parties with respect to any future development activities at Havieron. Greatland also agreed to transfer a 40% legal interest in the registered title to E45/4701 to Newcrest to submit the mining lease application for the Joint Venture Area (JV Area) at Havieron. Our parent business intelligence company However, the beneficial interests with regard to the JV area remains unchanged. After the transfer of legal interest is registered, the JV participants will apply for a mining lease for the JV area. Subsequently, Newcrest will transfer its legal interest to Greatland, following which, the latter will have complete legal interest in the registered title to E45/4701. How concerned are you about spread of Coronavirus? Total Voters: 2,733 Located in the Paterson region, the Havieron gold-copper discovery reported peak grades of 211.3g/t Au, 12.38% Cu and 4,104ppm Co. In March last year, Greatland entered into a farm-in agreement with Newcrest to explore and develop the project. Greatland Gold CEO Gervaise Heddle said: “The agreements announced today represent another important step forward for the Havieron project and will assist in the process for a Mining Lease application, which is expected to be lodged within the next couple of months. “Greatland looks forward to further strengthening its relationship with WDLAC and the Martu People of the Central Western Desert region, both as a Joint Venture participant and through our own exploration activities in the Paterson region.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
