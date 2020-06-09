@@ -1,0 +1,21 @@
+Canadian miner Yamana Gold has selected GoldSpot Discoveries’ geologists and data scientists team to use machine learning (ML) to identify new drilling targets at its Cerro Moro mine in Argentina. Yamana noted that the latest move seeks to minimise exploration risk and mitigate costs. Under the work contracted by Yamana, GoldSpot will use its geoscience and machine science expertise to clean, unify, as well as analyse exploration data from Cerro Moro and produce two dimensional (2D) and three dimensional (3D) targets for the exploration programme. Cerro Moro gold-silver mine is located 70km south-west of the port of Puerto Deseado in Santa Cruz province, Argentina, covering 175km². Our parent business intelligence company According to Yamana, GoldSpot will examine Cerro Moro’s database and check for previously unrecognised data trends in order to identify areas of potential mineralisation at depth. GoldSpot president and executive chairman Denis Laviolette said: “This new contract with Yamana for the Cerro Moro mine validates our work thus far and the cutting-edge products we deliver to our clients. “Yamana has been an incredible supporter of GoldSpot and we are proud to be a part of their digital transformation.” In April this year, Yamana Gold increased its annual dividend by a further 25% to $0.0625 a share on the back of first-quarter results this year. In the same month, Yamana Gold signed an agreement to sell shares and warrants in Vancouver-headquartered Equinox Gold for C$201m (approximately $144m). In May 2018, Yamana Gold achieved the first pouring of gold and silver doré at the Cerro Moro mine.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
