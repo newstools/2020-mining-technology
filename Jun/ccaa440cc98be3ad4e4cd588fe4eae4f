@@ -1,0 +1,21 @@
+Canadian development and exploration company Eldorado Gold has started construction of a three-kilometre decline at its Lamaque gold mine operation in Quebec, Canada. Lamaque is an underground gold mine in Val-d’Or, Quebec. In April 2019, Eldorado Gold achieved commercial production at Lamaque mine. The Canadian miner will invest $24m in the decline project which will connect the Sigma mill and the 405m level of the Triangle mine. Our parent business intelligence company Eldorado noted that the construction of the decline at Lamaque is expected to be completed by the first half of 2022. The decline will eliminate surface re-handling of ore and do away with about 26km roundtrip to haul ore from the Triangle mine to the Sigma mill. Eldorado Gold president and CEO George Burns said: “We are pleased to begin construction of the decline at Lamaque this summer. “This is a project that we have been advancing for nearly a year and is another step towards further production growth and continued value creation at Lamaque. “We would like to thank the government of Quebec and all our local stakeholders for their continued support for this project and our Lamaque operations.” Lamaque operations were moved to care and maintenance on 23 March to comply with the government-mandated restrictions to limit the spread of Covid-19. In April this year, the company resumed operations at Lamaque after Quebec’s provincial government confirmed mining is an essential industry. Lamaque has an initial mine life of seven years and its production is expected to rise to 125,000oz-135,000oz of gold in this year and next year.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
