@@ -1,0 +1,21 @@
+Canadian mining firm New Gold has signed a definitive agreement with Artemis Gold to sell its Blackwater gold project in British Columbia for C$190m (approximately $141m) in cash. The Blackwater gold project is located 160km southwest of Prince George and 100km south of Vanderhoof in central British Columbia, Canada. It is spread over approximately 15,000ha on the northern flanks of Mt. Davidson. The Canadian miner will receive a gold stream on 8% gold produced from the Blackwater project. That total will be reduced to 4% once the company receives approximately 280,000 ounces (oz) of gold. As part of the deal, New Gold will acquire as much as 9.9% of Artemis’ issued and outstanding common shares for C$20m ($14.9m) at the closing of the transaction. Our parent business intelligence company New Gold CEO Renaud Adams said: “With this transaction we have further strengthened our balance sheet with an upfront cash payment that is supported by our improved operational performance and our recently updated life of mine plans that are focused on profitability and free cash flow generation beginning in 2021. “We believe that surfacing value for Blackwater today, while retaining exposure to the project through a retained gold stream and an equity position in Artemis, allows the Company to transition to the next phase of our growth plan as we continue to reposition the Company for shareholder value creation. “Artemis has clearly expressed its commitment to building and operating Blackwater that is supported by its management team’s strong track record in the industry.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results In April last year, New Gold secured environmental approval from the Canadian Environmental Assessment Agency for Blackwater Gold Project. The Blackwater Gold Project is expected to produce 60,000tpd of gold and silver ore over a mine life of 17 years.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
