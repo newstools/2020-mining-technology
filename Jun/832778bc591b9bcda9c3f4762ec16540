@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian resource and mineral processing technology firm TNG and Indian mining conglomerate Vimson Group have delayed the completion of an offtake agreement due to the Covid-19 pandemic. The agreement involves a life-of-mine (LOM) offtake of high purity iron ore products produced at TNG’s Mount Peake vanadium-titanium-iron project located in the Arunta province of Northern Territory, Australia. According to TNG, measures taken by both the partners in response to the Covid-19 pandemic had impacted the progression of the agreement. As a result, both parties have now agreed to extend completion of the agreement by an additional 45 days. Our parent business intelligence company TNG plans to produce about 500,000 tonnes per annum (tpa) of iron oxide fines from its proposed TIVAN processing facility in Darwin. TNG managing director and CEO Paul Burton said: “The Company remains focused on finalising all off-take agreements for the high-purity products planned to be produced at Mount Peake. “TNG together with Vimson are committed to reach the final off-take agreement for iron oxide products on a life-of-mine basis as soon as possible, which will cement the strong relationship we have developed with Vimson since their original investment in the Company in 2018.”document.write('<script src="http' + ( ("https:" == document.location.protocol) ? "s" : "") + '://www.surveygizmo.eu/s3/90244152/ALL-WEBSITES-3-04-JUNE-2020?__output=embedjs&__ref=' + escape(document.location.href) + '" ></scr' + 'ipt>'); Vimson is a major shareholder in TNG, owning 9.84% stake in the company. It has been a supplier of  iron ore to Japan’s Nippon Steel and South Korean firm POSCO. In March this year, TNG said that the Covid-19 pandemic was likely to impact the timing of Mount Peake project. In November 2018, TNG awarded a contract to German metallurgical engineering firm SMS group to begin the FEED process for the Mount Peake project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
