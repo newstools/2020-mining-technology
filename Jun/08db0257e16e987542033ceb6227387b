@@ -1,0 +1,21 @@
+The Covid-19 pandemic could cut global seaborne coal demand by up to 10%, according to Pandu Sjahrir, the chair of the Indonesian Coal Mining Association, as a combination of lockdown measures and falling coal prices combine to cut demand across the sector. Sjahrir noted that global demand could fall as low as 895 million tonnes (Mt), 85Mt lower than originally forecast, and 10% lower than the global demand recorded in 2019. This trend has hit some of the world’s largest coal consumers hardest, with Indian demand falling by 40Mt, and declines of 10Mt in China and South Korea. “There is a possibility for further downside to these demand numbers, if lockdowns are extended or reinstated,” said Sjahrir, speaking at a webinar held on Wednesday, and reported by Montel News. “The oversupply situation could worsen should we witness further demand destruction due to lockdown extensions.” The economic threat posed by prolonged lockdown measures is of particular concern, as many of the world’s largest coal producers are among the worst-hit by the pandemic. In 2018, BP figures show that China dominated the world’s coal production, with 1,828.8Mt of coal produced, accounting for 46.7% of the global total; the latest figures suggest China has the 18th-most cases of Covid-19, with over 80,000. Similarly, the US leads the way in Covid-19 cases, with more than two million affected citizens, and was the second-largest coal producer in 2018, with 364.5Mt of production, behind only China. Our parent business intelligence company It is no surprise that countries with large-scale industrial workforces, where large numbers of employees are expected to work in cramped or enclosed spaces such as mines, are among those with the most cases of Covid-19, although the impacts on Chinese and American coal are having repercussions around the world. Sjahrir noted that Indonesia, which has only reported 34,000 cases of Covid-19, has seen its coal industry thrown into disarray by the global decline, with half of the country’s coal mines now operating at a loss. Indeed, the country’s energy ministry set its June reference price for coal at $52.98 per tonne, a 35% decline since the start of the year, posing questions as to the long-term stability of the sector.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
