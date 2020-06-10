@@ -1,0 +1,21 @@
+Hitachi subsidiary Wenco International Mining Systems has signed a memorandum of understanding (MoU) with autonomous vehicle software company Oxbotica to develop an ‘Open Autonomy’ solution for the mining industry. Currently, initial trials of the autonomy technology are in progress, and the two companies are engaged in hiring mining partners with suitable testing grounds. The advanced technology would allow mining customers to operate any open standard-based vehicle and integrate it with an existing fleet, providing flexibility and efficiency in the deployment of autonomous mining. Growth of the autonomous haulage trucks is expected to be even higher over the next three years, as demand is expected to increase by over 300% by 2023. Our parent business intelligence company Wenco president and CEO Andrew Pyne said: “We are confident that combining Oxbotica’s proven capability in autonomy with our three decades worth of experience in interoperable fleet management systems for large mining customers enables us to create the industry’s first full-function open autonomy platform. “Regardless of the strategies of other industrial autonomy vendors, Wenco and Oxbotica believe firmly in the principle of open systems and consider it the primary way to bring about our joint goals of widespread adoption of autonomous technology and safer, more productive industrial operations. “Our joint platform will allow customers to choose any open standards-based vehicle and integrate it into their existing operations.”document.write('<script src="http' + ( ("https:" == document.location.protocol) ? "s" : "") + '://www.surveygizmo.eu/s3/90244152/ALL-WEBSITES-3-04-JUNE-2020?__output=embedjs&__ref=' + escape(document.location.href) + '" ></scr' + 'ipt>'); The latest move comes after Wenco, with its parent company Hitachi, first presented its vision of Open Autonomy at the Canadian Institute of Mining, Metallurgy and Petroleum (CIM) Convention in Montreal in May last year. Oxbotica CEO Ozgur Tohumcu said: “We strongly believe an Open Autonomy architecture that enables new and innovative entrants, like Oxbotica, to join and speed up autonomy adoption will be beneficial for the whole industry. “Together with Wenco, we would like to accelerate the adoption of autonomy in mining, making it much easier for mine operators to deploy autonomous technologies and enjoy the benefits.” In September 2018, Oxbotica secured a £14m ($18.5m) investment in a funding round led by IP Group to expand its activities in Europe, Asia and the US markets.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
