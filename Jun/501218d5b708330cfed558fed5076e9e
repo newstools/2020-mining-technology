@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian gemstone mining and marketing firm Fura Gems has cancelled the inaugural Colombian emerald auction due to travel restrictions and current market conditions resulting from the Covid-19 pandemic. The emerald auction was initially scheduled for May in Antwerp, Belgium. The company noted that it will continue to monitor market conditions to determine the appropriate time to hold the auction. Furthermore, Fura Gems noted that it has started operating Coscuez emerald mine in Colombia with 50% of the workforce. Our parent business intelligence company Due to the Covid-19-related restrictions imposed by the Government of Colombia, the mine was put under care and maintenance from 20 March until 4 June. Fura president and CEO Dev Shetty said: “We are pleased to provide this operational update regarding our 76%-owned producing Coscuez emerald mine in Colombia. The work carried out by the Fura team all through 2019 and into early 2020 has shown some extraordinary results. “Unfortunately, due to global travel restrictions and the market conditions that have arisen as a result of Covid-19, we cancelled our inaugural Colombian emerald auction, previously scheduled for the month of May 2020.   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results “As the global situation is evolving rapidly, we continue to monitor developments and will wait for an appropriate time to hold our first auction.” In October last year, Fura Gems completed the acquisition of 100% interest in ruby prospecting licence No 5572L in Mozambique. Fura Gems is engaged in the mining, exploration and acquisition of gemstone licences and owns a 76% interest the Coscuez emerald mine in Boyacá, Colombia. The company explores and mines rubies in Mozambique through its 80% interest in 4392L, 3868L, 3869L and 6811L ruby licences and its 100% interest in 5572L.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
