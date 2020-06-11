@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Unionised workers at Chile’s state-run copper producer Codelco are threatening to halt work at some sites in order to implement a self-imposed quarantine after a union member died from Covid-19. According to the Federation of Copper Workers (FTC), there had been “alarming” numbers of Covid-19 infections at several of the mines in the country and measures to contain its spread are insufficient. Reuters quoted FTC as saying in a statement: “If it is necessary to halt work in those areas … until sanitary conditions are adequate to protect mine workers, we are ready to do so.” FTC president Patricio Elgueta noted that the group had received “a series of complaints” from Codelco´s Chuquicamata copper mine union leaders, alleging the copper miner had failed to protect worker health. Our parent business intelligence company Last month, Codelco told Reuters that its production and sales were in line with projections, despite suspension of construction on some projects as well as third-party contract work since the coronavirus hit the country in March this year. According to Reuters, new cases in Chile currently stand at 5,000 a day, with deaths from the disease surpassing 2,000. In January this year, Codelco raised $2bn bonds to secure financing for its multibillion-dollar upgrade projects, as well as to refinance debt and maintain a significant cash position.document.write('<script src="http' + ( ("https:" == document.location.protocol) ? "s" : "") + '://www.surveygizmo.eu/s3/90244152/ALL-WEBSITES-3-04-JUNE-2020?__output=embedjs&__ref=' + escape(document.location.href) + '" ></scr' + 'ipt>'); In November 2019, Codelco said it is investing $5.6bn into its Chuquiacamata mine to convert the century-old operation from an open-pit mine to an underground project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
