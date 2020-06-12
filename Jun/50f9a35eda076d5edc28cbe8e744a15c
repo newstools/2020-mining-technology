@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Government of Queensland has recognised commodities trader and miner Glencore’s proposed $1.5bn Valeria coal mine as a coordinated project. The Valeria coal project is located near Capella town on the Central Highlands region in Queensland. Once operational, the project is expected to support over 1,400 construction jobs and 950 full-time operational jobs over its mine life of 35 years. Queensland Resources Council (QRC) chief executive Ian Macfarlane said: “The announcement today means the Valeria project will start the comprehensive assessment process as a coordinated project through the Office of the Coordinator-General”. “It is projects like these that create thousands of jobs and billions of dollars in investment, exports and royalties.” Glencore said the move by the Queensland government is a major milestone for the company as it moves the Valeria project through its approval processes. Glencore Australia Coal Assets chief operating officer Ian Cribb said: “Our Australian coal operations will continue to produce the high quality coal required to meet expected levels of global steel production and energy demand in Asia.   Will a global recession spell bad news for the mining industry?  View Results “In Queensland, coal continues to be an important driver of the economy as a source of jobs, royalties, reliable energy and support for local businesses both in the city and the bush.” In March 2018, Glencore signed an agreement to acquire Rio Tinto’s 82% interest in the Hail Creek coal mine and 71.2% interest in the Valeria coal resource in central Queensland for $1.7bn in cash.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
