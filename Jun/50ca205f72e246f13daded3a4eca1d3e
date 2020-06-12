@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mexico-focused company First Majestic Silver has agreed to acquire a stream on 50% of the payable silver produced from First Mining Gold’s Springpole gold project in Ontario, Canada. Springpole is one of the largest undeveloped gold projects in Canada. It is located approximately 110km to the north-east of Red Lake, Ontario. The Mexico-focused company will acquire the silver stream from First Mining Gold for $22.5m in cash and shares over three payments. First Majestic will make ongoing cash payments of 33% of the silver priced at $7.50 per ounce, for all payable silver delivered by Springpole. First Mining also granted First Majestic 30-million common share purchase warrants, each of which will entitle the company to purchase a common share of First Mining priced at C$$0.40 ($0.29) over a period of five years. First Majestic Silver president and CEO Keith Neumeyer said: “This new silver stream gives First Majestic significant upside potential to higher silver prices while minimizing risks and costs. “With approximately 22 million ounces of silver expected to be produced over the life of the project, and additional exploration upside, Springpole has both the scale and location to make this an ideal investment for our long-term portfolio.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results “In addition, this silver stream marks our first investment outside of Mexico in the Company’s 18-year history.” The pre-feasibility study (PFS) of the Springpole gold project is anticipated in early next year. In January 2018, First Majestic Silver signed a definitive arrangement agreement to acquire all of the issued and outstanding common shares of Primero Mining for $320m.   jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
