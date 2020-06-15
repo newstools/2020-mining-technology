@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Base and precious metals producer NQ Minerals has received approval from the Government of Australia for its proposed acquisition of the Beaconsfield gold mine in Tasmania. In February this year, NQ Minerals signed a staged acquisition agreement to purchase 100% interest in the Beaconsfield gold mine for A$2m ($1.32m). It has now been approved by the Australian government’s Foreign Investment Review Board (FIRB). The Beaconsfield gold mine has previously produced some three million ounces (Moz) of gold between 1887 to 2012 grading 15g per tonne (g/t). It is located about 40km north-west of Launceston in the Beaconsfield town in Tasmania and is 200km from the company’s Hellyer base and precious metals operations. With government approval now in place, NQ Minerals can now advance to complete the deal and start work to reopen the mine. NQ Minerals chairman David Lenigas said: “Gaining FIRB approval yesterday, is a significant milestone for the company’s plans of re-opening the Beaconsfield Gold Mine.”   Will a global recession spell bad news for the mining industry?  View Results Prior to its close, the mine was estimated to host 1.01 million tonnes (Mt) of resources grading 10.35g/t of gold, for a total of 336,514oz. It includes a 350,000t per year processing plant, tailings dam, infrastructure, property rights, and other mining leases and permits. The package also has around 593ha of mining leases over the Tasmanian reef and its associated infrastructure. In August last year, NQ Minerals announced its investment in private mining company Tasmania Energy Metals, which is expected to enhance its operations and prospects.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
