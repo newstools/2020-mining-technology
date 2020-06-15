@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Chinese mining company Zijin Mining Group has signed a binding arrangement agreement to acquire Guyana Goldfields for a consideration of C$323m (around $238m) in cash. The Chinese miner has offered Guyana C$1.85 ($1.36m) in cash for each common share, which is 35% higher than a previous proposal from Canada’s Silvercorp Metals. Before signing the agreement with Zijin Mining, Guyana noted that it had officially cancelled its previous arrangement with Silvercorp. Guyana Goldfields president and CEO Alan Pangbourne said: “The all-cash offer from Zijin represents a significant premium to the amended Silvercorp offer price and is an excellent outcome for Guyana Goldfield’s shareholders. “Zijin is a highly regarded mining company with an impressive track record of successful international acquisitions and operations. We look forward to working with Zijin over the coming weeks to close this transaction and transition to the new team.” Besides the cash consideration, Zijin Mining has committed to provide $30m towards the ongoing operations of Aurora gold mine and other liquidity needs. Aurora gold mine is the flagship asset of Guyana Goldfields. It is located in Guyana, South America.   Technology spend by mining companies will accelerate as a result of COVID-19?  View Results Zijin chairman Chen Jinghe said: Guyana Goldfields’ management team has dedicated tremendous effort and made significant contributions in progressing the Aurora Gold Mine and we look forward to advancing and developing the next phase of the mine. “We believe that the Aurora mine is a high-quality gold asset with significant upside potential which we believe will be highly complementary to Zijin’s existing mining asset portfolio.” Last week, Zijin Mining announced its plans to acquire a 50.1% equity interest in Tibet Julong Copper, a company with rights to two copper deposits in Tibet, for CNY3.88bn ($548m). In February this year, Zijin Mining received approval from the Canadian Investment Canada Act to acquire 100% equity interest in mining firm Continental Gold for C$1.33bn ($996m). In December last year, Zijin Mining signed a definitive agreement to acquire Continental Gold.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
