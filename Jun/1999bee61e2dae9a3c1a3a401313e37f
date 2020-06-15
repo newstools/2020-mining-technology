@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Alcoa of Australia has awarded a three-year services contract to engineering services provider Worley for its mining, refining, and smelting operations. As part of the contract, Worley will provide engineering and delivery services for Alcoa’s site-based works programme. This contract builds on an existing relationship between Worley and Alcoa, where the former has been selected as the preferred provider for baseload works across Alcoa’s Wagerup, Pinjarra and Kwinana alumina refineries. Worley is also the chosen provider at Alcoa’s Bunbury port terminal, and the Willowdale and Huntly bauxite mining operations in Western Australia. Worley’s teams in Perth and Geelong will execute the services under this contract, with support from the company’s global delivery team. Worley CEO Chris Ashton said: “As Australia’s leading energy services company, we are pleased to continue supporting Alcoa’s Australian operations. “This portfolio is one of the largest in our mining, minerals and metals business and includes our specialist alumina, bauxite and aluminium teams.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results In November last year, Alcoa became the 27th member to join the industry body International Council on Mining and Metals (ICMM). ICMM focuses on improving the industry’s contribution to society with safe, fair and sustainable practices. In December 2018, Alcoa declared to further reduce production at the Aluminerie de Bécancour (ABI) smelter in Québec, Canada, due to an ongoing lockout of its unionised workers.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
