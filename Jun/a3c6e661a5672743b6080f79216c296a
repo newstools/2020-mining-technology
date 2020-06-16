@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian mining firm Kinross Gold has signed an agreement with the Government of Mauritania, which according to the company will enhance the partnership of both the parties involved in the Tasiast gold mine. Under the key terms of the agreement, the Mauritania government would provide Kinross with a 30-year exploitation licence for Tasiast Sud, granted with expedited permitting as well as the possibility of early mining. The agreement could also see the comeback of a tax exemption on fuel duties and Kinross receiving nearly $40m from the Government of Mauritania back in outstanding tax refunds, to be paid by the year 2025. Kinross, in turn, would make a $10m payment to Mauritania after completion of definitive agreements with respect to fuel and tax issues. It would also pay Mauritania another $15m to resolve disputed matters regarding the miner’s prior application to convert the exploration licence of Tasiast Sud into an exploitation permit. Kinross Gold president and CEO J. Paul Rollinson said: “We are pleased to see further development of a positive foreign investment climate in Mauritania with this successful outcome of our discussions with the Government, along with the IFC-led Tasiast project financing signed in December 2019. “This balanced agreement will deliver increased stability, position Tasiast for long-term success, and provide enhanced benefits to Mauritania and its people.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Last month, Kinross Gold reported that its net earnings almost doubled to $122.7m for the first quarter this year, compared with net earnings of $64.7m during the same period last year. In January this year, Kinross Gold completed its previously announced acquisition of heap leach development project Chulbatkan in Russia from N-Mining for $283m. In June 2018, Kinross continued with the initial Gilmore expansion project at its Fort Knox mine, located in Alaska, US.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
