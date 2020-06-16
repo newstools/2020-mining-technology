@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. South Africa-based coal mining firm Wescoal has announced that all operations of the company have developed Covid-19 standard operating procedures (SOPs) and approved a codes of practice (COPs) in line with national legislation. The company developed a comprehensive Covid-19 response plan that was started in March this year, before the commencement of national lockdown measures. Wescoal said all its business units developed business continuity plans and are prepared for any eventuality. Wescoal is also continuously reviewing and revising its plans to safeguard its staff, contractors and operations. Our parent business intelligence company In a press statement, Wescoal said: “The Company have also secured facilities for quarantine in cases where our employees do not have facilities to self-isolate. “To date there are no reported and no confirmed cases at any of Wescoal’s sites. Health and safety of all our employees and the communities adjacent to our operations, remain our top priority.” The company has appointed Trollope Mining Services as the box-cut contract mining company at the Moabsvelden greenfield project in South Africa.   How concerned are you about spread of Coronavirus?  View Results Wescoal noted that the first coal delivery to Eskom had been extended to first half of next year instead of the previously scheduled delivery in second half this year. Moabsvelden will ramp-up to 200,000 tonnes per month (tpm) of run-of-mine (RoM) over 18 months. In April this year, Wescoal received letters from Eskom declaring force majeure on coal supply agreements for its power stations due to the country’s national lockdown. In August 2018, Wescoal signed an agreement with Sitatunga Resources Proprietary to sell the assets of its wholly-owned subsidiary Leeuw Braakfontein Colliery Proprietary (LBC).
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
