@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian iron ore firm Fortescue Metals Group has announced its goal of achieving net-zero operational emissions for 2040. The goal is part of the company’s decarbonisation strategy and will be underpinned by a commitment to reduce scope one and two emissions from existing operations by 26% from current levels by 2030. Fortescue CEO Elizabeth Gaines said: “Fortescue has a proud history of setting stretch targets and our 2030 emissions reduction commitment, together with our goal to achieve net-zero operational emissions by 2040, positions Fortescue as a leader in addressing the global climate change challenge. “Fortescue supports the Paris Agreement long-term goal of limiting global temperature rise to well below 2°C above pre-industrial levels, and our emissions reduction targets align with this international objective. “Since October 2019, Fortescue and our partners have announced investments in excess of $800m in significant energy infrastructure projects which will increase our use of renewable energy and will be a key contributor to our pathway to achieve our emissions reduction targets.” Gaines noted that the firm also plans to decarbonise its mobile fleet through the next phase of hydrogen as well as battery electric energy solutions. Fortescue’s Iron Bridge magnetite project is expected to come online by mid-2022, with emissions reduction targets to be established that align with the company’s zero emissions target by 2040. Last month, Fortescue Metals restated its commitment to supporting Aboriginal communities and businesses in light of the Covid-19 pandemic. In the same month, Fortescue awarded a contract to Downer EDI to complete works at the Eliwana iron ore mine in the Pilbara region of Western Australia. In July last year, mining giant BHP committed to invest $400m as part of its Climate Investment Programme over the next five years to reduce greenhouse gas (GHG) emissions. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
