@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian precious metals miner Barrick Gold has sold a partial stake in Chinese gold miner Shandong Gold Mining for $210m. Barrick sold 79,268,800 shares of Shandong priced at HK$20.50 ($2.65) a share. It now holds a stake of about 2.05%. Barrick bought the shares in the fourth quarter of 2018 at a cost basis of HK$10.50 a share. In a press statement, Barrick said: “Barrick continues to hold 10,250,000 shares of Shandong Gold, representing a 2.05% interest in Shandong Gold’s Hong-Kong listed (H-class) shares, re-affirming its commitment to the strong existing long-term strategic partnership between the two companies. “The shares were sold by an accelerated book building process and were placed primarily with new and existing institutional shareholders of Shandong Gold.” Morgan Stanley served as Barrick’s Sole Placing Agent for the transaction. Barrick and Shandong have been partners in the Veladero mine located in Argentina. In 2017, the Canadian miner sold a 50% interest in the mine to Shandong for $960m. Last month, Barrick Gold’s Tanzania subsidiary Twiga Minerals received clearance to resume export of gold concentrate for its first shipments. Earlier last month, the company reduced its 2020 production guidance following a conflict with the Papua New Guinea government regarding the Porgera mine last month, concerning the renewal of a 20-year special mining lease.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
