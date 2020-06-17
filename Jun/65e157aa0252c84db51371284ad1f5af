@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Nevada Copper has announced that it is progressing towards the resumption of concentrate production at the Pumpkin Hollow underground copper project in the third quarter this year. Production at the mine was temporarily halted in early April this year due to the travel and workplace restrictions imposed by the Nevada government to contain the spread of covid-19. The Pumpkin Hollow project is an underground copper mine and a large-scale open-pit development with a number of exploration hotspots. Located in Yerington, the copper mine has a project life of 23 years. Our parent business intelligence company As part of its preparations to restart the mine, Nevada Copper has completed vertical development of the main shaft. Currently, preparations are underway for the restart of processing operations, which are targeted for this August. The company also noted that the plant has commenced phased remobilisation of its working personnel. Nevada Copper CEO Evan Spencer said: “We have made accelerated and marked progress on the Company’s restart schedule and planned underground ramp-up to full scale production. “Signing the long-term contract with Redpath is another integral step.  Having excellent partners and mobilising the workforce are key steps towards re-establishing normal operations and achieving full scale production following recent global shutdowns.” In January this year, Nevada Copper selected mining contractor Redpath USA to implement its enhancement strategy for its 100% owned Pumpkin Hollow project. With the commencement of production at Pumpkin Hollow’s processing plant in December last year , Nevada Copper entered a new era of the development phase.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
