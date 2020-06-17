@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Commodities trader and miner Glencore and American electric vehicle and clean energy company Tesla have signed a deal, pursuant to which Tesla will buy cobalt from Glencore. The electric vehicle firm plans to use Glencore’s cobalt in its Shanghai and Berlin Gigafactories, reported The Financial Times. The cobalt will be supplied from the Democratic Republic of Congo (DRC), where the commodities miner has been operating a copper mine in the Katanga region since 2008. In January this year, BloombergNEF analyst Kwasi Ampofo said that Tesla’s China plant is expected to manufacture 1,000 to 3,000 cars per week. This would translate to about 1,200 tonnes (t) of cobalt demand annually at peak capacity. The contract will help Tesla increase cobalt supply for its new plants in China and Germany, said Bloomberg citing a person familiar with the matter. The deal will see Glencore supplying over 6,000t of cobalt per annum for lithium-ion (Li-ion) batteries used in electric cars. In December last year, human rights firm IRAdvocates launched a legal case against tech giants Microsoft, Apple, Alphabet, Dell and Tesla over the cobalt mining deaths and injuries of children in the Democratic Republic of Congo (DRC). In January 2019, automobile manufacturer Ford, technology major IBM, cathode manufacturer LG Chem and China-based Huayou Cobalt teamed up to launch a blockchain project to track cobalt supplies from the DRC. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
