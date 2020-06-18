@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. American alumina and aluminium products producer Alcoa has announced its plans to start a formal consultation process for the ‘collective dismissal of employees’ at its San Ciprian aluminium facility located in Spain. The formal process, which is proposed to begin on June 25, could lead to downsizing of up to 534 jobs. Alcoa noted that it had started informal talks with the workers’ representatives last month regarding the ‘significant and unsustainable circumstances’ at the facility. The company is now set to begin its 30-day consultation period with the Works Council. In a press statement, Alcoa said: “The Company envisions a restructuring for the aluminum plant that retains a portion of the casthouse in operation. No final decisions will be made until the mandatory, formal consultation process is complete.” “The aluminum smelter has incurred significant and recurring financial losses, which are expected to continue.” The San Ciprián site comprises both an aluminium plant and an alumina refinery. The refinery will not be affected in this process, said Alcoa. The San Ciprián site has both an aluminium plant and an alumina refinery. The San Ciprián alumina refinery is not affected by this formal consultation process. Recently, Alcoa of Australia awarded a three-year services contract to engineering services provider Worley for its mining, refining, and smelting operations. In November last year, Alcoa became the 27th member to join the industry body International Council on Mining and Metals (ICMM). ICMM focuses on improving the industry’s contribution to society with safe, fair and sustainable practices. In December 2018, Alcoa declared to further reduce production at the Aluminerie de Bécancour (ABI) smelter in Québec, Canada, due to an ongoing lockout of its unionised workers.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
