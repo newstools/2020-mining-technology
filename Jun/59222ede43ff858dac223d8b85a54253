@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian metals and mining firm Vale has announced the resumption of operations at its Voisey’s Bay property early next month. Voisey’s Bay copper mine is located in Labrador, Canada. In March this year, Vale announced that it would be reducing activity and output at the copper mine as a precaution to protect nearby indigenous communities from the Covid-19 infection. The company later extended the care and maintenance period at Voisey’s Bay for up to three months, , leaving an ongoing mine expansion project on hold. From the ‘care and maintenance’ period, the company now move the mine to a ‘planned maintenance’ period. Upon restarting the operations, critical path activities related to the Voisey’s Bay mine expansion will be resumed. The mine is expected to be operated at full capacity by early August. In a press statement, Vale said: “The ability to mass test is in addition to the robust screening measures currently in place and offers greater knowledge and transparency of the number of people who may have had contact with the coronavirus, allowing for immediate action and avoiding large-scale infection. “In planning to resume operations, the company consulted extensively with critical stakeholders in government, Indigenous communities and public health authorities, seeking advice and support. “Vale remains firm in its commitment to the safety of its people and the communities in which it operates and will continue to consult and cooperate with local health authorities to establish world-class initiatives in the fight against Covid-19.” In 2019, the mine produced 25,000 tonnes (t) of copper concentrate. In July 2018, Vale sold cobalt production from Voisey’s Bay mine to Wheaton Precious Metals and Cobalt 27 Capital for around $690m.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
