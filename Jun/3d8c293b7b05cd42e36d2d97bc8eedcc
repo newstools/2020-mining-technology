@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Precious and base metals explorer Precipitate Gold has announced that Barrick has started exploration and fieldwork at Precipitate’s 100% owned Pueblo Grande project in the Dominican Republic. The Pueblo Grande project is a gold-silver mine located next to Barrick’s Pueblo Viejo mine in the Dominican Republic. Pueblo Viejo is a joint venture (JV) between Barrick Gold (60%) and Newmont Goldcorp (40%). Barrick has started review and validation of historic drilling results, as well as geochemical and geophysical data from work conducted by Precipitate and prior owners. Initial work will concentrate on the project’s Lithocap Zone, located west of Barrick’s Pueblo Viejo mining pits. Barrick plans an initial 2,500m of exploration drilling in the Lithocap Zone. Precipitate Gold president and CEO Jeffrey Wilson said: “The timely start-up of exploration initiatives closely following the easing of certain in-country Covid-related restrictions speaks to Barrick’s commitment to promptly initiate meaningful programs to explore and advance the project as efficiently and systematically as possible. “We’re specifically encouraged by Barrick’s initial focus within the Lithocap Zone where Precipitate had previously identified multiple prospective targets. “The earn-in agreement’s requirement for Barrick to incur a minimum $2.0m in exploration before the second anniversary, and Barrick’s intent to conduct a 2,500m drill programme within the first two quarters of the agreement term, suggests the potential for important near-term exploration updates and results as Barrick’s work advances.” In April this year, Barrick Gold signed an earn-in agreement with Precipitate Gold to acquire a 70% stake in the company’s Pueblo Grande project. In March, Barrick Gold announced its plans to extend the life of the Pueblo Viejo gold mine beyond 2040.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
