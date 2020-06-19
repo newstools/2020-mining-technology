@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational commodities giant BHP has signed a deal with Norilsk Nickel Australian Holdings’ subsidiary MPI Nickel to acquire the Honeymoon Well nickel project in Western Australia (WA). The Honeymoon Well nickel project comprises the Honeymoon Well development project and a 50% interest in the Albion Downs North and Jericho exploration joint ventures (JVs). BHP Nickel West currently holds 50% stake in the Albion Downs North-Jericho JVs. The commodities giant noted that the combined tenement package is located in the northern Goldfields region of WA. It is about 50km from BHP’s Mt Keith mine and 100km from its Leinster concentrator. The deal will see the exit of Norilsk Nickel from the country, Reuters reported. According to BHP, the package comprises high-grade nickel sulphide resource Wedgetail deposit and a high quality disseminated sulphide resource. BHP Nickel West Asset president Eddy Haegel said: “This is an exciting opportunity to enhance our world-class nickel resource base in Western Australia. Proximity to our existing facilities makes us the natural owners of these deposits, and provides potential options to bring the undeveloped resources to market.”   Mining companies have responded well to COVID-19 with regards to safeguarding their workforce?  View Results “Nickel continues to be an essential input into new technologies that will improve the battery storage needed for renewables and electric vehicle manufacturing. “Consistent with our strategy to invest in future facing commodities, this transaction gives us access to explore and develop these prospective nickel sulphide tenements.” Nickel West is BHP’s fully integrated mine-to-market nickel business. Last week, BHP reportedly said it will place a hold on part of its South Flank expansion plans in Western Australia, after it was revealed the expansion would have destroyed upwards of 40 Aboriginal heritage sites. Earlier last month, BHP allocated A$25m from its A$50m Vital Resources Fund over the past six weeks to support regional communities during coronavirus pandemic.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
