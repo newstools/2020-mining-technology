@@ -1,0 +1,21 @@
+The mining industry has been significantly impacted due to the COVID-19 pandemic leading to the suspension of mining activities at a number of properties. Operations at more than 1,600 mines had been suspended globally in April 2020, according to GlobalData, a leading data and analytics provider. COVID-19 has highlighted the need for automation and introduction of new technologies in mining operations to effectively overcome disruptions to operations. Verdict has conducted a poll to assess whether mining companies will increase their technology spend due to the COVID-19 pandemic. Analysis of the results shows that the likeliness is high of mining companies investing more on technologies, as opined by a majority 64% of the respondents including 33% who strongly agreed. While 16% of the respondents were neutral, 20% disagreed to the idea that mining companies would accelerate their spending on technology, including 9% who strongly disagreed.  The analysis is based on 351 responses received to a poll completed by readers of Verdict’s Mining Technology site between 01 May and 18 June. The mining industry is among the most exposed sectors to the spread of coronavirus due to the inevitable close proximity in operations. The uncertainty surrounding the pandemic and the threat posed by the disease has emphasised the need for solutions that can minimise the number of people employed at mine sites. Mining companies should focus on investing in autonomous materials movement such as autonomous trucks and automation of repetitive tasks in the long-term in the current scenario, says GlobalData. A few mining companies have already implemented technologies such as drones and mine communication systems. According to a survey conducted by GlobalData, many major companies were already on their way to investing in such technologies in 2019. Approximately 21% of the mine sites surveyed by GlobalData had invested in drones. Self-driving haul trucks, remote operations centres, predictive maintenance technologies, remote control vehicles, mine planning software fatigue detection, 3D printing and wearables are some of the major technologies upcoming in the mining industry. The implementation of such technologies and the level of automation needs to be increased further to sustain during uncertain environments, according to Austmine, Australia’s leading industry body for mining, equipment and technology.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
