@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. India Prime Minister Narendra Modi has launched the auction process of 41 coal blocks for commercial mining. A two stage e-auction is being adopted for the mines allocation, reported the Press Information Bureau (PIB) of India. The mines that are under auction could potentially contribute about 15% of India’s projected total coal production in 2025-26. The move to open the doors of the regulated coal sector for commercial mining was initially planned for April but delayed due to the Covid-19 pandemic. The latest move puts an end to over four decades of state control over the coal sector. It seeks to boost India’s economy to help the country recover from the economic rout which has been triggered as a result of the Covid-19 pandemic. The national media centre PIB quoted Narendra Modi as saying: “Latest technology can be introduced to make gas from coal and the environment will be protected with steps like coal gasification. Coal gas will be used in transport and cooking while Urea and steel will promote manufacturing industries.”   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results In March this year, the Indian parliament passed a bill that will open the coal sector fully for commercial mining for all domestic and international mining companies. In February, India’s Union Minister of Coal and Mines Pralhad Joshi announced that the government will stop the import of thermal coal from the financial year 2023-2024. In January this year, the Union Cabinet of India approved promulgation of Mineral Laws (Amendment) Ordinance 2020 to amend Mines and Minerals (Development and Regulation) Act 1957 and Coal Mines (Special Provisions) Act 2015.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
