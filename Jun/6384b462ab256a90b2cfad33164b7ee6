@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Glencore-Merafe Chrome Venture in South Africa has started employee consultations on possible job cuts due to the weak economic environment as a result of the Covid-19 pandemic. Many mining companies in the country were forced to halt production after a strict lockdown was implemented in late March to slow the spread of the novel coronavirus. A company release on the Johannesburg Stock Exchange said the consultation process is a result of the worsening operating environment across the ferrochrome industry in South Africa. The Glencore-Merafe Chrome Venture, in which Glencore owns 79.5%, has a total capacity of 2.3mt of ferrochrome annually, Reuters reported. According to the news agency, South Africa President Cyril Ramaphosa lifted the lockdown restrictions in April, allowing mines to operate at full capacity. However, many miners, banks, retailers, and manufacturers were announcing downsizing of staff by then. Worst-case projections of the country’s National Treasury estimate that South Africa could lose as many as seven million jobs due to the pandemic.   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results Last week, Glencore and American electric vehicle and clean energy company Tesla reportedly signed a deal, pursuant to which Tesla will buy cobalt from Glencore. Last month, Glencore agreed to sell a 20.5% stake in Unicorn Chrome to a subsidiary of Merafe Resources for R32.2m. In December 2014, Glencore and Merafe Resources reached an agreement with the National Union of Metalworkers of South Africa to end a strike at the companies’ chrome joint venture.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
