@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Minerals Council of Australia (MCA) has released a ‘Climate Action Plan’ (CAP) towards achieving net-zero emissions in the country, as well as worldwide. The plan demonstrates the Australian minerals industry’s commitment to decarbonise the economy and address climate change. It outlines how the council and its members are taking action on climate change, highlighting the importance of technology in reducing emissions. In a press statement, MCA CEO Tania Constable said: “With this plan, the sector acknowledges the critical importance of technology in reducing emissions. The minerals industry works with manufacturing and innovation partners to invent, develop and deploy new techniques and technologies. “It is clear that the scale of the technology-led transformation required will not occur without the minerals and raw materials provided by the Australian mining sector. “The industry sees great opportunities for minerals such as lithium, cobalt and copper in all forms of transport infrastructure, communications and energy systems.” The climate action plan majorly focusses on two elements. One of them is to endure a ten-point framework to support three core objectives, while the other is a comprehensive three-year rolling workplan that comprises 30 activities.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Under the first element, the three objectives include supporting the technology potential to decarbonise the minerals sector, increasing transparency around climate change, as well as sharing of information on climate responses. Last month, MCA urged the federal government to introduce ‘pragmatic and targeted reforms’ to protect the minerals industry in the country. In February last year, the council voiced its concern over new industrial manslaughter laws in the Australian state of Victoria. It stated that harsher sentences for managers and senior staff will not contribute to improved operational health and safety in the sector.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
