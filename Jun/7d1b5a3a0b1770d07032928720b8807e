@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian mining giant Vale’s Canadian subsidiary Vale Canada has signed an agreement to sell a 20% stake in PT Vale Indonesia to state-controlled PT Indonesia Asahan (Inalum). Vale’s Canadian subsidiary will receive R$4.12bn ($290m) towards the sale, in which Japanese firm Sumitomo Metal Mining is also participating. In October last year, PT Vale Indonesia, along with its shareholders Vale Canada and Sumitomo Metal Mining signed a heads of agreement (HoA) with Inalum. Upon closing of the transaction, the Indonesian state-owned firm will have acquired 20% of shares of PT Vale, being 14.9% from Vale Canada and 5.1% from Sumitomo. Vale and Sumitomo will have a stake of 44.3% and 15% in PT Vale respectively, totalling participation of 59.3%. In a press statement, Vale said: “After the closing of the transaction, Inalum will have acquired 20% of PT Vale shares, being 14.9% from VCL and 5.1% from SMM. Vale and SMM will then have a stake of 44.3% 2 and 15.0% in PT Vale, totalling 59.3% participation. “For its stake, VCL will receive R$4.126bn, approximately $290m in cash upon closing of the transaction, which is expected to happen by the end of 2020, after the satisfaction of standard regulatory approvals.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “Vale takes this opportunity to praise the alliance with Inalum and SMM, reinforcing PT Vale’s long-standing commitment to the prosperity, sustainability and local empowerment in Indonesia.” The transaction is expected to be closed by the end of this year. PT Vale recorded positive earnings of $29m in the first quarter of this year, with production of 17,614t. In October 2014, PT Vale Indonesia signed a Contract of Work (CoW) with the Indonesian Government to extend its operations in the country until 2045.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
