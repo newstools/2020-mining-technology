@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. FeaturedCanadian miner Caldas Gold has signed a $110m non-binding term sheet with precious metals streamer Wheaton Precious Metals to expand operations at the Marmato project in Colombia. The proceeds will be used to fund the expansion of Caldas’ mining operations in the Deeps Zone (MDZ) at the Marmato project, located in the Department of Caldas in Colombia. The Canadian miner’s Marmato Project includes the existing producing underground gold and silver mine in the Upper Zone, the existing 1,200tpd processing plant, as well as the area enclosed within the MDZ. Upon signing the precious metals stream, Wheaton will purchase 6.5% of the gold production and 100% of the silver production until the delivery of 190,000oz of gold and 2.15Moz silver. After that, the stream drops to 3.25% of the gold production and 50% of the silver production for the life-of-mine (LoM). Caldas Gold chairman and CEO Serafino Iacono said: “The streaming transaction is the first step in securing the project financing required to build Colombia’s next major gold mine. “Given the due diligence undertaken by Wheaton, we believe the proposed streaming transaction validates the value we have identified in our Marmato Project.   Will a global recession spell bad news for the mining industry?  View Results “The streaming transaction will help us to manage the overall leverage in our capital structure while improving flexibility and reducing financing costs and risks.” Under the proposed stream, Wheaton will pay a total of $110m in cash, which includes $38m payable upon closing of the transaction. The remaining part is payable during the construction of the MDZ project at Marmato, which is subject to receipt of several permits and licences. Wheaton president and CEO Randy Smallwood said: “Wheaton is excited to partner with Caldas Gold in developing the Marmato Project. “We remain unwavering in our focus on delivering the highest quality portfolio of precious metals production to our shareholders through our top tier asset base, strong organic growth profile and acquisition of accretive growth opportunities such as Marmato.” In April, Wheaton Precious Metals launched a $5m fund to support global efforts to limit the spread of the coronavirus (Covid-19) outbreak.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
