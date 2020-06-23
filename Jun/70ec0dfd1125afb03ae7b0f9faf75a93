@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mining products and technologies provider Strata Worldwide is making use of GeoCore network service platform, developed by private LTE / 5G solutions developer Geoverse. Geoverse has announced support for licensed wireless spectrum on its existing GeoCore platform. This spectrum support solution combines low-band licensed spectrum with Citizens Broadband Radio Service (CBRS) to form a reliable private LTE / 5G network. It allows the deployment of ‘Industry 4.0’ for mining, oil and gas exploration, utilities, as well as other industries. Strata Worldwide CTO Tom Michaud said: “In such extreme environments, the performance and reach of the low-band spectrum can make it a preferred option for select applications. “And, it complements CBRS quite well so collectively they can serve a variety of use cases found across our remote locations, providing a high-performance service connecting users, devices and even delivering highly reliable service for our automated equipment.” Geoverse provides an option to use its GeoCore platform to deploy the licensed 600MHz and 700MHz spectrum from their solutions for 14 western states. In order to maintain a smooth flow of their operations, industries such as mining, oil and gas exploration, and others have turned to deploy a variety of wireless solutions. Geoverse co-founder and CEO Rod Nelson said: “Private LTE networks meet the design, operational, and performance requirements that heavy industry needs while giving them authority over coverage, capacity and function. “By combining the coverage and exclusive use of licensed spectrum with the capacity depth provided by CBRS, we create one private LTE / 5G networking solution to satisfy many needs.” In April, Strata announced the IECEx Intrinsically Safe approval of the StrataConnect second-edition Miner Communicator (MC2), a location tracking device.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
