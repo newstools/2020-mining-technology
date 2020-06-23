@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Covid-19 pandemic could derail the Zimbabwe Government’s plan to expand the value of its mining industry to $12bn by 2023, according to environmental group the Centre for Natural Resources Governance (CNRG). Mineral exports were responsible for close to two-thirds of the country’s export earnings as recently as October 2018, and the country’s mining industry is expected to play a key role in any long-term growth in the Zimbabwean economy. Diamonds in particular are among the country’s most valuable commodities, and the CNRG expects revenues of around $1bn from the sale of diamonds by 2023. This is a far cry from the $12bn price tag expected by the government however, which is targeting an increase in annual diamond production to ten million carats by 2023. “The Zimbabwean diamond industry is going to be affected heavily, as the international diamond industry is already in a recession due to Covid-19,” said the CNRG in comments to African Mining Market. “The Zimbabwe Consolidated Diamond Company has about 300,000 carats of diamonds which were due to be auctioned at the beginning of April but were affected by the Covid-19 pandemic, which has forced many countries to close borders and embark on lockdowns to stop the spread of the deadly virus.” The lockdown has not only deprived Zimbabwe of potential trading partners but also shattered the country’s domestic mineral production, as mining has been exempted from quarantine measures due to the government deeming it an “essential service”. As a result, the mining sector reported 36 cases of Covid-19, with four deaths, by 10 May, and significant disruption to production. The country’s Chamber of Mines estimated that the pandemic could wipe away 60% of the country’s mineral production; by March alone, the country had lost more than $200m worth of production. These struggles have derailed the country’s ambitious plans, announced last year, to dramatically improve Zimbabwean mining production by encouraging domestic miners to grow their operations, and bring artisanal miners into the country’s mining framework. This “use it or lose it” policy is admirable for its ambition, but the Covid-19 pandemic could threaten to wreck the project before it has a chance to begin, with falling demand triggering a collapse in prices that could spell doom for the sector’s long-term economic prospects. “According to artisanal miners in Marange, the industrial diamond price per carat was $2,500 before the lockdown, and during the lockdown the price has dropped to $100 per carat,” said the CNRG. “The fall in prices has been triggered by restrictions on movement and liquidity challenges in the market.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
