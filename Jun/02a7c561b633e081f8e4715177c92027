@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Finnish industrial machinery company Metso has secured a contract to deliver three ‘Metso Vertical Plate Pressure Filters’ with all the associated equipment for dry tailings processing to Salares Norte gold mine in Chile. Salares Norte is a greenfield project owned and operated by the South African gold miner Gold Fields. It is a blind epithermal gold and silver deposit in the Atacama region of northern Chile. The contract has been booked under the Finnish firm’s second quarter orders. The pressure filters are set for commissioning in October 2022. Salares Norte technical manager Francois Swanepoel said: “Gold Fields’ vision is to be the global leader in sustainable gold mining. The Salares Norte greenfield project is located 4,500m above sea level in the Andean Mountains, where water is scarce and needs to be used wisely. “To minimise the use of water and improve the physical and chemical stability of our tailings, we have decided to adopt filtered tailings for the project. Salares Norte will be a benchmark plant for dry tailings processing.” According to Metso, Salares Norte is an exciting project for the company to work on as it considers dry tailings as one of the ‘most socially responsible and economically viable’ solutions for the management of tailings. Metso Mining Equipment senior manager Patricio Mujica Dominguez said: “The location of the plant at a height of almost 5km above the sea level comes with its own unique challenges. For example, the design and transportation of the equipment as well as commissioning needs to be done with special care.   Given the current climate, how long do you anticipate it will take for the global economy to recover post COVID-19?  View Results “To save manpower at such a high altitude, Metso will semi-assemble the filters in its Service Centers and deliver them in six specially designed easy-to-assemble modules to the site.” Last month, Metso introduced two new solutions for crushing and screening plants, flexible FIT stations and smart Foresight stations. In the same month, Metso and technology firm Outotec received an unconditional merger control clearance from the European Commission for the combination of Metso’s Minerals business with Outotec.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
