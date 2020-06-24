@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Global mining company BHP has announced a unique method of sourcing suppliers in the Australian mining, equipment, technology and services (METS) sector through a new programme launched in partnership with Austmine. The new ‘Supplier Innovation Programme’ programme brings METS companies together to complete challenges by creating new business solutions. According to BHP, the ‘winning’ solution needs to receive a paid pilot programme to test its outcome before committing to its execution. BHP Group Procurement Officer Sundeep Singh said: “As our industry shifts towards more remote and technologically enabled operations, our ability to find unique and innovative solutions to business challenges will be critical. “This programme is different to our usual approach to sourcing, where we know what we need to buy. Instead, we will go to the market with a question instead of an answer, and ask potential vendors how to solve it. “We want to play our part in supporting Australia’s METS sector, so together we can deliver world-leading solutions for the resources industry straight from our operations. “Now more than ever, as we play our part to support Australia’s economic recovery through Covid-19, our partnerships with Australian METS suppliers can make a real difference to our industry and beyond.” In another statement released today, BHP said that its ‘Local Buying Programme’ reached more than A$500m ($346.5m) in approved spend since its launch in the year 2012. Last week, BHP signed a deal with Norilsk Nickel Australian Holdings’ subsidiary MPI Nickel to acquire the Honeymoon Well nickel project in Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
