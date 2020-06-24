@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian iron ore firm Fortescue Metals Group has rolled out its 100th autonomous haul truck conversion at its Chichester Hub in the Pilbara region of Western Australia. The Chichester Hub comprises the Christmas Creek and Cloudbreak iron ore mines. Fortescue noted that the complete conversion of its 108 haul truck fleet at the Chichester Hub is anticipated for completion in September this year. As part of the Chichester Hub automation, a total of 549,500 parts have been fitted to 100 trucks so far. Fortescue first introduced autonomous haulage system (AHS) technology in 2012, with 168 trucks being converted at its Solomon and Chichester Hubs. The iron ore miner’s autonomous haul fleet has moved roughly 1.4 billion tonnes of material. According to Fortescue, the introduction of AHS technology at its operations had resulted in a 30% increase in productivity levels.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Fortescue CEO Elizabeth Gaines said: “Fortescue’s AHS deployment represents the largest fleet conversion to autonomous haulage in the industry. “Our history of embracing leading edge technology has ensured Fortescue remains at the lowest end of the global cost curve and remains fundamental to driving sustained productivity and efficiency improvements across our business to ensure we continue to deliver enhanced returns for our shareholders and key stakeholders. “Most importantly, the introduction of AHS technology has improved safety outcomes across our operations and we’re very pleased that the Automated Mining Projects team has also achieved this important milestone in the truck conversion program with zero harm to any team members.” Last month, Fortescue announced its goal of achieving net-zero operational emissions for 2040, as part of the company’s decarbonisation strategy. In April 2018, the company introduced the first trucks from its autonomous haul fleet fitted with AHS technology into operation at Christmas Creek.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
