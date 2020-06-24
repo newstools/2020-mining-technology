@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. AVZ Minerals has called $300m worth of pre-mining infrastructure tender packages for Manono lithium-tin project in the Democratic Republic of Congo (DRC). The tenders will be awarded once AVZ makes a final investment decision (FID) to mine the project. AVZ noted that the request for tenders (RFT) comprise process plants engineering, procurement and construction (EPC) package, Kabondo Dianda intermodal staging station, diesel storage facilities, as well as site buildings. It also included enterprise resource systems. AVZ Minerals managing director Nigel Ferguson said: “We will have final pricings on our various tenders back in July and August and then expect to be in a position to award these contracts, pending Covid-19 travel restrictions being lifted and a financial investment decision being reached. “Obtaining iTSCi preliminary membership is also a significant milestone for the company as it is viewed favourably by international financiers as part of their overall due diligence process on the company. The company will further invest in securing full membership over the coming months.” The mineral exploration firm also obtained a preliminary membership with iTSCi (non-profit ITRI tin supply chain initiative). iTSCi assists companies with due diligence and responsible sourcing of minerals. The iTSCi programme is focussed on minerals such as tin, tantalum and tungsten. It enables upstream companies to have continued access to international markets. According to AVZ Minerals, tin and tantalum are future by-products of lithium ore processing at the Manono project. In March 2018, AVZ Minerals signed an MoU with China-based battery electrolyte manufacturer Guangzhou Tinci Materials Technology for a potential investment in AVZ.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
