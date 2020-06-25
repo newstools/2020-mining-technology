@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian miner Calibre Mining has reduced its 2020 production guidance after a ten-week suspension of mining activities due to the novel coronavirus (Covid-19) pandemic. The gold producer has now forecast production to be between 110,000oz and 125,000oz from its Nicaraguan mines. Before the temporary shutdown, Calibre expected 2020 production to be between 140,000oz and 150,000oz. The Canadian miner has also revised its cost guidance to $880 to $920 per ounce for total cash costs and $1,070 to $1,100 per ounce for all-in sustaining costs (AISC). Following a phased restart of operations earlier this month, the company has resumed exploration drilling with an expanded 60,000m programme, up from 47,000m. Furthermore, a 20,000m infill drilling programme is underway. Calibre Mining Russell Ball CEO said: “The phased restart of operations continues as planned with enhanced safety and health protocols in place and we anticipate reaching steady-state production levels in July.   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results “With operations suspended for the majority of the second quarter, we now estimate 2020 gold production of between 110,000oz and 125,000oz, or approximately 20% less than our original guidance. “Despite the fixed-cost nature of the business and an additional $40 per ounce in All-In Sustaining Costs from the unbudgeted increase in exploration drilling, and the unbudgeted infill drilling programme, we are only guiding to a 4% increase in costs on a per ounce basis, as we see increased benefits from our ‘hub-and-spoke’ operating philosophy and are now starting to see the bottom-line impact of our increased focus on operating efficiencies and supply chain management practices.” In July, Calibre Mining signed a $100m binding agreement to acquire the El Limon and La Libertad Gold Mines, as well as the Pavon Gold Project and additional mineral concessions in Nicaragua from B2Gold.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
