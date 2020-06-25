@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-based mining firm First Cobalt has taken further steps to build up its environmental, social and corporate governance (ESG) practices by joining the Cobalt Institute (CI). The Canadian firm joined the Cobalt Institute as an associate member. Cobalt Institute is a global non-profit trade association that promotes the sustainable and responsible production and use of cobalt. With this membership, First Cobalt says that it intends to qualify the First Cobalt Refinery in Canada under the Responsible Minerals Initiative (RMI). RMI is an initiative of the Responsible Business Alliance (RBA). It is an independent body that addresses responsible mineral sourcing issues in mining supply chains. First Cobalt president and CEO Trent Mell said: “Our strategic objective is to offer a premium supply of ethically sourced cobalt by creating a closed supply chain. Over the next several years, Glencore intends to provide the feed for the First Cobalt Refinery from a single mining operation, with no other feed sources entering the downstream supply chain. “This will give buyers of our refined cobalt comfort that conflict minerals are not being introduced into their consumer products. “The grant from Canada’s National Research Council will allow First Cobalt to accelerate our efforts to reduce our carbon footprint and play an exemplary role in the industrial and automotive sectors.” Last month, First Cobalt reported positive results from an independent feasibility study conducted on its permitted cobalt refinery. Last August, Glencore provided a $5m loan facility to First Cobalt to help the Canadian firm to advance engineering, fieldwork, metallurgical testing and permitting associated with the expansion of the First Cobalt refinery. In May 2019, First Cobalt and Glencore signed a memorandum of understanding (MoU) to finance First Cobalt’s refinery.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
