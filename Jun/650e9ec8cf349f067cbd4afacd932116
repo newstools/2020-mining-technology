@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Codelco, the state-owned mining firm of Chile and the world’s largest copper producer, has reported the death of a third worker from coronavirus. This death will put more pressure on the copper mining industry as the labour unions have been asking for greater safety of workers, reports Reuters. The deceased had reportedly contracted Covid-19 outside of work. Reuters quoted the company as saying: “We will continue to intensify all our efforts to face this pandemic, with the basic premise of protecting the health and safety of our workers.” According to the news agency, the victim was identified as an employee at Chuquicamata. Chuquicamata is one of the largest open-pit copper mines in the world. It is located 1,650km north of Santiago, Chile. The mine has been operating since 1910. As on 25 June, Chile reported that about 254,416 people were infected with the virus, while the country recorded 4,731 confirmed deaths. Recently, Codelco announced plans to suspend construction projects in the northern part of the country just hours after the second death of a company worker due to coronavirus was confirmed. Two weeks ago, unionised workers at Codelco threatened to halt work at some sites in order to implement a self-imposed quarantine after a union member died from Covid-19. In November 2019, Codelco said it is investing $5.6bn into its Chuquiacamata mine to convert the century-old operation from an open-pit mine to an underground project.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
