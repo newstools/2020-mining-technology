@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The South African mining industry, in partnership with the Minerals Council South Africa, intends to increase its Covid-19 testing capacity, both for the companies and in support of the country’s overall testing initiative. The Minerals Council South Africa is the body responsible for representing some of the country’s largest miner. Currently, the mining industry screens about 272,00 employees every time they report for work. In a press statement, Minerals Council South Africa said: “Companies, which are required to test employees that fail screening measures, have adopted a risk-based approach that encompasses, for example, additional testing for persons deemed to be at higher risk owing to their occupation (such as healthcare workers and security personnel) and returning mineworkers, when clusters of infection are identified. “This focus on testing is in addition to the intensive screening, quarantine and isolation measures that are currently in place.” The Minerals Council also noted that the country’s mining industry has recorded 1,796 cases of coronavirus (Covid-19) with six deaths so far, as mines ramp up production after an extended lockdown. Until now, the mining sector has conducted about 15,994 Covid-19 tests in the country as on 25 June. Earlier this month, the Minerals Council hit back at allegations that the mining sector is the ‘epicentre’ of Covid-19 in South Africa. In March this year, Minerals Council South Africa set out its planning measures to mitigate the impact of an outbreak on the country’s mining industry, following the first confirmed Covid-19 case in the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
