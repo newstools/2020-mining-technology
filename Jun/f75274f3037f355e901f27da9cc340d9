@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian iron ore miner Vale has signed an agreement with authorities on monitoring for possible Covid-19 cases at its Itabira mine complex. Earlier this month, mine activities have been suspended at the Itabira iron ore production complex, comprising the Conceição, Cauê and Periquito mines, to protect mine workers in the region from the spread of coronavirus. According to Reuters, the authorities said that a number of sanitary measures such as testing all workers every 21 days were agreed with Minas Gerais state labour prosecutors and with a local court. The authorities added that Vale will now has 15 days to draw up the details of ‘coronavirus mitigation plan’ at Itabira mines. Last year, the Itabira mine complex produced about 36 million tonnes (Mt) of iron ore, out of the company’s total production of approximately 302Mt. Reuters quoted Andreas Bokkenheuser UBS Investment Bank as saying: “We think the risk of a Minas Gerais lockdown and, in turn, the risk to Vale’s production guidance remains high.” Recently, Vale’s Canadian subsidiary Vale Canada signed an agreement to sell a 20% stake in PT Vale Indonesia to state-controlled PT Indonesia Asahan (Inalum). Last week, Vale announced the resumption of operations at its Voisey’s Bay property early next month. Voisey’s Bay copper mine is located in Labrador, Canada.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
