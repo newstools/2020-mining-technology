@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. According to the Australian Bureau of Statistics (ABS), the Queensland resources sector has remained strong during the coronavirus pandemic, experiencing just a 1% drop in employment during the May quarter. ABS data showed that direct jobs in the mining sector moved just from 66,331 to 65,337 during the period. Queensland Resources Council (QRC) chief executive Ian Macfarlane said that the latest ABS data reinforces the industry’s role in the recovery from Covid-19. Ian Macfarlane added: “There is a lot of pain in other industries as the impacts of Covid-19 unfold and this data demonstrates the importance of the diversity in Queensland’s resources sector. “To put these numbers into perspective in the three months to May, Queensland lost 184,367 jobs across all industries. That’s roughly equal to every Queenslander employed in the public service or twice the number of jobs in agriculture, forestry and fishing.” Jobs in the coal sector surged 15% during the quarter, contributing to the Queensland resources sector. Meanwhile, mining and exploration support jobs bounced back by 7% during the period.   How optimistic are you about your company’s growth prospects?  View Results Macfarlane further added: “Both the jobs preserved and created in this quarter flow through to indirect jobs in workshops and offices. Across Queensland, the resources sector supports 372,561 indirect and direct full-time jobs. “We want to keep employing more Queenslanders and supporting more regional communities through local investment. To do that, it’s essential that we have clear and transparent rules and regulations.” On a national scale, the Australian Bureau of Statistics listed mining as the third-least affected sector in terms of job vacancies over the quarter. Last month, the Government of Queensland called on the QRC to optimise the resource sector’s role in the economic recovery to follow the Covid-19 pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
