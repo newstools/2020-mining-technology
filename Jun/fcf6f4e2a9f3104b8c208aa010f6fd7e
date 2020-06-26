@@ -1,0 +1,21 @@
+Remote working or working from home has become the new norm during the COVID-19 times which call for maintaining physical distancing and complying with lockdown measures to curb disease spread. Working from home has multiple benefits such as eliminating the need to travel and ensuring business continuity for firms during lockdowns. The world has never seen before such a wide work from home practice implemented across industries, which will have long-term business implications. Verdict is running a poll across its network of sites to assess whether employees want to return to offices after the lockdown restrictions are eased. Analysis of the ongoing poll results so far shows that majority of the respondents want a mix of working remotely and returning to office premises. A majority 46% of the respondents voted for a mix of working remotely and returning to office, while 27% of the respondents wanted to work remotely full-time. Another 27% of the respondents wanted to return to work premises full time. Interestingly, a majority 45% of those who are working from home for the first time wished for a mix of working remotely and in-office given a choice, while 34% wanted to return to office premises full-time and 21% wanted to work remotely full-time, indicating a strong desire to work from home.    Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results The analysis is based on 973 responses received between 05 June and 22 June. The COVID-19 pandemic has transformed the way people work by introducing remote working for people who have always worked from an office. Companies such as Facebook and Twitter have given their employees the option to permanently work from home. Standard office working hours may become a thing of the past. Working from home can have a positive impact on both the employee and employer, according to GlobalData. It can increase flexibility, reduce costs, traffic congestion, commute time, and pollution levels. Remote working can also help employers hire talent from across the world and stay competitive. Hygiene and safety protocols can also be more easily implemented with fewer people in the office premises. Permanent work from home, however, may not be suitable for all as lack of communication can be an issue. Further, data security, lower productivity, and working beyond the standard working hours are some of the issues that need to be ensured for remote working to be implemented permanently.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
