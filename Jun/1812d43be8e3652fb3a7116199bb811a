@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian authorities have given West African gold producer Endeavour Mining the go-ahead for the acquisition of gold miner Semafo. Last month, Endeavour Mining announced that its shareholders voted ‘overwhelmingly’ in favour of its acquisition of Semafo, which was announced in March. The latest clearance paves the way for the transaction to be completed on or around 1 July. In addition, La Mancha Holding, which owns a 31% stake in Endeavour, has agreed to invest $100m in the combined company. This investment is expected to close on or around 3 July. Canada has decided not to order any national security review of Endeavour’s acquisition of Semfo under the ‘Investment Canada Act’. As part of the deal, the gold miner will indirectly acquire all Semafo common shares on the basis of 0.1422 of an Endeavour common share for each outstanding Semafo share. The combined entity is expected to become one of the biggest gold miners in West Africa, with an annual production of one million ounces (Moz). Endeavour’s Q4-2019 production has increased by 51% to 148,387oz, taking its output of 2019 to 480,529oz. This production, however, was short of its annual target range though a 2% year-on-year increase. In January this year, Endeavour dropped its plan to acquire mining firm Centamin for $1.9bn as it did not get enough information on the latter’s assets during an assessment. In November last year, Semafo suspended operations at its Boungou mine in Burkina Faso after an attack on a convoy of the Canadian miner’s workers left 39 dead.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
