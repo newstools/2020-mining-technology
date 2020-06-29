@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. A new ‘cluster outbreak’ of Covid-19 cases has been reported in South Africa’s Limpopo province, with the Mopani district identified as the new epicentre of the pandemic in the country. Health member of the province’s executive council, Phophi Ramathuba, has said that the Mopani district in the country is changing from a district with no cases at all to an epicentre with low recovery rate. By late Sunday, the number of infections in the district had reached 147, out of a total of 866 in the entire province. It was also confirmed that while mines in the Phalaborwa area were the initial source of the fast Covid-19 spread, starting with a mine worker arriving from the Eastern Cape, mining activity is not solely to blame for the rising cases. According to Ramathuba, non-adherence to health protocols by members of the public is the reason behind the jump in cases. A concerning trend is also the fact that some miners are residing at different places within communities, meaning that the spread of Covid-19 in communities can go unnoticed. The Sekhukhune district was previously the province’s epicentre due to an outbreak of Covid-19 in the mining towns. As of today, according to the country’s National Institute for Communicable Diseases, the cumulative number of confirmed Covid-19 cases in South Africa is 138,134, with 6,337 new cases identified. A total of 1,567,084 tests have been processed cumulatively, of which 38,075 tests have been conducted since the last report. The institute has also warned of an upcoming surge in Covid-19 cases during the later winter months in the country – July and August. It is anticipated that every province will witness an increase in their case numbers in areas with high economic activity, beginning with Gauteng and the Western Cape, and followed by the Eastern Cape, and KwaZulu-Natal.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
