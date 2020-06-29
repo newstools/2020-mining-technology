@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Finnish-Russian digitalisation firm Zyfra is testing 5G network on 130t BELAZ-7513R autonomous robotic mining dump trucks. The project is being trialled at a SUEK coal open-pit mine in Khakassia, Russia. A 1.5km robots’ route, which is part of the Huawei wireless 5G network, has been deployed to perform tests at the Chernogorsky open-pit mine in Khakassia. The mine is located in the western part of the Chernogorsky hard coal deposit in the Ust-Abakan region of the Republic of Khakassia. According to Zyfra, the dump trucks are part of its Intelligent Mine system aimed to offer unmanned mining technologies. These secure and efficient technologies are based on robotics, industrial AI and IoT. Zyfra managing director Pavel Rastopshin said: “Robotic dump trucks allow for a significant increase in freight transport production rates (up to 30%) thanks to a reduction in non-technological downtimes related to human factors (shift changes, lunchtime, etc.), an increase in the average speed of robotic dump trucks during travel and thus an increase in the number of movements per shift (by approximately 20%). “The 5G network has demonstrated its reliability in robotic equipment application tasks at open-pit mining sites. But overall, other data transfer standards can also be used to scale and launch robotic equipment.”   How optimistic are you about your company’s growth prospects?  View Results The project will reveal and document the technical advantages of the 5G communication network over an ‘industrial Wi-Fi / MESH network’. SUEK Information Technology deputy director Dmitry Sizemov said: “Having used MESH-based Industrial Internet technologies at our enterprises for ten years, we are testing an alternative for the first time, and it is proving its technological worth. “The implementation of 5G networks at open-pit mining enterprises opens up huge opportunities not only for robotised facilities, but also for advanced solutions for industrial safety, dispatch and monitoring, which require higher rates and greater reliability of data transfer, as well as flexibility and stationary infrastructure independence. “The possibility of running robotic automation at other enterprises is currently being discussed at SUEK.” In June 2019, Zyfra and First Ore-Mining signed a three-year memorandum of understanding to deploy AI solutions for mining and processing operations at the Pavlovskoe deposit in Russia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
