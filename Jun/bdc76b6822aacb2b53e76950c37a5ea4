@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational commodities giant BHP has completed its first iron-ore trade with steel producer China Baowu on Canadian startup MineHub Technologies’ blockchain-based platform. The platform is a decentralised digital system with underlying blockchain technology that connects buyers, sellers and service providers in mining and metals supply chains via shared information. MineHub noted that the BHP-China Baowu deal is the first of a series of transactions comprising several industry partners. The deal allows MineHub to work towards providing commodity supply chains with fully digitalised end-to-end solutions. MineHub CEO Arnoud Star Busmann said: “Working with the world’s largest mining company and the world’s largest steel producer on designing the digital future of critical supply chains like iron ore is incredibly exciting. “This series of transactions, each focusing on different aspects of the post-trade process, will allow MineHub to incrementally expand the platform’s functionality and scalability into the iron ore and other mineral commodity markets, incorporating real-life user experience.” According to Reuters, the latest transaction is valued at around $14m.   Will a global recession spell bad news for the mining industry?  View Results Arnoud Star Busmann added: “We will incorporate all these learnings into the next MineHub release, planned for Q4 2020, and which will start to provide a solution to the increasingly urgent need for industry-wide digitalisation, by boosting both safety, transparency and resilience of critical supply chains.” Last week, BHP announced a method of sourcing suppliers in the Australian mining, equipment, technology and services (METS) sector through a new programme launched in partnership with Austmine. In October last year, MineHub Technologies launched its blockchain technology platform, which has been designed to tackle inefficiencies in trading operations and ESG compliance in mining and metals supply chains.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
