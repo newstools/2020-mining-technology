@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. GR Engineering Services has secured a contract from Saracen Mineral Holdings to complete additional works at the Thunderbox and Carosue Dam gold projects in Western Australia. The combined value of the contracts is valued at A$29m ($19.9m). The new projects awarded include an engineering, procurement and construction (EPC) contract for the Thunderbox paste plant project, valued at A$22m ($15m), and an approved variation for the Carosue Dam operation plant expansion project, priced at A$7m ($4.8m). GR Engineering will design, install and commission the 150m³ per hour (m³/h) paste backfill plant as part of the works for the Thunderbox project. It will start the project work immediately and expects to complete the work in the first half of CY 2021. Under the Carosue Dam gold project, GR Engineering will install a paste pump at the Karari paste plant at Carosue Dam. Upon completion, the paste pump will distribute paste to the Whirling Dervish underground mine. Commenting on the contract, GR Engineering managing director Geoff Jones said: “GR Engineering is pleased to have been awarded the EPC contract for the Thunderbox Paste Plant Project and the variation works for the Carosue Dam Operations Plant Expansion Project. “GR Engineering has now worked with Saracen on three key projects in the last two years and we look forward to continuing our strong working relationship with one of Australia’s leading gold producers.” In November last year, Saracen Gold Mines awarded a A$24.5m (16.9m) EPC contract to GR Engineering Services for the expansion of a mineral processing plant at Carosue Dam. In June 2019, Saracen Mineral signed a bid implementation deed to acquire all of the shares of Bligh Resources for A$38.2m ($26m).
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
