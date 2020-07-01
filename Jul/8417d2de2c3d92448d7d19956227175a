@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Diamond producer Alrosa announced that operations have restarted at its International underground diamond mine in Russia. The mine is located 16km south-west of the town of Mirny in Russia. It produced 2.2 million carats of diamonds last year, contributing about 6% of the company’s total output. Last week, the diamond producer suspended works at the mine, after several employees tested positive for covid-19. The mine’s operations have resumed in a two-shift mode so that the mine staff don’t come into contact with contractors working at the company’s surface facilities. In a press statement, Alrosa stated: “Mine staff doesn’t meet with contractors working at surface facilities and the headcount of the latter reduced to a minimum. Employees of the mine waiting for the confirmation of test results remain furloughed.” Alrosa also noted that regular testing for Covid-19 will continue until the virus is stabilised in the country.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results The diamond producer will pay attention to all flu and acute respiratory infection cases among its working staff, and provide testing for coronavirus in order to ensure safety and health of its employees. In May this year, Alrosa had to suspend production at the Aikhal underground mine and the Zarya open pit mine due to the drop in demand and sales that the Covid-19 pandemic is expected to cause. In March, Alrosa’s Aikhal Mining and Processing Division (MPD) began implementing tools for a Lean Production system. In January this year, Alrosa announced its plans to restart operations at Mir mine in the Yakutia region of eastern Siberia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
