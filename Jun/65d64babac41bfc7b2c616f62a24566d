@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mining company IAMGOLD has obtained a key federal approval for the Côté gold project in Ontario, Canada. The company’s application was granted approval under Section 36 of the Fisheries Act (Canada). Located in northern Ontario, Côté is a 70:30 joint venture with Sumitomo Metal Mining. The project is expected to produce 460,000 ounces per annum (oz/y) of gold at an all-in sustaining costs (AISC) of about $700/oz in the first six years of its 16-year mine life. With the approval, the project moves one step closer to a construction decision. The miner noted that it is working toward a construction decision with its partner Sumitomo, provided it receives a satisfactory environment for construction to proceed with necessary Covid-19 protocols. IAMGOLD president and CEO Gordon Stothart said: “The transformative impact of Côté Gold on IAMGOLD’s production profile and global cost structure, in addition to its long mine life in an attractive jurisdiction, establishes clear and compelling reasons for this Project to proceed.   Will a global recession spell bad news for the mining industry?  View Results “Our current financial position supports our proposed growth plans, with over $800m in cash on hand, access to a currently undrawn $500m committed revolving credit facility, and expected stronger operating cash flows from our current mining operations, including anticipated contributions from Saramacca at Rosebel and steady performance from Essakane and Westwood.” A formal decision, which is expected in the coming months, would allow construction to start later this year. Construction is expected to be completed by mid-2023. Recently, IAMGOLD halted operations at its Rosebel gold mine in Suriname after seven personnel at the mine were diagnosed with Covid-19. In January last year, IAMGOLD said that it will not proceed with the construction of its Côté Gold Project, as the company awaited improved market conditions. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
