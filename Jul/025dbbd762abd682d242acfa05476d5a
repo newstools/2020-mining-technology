@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian iron ore firm Fortescue Metals Group has officially opened the company’s newly expanded Integrated Operations Centre (IOC) ‘Fortescue Hive’ in Perth, Western Australia (WA). The IOC uses the latest technology, bringing together the company’s integrated supply chain. Featuring 162 workstations and 996 computer monitors connected by 64km of underfloor cables, Hive allows Fortescue’s team to work together more closely to deliver improved safety, efficiency and commercial outcomes. Fortescue Metals Group CEO Elizabeth Gaines said: “The Fortescue Hive seamlessly links our core exploration, metallurgical, mining and marketing expertise to deliver value to our customers, shareholders and the broader community. “Importantly, the Fortescue Hive will underpin our future use of technology including artificial intelligence and robotics and will expand to include the generation and integrated distribution network for the Pilbara Energy Connect, our hybrid solar-gas power solution.” The Fortescue Hive facility integrates the iron ore miner’s planning, operations, as well as mine control teams with the port, rail, shipping and marketing teams. This new space allows 330 team members to work collaboratively 24 hours a day. Fortescue Metals Group chief operating officer Greg Lilleyman said: “Fortescue’s integrated management of the mine to market supply chain is unique to our industry and co-locating our planning, operations, shipping and marketing business functions further leverages our exclusive advantage. “By ensuring our teams are truly integrated we can capitalise on market dynamics and respond to the needs of our customers.” Last month, Fortescue Metals Group rolled out its 100th autonomous haul truck conversion at its Chichester Hub in the Pilbara region of Western Australia. In May this year, Fortescue announced its goal of achieving net-zero operational emissions for 2040, as part of the company’s decarbonisation strategy.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
