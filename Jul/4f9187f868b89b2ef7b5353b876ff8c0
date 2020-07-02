@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational commodities giant BHP is scaling down operations and implementing job cuts at its Cerro Colorado copper mine in Chile. The Cerro Colorado copper mine lies within the Atacama Desert at an altitude of 2,600m east of Iquique, Chile. It has been in production since 1994. According to BHP, the resizing measures at the Chilean mine will be carried out in the next four months. BHP noted that it is taking necessary steps to adjust the mine plan in line with the operational requirements for the remaining period of the mine’s current environmental licence, which is set to expire in 2023. The commodities major revealed that discussions have been initiated with employees and contractors of the Cerro Colorado copper mine to explain them the revised mine plan. In a press statement, BHP stated: “Cerro Colorado will continue to explore development options that could allow mining operations to continue beyond the end of 2023. This includes the preparation of new environmental studies required to apply for new permits. “In accordance with BHP’s water stewardship commitments, any continuation of production beyond 2023 would be performed using seawater as a replacement for freshwater usage.”   Will a global recession spell bad news for the mining industry?  View Results In June 2018, BHP signed an agreement to sell the Cerro Colorado mine to private equity fund manager EMR Capital. However, the deal collapsed following the EMR’s failure to meet the financing conditions for the deal within the agreed timeline. Last month, BHP completed its first iron-ore trade with China Baowu on MineHub Technologies’ blockchain-based platform. In the same month, the company announced a method of sourcing suppliers in the Australian mining, equipment, technology and services (METS) sector through a new programme launched in partnership with Austmine.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
