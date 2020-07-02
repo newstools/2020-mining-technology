@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. A research study by mobile satellite communications firm Inmarsat has found that only 15% mining organisations have access to reliable Internet of Things (IoT) connectivity. According to Inmarsat’s ‘The Rise of IoT in Mining’ report, organisations across the mining industry are finding it hard to take full advantage of IoT-enabled applications due to lack of reliable connectivity. Out of the total 130 respondents that have fully deployed IoT-enabled projects at their mine sites, 78% of them reported they were able to access connectivity. Meanwhile, 24% of the total respondents were able to access ‘reliable connectivity’. Inmarsat mining director Joe Carr said: “Inmarsat’s highly reliable L-band BGAN connectivity is helping organisations across all stages of their IoT journey to get the reliable connectivity needed, to ensure they can generate, analyse and action the necessary data and improve the way they operate. “Although our research has indicated that the global mining sector is undergoing an upswing in IoT adoption, reliable network connectivity is still clearly a sticking point that Inmarsat can help alleviate. “To gain value from IoT-enabled projects, the right data must be where it needs to be at the right time, otherwise insights and return on investment cannot be delivered.” In October last year, Inmarsat joined the Global Mining Guidelines Group (GMG) to further strengthen its commitment to the mining industry. In May, Inmarsat signed a MoU with the government of the Brazilian state of Minas Gerais to pursue the use of IoT-based solutions to monitor the effectiveness of mine tailings dams.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
