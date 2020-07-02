@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Gold exploration and development company Victoria Gold has declared commercial production at its Eagle gold mine in the Yukon Territory. The Eagle Gold mine is located within the Mayo mining district of Yukon Territory, Canada. It is situated approximately 85km north of Mayo and 400km north of the capital city of Whitehorse. According to the company, all facilities required at this stage of the mine life are now complete, with mining, crushing, processing as well as maintenance operations performing at a high level. In September last year, Victoria Gold poured first gold at the Eagle Gold mine. The mine is part of the company’s 100%-owned Dublin Gulch gold property which is located approximately 375km north of Whitehorse and is 85km away from the town of Mayo. Victoria Gold president and CEO John McConnell said: “Site activities continue to progress well and all facilities and operations are now at or approaching design capacity. “This consistent production combined with materially positive operating cash flow has allowed Victoria management to declare commercial production as of July 1, 2020. “Achievement of commercial production is a meaningful and memorable accomplishment that the entire team is proud to be part of.” Victoria Gold said it continues to follow strict Covid-19 protocols at the Eagle Mine site and also across its other work locations. Currently, Yukon is in its second phase of easing Covid-19 restrictions. In July 2017, Victoria Gold executed an agreement for $220m in debt financing for the development of Eagle Gold project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
