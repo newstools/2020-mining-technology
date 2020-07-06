@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australia’s Northern Territory (NT) Government awarded exploration firm Thor Mining’s Molyhil tungsten/molybdenum project with ‘Major Project’ status. The Molyhil tungsten and molybdenum mine is located 220km from Alice Springs in the Northern Territory. It is 100% owned and operated by Thor Mining. With a seven-year mine life, Molyhil has an estimated probable ore reserve of 3,500t of tungsten. Northern Territory chief minister Michael Gunner said: “The Northern Territory is the rebound capital of Australia. We are the safest, and quickest to get back to business. “The territory government’s focus is on creating jobs for Territorians – this project will support 59 ongoing jobs in Alice Springs with a further 40 jobs supported during construction. “Attracting private investment to the Northern Territory during the Covid-19 pandemic is important as it puts the territory in a valuable position to continue to create ongoing local jobs.” Currently, the exploration firm is pursuing capital to fund the development-ready project. The financing is estimated to be around $43m. Thor Mining noted that the Molyhil project has an estimated 12-month development time, according to a definitive feasibility study (DFS) released in 2018. Thor Mining executive chairman Mick Billing said: “We are delighted to have this level of support by the Northern Territory Government for Molyhil. “We expect the Molyhil project to generate tangible and meaningful benefits to the Northern Territory, with export income and job creation in the Alice Springs area and also for the local communities near the project, as well as positive returns for the company’s investors.” Last month, Thor Mining acquired 100% of the shares in Australia-based American Vanadium, which has interests in uranium and vanadium projects in the US. 
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
