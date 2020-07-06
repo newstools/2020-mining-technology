@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Trevali Mining has reported that a total of 82 workers have tested positive for Covid-19 at its Santander mine in Peru. The number of confirmed cases comprises nearly 30% of the total workforce of the mine. The cases were identified during routine testing and the company quarantined all 298 workers on site while they underwent further testing. Last month, Santander mine operations were suspended after 19 workers tested positive for the virus during routine serological testing. At present, three individuals are displaying mild symptoms while all other workers are asymptomatic. Trevali suspended operations to focus on the health and safety of Santander’s workforce and the community. Workers who have tested negative and are not required for critical tasks at the mine site are being transported offsite to their homes. The Santander zinc, lead and silver mine is located about 215km north-east of Lima. It is owned by Trevali Peru, a subsidiary of Trevali Mining Trevali Mining president and CEO Ricus Grimbeek said: “Care for our workforce is our top priority. We have suspended the mining and milling operations at Santander and are focusing on providing a safe environment to workers so that they can continue their quarantine.   How optimistic are you about your company’s growth prospects?  View Results “We are working with our main contractors and government to determine new screening and testing protocols before we determine a re-start date. The health and well-being of workers will be our primary focus in any decisions made.” In March, Trevali Mining announced the temporary suspension of operating activities at its Caribou mine in Canada, following the deterioration of the global zinc market, which has been compounded by the continued challenges in wake of the spread of the Covid-19 pandemic.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
