@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Chile’s national copper company Codelco said it will temporarily suspend expansion works at its flagship El Teniente mine located in the Andes mountain range. The latest move comes as part of the company’s efforts to contain the spread of Covid-19 at its operations. Codelco stated that the move would lower staff at Teniente operations to about 4,500 people. According to the company, El Teniente will continue to operate in a shift mode consisting of 14 days of work and 14 days off to ensure the safety of workers. Commenting on the move, the company was quoted by Reuters as saying: “This began to be implemented last weekend.” It is aimed at “reducing the density of both our own and contract staff, scaling back movement and reducing the possibility of infection”. So far, at least 2,300 of Codelco’s workers have tested positive with Covid-19.   Will a global recession spell bad news for the mining industry?  View Results In 2019, El Teniente produced about 459,744t of copper. Last week, Codelco CEO Octavio Araneda warned that any move to ramp up restrictions on its mines amid the Covid-19 outbreak would be “catastrophic” for the country. Last month, Codelco reported the death of a third worker from coronavirus. This death increased more pressure on the copper mining industry as the labour unions have been asking for greater safety of workers. Unionised workers at Codelco threatened to halt work at some sites in order to implement a self-imposed quarantine after a union member died from Covid-19.  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
