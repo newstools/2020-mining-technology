@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Japan-based Mitsui Mining and Smelting has restarted operations at its Huanzala and Palka zinc mines in Peru following a closure. The two mines had been suspended since March after the local government issued a state of emergency order to limit the spread of the novel coronavirus. Mitsui owns a 70% stake in Compania Minera Santa Luisa, which is the operator of the two mines. Reuters cited a Mitsui Mining spokesperson as saying that the mines resumed operations after the country restarted some economic activities and Mitsui secured approval from the local government. The company has resumed operations with measures in place to prevent infection among workers. The news agency quoted the Mitsui Mining spokesperson as saying: “The mines’ operations have returned to the levels before the quarantine was put in place in March as they have been preparing for the restart since late June.” According to Reuters, metals production is important for the recovery of Peru’s economy, which has been destroyed as a result of the impact of the coronavirus outbreak. In February 2018, Mitsui secured a deal to purchase JX Nippon Mining & Metals’ 3.60% equity share in the Collahuasi copper mine in Chile.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
