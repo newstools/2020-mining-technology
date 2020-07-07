@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Bellevue Gold is all set to transition to the project development phase at the Bellevue gold project in Western Australia after confirming a high-grade resource. The Bellevue gold project is 400km north west of Kalgoorlie in Western Australia. According to the company, the maiden indicated resource, located in the Viago and Deacon Main resource areas, comprises a high-grade mineralisation core of 860,000 ounces (oz) at 11.6 grams per tonne (g/t) of gold. This was estimated by mining consultant Entech. Bellevue is expecting a further increase in the indicated resource in the December quarter, with stage two infill drilling standing at 2.3 million ounces (Moz) at 10g/t of gold. Bellevue managing director Steve Parsons said: “This Indicated Resource and the increases to come will underpin the economic studies on the project, which are now well underway. “Completion of these studies will mark the transition to the project development phase, which we believe will demonstrate the technical and economic strengths which come from having a large, high-grade project with simple metallurgy and access to existing infrastructure in a Tier-1 location. “There is also huge potential to continue growing the overall inventory at Bellevue, where the mineralisation remains open in multiple directions and we have numerous well-established targets, some with known mineralisation.” Most of the Bellevue gold project’s indicated resource includes a high-grade core of 480,000oz at 15.5g/t of gold at the Viago and Deacon lodes. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
