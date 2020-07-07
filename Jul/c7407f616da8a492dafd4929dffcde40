@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian mining company Ivanhoe Mines has provided an update on underground development progress of its Kakula copper mine in the Democratic Republic of Congo (DRC). The Canadian firm, alongside with its partner Zijin Mining, has now completed over 17km of underground development, of which 5.1km is ahead of the original schedule. The Kamoa copper project is situated in the Kolwezi District, Katanga, DRC. It is a joint venture between Ivanhoe Mines (39.6%), Zijin Mining (39.6%), Crystal River Global (0.8%) and the Government of DRC (20%). Ivanhoe also noted that Kakula’s 2,000tpa ore conveyor system began operations last month. According to Ivanhoe, early implementation of Covid-19 prevention measures has allowed the development of Kakula to continue uninterrupted. Initial production at the mine is expected during the third quarter of next year. In a press statement, Ivanhoe Mines stated: “As Kakula’s underground development progresses over the next few months, the majority of the headings are expected to transition into the high-grade ore zones. “More than 200 truckloads, consisting mainly of structural steel and equipment for Kakula’s initial 3.8Mtpa processing plant, were received on-site in June and construction of the plant is progressing rapidly. “Fabrication of the plant’s largest components – two ball mills each measuring 9.75m (32ft) long and 6.1m (20ft) in diameter – has been completed at CITIC Heavy Industries’ factory in Luoyang, China, and shipping of the components is underway.” In October last year, Zijin announced its intent to increase its stake in Ivanhoe Mines to 13.88%. In April 2019, Ivanhoe reaffirmed its commitment to developing mining and infrastructure projects in the DRC.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
