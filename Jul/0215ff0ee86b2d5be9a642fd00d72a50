@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australia-based Newcrest Mining has reportedly appointed investment bank RBC Capital Markets to explore options for its 15% stake in gold and copper miner SolGold after it contested the latter’s latest fundraising initiative. In May this year, SolGold secured up to $150m from Franco Nevada, to develop its Alpala copper-gold project at its flagship Cascabel asset. According to Reuters, the move with Franco-Nevada defied Newcrest, which had urged it to raise funds through equity. Newcrest Mining is seeking advice on its options for the stake that it owns in SolGold. However, no conclusion has been reached on whether to sell or buy more, sources familiar with the matter told Reuters. In an email to Reuters, Newcrest stated: “The royalty transaction coupled with an expensive bridge loan could lead to a transfer of significant risk to existing SolGold shareholders.” Meanwhile, SolGold chief executive Nick Mather emailed Reuters: “The funding … to get to a development decision at Alpala will be mainly done using the Franco royalty deal because it is considerably less dilutive to all shareholders than deeply discounted equity proposals mooted by Newcrest.” According to data from financial market data provider Refinitiv, Gold has seen deals valued at over $40bn since the start of last year. In December 2018, Newcrest Mining signed an agreement to increase its shareholding SolGold. In June 2017, SolGold secured investment from Newcrest Mining of $40m to fund the advancement of Cascabel, its copper-gold porphyry project in Ecuador.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
