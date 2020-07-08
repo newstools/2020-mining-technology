@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Commodities major Glencore’s Kamoto Copper Company (KCC) mine in the Democratic Republic of Congo (DRC) has reported that six workers tested positive for Covid-19 at the operation. The affected workers are currently isolating at home under medical supervision, Reuters reported. Glencore owns 75% of KCC through its Congo unit Katanga Mining, which is 99.5% owned by Glencore. According to the commodities major, all the workers who have been screened and tested positive were asymptomatic to the virus. A provincial surveillance team has been appointed to trace others who have been exposed to the infected workers. KCC did not disclose if this would affect production at the site. Reuters cited sources with knowledge of the matter as saying that the confirmed cases would not impact production. KCC said it had increased health and sanitisation measures in the last three months to contain the spread of the virus.   Demand for which of the following will be worst affected in 2020?  View Results Katanga Mining lowered its cobalt production target for this year to 26,000 tonnes (t), from 29,000t previously. Last December, KCC signed an agreement with Democratic Republic of Congo (DRC) State miner Gécamines, which has a 25% shareholding in KCC, to acquire land for its operations for $250m. KCC resumed the export and sale of a limited quantity of cobalt from Kamoto Project in April last year. In November 2018, KCC temporarily suspended the sale of cobalt at Kamoto mine following the detection of radioactivity in supplies.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
