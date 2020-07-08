@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Covid-19 pandemic is forcing almost all companies to “reset their strategy”, said former Bank of England Governor Mark Carney during a webinar on 30 June organised by the London Stock Exchange Group (LSEG) and the UN Principles for Responsible Investment (PRI) network. “That’s happening at a time when the UK, the EU, 125 countries around the world have net-zero [carbon emissions] as an objective,” he added. ‘Net-zero’ means that any emissions of greenhouse gases emitted by a particular jurisdiction or company are either reduced to zero or offset by activities that absorb an equivalent volume from the atmosphere, such as tree planting. Carney who, since stepping down as Bank of England Governor in March 2020, has become an advisor to the UK Government on next year’s UN climate conference (COP26) and a UN special envoy for climate action and finance added: “This is exactly the time, when […] you say, ‘OK, what is our strategy for net zero?’ It is a basic question for every company in every sector.” The imperative for a corporate climate strategy is partly driven by demand from investors, Carney said, citing “$130trn of balance sheets looking for [climate change] disclosures”. That figure refers to investors who have expressed support for the recommendations of the international Task Force on Climate-related Financial Disclosures, which sets out how companies and investors can report on their climate strategies. This message was echoed by David Blood, co-founder alongside former US Vice-President Al Gore of sustainable finance firm Generation Investment Management. “We want all CEOs to engage on climate,” he said. “We want them to demonstrate action. We want them to be clear about what their goals are.”   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results Blood described the transition to a low-carbon economy as “the most significant economic transition in history”. But he warned that time is short. “This is not a 10 or 15-year journey. This is a five-year journey,” he said. Blood argued that the pandemic has also raised the profile of social justice issues among investors and has underscored how responsible companies are more resilient. “That insight gives us encouragement that investors will expect companies to be responsible over the long term […] and that we, as investors, will insist that climate, social justice and the challenges of poverty are addressed as we build back better,” he said. “The economic opportunities of this transition, both from a poverty inequality perspective as well as a climate change perspective, are extraordinary,” he added, the likes of which he has “not seen in my 35 years of finance”. Research from the Global Commission on the Economy and Climate estimates that ambitious climate action could yield net economic benefits worth at least $26trn by 2030 compared with business as usual. Content from Energy Monitor.io
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
