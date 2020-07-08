@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian miner First Quantum Minerals is set to restart complete production at its Cobre Panama copper operation following a three-month work interruption as a result of the Covid-19 pandemic. The company has received notice from the Ministry of Health of the Republic of Panama (MINSA) that the ministry is lifting the temporary suspension of mining activities. In April this year, First Quantum Minerals received an order from MINSA to temporarily suspend labour activities at the mine as part of a sanitary control measure due to the pandemic. Cobre Panama, with a 40-year mine life, has proven copper reserves of 3.18 billion tonnes. First Quantum has a 90% stake in the mine. The Canadian miner will implement a reopening plan which provides for a phased increase of on-site staff, while production is increased at an annual throughput rate of 85 million tonnes per annum. Currently, about 800 personnel are working on-site. This number will be gradually increased in compliance with Cobre Panama’s reopening plan, which aligns with MINSA guidelines. Cobre Panama general manager Gordon White said: “We continue to work very closely with MINSA throughout the current COVID-19 pandemic, and we are confident that we can adhere to our health protocols which are at the highest international standards. “Cobre Panama has received support from the employee union UTRAMIPA, the local business community, and from the Government of Panama to reach this milestone. “We are especially grateful to the dedicated health professionals in the country who have been working to resolve the wider pandemic in Panama whose efforts we will continue to support.” In March this year, the company reportedly considered the sale of a minority stake in Cobre Panama copper mine to reduce the company’s debt.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
