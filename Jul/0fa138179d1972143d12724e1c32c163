@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Unions representing Codelco workers have stated that nearly 3,000 workers have been infected with Covid-19 and urged for more safety measures at the company’s operations. Reuters cited Federation of Copper Workers (FTC) president Patricio Elgueta as saying that FTC had counted infections in 2,843 workers as of 5 July. The news agency quoted Patricio Elgueta as stating: “The company does not give the database to the workers, so we have to rebuild it every day in order to see how (infections) are progressing.” Some unions and social groups have urged the company and others to stop operations in and around the Calama mining hub. Elgueta added: “They make it seem as though we want to shut down mining, but we only want to protect the lives and health of workers.” The number of coronavirus cases has passed the 301,000 mark in Chile, according to the Johns-Hopkins University tracker. Recently, Codelco said it would temporarily suspend expansion works at its flagship El Teniente mine, as part of the company’s efforts to contain the spread of Covid-19 at its operations.   Will a global recession spell bad news for the mining industry?  View Results Earlier this month, Codelco CEO Octavio Araneda warned that any move to ramp up restrictions on its mines amid the Covid-19 outbreak would be “catastrophic” for the country. Last month, Codelco reported the death of a third worker from coronavirus. This death increased more pressure on the copper mining industry as the labour unions have been asking for greater safety of workers. Unionised workers at Codelco previously threatened to halt work at some sites in order to implement a self-imposed quarantine after a union member died from Covid-19. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
