@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Global mining giant Rio Tinto has announced its plans to wind down operations and eventually close New Zealand Aluminium Smelters (NZAS). The latest move comes after the company concluded a strategic review on the closure of NZAS. In October last year, Rio Tinto considered a possible closure of NZAS at Tiwai Point and decided to carry out a strategic review of its stake in NZAS Rio Tinto owns 79.36% of NZAS, while the remaining interest is held by Sumitomo Chemical Company. According to Rio Tinto, with the current market conditions and high energy costs, the aluminium industry would continue to be unprofitable. Last year, the smelter made Rio Tinto an underlying loss of NZD$46m ($30.1m). Citing a challenging outlook in the aluminium market, Rio Tinto said that the business is no longer viable to the company. Rio Tinto Aluminium chief executive Alf Barrios said: “We recognise the decision to wind-down operations at NZAS will have a significant impact on employees, the community and our customers. “It is not a decision we have made lightly and without significant careful consideration. It is very unfortunate we could not find a solution with our partners to secure a power price reduction aimed at making NZAS a financially viable business. We will therefore terminate the power contract and move to close the operation. “We are committed to working with our partners as we progress through detailed planning towards closure and we will do all we can together with the government to find ways to support the Southland community.” In a separate statement, New Zealand’s Meridian Energy, which supplies electricity to the site, has confirmed that Rio Tinto gave notice on terminating the contract relating to the smelter with effective from 31 August next year. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
