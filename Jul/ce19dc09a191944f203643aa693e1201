@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mineral exploration firm Japan Gold and its alliance partner Barrick Gold have started regional scale geophysical-gravity surveys in the Hokusatsu region of Japan. The latest move comes as part of the joint efforts of the alliance to explore the nation’s gold mining potential. Barrick Gold and Japan Gold announced their alliance in February this year. Under the joint venture, the two companies have completed bulk leach extractable gold (BLEG) and rock chip sampling over eight of the 14 Barrick Alliance projects located in Southern Kyushu Epithermal Gold Province within the Hokusatsu region. These projects cover a combined area of 33,506ha. Japan Gold stated: “Projects already covered by BLEG and rock sampling include Tobaru, Gumyo, Kurino, Onoyama, Onoyama-Yamagano extension, Mizobe-Onoyama extension, Mizobe and the Mizobe 1st Extension.” In May this year, Japan Gold, in alliance with Barrick Gold, announced plans to jointly explore and develop certain gold mineral properties and mining projects in Japan. This regional exploration programme that started in May will help the alliance evaluate the overall project portfolio. Japan Gold noted that Barrick has committed to solely fund an initial evaluation phase of 28 out of 30 projects that Japan Gold holds in the country. Last September, Japan Gold acquired five new gold projects in the Southern and Middle Kyushu Epithermal Gold Provinces. In October 2017, Japan Gold added two projects in the Southern Kyushu province.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
