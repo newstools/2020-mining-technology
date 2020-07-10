@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian miner Endeavour Silver’s second quarter production took a significant hit as operations were halted for two months to comply with the Government of Mexico’s efforts to limit the spread of the coronavirus. During the second quarter this year, the Canadian miner produced about 596,545 ounces (oz) of silver and 5,817oz of gold. According to the company, these figures represent an output drop of 42% when compared with the output of the same period last year (Q2-2019). Production fell at the three silver-gold mines, namely Guanaceví, Bolañitos and El Compás that Endeavour holds in Mexico. In April this year, Endeavour Silver suspended mining operations at the three mines when Mexico declared a national health emergency to limit the spread of the Covid-19 outbreak. Endeavour CEO Bradford Cooke said: “We implemented our coronavirus prevention and response plan in mid-March and it has been very effective. “During the mine suspension period, we sent our employees home on full salary while keeping essential personnel working at each mine site to maintain safety, security and equipment. After the mines restarted, we were able to outperform our adjusted mine plans in June. “We will now look for opportunities to enhance our production in H2, 2020 to partly make up for lost ground in H1, 2020.” In May this year, Endeavour Silver resumed mining operations at its three underground mines in Mexico after securing approvals from the Secretariat of Health in the country to restart operations.  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
