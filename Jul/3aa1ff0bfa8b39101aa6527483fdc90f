@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. CIMIC Group’s contract mining company Thiess has secured a five-year contract extension to continue providing mining services at the Lake Vermont coal mine in Queensland. The contract extension, with coal firm Jellinbah Group, is expected to generate revenue of some A$2.5bn ($1.74m) for Thiess. In December 2015, Jellinbah Group initially awarded a contract extension worth $1.3bn to Thiess, to continue work at the company’s Lake Vermont coal mine. The latest contract continues Thiess’ full-service mining operations, which include mine planning, coal mining, topsoil and overburden removal. Drilling and blasting, water management, as well as rehabilitation of final landforms are also covered under the contract. CIMIC Group CEO Juan Santamaria said: “For more than 13 years, Thiess has worked alongside Jellinbah Group to safely position the mine’s operations for optimal efficiency, productivity and cost performance. “This contract demonstrates Thiess’ ability to turn insight and optimisation into greater certainty for its clients.”   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Thiess will also provide a range of autonomous services at the coal mine. The CIMIC Group company will deploy autonomous drilling and semi-autonomous dozer push at the mine. The contract extension will start from 1 January 2022. Thiess managing director Douglas Thompson said: “We’ve developed a strong working relationship with Jellinbah Group since commencing work at Lake Vermont in 2007. We’re excited to bring fresh thinking and new solutions to support the mine’s continued, sustainable evolution over the next five years.” In September last year, Thiess received a contract extension valued at A$1.3bn ($893m) to provide mining services at Coronado Global Resources’ Curragh mine in Queensland, Australia.  jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
