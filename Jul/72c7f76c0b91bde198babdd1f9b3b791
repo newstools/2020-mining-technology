@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Gold exploration company Chesser Resources has announced that it will raise AUD6m ($4.17m) to undertake large-scale drilling programmes at its flagship Diamba Sud gold project in Senegal. Chesser said it had received firm commitments from “institutional and sophisticated investors” for a placement of 75 million shares at $0.08 per share. The company said it had received strong demand from existing shareholders, as well as new institutions. The placement will be settled across two tranches, with 29.3 million shares placed under Chesser Resources’ existing capacity. The second tranche of 45.6 million shares will be subject to shareholder approval. The issue of the first tranche is expected around 20 July, while the company intends to conduct a general meeting of shareholders to approve the second tranche around 31 August, with the issuance of the shares to occur as soon as possible after shareholder approval is obtained. Diamba Sud is located in eastern Senegal and covers an area 53.2km2 close to significant gold deposits owned by Barric, Iamgold and others. The project’s proximity to world-class gold deposits, combined with minimal historic exploration of the land area, makes Diamba Sud prospective for gold mineralisation, as well as attractive to investors. In June, Chesser provided drilling results from the Diamba Sud project, revealing two high-grade gold structures had been identified and confirmed over 250m strike length. Simultaneously, Chesser Resources announced the appointment of a new non-executive chair, Mark Connelly, who has taken on the role effective immediately. Connelly commented: “Chesser is in an exciting phase of exploring the high-grade discovery at its Diamba Sud project within a belt that hosts world-class assets… Joining a team that has quickly made a discovering and is advancing towards development is an exciting opportunity to be involved with.   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results Chesser Resources managing director Mike Brown welcomed Connelly, and commented on the share placement: “The placement will enable us to significantly advance the Area A discovery and the new prospective trends encountered in recent drilling, as well as continue to test additional compelling targets. Planning for further drilling shall commence when final results from the recently completed Phase 4 drill programme are received.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
