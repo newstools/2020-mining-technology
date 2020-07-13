@@ -1,0 +1,12 @@
+American precious metals miner Hecla Mining is weighing options for its San Sebastian silver-gold mine in Mexico, which will stop production in the third quarter of this year. The silver and gold mine began mining ore in December 2015 and started underground mining in January 2018. In a production update for the second quarter that ended on 30 June, Hecla noted that mining of oxide material is expected to be completed in the third quarter, while milling is slated for completion in the fourth quarter at the San Sebastian mine. As the mine is expected to run out of ore this year, with milling slated to stop in the last quarter, the precious metals miner continues to assess the possibility of mining sulfide ore. The mine produced 58,842 ounces (oz) of silver and 1,331oz of gold in the second quarter, down 66% and 63%, respectively, during the same period last year (Q2-2019). Hecla’s overall silver production rose 13% in second quarter to 3.4Moz, while gold output fell 1% to touch at 59,982oz. Hecla president and CEO Phillips S. Baker said: “Our quick actions at the beginning of the pandemic minimised impact on our operations and finances, so production and cash flow generation were strong this quarter.   Demand for which of the following will be worst affected in 2020?  View Results “Because US mines are essential businesses and the other two mines returned to production in the quarter, we increased production and internally generated cash flow. This performance has allowed us to substantially reduce our revolving line of credit which we expect to be fully repaid by year end.” Almost one-third of all the silver in the US is claimed to be produced by Hecla. During the first quarter, the company produced over three million ounces of silver and 57,238oz of gold. In April this year, Hecla Mining announced that it would be withdrawing its full-year 2020 guidance to assess the impact of Covid-19 on its production and costs. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
