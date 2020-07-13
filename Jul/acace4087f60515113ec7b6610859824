@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian mining major Vale and Swedish mining equipment manufacturer Epiroc have finalised their ‘Batteries as a Service (BaaS)’ agreement. BaaS is a new approach for using battery technology across mining operations. Using this service, Epiroc monitors the batteries it installs to a mining operation in order to deliver predictive maintenance as well as reduced downtime. Epiroc Canada Rocvolt product manager Shawn Samuels said: “A key component to the success of this offering is the flexibility it allows our customers. “We take ownership of the battery itself and automatically replace and update the units as needed, which means the mine site can breathe easier and continue to focus on heightened production.” Epiroc claimed that the BaaS agreement with the Brazilian miner is the “first-of-its-kind” in the world. Furthermore, Vale will be provided with ten battery electric vehicles for two of its Canadian mine sites by Epiroc. These include four Scooptram ST14 loaders, two Boletc MC bolting rigs, two Minetruck MT42 trucks and two Boomer M2C drill rigs. Vale will receive the delivery of the battery equipment for its Canadian sites through the course of 2020 and into the Q1-2021. Epiroc Canada general manager Jason Smith said: “We value and look forward to continuing our successful partnership with Vale as we move towards a zero emissions future in mining together. “We both recognise the positive impact a successful battery service implementation can have on operations, so our mutual confidence in one another is well placed.” Last month, Epiroc provided a notice of termination to 425 employees in Sweden, of which 350 jobs are at its Örebro facility and the remaining 75 at its Fagersta location. In May this year, Epiroc secured a large equipment and service contract from Chilean state-owned copper miner Codelco for use at its Chuquicamata mine in northern Chile.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
