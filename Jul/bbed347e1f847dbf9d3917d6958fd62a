@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. ABB has received a contract from Damen Shipyards to provide integrated power system package for the largest advanced diamond recovery vessel in the world. The vessel will adhere to the safety, efficiency and availability requirements. It is being built at Damen Shipyards Mangalia in Romania. Financial aspects of the order were not revealed. In June last year, Debmarine Namibia secured a loan from five banks to finance its N$7bn ($468m) diamond recovery vessel. The vessel is being built with a cost of $468m and is the largest single investment in the marine diamond industry. It uses advanced subsea crawling, which is a method for recovering diamonds from the seabed. The vessel will be handed over to Debmarine Namibia, the Government of the Republic of Namibia and De Beers Group joint venture in 2022.   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results The new ship is 177m-long and designed by Norwegian naval architects Marin Teknikk. The ship will increase the annual production of Debmarine Namibia by 35% with the contribution of 500,000 additional carats to the current production levels. ABB’s power systems were previously installed on Debmarine Namibia’s deep-water diamond exploration and sampling vessel SS Nujoma (SSN). Debmarine Namibia newbuild project head Michael Curtis said: “The success of the SSN with high reliability, efficient positioning and low fuel consumption coupled with the safe operation was instrumental in selecting the same systems for the new diamond recovery vessel, with ABB’s power systems being an integral part of the solution.” The technology provided by ABB will ensure that the vessel attains ‘unsurpassed uptime’. The solution includes an advanced system for power generation, distribution and variable speed drive propulsion systems. Additionally, it features large online double-conversion marine uninterruptible power supply (MUPS) to support the vital control processes. MUPS facilitates power backup for the vessel’s on-board control systems of the subsea-crawler and the processing plant that sorts through sediment from the seabed to extract diamonds. ABB’s power system optimises engine loading and reduces running hours, fuel costs and the need for maintenance.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
