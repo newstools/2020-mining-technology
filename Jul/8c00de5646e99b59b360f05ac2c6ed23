@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-based mining firm B2Gold has reported that it has produced 239,574 ounces (oz) of gold in the second quarter this year (Q2 2020), which is an increase of 15% over the same quarter last year (Q2 2019) and also 3% more than its guidance. The higher output was driven by the company’s Fekola mine in Mali, which continued its strong operational performance with gold production of 147,424oz, above budget by 5% and 29% higher when compared to same period last year. B2Gold attributed the increase in significant gold production to the expansion of the Fekola mining fleet, optimisation of the pit designs, and mine plan for this year. The Fekola Mine is located in south-western Mali on the border between Mali and Senegal. B2Gold owns an 80% stake in the site, while the remaining interest is with the State of Mali. Meanwhile, the company’s Masbate Mine in the Philippines continued to perform well through the second quarter of this year despite the Covid-19 crisis. The company noted that the Masbate mine produced 48,654oz of gold, approximately in-line with budget, despite being limited by a reduced workforce due to restrictions related to the virus. Furthermore, the Canadian miner reported that its expansion and development projects progressed well throughout the second quarter.   How optimistic are you about your company’s growth prospects?  View Results In April this year, B2Gold reported that one of its employees near the Fekola mine site in Mali tested positive for Covid-19. In December 2017, B2Gold started commercial production at the Fekola mine ahead of the schedule outlined in the optimised feasibility study (OFS). jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
