@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-based streaming company Triple Flag Precious Metals has signed a $550m streaming financing deal with China Molybdenum (CMOC) for future gold and silver production at the latter’s Northparkes mine. Triple Flag Precious Metals signed the deal through its wholly-owned subsidiary Triple Flag Mining Finance Bermuda. Northparkes is a copper-gold located in New South Wales (NSW), Australia. It is 27km north-west of Parkes, in the Central West of NSW. The mine is a joint venture (JV) between CMOC and the Sumitomo Groups. Commenting on the transaction, CMOC executive director Li Chaochun said “This transaction provides CMOC with a long-term financing arrangement at a compelling cost of capital and demonstrates significant value from the gold and silver by-product production from Northparkes, an operation that delivers an outstanding safety record, consistent performance and presents outstanding resource potential.” Besides paying $550m as upfront payment, Triple Flag will also pay CMOC 10% of the spot gold and spot silver price for each ounce delivered. The deal gives Triple Flag the rights to a majority of gold and silver  produced at the Northparkes mine until the streaming company receives 630,000 ounces of gold and nine million ounces of silver.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results Triple Flag founder and CEO Shaun Usmar said: “Northparkes will be a new cornerstone asset, with robust cash flows over a very long mine life in a top-tier mining jurisdiction. “This is a globally recognised mine with an excellent track record of safety, operations, reserve replacement and community involvement further bolstering and diversifying our portfolio.” In January last year, CMOC and Sumitomo gave final approval for the development of a new block cave mine at their Northparkes Mines JV.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
