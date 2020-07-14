@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. This latest oil spill follows the ongoing industrial disaster near Norilsk, which began on 29 May when a fuel storage tank at a Nornickel owned power plant failed, flooding rivers with over 20,000 tonnes of diesel oil. A second spill The new pipeline burst will add to Nornickel’s woes as they contest the damage estimate calculated by the Federal Service for Supervision of Natural Resources Management (Rosprirodnadzor). The regulator had requested that the Nornickel subsidiary responsible for the failed fuel tank pay “voluntary compensation” amounting to RUB147.5bn ($2.05bn) – around a third of Norilsk Nickel Group’s profits for last year. The company has disputed the extent of the environmental damage, which has been suggested could extend as far as the Arctic Ocean, and in June Nornickel estimated the clean-up cost to be RUB10.64bn ($150m). According to Nornickel, the pipeline burst at around 11:15 am on Sunday 12 July and spilt around 44.5 tons of fuel during the depressurisation, which lasted 15 minutes. Norilsktransgaz is conducting an internal investigation into the incident and has submitted information to Russia’s Emergency Situations Ministry. Nornickel said the spill does not pose a threat to the health of people living in the area. Nornickel take a further hit Nornickel’s share price took a further beating following the revelation of the second incident, adding to the roughly 17% knocked off its share price by the initial Norilsk oil spill. Nornickel’s troubles have been further accentuated by public criticism from Russian President Vladimir Putin as well as allegations that the company is covering up the true extent of the damage. Environmental campaigners have been joined by a regional governor and a former official at Russia’s environmental watchdog in claiming that diesel oil has spread into a lake, and potentially into a river that leads to the Arctic Ocean. Nornickel has denied these allegations and said it has recovered 90% of the diesel spilt using containment booms and pumps. The company said the number of companies, regulators and other officials involved in the clean-up operation would make it difficult to cover up. Environmental campaigners are doubtful of that 90% figure, citing similar clean-up operations in the past. The Norilsk oil spill alone constitutes Russia’s worst oil spill since 1994, and while Nornickel is standing by the 90% estimate, it acknowledged that precise data will only be available when the fuel is separated from the collected water. Alleged photographic evidence and eyewitness accounts suggest the diesel fuel has made it to Pyasino Lake, which is roughly 20km north of the spill site, but this has been disputed. Meanwhile, Moscow turned down an offer from the US to help with the clean-up efforts. The Russian government believes it can handle the crisis on its own.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
