@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian miner Vale and Japanese firms Kobe Steel and Mitsui have signed a non-binding heads of agreement (HoA) on providing low-CO2 metallics and steelmaking solutions for the global steel industry. The Brazilian miner noted that all the parties will establish a new venture to supply low greenhouse gases (GHG) solutions to the steel industry. Vale stated: “Our declared 2030 targets for scope 1 and 2 emissions demonstrate Vale’s commitment with the Paris Agreement, in line with our strategic pillar – New Pact with Society – and the goal of improving our value to society. “Steel production, part of Vale’s scope 3, while essential for people’s daily lives, generates considerable CO2 emissions.” Kobe Steel will work with its US subsidiary Midrex Technologies, whose direct reduction ironmaking technology (DRI) uses natural gas to reduce iron ore for use in steelmaking, thereby, offering lower carbon emissions when compared to those produced using blast furnaces. DRI is majorly used in electric arc furnaces as a substitute for high quality scrap and pig iron. Furthermore, the new venture will use Vale’s Tecnored technology. This technology involves developing a low carbon pig iron process using energy sources such as biomass, syn-gas and hydrogen, which emit less carbon than the coal.   How optimistic are you about your company’s growth prospects?  View Results Together with these technologies, the partnership willuse Mitsui’s marketing and business development expertise “to offer the low-CO2 metallics and iron making solutions” to the steel industry. According to Reuters, reducing CO2 emissions from steelmaking procedure is a key part of efforts to tackle “climate change”. Recently, Vale and Swedish mining equipment manufacturer Epiroc finalised their ‘Batteries as a Service (BaaS)’ agreement. Last month, Vale signed an agreement with authorities on monitoring for possible Covid-19 cases at its Itabira mine complex.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
