@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Rare earths miner Lynas has awarded a contract to Metso Outotec for its Kalgoorlie rare earths processing plant in Western Australia. Metso Outotec has secured the contract to supply the rare earths plant’s kiln following a competitive bid process. The contract for the engineering and supply of the kiln, which measures 110m in length and 1,500t in weight, is worth around A$21.6m ($15m) for Metso Outotec. According to Lynas, this kiln is the “largest and longest lead time piece of equipment” required for the operation of Kalgoorlie plant. Lynas CEO and managing director Amanda Lacaze said: “The kiln is the longest lead time item for our Kalgoorlie project and placing this order is an important milestone in the development of our new processing plant in Kalgoorlie. “We are making good progress on the project, and we look forward to working with Metso Outotec on the engineering and supply of the kiln.” Work scope under the kiln contract will involve engineering and supply of discharge housing, combustion chamber as well as burner and motor control stations to the Kalgoorlie plant. Metso Mining Equipment president Stephan W Kirsch said: “We are excited having been selected by Lynas as a key supplier for the development of its significant greenfield project in Western Australia. “The Metso rotary kiln system forms an integral part for the processing of Rare Earths.” Metso Outotec is a newly-merged company that was established on 1 July. In May this year, Lynas restarted operations at its Malaysian plant after the country’s Prime Minister lifted Covid-19 restrictions.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
