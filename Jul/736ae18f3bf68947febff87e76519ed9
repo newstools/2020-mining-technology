@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Democratic Republic of Congo (DRC) has given all copper and cobalt companies operating mandatory confinement policies one month to end those practices. In an open letter, Labour Minister Nene Ilunga Nkula was quoted by Reuters as saying that the spread of Covid-19 can be curbed if the practice of confining workers to the operating site ends. In addition to releasing workers, the companies are required to provide healthcare, housing and a healthy diet to confined workers and their families. The letter, shared on Twitter, read: “All mining companies that have confined workers to the operating site are granted a one-month moratorium to return to normal operation.” Last month, civil society organisations said that workers were asked to either “stay and work or lose their jobs, reported the news agency. Glencore subsidiary Katanga Mining, MMG, China Molybdenum’s Tenke Fungurume, Chemaf and Ivanhoe are some of the major companies that have mining presence in the southern copper belt of Congo. Last week, six workers at Glencore’s 75%-owned Kamoto Copper Company (KCC) mine in Lualaba province were reported to be Covid-19 positive.   Will a global recession spell bad news for the mining industry?  View Results In April this year, Glencore’s Katanga Mining initiated to repatriate 350 Indian contractors at KCC after the company halted the commissioning of its acid plant in the DRC. Congo is the biggest copper producer in Africa and also considered to be the world’s major source of cobalt. Meanwhile, DRC Mines Minister Willy Kitobo Samsoni warned of “catastrophic” economic and social crisis if mine are completely closed.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
