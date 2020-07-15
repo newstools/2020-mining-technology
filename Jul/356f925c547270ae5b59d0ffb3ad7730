@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mineral exploration firm Strandline Resources has secured an offtake agreement with Spanish firm Chilches Materials for the Coburn mineral sands project in Western Australia. Discovered in 2000, the Coburn mineral sands project is located in the Gascoyne region of Western Australia, about 240km from the port of Geraldton. The agreement covers around 7,000 tonnes per annum (tpa) of premium zircon product for the first five years of Coburn’s production. In a press statement, Strandline Resources  stated: “The zircon sales covered by the Agreement are expected to generate approximately 6-8 per cent of Coburn’s forecast total revenue. “The agreement is subject to conditions precedent regarding the development of the Project.” With key approvals in place including the mining lease, environmental permit and native title agreement, the Coburn project is ready for construction. The mineral exploration firm aims to reach a final development decision this year.   Demand for which of the following will be worst affected in 2020?  View Results A definitive feasibility study on Coburn has estimated that the project could produce an average of 229,000 tonnes per annum (tpa) of HMC, comprising 58,000t of zircon concentrate, 110,000t of ilmenite, and 20,000t of HiTi (a blend of rutile and leucoxene containing 90% titanium dioxide). The project will produce a high-value heavy mineral concentrate and final product over its mine life of 22.5 years. In April this year, Strandline Resources selected Macmahon Holdings as the preferred contractor for Coburn mineral sands project in Western Australia. In May 2018, Strandline Resources reached an agreement to sell 100% of the ilmenite to be produced at its Fungoni mineral sands project in Tanzania to China’s Maoming Ubridge Group Mineral Industry Company.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
