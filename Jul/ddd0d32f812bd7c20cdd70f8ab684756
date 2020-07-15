@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Metallurgical coal producer Ramaco Resources has announced the partial closure of its Berwind low-volatile development mine complex to align its production with the weakened coal market. The mine complex is located on the border of Virginia and West Virginia. According to the company, the move will affect about 44 miners and the personnel reductions were effective immediately. Ramaco executive chairman Randall Atkins said: “The continued deterioration of both the domestic and export metallurgical coal markets, driven in large part by the Covid-19 pandemic have led us to make this difficult decision. “We remain committed to the completion of our Berwind slope development to full capacity when the market has more clarity. We want to recognise the efforts of all of our coal miners who have advanced this project to date.” Production at the Berwind property began in late 2017. Ramaco president and CEO Michael Bauersachs said: “We believe that ultimately the Berwind mine will be amongst the lowest cost, high-quality low volatile coal in the Central Appalachian region.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results “Once the coal markets stabilize and return to rational pricing levels, the full development and production at the Berwind mine can be restarted.” Ramaco operates and develops low cost metallurgical coal in southern West Virginia, southwestern Virginia as well as southwestern Pennsylvania. It has executive offices in Lexington city of Kentucky and operational offices in Charleston, West Virginia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
