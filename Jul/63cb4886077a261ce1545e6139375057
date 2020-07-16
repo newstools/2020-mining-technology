@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. BHP Mitsubishi Alliance (BMA) has announced that it will invest $100m in 34 automated vehicles at its Daunia coal mine in Australia. The Daunia open cut coal mine is located in central Queensland, Australia. The mine is owned by BHP Mitsubishi Alliance (BMA), a 50:50 partnership between Anglo-Australian BHP Group and Japan’s Mitsubishi Corporation. According to BMA, the first Caterpillar autonomous trucks will start work from February 2021, with the full rollout of the vehicles expected for completion by the end of next year. BMA asset president James Palmer said: “This announcement is a vote of confidence in Central Queensland. At least 10 regional and indigenous businesses will be employed to support the rollout, with contracts worth $35m. “This will result in 150 additional project roles for BMA people and contractors. This is on top of 56 new permanent roles on site. “There will be no job losses as a result of this decision and anyone who currently works with us, be it an employee or labour hire worker, will be given the opportunity to continue to do so.”   How optimistic are you about your company’s growth prospects?  View Results Commenting on BMA’s investment, Queensland Resources Council chief executive Ian Macfarlane said: “What we are seeing from the resources sector, such as BMA today, is companies building high-tech capacity into their operations to improve safety and efficiency.” “Queensland’s resources industry will continue to invest in technology to ensure it maintains leading practices in safety and innovation which will secure the sector’s competitiveness over other mining jurisdictions around the world.” In January this year, BMA said it will invest $455m on autonomous haul trucks and AI-based data analysis in an attempt to cut down on production costs, improve efficiency and reduce CO2 emissions.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
