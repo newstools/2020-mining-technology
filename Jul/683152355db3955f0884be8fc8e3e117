@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-based Cornerstone Capital Resources has turned down a second takeover offer from Australian gold and copper mining company SolGold. Cornerstone’s board of directors rejected the offer citing that it is not in the best interests of the company and its shareholders. In January 2019, SolGold first revealed its plans to acquire Cornerstone Capital Resources. In February of the same year, the Australian firm said that Cornerstone dismissed its first takeover approach and added that it will bring the offer directly to the shareholders of Cornerstone. Late last month, SolGold launched a fresh offer to acquire Cornerstone Capital Resources in an all-stock transaction, which is valued at around C$140m ($103m). Now the latest offer from Solgold has been termed as a ‘hostile bid’, which according to Cornerstone, is fully inadequate and has been quickly rejected by the majority of its shareholders. Nearly 65% of Cornerstone shareholders said that they would not support SolGold’s bid. According to the Canadian firm, the offer significantly undervalues the company and is opportunistically timed. Cornerstone Capital board chairman Greg Chamandy said: “As one of the largest shareholders of SolGold, we are very disappointed that the current SolGold management team and board continue to waste significant resources and divert benefits to insiders, all while making a bid that fails to comply with Canadian securities laws, and all at the expense of shareholders.” SolGold and Cornerstone Capital are partners in the Cascabel gold-copper porphyry project in Ecuador where the partners are seeking to develop the Alpala copper-gold deposit. SolGold holds an 85% stake in the Ecuadorian project, while the remaining 15% is held by Cornerstone. In March 2019, Cornerstone secured the approval of an Environmental Impact Assessment (EIA) from the Ecuadorian Ministry of Environment for its Bramaderos gold and copper project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
