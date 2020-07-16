@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Axora has announced a number of predictions for the future of the global mining industry, with social change and technological innovations set to become more commonplace amid the Covid-19 pandemic. The company, which describes itself as the creators of “the world’s first curated innovation marketplace” hosted a webinar on Thursday this week, highlighting a number of challenges that the mining industry faces. According to S&P Global, the spread of Covid-19, and resulting lockdown measures, has affected 247 mine sites in 33 countries, with some of the world’s most productive miners bearing the brunt of the lockdown; mining production in South Africa alone, for instance, is set to fall 50% year-on-year. In response, Pat Lowery, former technical director at De Beers and primary speaker at the ‘New Normal for the Mining Industry’ event, noted that one of the main social changes to result from the pandemic will be a shift in emphasis from mining companies towards social responsibilities. “The mining industry is moving away from a philosophy of donations, [where] it’s relatively simple to put a couple of assets and donations on the table and rub your hands and walk away,” said Lowery. “But what we’re seeing now is that a lot of the vocabulary that’s emerging from regulators and NGOs with respect to the mining industry [is] ‘levering knowledge’ and ‘understanding of host communities.’ “We will now have thoughtful and respectful engagement.” In addition to these social changes, a number of technological innovations could develop in the wake of the pandemic, including a track and trace app developed by BHP to monitor the movements of workers at its Chilean operations, to better understand the potential spread of the virus from person to person. Resolute’s Syama gold mine in Mali was also namechecked as an example of an innovative project: the world’s first fully autonomous mine, the mine has a potential annual production of 300,000 ounces of gold over a 14-year lifespan. Lowery also anticipated fewer boundaries to technological innovation in the sector, with the pressing need to improve operational efficiency and performance amid the pandemic removing many of the barriers to the installation of new technologies.   Commodity production in which of the following countries will be impacted least by COVID-19 in 2020  View Results “There’s so much out there,” he said of the new technologies available for the sector. “We don’t need to go through lengthy R&D processes, we need to rapidly optimise our sites to deal with the long-term Covid-19 impacts and build a sustainable basis for future operations using this technology.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
