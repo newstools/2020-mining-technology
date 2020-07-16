@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mineração Vale Verde (MVV) and Appian Capital Advisory announced that the first blast has been conducted at the Serrote copper/gold project in Brazil. According to Appian, the pre-stripping programme has so far handled more than one million tonnes of material. Construction and engineering works are approaching final stages, with project start-up expected in the second half of next year. The Serrote deposit is located in Alagoas, Brazil. By the end of this year, MVV is planning the construction of the TSF spillway and conveyance system tunnel, energisation of the 230kV power system and also finalising offtake arrangements for the copper-gold concentrate at Serrote. MVV & Appian Brazil CEO Paulo Castellari said: “Serrote continues to demonstrate robust economics with potential upside, and we are seeing strong interest from offtake and financing partners, which underlines the progress that MVV and Appian have made in developing and derisking the project, along with the attractiveness of Serrote’s high-grade copper-gold concentrate. “Environmental, Social, and Governance efforts continue to be fundamental to our business, and I am proud of our actions to help combat the Covid-19 pandemic in Brazil, to support and partner with the communities in which we operate.” Appian also announced its support to combat the Covid-19 outbreak in the country. The company provided $600,000 charitable support package to help combat the pandemic in the regions in which the company’s portfolio companies operate. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
