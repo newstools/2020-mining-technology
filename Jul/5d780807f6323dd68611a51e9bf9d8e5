@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Law firm White & Case has published a report into the impacts of the Covid-19 pandemic on the global mining and metals industry, which has found that global market weaknesses is the cause of greatest concern among mining’s biggest decision-makers. The report, ‘Mining and metals in the Covid-19 world’, polled 67 “senior decision makers” across the mining industry, 39% of whom reported that a decline in the global economy would be the sector’s biggest challenge in the second half of 2020. Other challenges included supply chain disruptions (16%), uncertain commodity prices (14%), and resource nationalism (11%). “Responses to our survey illustrate the sheer scale of the shock to the market, and how Covid-19 has impacted investor expectations,” wrote the report’s authors, Rebecca Campbell, Jon Tivey, and Oliver Wright. “While 39% cite global market weakness as their biggest concern, trade tensions,which had been deemed the biggest risk in January, has dropped from 26% to just 5%.” The authors also investigated the priorities for the mining sector in responding to and recovering from the pandemic. Building resilience was the most popular response to priorities for post-Covid recover, with 27% of respondents supporting a more robust sector, compared to 18% who called for gains in productivity and effectiveness. The least popular choice was the management of tailings facilities and ensuring workplace safety, a far cry from the discourse surrounding the mining industry 18 months ago, when the Brumadinho disaster inspired many miners to improve their tailings infrastructure. Additionally, many of these challenges and projects were interconnected, with the most popular method of building greater resilience involving reinforcing the global supply chain, which received 37% of votes. Behind this, ESG compliance (22%) and the diversification of portfolios (20%) were among the other popular methods of ensuring resilience in the sector. The report also found that the shape of mergers and acquisitions (M&A) could be altered by the pandemic, with 49% of respondents predicting that precious metals will see the most M&A activity, up from 30% at the start of the year. Conversely, just 6% of respondents thought that base metals would see the majority of M&As, significantly lower than the 33% reported at the start of the year.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
