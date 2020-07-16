@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. GR Engineering Services has secured a contract from Ora Banda Mining for the restart of the existing Davyhurst gold processing plant in Western Australia. Under the contract, valued at $10.8m, GR Engineering will provide engineering, procurement and construction (EPC) services for the project. The Australian contractor noted that the contract will be undertaken on a fixed-price basis. This also includes a “provisional sum component”. The work scope of the contract includes the refurbishment, optimisation, as well as recommissioning of the existing 1.2 million tonnes per annum (Mtpa) Davyhurst gold processing plant. Furthermore, GR Engineering will provide borefields and associated infrastructure for the project. According to GR Engineering, work will take place with immediate effect and is expected to be completed in the CY Q1-2021. Commenting on the contract, GR Engineering managing director Geoff Jones said: “GR Engineering is pleased to have been awarded the EPC contract for the Davyhurst Restart Project. “We are excited to be working with Ora Banda’s management team and look forward to Ora Banda becoming Australia’s newest gold producer.” Last month, GR Engineering secured a contract from Saracen Mineral Holdings to complete additional works at the Thunderbox and Carosue Dam gold projects in Western Australia. In August 2019, Ora Banda Mining announced to raise A$18.5m ($12.5m) towards the development of its regional exploration and high-grade gold resource and reserve definition programmes in the Eastern Goldfields region of WA.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
