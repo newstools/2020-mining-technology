@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. A Brazilian court has ordered iron ore miner Vale to pay BRL7.9bn ($1.47B) in guarantees, with respect to Brumadinho tailings dam damage that occured last year. The court has given Vale a deadline of 23 July to make the payment. In May this year, a judge in Brazil’s Minas Gerais state granted an injunction sought by prosecutors ordering Vale to deposit BRL7.9bn ($1.47B) to pay potential fines. However, another court decision suspended that ruling last month. The Brumadinho mining disaster occurred on 25 January 2019 when a dam located near the Córrego do Feijão iron mine collapsed, causing a mudslide to hit the town of Brumadinho. The disaster claimed lives of at least 270 people. It was later reported that Vale had been aware of the potential of the dam to collapse from as early as October 2018. Since the start of 2019, iron ore production in Brazil has suffered due to the Brumadinho tailings dam disaster, weather-related conditions and the spread of Covid-19 pandemic. Last year, Brazil’s overall iron ore output was 404.9Mt. In July last year, Vale agreed to pay compensation to the families of the victims of the Brumadinho iron ore mine disaster. In February 2019, the Brazilian Government banned the construction of new upstream mining dams following the Brumadinho mining disaster.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
