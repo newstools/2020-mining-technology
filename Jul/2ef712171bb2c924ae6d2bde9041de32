@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Endeavour Mining has completed its C$1bn (approximately $735m) acquisition of gold miner Semafo. The combined entity is expected to become one of the biggest gold miners in West Africa, with an annual production of 1Moz of the metal. With the merger completed, Semafo’s president and chief executive Benoit Desormeaux has joined Endeavour as president. Last month, Canadian authorities gave Endeavour Mining the go-ahead for the acquisition of gold miner Semafo. Post the court-approved plan of arrangement, Endeavour indirectly acquired all Semafo common shares on the basis of 0.1422 of an Endeavour common share for each outstanding Semafo share. Semafo is now a wholly-owned subsidiary of Endeavour Mining. Endeavour’s Q4-2019 production has increased by 51% to 148,387oz, taking its output of 2019 to 480,529oz. This production, however, was short of its annual target range though a 2% year-on-year increase. In May, Endeavour Mining announced that its shareholders voted ‘overwhelmingly’ in favour of its acquisition of Semafo, which was announced in March. In addition, La Mancha Holding, which owns a 31% stake in Endeavour, has agreed to invest $100m in the combined company. This investment is expected to close on or around 3 July. In January, Endeavour dropped its plan to acquire mining firm Centamin for $1.9bn as it did not get enough information on the latter’s assets during an assessment. In November last year, Semafo suspended operations at its Boungou mine in Burkina Faso after an attack on a convoy of the Canadian miner’s workers left 39 dead.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
