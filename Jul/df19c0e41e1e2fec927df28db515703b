@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Oyu Tolgoi LLC has completed an updated feasibility study for the redesign of the Oyu Tolgoi mine in Mongolia, forecasting an increase of $1.3bn to $1.8bn from Rio Tinto’s original development capital. Rio Tinto originally flagged a $5.3bn development capital for Oyu Tolgoi. The Oyu Tolgoi gold and copper project is situated in the south Gobi region of Mongolia. It is around 80km north of the Chinese-Mongolian border and 550km south of Ulaanbaatar. The updated FS incorporated a new mine design for Panel 0 of the Hugo Dummett North underground mine at Oyu Tolgoi. Meanwhile, first sustainable production has been delayed by between 21 and 29 months compared with the original feasibility study guidance from 2016. Upon completion of the underground mine, Oyu Tolgoi will serve as the world’s third-largest copper mine. Rio Tinto Copper & Diamonds chief executive Arnaud Soirat said: “This amended mine design is another positive step in the development of the underground mine which will unlock the most valuable part of Oyu Tolgoi. “We remain focused on delivering the underground project safely and within the guidance ranges we have announced on both cost and schedule.” In November last year, Rio Tinto completed development of Shaft 2 at the Oyu Tolgoi mine. In January 2019, the Government of Mongolia and Rio Tinto signed a framework agreement for the supply of electricity to an extension of the copper mine at the Oyu Tolgoi project by mid-2023.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
