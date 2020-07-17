@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Adani Australia has commenced excavation to start work at its new Carmichael open cut coal project in central Queensland. The Carmichael coal mine and rail project is located 160km northwest of Clermont Town in Queensland, Australia. Adani Mining CEO David Boshoff said: “As we move into this next phase of construction with more heavy machinery operating across the site, the safety of our people and contractors is my absolute priority.” According to the company, the project is on track to export first coal in next year. Boshoff noted that there were over 700 people who are currently working on the mine and rail project construction. The workers count is increasing as more number of contractors arrive at the site to build the coal handling plant and for the railway work. The mine is expected to produce about ten-million tonnes per annum of high quality thermal coal. Coal produced from the mine will be used for the generation of electricity in India and South-East Asia. Boshoff said that the company is on track to deliver 1,500 direct and 6,750 indirect jobs through the project. Boshoff added: “The expansion of our mine accommodation to 400 beds is complete to cater for the additional workforce and we will soon be able to accommodate another 1,200 people in our temporary rail accommodation villages. We remain on track to deliver 1,500 direct and 6,750 indirect jobs. “We will also add more than a dozen mining trucks to our fleet over the coming months. The trucks will be assembled in Mackay, with each taking a team of about 40 men and women up to 10 weeks to put together before they are transported more than 300km to site.” Last month, Adani Australia awarded BMD a $350m ($242m) contract for civil construction works for the Carmichael rail network.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
