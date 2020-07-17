@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Zambia’s Mines Minister Richard Musukwa has rejected Glencore subsidiary Mopani Copper Mines’ (MCM) proposal to suspend operations due to low copper prices as a result of the interruptions to transportation and supply chains caused by the Covid-19 outbreak. According to Reuters, Mopani plans to appeal against the decision and said it will continue mining operations based on the appeal process outcome. The news agency quoted Musukwa as saying: “We are open to dialogue because we want what’s best for the people of Zambia and Mopani is strategic to [our] economic trajectory.” Operations at the company’s mines were stopped early in April this year because of the pandemic and various other problems. However, after a month, mining restarted after receiving severe criticism the Zambian government. Mopani Copper Mines is 73.1% owned by Glencore, 16.9% by First Quantum Minerals and the remaining 10% by Zambia’s mining investment arm ZCCM-IH. In 2018, MCM produced 119,000 tonnes (t) of copper.   Will a global recession spell bad news for the mining industry?  View Results In April this year, Zambia intended to revoke the mining licenses of MCM as the firm did not give sufficient notice before suspending its mining operations due to the coronavirus Covid-19 crisis. In the same month, Glencore launched a $25m fund in response to the novel coronavirus (Covid-19) outbreak. In August last year, Mopani Copper Mines reportedly shut down two shafts at its Nkana mine in Zambia. Last April, MCM announced resumption of operations at two of its projects following an investigation into the deaths of five workers earlier last year.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
