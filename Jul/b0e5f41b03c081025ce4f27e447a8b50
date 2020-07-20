@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Papua New Guinea (PNG) Prime Minister James Marape said that the government is likely to allow Barrick Gold to reopen the Porgera gold mine if the latter withdraws court case against PNG. The Porgera gold mine is located in Enga Province, about 600km north west of Port Moresby. After Marape urged Barrick to drop the court case, Barrick said it will negotiate with PNG about the mine’s reopening, but without any conditions, Reuters reported. Barrick ceased production at Porgera gold mine and filed a case against the PNG government after the latter refused extension of the mine’s expired lease in April, citing environmental concerns. Barrick Niugini (BNL), which is jointly owned by Barrick Gold and China-based Zijin Mining, owns a 95% stake in the Porgera Joint Venture that owns the Porgera gold mine. The remaining 5% stake is owned by Mineral Resource Enga, a consortium between the Enga provincial government (2.5%) and the Porgera landowners (2.5%). In a statement released on the Porgera Joint Venture’s Facebook page, Barrick stated: “The court has encouraged us to find a solution through direct negotiations, but BNL’s attempts to engage constructively have been met with only hostility and pressure by the SNT (state negotiating team).” According to Barrick, it would take many years for reopening Porgera if the Papua New Guinean government seeks a new operator. In April this year, Papua New Guinea’s government announced it would take control of the Porgera gold mine after refusing to extend Barrick Niugini’s special mining lease (SML) over the facility. The special mining lease for the Porgera gold mine was first approved in 1989. Separately, Barrick Gold has reported solid preliminary second quarter (Q2-2020) production of 1.15 million ounces (Moz) of gold and 120 million pounds of copper. Barrick Gold president and CEO Mark Bristow said these results have positioned the company well to achieve its guidance for the year, despite the global Covid-19 pandemic impact as well as the resultant lockdowns. The company has also put in place comprehensive programmes at all of its operations to contain the spread of Covid-19. It is also taking necessary steps to manage the impact of the pandemic on its business.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
