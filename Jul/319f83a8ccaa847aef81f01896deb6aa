@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Classic Minerals has purchased a Gekko gold gravity processing plant which will be used for future on-site processing of gold ore at its Kat Gap Gold Project in Western Australia. Located at about 120km south east of Southern Cross, Kat Gap has an existing 93K ounce JORC Resource with an exploration upside and scope for high grade open pit mining. The Australian-made Gekko plant, which is modular and mounted on containerised elements, has a 30t per hour capacity. It is scalable to a Gekko Python plant which has a processing capacity of 250 tph. Due to the mobility associated with the modular construction, Classic will be able to locate the plant next to the ore body which further minimises cartage and processing costs. The two-stage gravity concentration plant from Gekko will form the basis of the processing facility to be set up and operated by Classic at its Kat Gap gold deposit. At present, Classic is on track to set-up, commission and test the Gekko plant and will also commence processing of the gold rich ore at Kat Gap. The Gekko plant is ideally suited to processing Kat Gap ore. Classic will be capable of commencing production after securing the mining approvals (MLA 74/249).   How optimistic are you about your company’s growth prospects?  View Results Classic has also started negotiations to treat any initial parcels of ore from Kat Gap to provide an immediate revenue stream. Gekko flexible modular plants combine its gravity pre-concentration, flotation and intensive leach technologies to deliver environmentally friendly recoveries. Classic Minerals owns a 100% interest in the gold rights on the Kat Gap Tenements and also non-gold rights including but not limited to nickel, lithium and other metals. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
