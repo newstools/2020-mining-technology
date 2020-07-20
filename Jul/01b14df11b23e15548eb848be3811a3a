@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. South African miner Buffalo Coal has announced that it has suspended work at its Aviemore mine in South Africa, following a positive test for Covid-19 among one of its workers. The miner announced the positive test result on Saturday, which has stopped work excavating the nearly 60 million tonnes of anthracite coal beneath the mine. The news is the latest setback for the company as its second project, the Magdalena mine, has been under care and maintenance since October 2018, so the latest suspension means production across the company has ground to a halt. “Regrettably, South Africa is experiencing a steep increase in the number of Covid-19 related infections and is now reported as having one of the highest daily infection rates per capita in the world,” said CEO Emma Oosthuizen. “Whilst the wellbeing of Buffalo Coal’s employees and their families remain the company’s biggest concern, management will continue to closely monitor the expected negative effects of Covid-19 on its operations in a responsible manner and actively continue engagements with its employees, financiers, major suppliers, and other stakeholders in this regard.” Covid-19 cases have spiked in South Africa recently, with more than 360,000 positive tests in the country, the fifth-most in the world. This month, Queen of the AmaRharhabe Nation Noloyiso Sandile died due to Covid-19, and mining minister Gwede Mantashe announced that he had tested positive for the virus, as the pandemic continues to sweep through the country. The country’s mining sector has been hit particularly hard, with data from the country’s Minerals Council showing that 4,874 mineworkers have tested positive for the virus, leading to 39 deaths. These deaths and illnesses have triggered a 30% year-on-year decline in the country’s mining production, casting doubt over the ability of the sector to deal with the pandemic. In response, the country’s Minerals Council dubbed July 17th ‘national day of health and safety’, and aimed to highlight a number of workplace dangers, including the spread of Covid-19. The body has also published a ‘behavioural change field guide’ to help limit the spread of the virus, as it believes that educating and empowering mineworkers to protect themselves and their co-workers to be vital to stop the spread of the virus. “The ultimate intent is to achieve the shifts in behaviour needed to limit the spread of Covid-19,” said Minerals Council head of health Dr Thuthula Balfour. “There is a challenge in that to sustainably anchor these behaviours, employees need to be supported with the right skills and capabilities as well as the right opportunities to demonstrate these behaviours, and the motivation to behave in a way that will limit the spread of the virus. “But, achieving this behaviour change is imperative, and will support the health of mining employees, their families and communities, as well as the long-term sustainability of the mining sector.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
