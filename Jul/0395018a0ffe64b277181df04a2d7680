@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Government of India is evaluating options to unlock nearly 500 mineral blocks via an “open and transparent” auction. The move will be initiated by repealing Section 10A2 (b) of MMDR Act under the ‘AtmanirbharBharat” vision, reported The Economic Times. The news agency cited steel industry sources as saying that the plan will help open up over a billion tonne of mineral reserves. It is also expected to create about 500,000 jobs and strengthen mineral development. Steel industry sources were quoted by The Economic Times as stating: “A large number of potential mineral blocks are blocked due to the saving clause in section 10A2(b) of MMDR Act wherein RP/PL holder has a right to obtain the mining lease if the holder of the lease has undertaken reconnaissance operations or prospecting operations. “There is no sunset clause in the relevant section unlike section 10A2(c) which provided two years time in 2015 to execute the leases and therefore these leases are still pending for execution.” The Indian Steel Association (ISA) secretary general Bhaskar Chatterjee was quoted by the publication as saying: “Broadly speaking, if the government thinks auctioning of these mines is a better option than adding a sunset clause, we would welcome it.   Will a global recession spell bad news for the mining industry?  View Results “The government is the decider of policies and can take decisions that are best suited to our national interests.” ISA includes Steel Authority of India (SAIL), JSW Steel, Jindal Steel and Power Limited (JSPL) and ArcelorMittal/Nippon Steel India. In April this year, ISA reported that steel demand in the country is expected to fall to multi-year lows this year due to coronavirus-related lockdown measures put in place in the country to curb the spread of the virus. Last month, India Prime Minister Narendra Modi launched the auction process of 41 coal blocks for commercial mining. The move to open the doors of the regulated coal sector for commercial mining was initially planned for April but delayed due to the Covid-19 pandemic. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
