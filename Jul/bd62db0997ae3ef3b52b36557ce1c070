@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Swedish equipment supplier Sandvik Mining and Rock Technology has formed a partnership with Exyn Technologies to advance autonomous mining capabilities. As part of the new partnership, Sandvik is set to combine its digital mining expertise with Exyn’s proficiency in aerial robotics. The Swedish equipment supplier aims to develop solutions for mapping and visioning underground mines as operators go through hazardous and hard-to-reach locations. According to Sandvik, the company’s OptiMine integrated with data collected by Exyn’s aerial robots creates continuous visualisation of the mine’s environment in order to increase “transparency” of the mining process. Sandvik Mining and Rock Technology Rock Drills & Technologies president Patrick Murphy said: “We are committed to empowering a transformation to autonomy in underground mining. “This partnership will open up unique benefits, build on our industry leading automation offering and drive faster decision-making in mining processes to seize new opportunities for improving production performance.” OptiMine solution helps to optimise underground hard rock mining production and processes. It integrates all assets and people including non-Sandvik equipment to deliver insights that improve operational performances.   How concerned are you about spread of Coronavirus?  View Results Exyn Technologies CEO and co-founder Nader Elm said: “For the first time, customers will be able to map the entirety of their underground operations, even in dangerous GPS denied environments, while making mining safer and improving productivity. “Through this partnership, we hope to empower efficient decision-making for customers and drive towards the vision of fully autonomous mining operations.” Based in the US, Exyn is a developer of autonomous aerial robot systems for complex and global positioning system (GPS)-denied environments. In May this year, Sandvik Mining and Rock Technology announced to revise its business model, shifting to a “direct to customer” model for African mining and construction customers. In February, stainless steel manufacturing firm Outokumpu selected Sandvik to deliver OptiMine digital platform to drive digitalisation.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
