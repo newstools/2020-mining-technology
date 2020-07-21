@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-based gold producer Scorpio Gold has signed a letter of intent (LoI) to acquire a 100% interest in the Manhattan project properties in Nye County, Nevada, US. The Canadian firm will acquire the Manhattan project property claims from Round Mountain Gold and KG Mining. The property consists of 22 patented claims and 219 unpatented claims situated adjacent to the company’s Goldwedge property, which contains a fully permitted underground mine and 400 tonne-per-day mill. Goldwedge lies within the Walker Lane gold belt, around 16km south of Kinross Gold’s Round Mountain mine. Scorpio Gold noted that negotiations are underway with respect to three of the unpatented claims in the land package which is being offered. Scorpio Gold president Chris Zerga said: “This acquisition will give Scorpio Gold complete land control around the Goldwedge facility, providing the opportunity to expand surface operations and the potential for expanding underground mining and exploration. “It also consolidates a large land position along the Reliance Fault Zone, which has significant exploration potential for high-grade gold targets at the intersections of the Reliance structure and ring faulting related to the Manhattan Caldera.” The Manhattan project property claims include the Reliance mine, which is located about 600m from the Goldwedge deposit, and has recorded historical production. The Reliance mine reportedly produced approximately 59,000t grading 0.44oz per tonne between 1932 and 1941. In January this year, Scorpio Gold’s affiliate Goldwedge and Lode-Star Mining signed a toll milling agreement for the milling facility in the Manhattan Mining District of south-central Nevada. In May 2017, Scorpio Gold started the milling of Lode-Star Mining’s ore at Scorpio’s Goldwedge processing facility.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
