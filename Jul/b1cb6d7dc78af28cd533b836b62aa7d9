@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Artemis Resources has signed a binding sale agreement with Northern Star Resources to sell its interest in the Mt Clement gold project in Western Australia. Located 30km southwest of Northern Star’s Paulsen’s gold mine, the Mt Clement project has a JORC resource of 64,400 ounces of gold and 618,500 ounces of silver. Northern Star entered into a joint venture on this project, with Artemis maintaining an 80% interest as project operators. Artemis Resources is an exploration and development company. It has focus on Pilbara gold projects, namely the Greater Carlow gold project in the West Pilbara and the Paterson Central exploration project in the East Pilbara. Under the terms of the binding sale agreement, Artemis will receive A$344,000 ($243,537) in cash and retain a 1% net smelter royalty (NSR) over the project area. Upon the completion of the transaction, the previous joint venture will terminate. Artemis Resources executive director Alastair Clayton said: “We would like to thank Northern Star for their partnership on this project as part of the joint venture and wish them all success in moving the project forward to a production scenario where Artemis may further benefit via our retained 1% net smelter royalty. “This transaction represents another step in our ongoing non-core project divestment programme.” In May 2017, Artemis Resources signed a joint venture agreement with Blackrock Metals to undertake a scoping study on the former’s Mt Clement project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
