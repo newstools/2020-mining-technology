@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian gold mining firm Iamgold has announced the resumption of operations at its Rosebel gold mine located in Suriname. The company closed operations at the mine last month following a stop work order issued by union leaders after seven employees tested positive for Covid-19. During that month, the company quarantined the infected employees and took necessary measures to disinfect working areas. The Rosebel Goldmines Employees Organization gave its consent to restart following a meeting with management and the company’s medical team last week, Reuters reported. The Government of Suriname owns a 5% interest in the Rosebel mine. As per official figures, the country has recorded 1,079 coronavirus infections cases, with 21 deaths as of the time of writing. In a separate statement, Iamgold, alongside its JV partner Sumitomo Metal Mining, has announced the decision to proceed with the construction of the Côté gold project in Ontario, Canada. Located in northern Ontario, Côté is a 70:30 joint venture with Sumitomo Metal Mining. According to the company, construction will start in the third quarter of this year with works to increase through the fourth quarter. More than 1,000 jobs are expected to be generated during construction and 450 jobs during operations. Last month, the company obtained a key federal approval for the Côté gold project. In January last year, Iamgold said that it will not proceed with the construction of its Côté Gold Project, as the company awaited improved market conditions.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
