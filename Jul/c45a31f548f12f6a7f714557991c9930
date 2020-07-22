@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mining services provider MACA has secured a contract extension at Australian gold producer Ramelius Resources’ Mount Magnet gold project in Western Australia (WA). The Mount Magnet gold project lies 560km north-east of Perth. MACA expects that the project extension would generate around $130m in revenue to the company over the three-year term. Under the terms of the extension contract, MACA will provide open pit mining services, including drilling and blasting, as well as loading and hauling services. Covering an area of about 225km², the Mount Magnet project comprises a number of open pit and underground mines. It also consists of exploration targets that stretch over mining and exploration lease areas. MACA CEO and managing director Mike Sutton said: “We are pleased to continue our relationship with Ramelius Resources at Mt Magnet for a further three years. “The services we provide at Mt Magnet and Edna May for Ramelius make up an important part of MACA’s Work in Hand in the gold sector.” The Australian gold producer acquired Mt Magnet Gold in 2010 from Harmony Gold. Ramelius restarted operations at the mine in 2011. In November last year, MACA received a letter of award from FQM Australia Nickel to provide open pit mining services at the Ravensthorpe project. In July 2016, Watpac secured a $45m contract extension for Mount Magnet gold mine.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
