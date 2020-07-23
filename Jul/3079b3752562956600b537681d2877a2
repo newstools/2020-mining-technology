@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Ontario Ministry of the Environment, Conservation and Parks (MECP) has approved and issued an amended environmental compliance approval (ECA) for air and noise emissions at Canadian firm Pure Gold Mining’s PureGold mine. The mine is located in Red Lake, Ontario, Canada. According to the Canadian firm, the amended ECA sets out operating conditions of the mine’s mining and milling operations relating to air and noise emissions, as well as other support processes and activities, at a production limit of up to 1,089tpd of processed gold ore. Furthermore, the company said it is awaiting an amended Industrial Effluent permit. PureGold president and CEO Darin Labrenz said: “Since first acquiring the project, we have worked very closely with the First Nations, local communities and regulators to materially advance the project and to transform a brownfields site into a sustainable modern mine. “To date, our work has clearly established a robust, scalable mining operation, while concurrently improving the surrounding environment through the progressive removal and reclamation of legacy works. “In production, our PureGold Mine is expected to generate over $470m in direct salaries over the life of the phase 1 mine and will provide significant economic benefits to the local communities and surrounding region through both direct and indirect taxation and expenditures.” In October last year, Pure Gold Mining intersected gold mineralisation at its Madsen Mine project in Red Lake. Meanwhile, in a separate development, Cardinal Resources has received a revised takeover proposal for an off-market takeover offer from Chinese gold mining firm Shandong Gold Mining. Under the revised proposal, Shandong Gold proposed to acquire all of the shares in Cardinal, which it does not currently own, priced at A$0.70 ($0.49) a share.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
