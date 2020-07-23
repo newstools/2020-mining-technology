@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. According to research from the New South Wales (NSW) Minerals Council, a project pipeline valued at about AUD13bn ($9.2bn) is expected to boost NSW’s economic recovery. The research revealed that 32 mining projects that are currently at different stages in the NSW planning system, can drive the economic recovery for the state. Once approved, these projects could be capable of delivering over 15,000 jobs. NSW Minerals Council CEO Stephen Galilee said: “These projects have the potential to deliver almost $13 billion in investment and over 15,500 jobs for NSW to help support and rebuild the economy and boost regional development across the state.” NSW’s projects in the pipeline have increased by seven this year, up to 32, compared to the previous November 2018 report, which had 25. Stephen Galilee added: “While the number of coal projects has risen slightly, the number of proposed metals projects has almost doubled from 6 to 11, representing over 30 percent of all major mining projects proposed in NSW, up from 20 percent 18 months ago. “This is an opportunity to further build and diversify the NSW mining sector and represents a strong industry response to the release of the NSW Government’s Minerals Strategy in early 2019.” “Overall, these 32 project proposals demonstrate how the NSW mining sector can deliver billions in investment, thousands of jobs and economic growth needed to help rebuild our state in the years ahead, and with the right policies in place to support mining we will do so.” Located on the east coast of Australia, New South Wales is the third-largest mining region in the country. In July 2015, NSW Government released a proposed amendment to the Mining State Environmental Planning Policy (SEPP) that considers the significance of mined resources when determining mine projects.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
