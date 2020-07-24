@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian resource company Syrah Resources has announced that it will implement “labour restructure” at its Balama graphite project in Mozambique. The restructuring will see a 65% workforce reduction at the mine, as production remains suspended throughout the second quarter due to coronavirus-related restrictions. Located on a 106km² mining concession within the Cabo Delgado province of northern Mozambique, the Balama graphite project is touted as being one of the leading global producers of high-grade graphite deposit. Syrah said there was no natural graphite production at the mine during Q2-2020 as a result of the travel restrictions due to Covid-19, which limited the mobility of the Balama workforce. This had hit the demand for sales of electric vehicles (EV). Graphite is a major component of lithium-ion (Li-ion) batteries used in EVs and energy storage. The company’s market interactions during the quarter indicate that “the current challenging market conditions are likely to continue into H2 2020 until Chinese and global EV demand growth regains momentum, and global steel production recovers”. According to the company, cost cutting measures are expected to reduce cash outflows of Balama to approximately $7m per quarter.   Will a global recession spell bad news for the mining industry?  View Results Syrah noted that 220 roles will be retained at Balama, of which 93% are national and local staff, to support the restart of production once travel bans are eased. In September 2017, Syrah Resources planned to raise A$110m ($87.89m) through an institutional placement to allocate funds needed for developing the Balama graphite project. In the same month, the company signed an agreement to sell graphite from the Balama operation to Chinese battery anode manufacturer BTR’s subsidiary Jixi BTR Graphite Industrial. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
