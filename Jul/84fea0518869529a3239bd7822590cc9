@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Global mining giant Rio Tinto has announced that it has continued to market and produce diamonds despite the challenges posed as a result of the Covid-19 outbreak. The company completely owns the Argyle diamond mine in Australia and operates the Diavik diamond mine in Canada with a 60% stake. It has implemented extensive measures through a combination of testing, screening, sanitising as well as social distancing to safely operate during the pandemic. Rio Tinto copper and diamond mines operations managing director Sinead Kaufman said: “I am really proud of the way our sites have pivoted with the challenges of producing diamonds in a pandemic. “By keeping our miners safe at Argyle and Diavik we have been able to support a wide array of stakeholders including community partners, customers, suppliers and governments.” The company’s “Rio Tinto Specials Tender” in the city of Antwerp provided a combination of large rough Argyle and Diavik diamonds, including a 70.36 carat white diamond from the Diavik mine. Rio Tinto said that two largest white rough diamonds from the Argyle mine, weighing 42.62 carats and 41.70 carats respectively, were also sold as part of this tender. Rio Tinto copper and diamond business sales and marketing vice-president Alan Chirgwin said: “Market conditions are tough, there are unprecedented supply chain issues around the globe and so to be able to continue to operate in these times, from the mine to the market, is a testament to the resilience and innovation of our diamonds business.” Two weeks ago, Rio Tinto announced its plans to wind down operations and eventually close New Zealand Aluminium Smelters (NZAS). Last month, Rio Tinto said it will release an internal review of its destruction of Juukan Gorge, a 46,000-year-old Aboriginal heritage site in Western Australia.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
