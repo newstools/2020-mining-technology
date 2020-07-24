@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Elon Musk, CEO of US electric vehicle and clean energy company Tesla, has promised a “giant contract for a long period of time” to any company able to extract nickel in an efficient and environmentally sustainable manner. Nickel is a key ingredient in the batteries that power Tesla’s electric vehicles. In a Q2 earnings call, Musk warned that the current cost of batteries remained a hurdle to Tesla’s growth; the eventual aim of Tesla is to produce electric cars that are affordable to the average consumer. “Tesla will give you a giant contract for a long period of time if you mine nickel efficiently and in an environmentally sensitive way,” Musk said in the call. Tesla’s primary battery technology is based on a blend on nickel, cobalt and aluminium, but Tesla is said to be moving away from cobalt over ethical mining concerns as well as cost factors. In February, it was revealed that China’s largest battery manufacturer CATL will supply Tesla with lithium iron phosphate (LFP) batteries for the production of Tesla’s Model 3 cars at its factory near Shanghai. LFP batteries are cheaper than batteries made using nickel and cobalt but have a reduced driving range. This can be cost-effective in the Chinese market, where LFP batteries already used to power almost all of China’s electric bus fleet, and the batteries are suited to smaller city cars where the range is not an issue. In Western markets, particularly North America, a longer range is required – which is where nickel becomes necessary. Nickel makes batteries energy-dense. That means batteries can be smaller, lighter, and can go longer between charges. Sourcing enough of the battery metal in sustainable, ethical ways is vital for the mass adoption of electric vehicles and the energy transition. Tesla’s suppliers of nickel batteries indirectly buy nickel from mining companies in a long supply chain, and Tesla does not disclose which nickel miners are involved in the supply chain. Lachlan Shaw of National Australia Bank told Reuters that Tesla’s push for sustainability would likely see them prefer to buy from miners of higher grades of nickel sulphide, which requires less power to process than laterite ore.   Demand for which of the following will be worst affected in 2020?  View Results There are three potential suppliers – Vale, BHP, and Norilsk Nickel. The ongoing fuel spill disasters in Russia, which a Norilsk Nickel subsidiary is responsible for, might be off-putting for Musk’s sustainability drive, however. Vale has operations in Canada which make use of hydropower, so could be the more attractive partner for Tesla. Despite electric vehicles consuming a much smaller quantity of nickel than traditional industries, it is expected to be the fastest-growing market for nickel miners. Demand for electric vehicles is forecast to grow astronomically through the 2020s, with developments in battery capacity set to further that demand, according to the IEA. Research firm Wood Mackenzie predicts nickel consumption in electric vehicle batteries will soar 64% by 2025 compared with 2019 levels. Satisfying this increase in demand could prove difficult with nickel prices down versus September 2019’s five-year peak. According to Reuters, nickel dropped to a 14-month low in March, and while it has recovered slightly since, it is still around 30% down compared with those September peaks. Despite Musk’s big offers, it could be difficult to convince miners to invest in increasing production of nickel. Tesla’s “Battery Day” event is slated for September, where the company is expected to reveal new technological advances in its electric vehicle batteries.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
