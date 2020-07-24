@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Chilean miner Antofagasta and workers at its Zaldivar copper mine have reportedly agreed to extend contract talks to avoid a strike. The government-mediated talks are for a new union contract, Reuters reported citing a union source. On 13 July, Zaldivar copper mine workers rejected a pay offer and voted in favour of strike action. The mine workers entered negotiations over salaries and benefits on 15 July, in a bid to avoid a strike amid the Covid-19 pandemic in the country. A union source was quoted by the news agency as saying: “Mediation was extended to see the results of the assemblies.” According to Chilean law, workers and the company have an option to extend talks after five days of mediation if no agreement has been concluded. Nearly, 2% of Chile’s annual copper production is the output from Zaldivar mine, which is co-owned by Barrick Gold. The Zaldívar copper deposit is located in Andean Precordillera in northern Chile. It is about 1,400km north of Santiago and 175km southeast of the port of Antofagasta. In April this year, Antofagasta reduced capital expenditure for this year and noted that copper production would be at the lower end of its initial guidance due to the Covid-19 pandemic. In July 2015, Barrick Gold signed an agreement to sell a 50% interest in Zaldívar copper mine to Antofagasta for $1bn.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
