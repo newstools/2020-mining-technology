@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Poland’s state-operated miner Polska Grupa Górnicza (PGG) is likely to cut down production of coal and announce the closure of major mines. The latest move comes as part of the restructuring plan of the country’s biggest coal miner, Reuters reported citing industry sources. Besides using coal for 80% of its electricity production, the country’s also depends heavily on coal for heating. The country is the only European Union member that did not commit to becoming carbon neutral by 2050. On 28 July, the company’s management will meet with representatives of trade union to present the restructuring plan. According to two sources familiar with the matter, the new proposal will involve closure of a few mines and operation of only those that are efficient in production. The proposal also includes reduction of salaries.   How concerned are you about spread of Coronavirus?  View Results The mines set for closure will be taken over by state-owned coal mines restructuring company SRK, which would in turn slowly wind down operations at these mines. Employees will receive heavy compensation and those who are close to their retirement would be entitled to paid leave. Earlier this month, PGG reported that 82% of its miners infected with Covid-19 have recovered. On 1 July, the company reported a total of 1,886 cases. Last month, Poland suspended work at 22 coal mines as it tries to limit the spread of Covid-19, with its mining workforce as one of the groups to be hardest-hit by the virus. In May this year, PGG revamped its website, offering coal to consumers for home delivery amid the Covid-19 lockdown.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
