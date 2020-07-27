@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Indian firm Runaya has signed a joint venture agreement with Australian firm Minova to manufacture products for the mining sector. Minova is a wholly-owned division of Australia-based Orica, which is a provider of mining support systems and explosives. Runaya is a metals start-up founded by sons of metals and mining major Vedanta’s vice-chairman Navin Agarwal. Runaya will hold a 49% stake in the joint venture, according to India’s Business Standard. Minova chairman Naivedya Agarwal was quoted as saying that the joint venture has set aside about Rs2.5bn ($33.42m) to launch a new manufacturing facility at Bhilwara in Rajasthan, India. Production at the facility is expected to commence in either December this year or January next year. The project is expected to generate nearly 2,000 direct and indirect jobs.   Will a global recession spell bad news for the mining industry?  View Results This facility will manufacture products such as rock bolts, resin capsules, injection chemicals, wire mesh and ventilation systems for both domestic and export markets. Agarwal claimed that Runaya will be the first company in the country to manufacture these products for Indian miners, who have been importing them until now. Approximately 50% of the production from the new facility will cater to export markets. In April this year, Vedanta announced that it has so far spent Rs1.51bn ($19.7m) in several initiatives to aid against the Covid-19 outbreak in India. In March, Vedanta Resources’ unit Vedanta Zinc International (VZI) announced plans to suspend operations at its Skorpion Zinc (SZ) mine and refinery in Namibia by the end of next month. In January last year, Vedanta Resources announced its plans to invest up to Rs600bn ($8.42bn) in its Indian operations over the next three years, alongside a $1.2bn investment in its South African projects.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
