@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. As trade relations between the US and China deteriorate further, the US House of Representatives has launched a bipartisan caucus to boost production of strategically important minerals. The Critical Materials Caucus is aimed at exploring ways to increase domestic production of these minerals including rare earths, lithium, titanium that are used in the making of missiles, high-technology equipment. This is the latest effort to offset China’s leadership in these niche minerals. Reuters reported that California Democrat and Representative Eric Swalwell, and Pennsylvania Republican and Representative Guy Reschenthaler will chair the panel, which has secured approval from the House Administration Committee’s leadership. The US Department of Defense and many technology firms in the US are worried that China could stop the export of these minerals to the US if trade relations between the world’s biggest economies sour further. Reuters quoted Swalwell as stating: “All of us want to make sure America addresses this national security issue. I don’t consider China an ally country.” Initially, the caucus members plan to focus on legislation to permanently fund rare earths research at the laboratories of the US Department of Energy (DoE). Reschenthaler stated: “It is more important than ever for our nation to work towards achieving critical material independence.” The Critical Materials caucus will initially start in the House, but it may expand to the US Senate. Meanwhile, in a separate development, rare earths miner Lynas Corp has signed a contract with the Pentagon to start initial design work for rare earth separation facility in the US state of Texas. Lynas expects to complete the design work for the facility in FY2021. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
