@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Rio Tinto has made a maiden discovery at its 100%-owned Winu copper-gold deposit in the Paterson Province of Western Australia (WA). The company also made a new mineralisation discovery two kilometres east of the Winu deposit at Ngapakarra prospect. The Winu project is located around 130km north of the Telfer mine and 350km southeast of Port Hedland. The maiden inferred mineral resource reported at a 0.2% copper equivalent cutoff was 503 million tonnes (Mt) of ore at 0.45% copper equivalent. Within the 503Mt was 188Mt yielding 0.68% copper equivalent with a cutoff grade of 0.45% copper equivalent. Rio Tinto Growth & Innovation and Health, Safety & Environment (HSE) group executive Stephen McIntosh said: “We’re taking a more agile and innovative approach at Winu, and are working on the studies for a small-scale, start-up operation focused on Winu’s higher-grade core as we take another step towards commercialising this deposit. “The additional exploration results reported today support our view that there is potential to develop the Paterson region into a large-scale operation over time through both our 100% owned tenements and joint ventures.” Rio Tinto expects to start Winu production in 2023, subject to securing all the required approvals. Rio Tinto Copper & Diamonds chief executive Arnaud Soirat said: “We are very pleased with the progress at Winu as it adds a further option to our strong copper portfolio in a country that is home to many of Rio Tinto’s world class operations.” In February last year, Rio Tinto Exploration (RTX) made a copper-gold mineralisation discovery at the Winu project in the Yeneena Basin of the Paterson Province, Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
