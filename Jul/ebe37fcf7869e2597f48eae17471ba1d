@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian base metal development company New Century Resources (NCZ) and Vale Canada (VCL) continue to progress the potential acquisition of the Goro nickel and cobalt mine in New Caledonia. The Australian firm said that it is making a “significant progress” in analysing the technical and commercial aspects of the transaction, which would see NCZ acquire 95% of issued shares in Vale New Caledonia (VNC), the operator of the Goro nickel-cobalt mine. The Goro nickel-cobalt mine located on the South Pacific island of New Caledonia commenced production in August 2010. In May this year, NCZ signed a 60-day exclusivity agreement to acquire the 95% stake in VNC. Foreign reserves and resources at Goro comprise a total of 193.5 million tonnes (Mt) grading 1.36% nickel and 0.13% cobalt, with 2,634 thousand tonnes of nickel and 249,000t of cobalt. New Century said that it had not yet finished a definitive binding agreement to purchase an interest in Goro, but the two parties have agreed to extend the exclusivity of the transaction by another 45 days. In an ASX announcement, New Century Resources stated: “To date, the due diligence process has outlined a logical and technically robust solution to simplify Goro’s operation, allowing for improved production and lower costs. In addition, commercial negotiations have led to the signing of an indicative Term Sheet for a substantial financing package to fund the simplification plan and general working capital of the Operation. “The parties have mutually agreed to extend exclusivity for the potential transaction for a further 45 days. Subject to finalisation of due diligence and financing arrangements, New Century anticipates progressing to a decision on making a binding offer for VNC in September.” In September last year, New Century said it improved metal production rates and decreased operating costs at the Century operation by incorporating a full cleaner circuit at its zinc processing facility in Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
