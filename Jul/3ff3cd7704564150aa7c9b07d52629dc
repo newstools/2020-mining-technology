@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Diversified miner Anglo American’s business unit Kumba Iron Ore has announced that it will proceed with the Kapstevel South project at its Kolomela mine in South Africa. The latest move follows the approval of the project by the boards of both Kumba and Anglo American. According to Kumba, the project cost is estimated to cost around R7bn ($422.3m), which also includes pre-stripping. The Kolomela mine is located 22km from Postmasburg in the Northern Cape province of South Africa. Kumba noted that the addition of the Kapstevel South pit would deliver an after-tax internal rate of return (IRR) of about 25%. The pit will allow Kolomela to maintain an estimated earnings margin of more than 35% in the long term. Kumba said that pit establishment and waste stripping will start this year, while first ore is expected in 2024.   Do you see impact on recruitment in your company due to COVID-19 pandemic?  View Results It will ensure sustained production of about 13 million tonnes (Mt) of ore for Kolomela’s remaining life. Kumba CEO Themba Mkhwanazi said: “The approval of this project, at a time when the global and South African economies face the challenges of Covid-19, underscores Kumba’s positive longer-term outlook for demand for its high-quality product. “It also demonstrates our commitment to extend the lives of our mines and continue providing much-needed jobs and livelihoods in the Northern Cape region.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
