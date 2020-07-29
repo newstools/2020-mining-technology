@@ -1,0 +1,22 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian rare earths miner Lynas announced this week that it has signed a contract with the US Department of Defense (DoD) to begin initial work on a heavy rare earth separation facility in Texas. The project is being funded by the Pentagon as part of the DoD’s desire to boost domestic production of rare earths. China currently dominates the production and export of these materials, and there are fears that escalating tensions between the superpowers could lead to China cutting off the US supply. Rare earths are critical components across several industries, from electric vehicles to smartphones, but the DoD is particularly concerned with securing a reliable supply of rare earths for military equipment. Rare earths are vital for satellites, missile guidance systems, missile defence systems and more – it is in this area that the US government is keen to diminish the reliance on China. The Texas facility will process heavy rare earths sourced from the Lynas mine in Mt Weld, Western Australia, and will be the only source of separate heavy rare earths outside of China. It is a much-needed strategic boon to the US, which has ramped up its search for rare earth mines and processing capabilities outside of China. This initial Phase 1 funding will allow Lynas and its US partner Blue Line to complete a market and strategy study for the construction as well as planning and design work. Lynas expects work on the facility to be completed in the 2021 financial year. From the perspective of the US, China controls too much of the global rare earths production, and not only does this give China an economic leg up when it comes to new technologies and sustainable energy, but it also poses a potential defence risk if the US-China trade war continues to escalate. Rare earth minerals have uses across nuclear energy in addition to their use in military equipment and weapons. According to Reuters, a DoD review found that funding rare earth projects was in the best interest of the US government. The Pentagon has so far funded two projects, Lynas’ separation facility being one, with MP Materials being the other company that the federal government has taken an interest in. MP Materials owns the only rare earths mine in the US, Mountain Pass in California, but rare earths mined there are currently sent to China for processing due to outdated processing facilities at the site. MP Materials recently announced that it will be going public on the New York Stock Exchange, in a deal worth $1.47bn. Renovating the processing facilities at Mountain Pass and constructing a new Lynas facility in Texas, will both serve to massively bolster the US’s ability to produce its own supply of rare earths. Not only will this reduce the US reliance on China’s rare earths, but the country might also be able to pull other countries away from China too, weakening the rival superpower’s grip on the rest of the world. Several US Senators have pushed for the Pentagon to fund only domestic rare earth projects, which perhaps indicates a desire not just to strengthen the US position against China but to increase the country’s influence on the world stage.				                                           	
+															    															                                                        					
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
