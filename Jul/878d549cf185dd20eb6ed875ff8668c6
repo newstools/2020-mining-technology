@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian engineering contractor CIMIC Group has announced that it is selling a portion of its contract mining company Thiess to London-based funds management firm Elliott Advisors. The engineering contractor did not disclose the value of the deal. CIMIC is in advanced talks with Elliott to transfer 50% of Thiess’ equity to the Elliott Management Corporation affiliate. The sale of 50% stake in Thiess will enable the Australian contractor to maintain its balance sheet. CIMIC stated:  “The introduction of an equity partner into Thiess would capitalise on the robust outlook for the mining sector and provide capital for Thiess’ continued growth, while enabling CIMIC to maintain its strong balance sheet.” CIMIC expects the strategic talks to conclude in the near term with a share purchase agreement (SPA), subject to receiving necessary regulatory approvals. This month, Thiess secured a five-year contract extension to continue providing mining services at the Lake Vermont coal mine in Queensland. In May this year, CIMIC Group reported revenue of $3.3bn in Q1 2020, compared to $3.4bn in the corresponding period last year. In January, CIMIC Group subsidiary UGL secured contracts valued at A$180m (approximately $123.4m) to provide services for maintenance, shutdowns and sustaining capital projects for its mining clients in Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
