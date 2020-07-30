@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational commodities giant BHP has awarded engineering and construction company Downer Group with a two-year contract for its Western Australia iron ore sites. The company received several contracts in the power generation, oil and gas, and industrial sectors, which are together valued at approximately A$324m ($231.6m). Under the agreement with BHP, Downer will provide services to cover sustaining projects in mechanical, electrical, as well as rail. Downer chief executive Grant Fenn said: “Through our asset services business, Downer has an excellent track record of delivering installation, maintenance and shutdown services to our customers across Australia,” he said. “These new and extended contracts are a strong endorsement of our capability as an asset management partner of choice and demonstrates the strength of our ongoing, long-term relationships with our customers.” BHP’s Western Australian iron ore operations comprise four processing hubs namely Newman, Yandi, Mining Area C and Jimblebar, and include five mines in the Pilbara region. In May this year, Downer EDI secured a contract from Fortescue Metals Group to complete works at the Eliwana iron ore mine in the Pilbara region of Western Australia.   Will a global recession spell bad news for the mining industry?  View Results In September 2018, Downer EDI received a A$286m ($205.49m) contract extension to continue to offer mining services at the Commodore open cut coal mine in south-east Queensland. Downer has a workforce of around 53,000 people across more than 300 sites in Australia, New Zealand, Asia-Pacific region, South America and Southern Africa.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
