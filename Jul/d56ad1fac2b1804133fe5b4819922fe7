@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Engineering and construction firm Fluor has announced that it was given full notice by South African gold miner Gold Fields to move ahead with the Salares Norte open pit gold mine in Chile. Fluor did not disclose the value of the contract and said that it booked its portion of the contract under the second quarter this year. The Salares Norte project is a blind epithermal gold and silver deposit in the Atacama region of northern Chile. It is situated at a distance of approximately 190km from Diego de Almagro within a core 1,800ha concession area. Discovered by Gold Fields in 2011, the project is located at 3,900m-4,700m above sea level. Under the contract, Fluor is providing engineering, procurement and construction (EPC) management services for the northern Chile project. The contract includes the engineering and procurement of permanent plant material, as well as award and post-award services for major construction. Fluor will also provide construction management and pre-commissioning support services. Fluor Mining & Metals business president Tony Morgan said: “This award is a tribute to the close working relationship that our team has developed with Gold Fields since first starting work on the pre-feasibility study four years ago. “Fluor’s innovative engineering and construction approach has demonstrated how we have been able to provide solutions to the challenges this project has presented by its remote, arid and high altitude location.” The company noted that construction of the project will begin later this year, with completion expected in early 2023. Once fully operational, the mine is expected to produce an average of 400,000 ounces (oz) of gold per annum over the anticipated more than 11-year mine life. Last month, Gold Fields awarded a contract to Outotec to deliver minerals processing equipment for the Salares Norte mine.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
