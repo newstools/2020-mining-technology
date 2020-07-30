@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian mining major Vale, in partnership with Caterpillar company Progress Rail, is developing a new 100% electric, battery-powered locomotive. The latest move comes as part of the mining giant’s efforts to move toward more environmentally friendly operations by reducing greenhouse gas (GHG) emissions. Vale said that the pilot-phase for the “EMD Joule” locomotive is expected to be launched in H2 2020, at the company’s Tubarão unit in the Brazilian state of Espírito Santo. The latest initiative forms part of the iron-ore miner’s strategy of reducing direct and indirect emissions (Scope 1 and 2). Vale has set a target of reducing emissions by 33% by the year 2030. Scope 1 emissions occur from Vale’s own sources, while Scope 2 emissions are indirect, which come from the generation of purchased energy. Vale Center of Excellence and Innovation executive manager Gustavo Bastos said: “This equipment is a landmark on the strategy of decarbonisation of Vale’s assets, and it is in compliance with the New Pact with Society.” Progress Rail expects availability of the new locomotive at global level by early next year. Progress Rail president and CEO Marty Haycraft said: “Our team has taken great pride in this exciting project, working closely with Vale to deliver a new advanced technology battery locomotive in approximately 11 months. “This locomotive will help Vale achieve their emissions objectives.” Two weeks ago, Vale and Swedish mining equipment manufacturer Epiroc finalised their ‘Batteries as a Service (BaaS)’ agreement. Vale also signed a non-binding heads of agreement (HoA) with Japanese firms Kobe Steel and Mitsui on providing low-CO2 metallics and steelmaking solutions for the global steel industry. Last month, the company signed an agreement with authorities on monitoring for possible Covid-19 cases at its Itabira mine complex.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
