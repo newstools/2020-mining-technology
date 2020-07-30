@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian miner Alamos Gold has confirmed that it will go ahead with plans to build La Yaqui Grande gold mine in Mexico, following the positive results of the mine’s internal economic study. The latest announcement comes on the heels of the Canadian miner’s decision to start phase three expansion at the Island Gold mine in Ontario. Construction of the La Yaqui Grande gold mine, which is located just 7km from its existing operation in the Mulatos District, is expected to begin in the second half of this year. With the start of production expected in the second half of 2022, the study estimates there to be an initial capital expenditure of $137m. Alamos Gold president and CEO John A. McCluskey said: “La Yaqui Grande represents our next low-cost, high-return project in the Mulatos District. This follows the success of the La Yaqui Phase I and Cerro Pelon projects which were both developed on budget and ahead of schedule. “Given its bigger scale and low-cost profile, La Yaqui Grande is expected to drive strong free cash flow growth from the Mulatos District in 2022 and beyond.” In October last year, Alamos Gold suspended construction activities at its Kirazli gold project in Turkey while it seeks the renewal of mining concessions, which expired on 13 October. In September 2017, Alamos Gold signed a $770m agreement to acquire all issued and outstanding shares of Richmont Mines. Alamos has diversified production from the Young-Davidson and Island Gold mines in northern Ontario, Canada and the Mulatos mine in Sonora State, Mexico. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
