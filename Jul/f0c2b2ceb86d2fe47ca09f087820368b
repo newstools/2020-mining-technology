@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Global mining giant Rio Tinto has announced that it is investing nearly $200m to progress the Jadar lithium-borate project in Serbia to the next phase of development. Discovered by Rio Tinto in 2004, Jadar is located near Loznica in western Serbia, around 160km from Belgrade. The funding will primarily cover the feasibility study, detailed engineering designs, permitting, as well as land acquisition, which are set to be complete by the end of next year. The Jadar deposit comprises high-grade mineralisation of boron and lithium and supports a long-life operation of both the products. Rio Tinto Energy & Minerals chief executive Bold Baatar said: “Rio Tinto’s lithium project pipeline is an important part of our vision to pursue opportunities which are part of the transition to a low-carbon future. “We look forward to working closely with the Government of Serbia over the next eighteen months as we develop and validate our understanding of the project to the point when we can seek a final investment decision by the Board of Rio Tinto.” Simultaneously, the company has also started commissioning its lithium demonstration plant in the US. This plant extracts lithium from waste rock at the company’s boron mine in California. In July 2017, Rio Tinto signed a memorandum of understanding with the Serbian Government regarding the development of Jadar lithium-borate project following rising global lithium demand. Recently, Rio Tinto made a maiden discovery at its 100%-owned Winu copper-gold deposit in the Paterson Province of Western Australia (WA). Last week, the company announced that it continued to market and produce diamonds despite the challenges posed as a result of the Covid-19 outbreak.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
