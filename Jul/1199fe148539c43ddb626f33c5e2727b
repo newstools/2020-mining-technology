@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian gold producer B2Gold has launched a campaign to support the conservation of endangered black rhinoceroses, releasing 1,000 limited-edition gold bars in various sizes. Each one-ounce bar is available for purchase at the spot price of gold plus a 15% conservation premium. B2Gold’s Namibia Rhino Gold Bar campaign is aimed at supporting the conservation and protection of black rhinos, as well as the community-based rangers and trackers that protect the rhinos in Namibia. The campaign coincides with the International Ranger Federation’s World Ranger Day, which has been observed on 31 July every year since 2007. Poachers kill more than 1,000 wild rhinos in Africa each year, primarily driven by the illegal rhino horn trade. The northwest of Namibia is home to the last population of free-roaming black rhinos in the world, but with fewer than 5,630 black rhinos left in the wild, it is predicted that the species will become extinct within a decade unless more is done to protect them. B2Gold has donated 1,000 ounces of gold for the project, valued at approximately $1.9m as of 28 July. The donated gold came from the company’s Otjikoto mine in Namibia. Four hundred of the gold bars have gone on sale on Kitco Metals’ retail site in North America. Kitco has agreed to process the transactions at cost to further benefit the conservation efforts in Namibia. In a statement, B2Gold said the 15% premium on the gold bars will be used to fund the future production of more gold bars or medallions, with the second limited edition run being distinctly different from the first mintage to ensure that the initiative is self-sustaining. “Poaching and the illegal trafficking of animals and their parts is a scourge that takes place around the world and must be stopped,” said B2Gold President & CEO Clive Johnson. “In Namibia, where we work closely with our employees, local suppliers, business partners, the government and non-governmental organisations in so many ways, our collaborative vision for the Rhino Gold Bar was to put a new and innovative funding mechanism for conservation in place that we could all be proud of.” Funds have also been allocated to help counteract the impact of the Covid-19 pandemic by providing salaries to keep rhino rangers and trackers in the field for the next 12 months, maintaining adequate patrol levels to diminish the threat from poachers and help sustain population growth. The pandemic has been challenging for conservation efforts, with organisations such as Save the Rhino Trust Namibia (SRT) having their budgets slashed as international donors have had to cut their own budgets.   Will a global recession spell bad news for the mining industry?  View Results The pandemic has also spurred an increase in poaching, as job losses hit Namibia and spurred an influx of people moving out of urban areas back to their families in more rural areas of the country. A lack of tourism within the 25,000km2 rhino range due to the pandemic has meant that extra patrolling efforts are now required in newly exposed areas. SRT CEO Simson Uri-Khob praised B2Gold’s conservation initiative: The timing of the Rhino Gold Bar campaign in North America could not be better as Covid-19 has impacted conservation funding and plunged the world’s remaining wild rhinos into serious risk. As we mark World Ranger Day, we aspire for the healing of our people and our planet. B2Gold’s support for sustainable, community-backed rhino conservation and protection allows us to not only dream of a better world but to plan for it.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
