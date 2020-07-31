@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian iron ore miner Vale’s executives reportedly said that the company is sending a proposal this month to the board for further expansion at its Northern System mining complex in Brazil. Furthermore, the company expects to restart operations at its Samarco complex in December this year, Reuters reported. Samarco, which is a joint mining venture between Vale and BHP, is located in the Germano Complex, in the Brazilian state of Minas Gerais. Operations were halted at Samarco in November 2015 following the failure of the Fundao tailings dam at the site. On 29 July, Vale announced the resumption of dividend payments, which have been halted after the Brumadinho tailings dam disaster that occured last year. This disaster claimed lives of at least 270 people. Vale plans to produce 400 million metric tonnes per annum (Mtpa) by the end of 2022. This target was initially set for last year, but delayed after the damage of the Brumadinho tailings dam disaster.   Will a global recession spell bad news for the mining industry?  View Results Two weeks ago, Brazilian court ordered Vale to pay BRL7.9bn ($1.47B) in guarantees, with respect to Brumadinho tailings dam damage that occurred last year. Last year, Brazil’s overall iron ore output was 404.9Mt. In July last year, Vale agreed to pay compensation to the families of the victims of the Brumadinho iron ore mine disaster. In February 2019, the Brazilian Government banned the construction of new upstream mining dams following the Brumadinho mining disaster.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
