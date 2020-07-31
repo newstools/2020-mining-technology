@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Vancouver-based Auryn Resources and Canadian explorer Eastmain Resources have signed a definitive agreement, pursuant to which the former will acquire all of the shares of the latter. The combination of these two companies will create new Canadian gold developer, Fury Gold Mines. The deal will also see the Vancouver-based firm spinning out its Peruvian assets into two new companies  with one focusing on the Sombrero project named SpinCo Sombrero, and another consisting of the Curibaya and Huilacollo projects, dubbed as SpinCo Curibaya. The deal is valued at C$121m ($90.2m). It represents about C$0.42 for Eastmain share, a premium of 137% to the closing market price of the Eastmain shares on 29 July. Auryn executive chairman and director Ivan Bebek said: “Fury Gold will combine the high-grade gold projects; Committee Bay in Nunavut, Homestake Ridge in B.C and Eau Claire in Quebec, to offer investors a robust Canadian, gold-focused exploration and development company. “Sombrero and Curibaya are premier exploration targets in Peru and we are in the final phases of permitting for inaugural drill programs. “We plan to significantly enhance the value of these entities over the coming months, prior to their relisting, through achieving drill permits, completing additional community agreements to provide access to more areas, identifying additional high priority targets and further value-added acquisitions.” Following the spinout, Auryn and Eastmain will combine their Canadian portfolios. Eastmain chairman Laurie Curtis said: “The Board of Eastmain strongly endorses the Transaction, as we believe it is in the best interests of all our shareholders and stakeholders. Fury Gold will have the capability and access to capital to develop and finance Eau Claire.” In August 2017, Auryn Resources acquired the rights to the Tacora and Andamarca properties that lie next to its Huilacollo gold epithermal project in the Tacna province of southern Peru. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
