@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Macmahon Holdings has secured an approximately $23m contract to provide services for mineral exploration firm Strandline Resources at the Coburn mineral sands project in Western Australia. Discovered in 2000, the Coburn mineral sands project is located in the Gascoyne region of Western Australia, about 240km from the port of Geraldton. Under the contract, Macmahon will construct a 43km road access connecting the Coburn mine with the North West Coastal Highway. It will also install other site roads, bulk earthworks, dams and other process infrastructure associated with the mine. The contract is also aimed at establishing access pads across various project areas, including the accommodation village, processing facilities, power station, as well as site offices and buildings. Strandline managing director Luke Graham said: “This commercial milestone is the first of a series of material project contracts to be awarded as part of project financing in preparation for construction and Financial Close. “We are pleased to further our relationship with Macmahon and look forward to delivering the construction works safely, on time and budget. “Coburn has a world-scale Ore Reserve, situated in a Tier-1 location, we have binding offtake agreements in place with major customers, reputable contractors on board and project funding activities progressing rapidly.” A definitive feasibility study on Coburn has estimated that the project could produce an average of 229,000 tonnes per annum (tpa) of HMC, comprising 58,000t of zircon concentrate, 110,000t of ilmenite, and 20,000t of HiTi, a blend of rutile and leucoxene containing 90% titanium dioxide. The project will produce a high-value heavy mineral concentrate and final product over its mine life of 22.5 years. Last month, Strandline Resources secured an offtake agreement with Spanish firm Chilches Materials for the Coburn mineral sands project. In April this year, Strandline Resources selected Macmahon Holdings as the preferred contractor for Coburn mineral sands project. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
