@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Chilean regulators have rejected Sociedad Química y Minera de Chile (SQM)’s $25m environmental compliance plan for the Atacama salt flat in the country. Last year, Chile’s Environmental Superintendent approved SQM’s compliance plan after an investigation, which had been carried out for many years, found that the miner had “overdrawn” lithium-rich brine from the salt flat deposit. However, the regulator said in a filing that it would begin the process once again in order to comply with a decision of a regional environmental court which invalidated SQM’s plan last December, saying it is “insufficient”. After this decision by the regional court, both SQM and the regulator have appealed that decision to the Supreme Court of Chile. According to the news agency, the lower tribunal said the environmental regulators must comply with its order even if SC considers a “potential reversal”. SQM told Reuters that Chile’s Environmental Superintendent had re-opened the process. The Chilean miner added that it had voluntarily agreed to continue with some protective measures in the current rejected plan, while awaiting the higher court’s decision. About one-quarter of the global supply of lithium is from the Atacama region. Lithium is a major ingredient in the batteries that power electric vehicles (EVs) and cell phones. In April this year, SQM warned that it might have to scale back plans for this year if a slump in lithium demand continues due to the Covid-19 outbreak.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
