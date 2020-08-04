@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Indian Government has reportedly restricted China and other countries that share land border with it from participating in commercial coal mine auctions. The latest move comes as India and China are in talks to end a ‘border stand-off’ in eastern Ladakh. A corrigendum has been issued by the Indian Ministry of Coal to the tender document that was released in June this year for commercial mining of coal. The Indian Government has reviewed the existing foreign direct investment (FDI) policy and amended paragraph 3.1.1 of the policy as contained in Consolidated FDI Policy, 2017. According to the revised position in the Press Note 3 of 2020 series, ‘an entity of a country that shares land border with India or where the beneficial owner of an investment into India is situated in or is a citizen of any such country, can invest only under the Government route’. In June this year, India Prime Minister Narendra Modi launched the auction process of 41 coal blocks for commercial mining. The Indian parliament passed a bill for commercial mining in March that will open the coal sector for all domestic and international mining companies. In January this year, the Environment Ministry of India gave its clearance to ten coal mining projects with an annual capacity of 160Mtpa. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
