@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Gold and base metals explorer Sipa Resources has signed a A$12m ($8.54m) farm-in and joint venture agreement (FJVA) with Rio Tinto’s exploration unit RTX. The agreement is related to Sipa’s Paterson North copper-gold project in Western Australia (WA). The Paterson North project is 10km west of Rio Tintio’s Winu copper and gold discovery. Under the agreement, RTX will commit a minimum exploration spend of A$3m ($2.13m) within a two-and-a-half-year period. By spending a further A$3m ($2.13m), RTX will secure a 55% interest in the project. Rio Tinto exploration arm’s stake in the joint venture can be increased to 70% with additional expenditure of A$12m ($8.54m). RTX is also required to define the Paterson project’s JORC mineral resource with a value equivalent of at least $1bn ($711m) or complete its order of magnitude study in order to earn an 80% interest in the project. Sipa managing director Pip Darvall, said: “Attracting a global major such as Rio Tinto to farm-in to the Paterson North Project reflects both the enormous potential of the ground and the quality of the work which the Sipa exploration team has completed over the past five years. “Furthermore, it strengthens our relationship with RTX and endorses the technical capabilities of the Sipa team. “Sipa has been progressing exploration on its large ground-holding in the Northern Paterson province since 2016, resulting in the discovery of a significant copper-rich polymetallic mineral system at Obelisk.” The Obelisk prospect is part of the Paterson North project. RTX will also subscribe to A$250,000 ($177,925) worth of Sipa shares at A$0.10 ($7.11) a share.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
