@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. China-based steelmaker HBIS Group’s unit HBIS Resources has reportedly signed a deal to invest in Peru’s Pampa de Pongo iron ore mine. HBIS Resources will develop the mine together with Shandong-based Zhongrong Xinda, which is the current licence-holder of the mine. Under the deal, the two Chinese firms intend to form a joint venture (JV) to work on the first stage of the iron ore mine. The mine also comprises reserves of copper, cobalt and gold, Reuters reported citing an HBIS Resources filing to the Shenzhen Stock Exchange (SZSE). According to the filing, the cooperation agreement includes mine and port construction as well as operation. The latest investment in the Peruvia mine would mark HBIS’ entry into South America. According to the news agency, iron ore is priced at $100 per tonne. In 2016, Zhongrong Xinda bought the rights of Pampa de Pongo mine. The Shandong-based firm’s subsidiary Jinzhao Mining Peru serves as the operator of the project. As per Peru’s Ministry of Energy and Mines 2018 published portfolio, Pampa de Pongo mine is capable of producing about 28.1 million tonnes per annum (Mtpa) of iron ore. Located in the Arequipa region, the mine is expected to commence operations in 2023. Peru is considered as the world’s second-biggest copper producer, with Chile ranking first.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
