@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Italian Shipbuilding firm Fincantieri and oilfield services firm Saipem have signed a memorandum of understanding (MoU) to promote the development of deep-seabed mining (DSM). As part of the MoU, the two Italian firms will partner on the sustainable exploitation of deep-sea floors over a depth of 3,000m. The strategic collaboration is aimed at defining sustainable feasibility, development and business opportunities in the design, engineering, construction and management of DSM systems. Saipem CEO Stefano Cao said: “The agreement signed with Fincantieri brings together two Italian leaders involved in promoting deep-seabed mining. Saipem boasts innovative technologies, distinctive skills, assets and an outstanding track record in the sector that will be put to use in the joint project with Fincantieri with the aim of finding environmentally compatible solutions so that sea beds can be used sustainably.” Deep-sea floors, which are rich in minerals such as sulphur, cobalt crusts as well as polymetallic nodules, are essential materials in digital technologies and energy innovation. According to the companies, there are no proper industrial extraction techniques that can enable mining firms to extend their activities in the deep-sea. Therefore, Fincantieri and Saipem will first focus on using their expertise to create an industrial plan containing technical and economic feasibility potential of the new DSM-based projects. Fincantieri CEO Giuseppe Bono said: “The minerals in underwater deposits will turn out to be essential, should we manage to move from a fossil-fuel-based economy to a green economy. “Technologically speaking, these are extremely complex activities: the engagement of major industrial groups such as Saipem and Fincantieri will, therefore, help preserve the environment, thanks to their long-standing wealth of proven engineering and management experience and skills.” Co-owned by the government and De Beers Jewellers, Debmarine Namibia has mined more than 8km² in deep seas and produced over five-million carats. The company’s activity, however, only covered a fraction of the marine environment.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
