@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Anglo-Australian mining giant Rio Tinto has admitted that it missed a series of chances to better communicate with traditional landowners that might have prevented the destruction of the Juukan Gorge Aboriginal heritage site in Western Australia (WA). In May this year, the company destroyed 46,000-year-old rock shelters at the indigenous heritage site. This led to a public backlash over the loss of the important cultural landmark. After the blasting incident, Australia’s Minister for Indigenous Affairs Ken Wyatt, himself Aboriginal, said it was “incomprehensible” that the blast had been allowed to go ahead. Rio Tinto in its apology pledged to advocate for legislative reform following the incident. Recently, in a submission to the parliamentary inquiry regarding the demolition incident, Rio Tinto admitted that from early 2020, there was “growing awareness” of the greater cultural heritage significance of the Juukan Gorge region. Rio Tinto chief executive J-S Jacques said: “The destruction of the Juukan rockshelters should not have occurred and I have unreservedly apologised to the Puutu Kunti Kurrama and Pinikura people. As a first priority our aim is to strengthen our partnership with the PKKP. That remains our focus. We have also taken actions to strengthen governance, controls and approvals on heritage matters. “I am continuing to meet with Traditional Owners across Australia and remain committed to listening and learning.” The company reiterated that it will never undertake any destruction of heritage sites of cultural significance. In June this year, BHP placed a hold on part of its South Flank expansion plans in Western Australia, after it was revealed the expansion would have destroyed upwards of 40 Aboriginal heritage sites.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
