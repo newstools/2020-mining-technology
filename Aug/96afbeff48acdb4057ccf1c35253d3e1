@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian firm Skeena Resources has signed a definitive agreement with gold major Barrick Gold to exercise an option to acquire a 100% interest in the Eskay Creek property in Canada. The Eskay Creek property is located in the Golden Triangle of north-west British Columbia in Canada. Skeena will gain 100% ownership of Eskay Creek and will serve as the mine operator, while Barrick will become a significant shareholder in Skeena. Upon completion of the deal, Barrick would hold 24,075,000 Skeena common shares on a pro-forma basis. This amounts to about 12.4% of the Canadian firm’s issued and outstanding common shares. Skeena will also grant a 1% net smelter return (NSR) royalty on the entire Eskay Creek land package. A contingent payment of C$15m ($11.21m) will become active if Skeena sells more than a 50% interest in Eskay Creek during the 24-month period after closing of the transaction. Expected to be closed in the fourth quarter this year, the transaction is subject to customary closing conditions and other government approvals. Skeena Resources CEO Walter Coles said: “We were encouraged by the positive market reaction to the announcement of the binding term sheet in respect to the Eskay Creek transaction with Barrick and are delighted to now announce the signing of the Definitive Agreement. “On closing, Skeena will gain 100% ownership and operatorship of Eskay Creek, which we hope to revitalize as an open-pit gold-silver mine. Skeena is honoured to have Barrick as an important shareholder in the Company going forward.” In December 2017, Skeena Resources signed an option agreement to wholly acquire Barrick Gold’s Eskay Creek property.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
