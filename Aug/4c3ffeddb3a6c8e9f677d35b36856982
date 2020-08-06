@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. North American exploration company Premier Gold Mines said it is considering spinning out its US subsidiary that holds its Nevada assets to shareholders. The move is part of the company’s asset reorganisation options evaluation to increase its portfolio’s property value. According to the exploration company, the new US-based gold company would include Premier’s South Arturo and McCoy-Cove mine properties in Nevada. Additional acquisition opportunities are being evaluated by Premier Gold through its US subsidiary. Premier cautioned that a final decision has not been made and said that it cannot assure if this evaluation would result in a spin-out. Premier Gold Mines president and CEO Ewan Downie said: “We are exploring the attractiveness of creating two companies that would benefit from streamlined property portfolios and a simplified domestic investment thesis. “Premier has assembled a high-quality portfolio of assets spanning exploration to mining operations and we believe the market is not fully valuing the sum of the parts.  This is one option we are considering changing that.” The South Arturo mine is located in the Carlin Trend, Nevada, US. It is operated by joint venture (JV) partner Nevada Gold Mines. Premier owns a 40% stake in the JV and the remaining 60% stake is held by Nevada Gold Mines. Nevada Gold Mines, a JV between Newmont-Goldcorp and Barrick Gold Exploration, is operated by Barrick. The South Arturo Property comprises open pitable resources and the El Niño underground mineralisation. Located in the Battle Mountain trend in north Nevada, the McCoy-Cove Property is about 20km south of Nevada Gold Mines Phoenix mine. It spans across an area of 30,660 acres. In August 2016, Premier Gold Mines produced the first gold from South Arturo mine. In October last year, Premier achieved commercial production at the El Niño underground mine located in the Carlin Trend of Nevada, US.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
