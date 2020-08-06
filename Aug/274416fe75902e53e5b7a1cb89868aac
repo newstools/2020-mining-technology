@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Zambian miner Mutinta Jewellery has announced the opening of a $3.2m diamond and gemstone processing plant in the country, designed to manufacture jewellery from diamonds, gemstones, and other precious stones. The plant is set to start full operation before the end of August 2020 and it anticipates production of 15,000-25,000 carats per annum. The plant is set to directly employ about 200 Zambians, indirectly creating approximately 100 more roles. Permanent Secretary in the Ministry of Mines and Minerals Development Barnaby Mulenga has expressed the ministry’s support to the company, which is in line with the government’s policy of value addition and empowerment of local entrepreneurs. He said: “We want to pledge our commitment in supporting this company as this is a very good investment and will definitely bring in value addition, so we will help you with trade facilitation.” Mulenga also said that the development of the processing plant will add value to the industry, as it is currently exporting raw gemstones before processing. The establishment of the local processing plant will enable small scale miners to sell their precious stones in raw form, which can then be polished locally before exporting. Mutinta Jewellery said that the new plant is planned to help make Zambia a marketplace for diamonds, gemstones, and other precious stones for jewellery, as well as encouraging small-scale miners to bring their stones for processing and earn better returns. “We have also engaged experts from China who are transferring skills to Zambians and we have already started doing a test run for most of the machines and will want to make sure that everything is up and running without any problem before full operations begin in August,” a company spokesperson said.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
