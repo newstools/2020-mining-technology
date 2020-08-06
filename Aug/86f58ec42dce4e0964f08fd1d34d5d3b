@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Heavy equipment manufacturer Caterpillar has unveiled a two-piece bucket for its hydraulic mining shovels. The shovel bucket, which features a removable basket, is designed to reduce downtime. Caterpillar noted that the replaceable feature of the basket enables efficient and safer rebuilds when compared with traditional buckets. The company said that the durable upper structure of a bucket is designed to “host several baskets during its long service life, thus the need for optimising basket replacement”. The lightweight two-piece bucket features high wear resistance. In addition, the company noted that the single-piece structural steel basket has “no liner or wear plates” and comes with optimised “floor and sideplate thickness” for “bucket size and anticipated wear rate”. Also, it can be retrofitted “onto legacy buckets used in compatible digging conditions”. According to Caterpillar, the basket design allowed it to “evolve with mine site conditions” to prevent downtime and optimise capacity over the bucket’s life. The “single-piece” design of the bucket also prevents potential hazards which can be caused due to stored energy. The heavy equipment manufacturer noted that replaceable baskets are available for advance orders to be stocked on site. Caterpillar predicted no improvement in equipment sales, after the company’s second quarter 2020 earnings declined during a crippling recession amid the Covid-19 pandemic. In May this year, Caterpillar expanded the Cat MineStar Solutions suite of technologies with a new technology platform MineStar Edge. In May 2019, Caterpillar signed an agreement to supply Rio Tinto with mining machinery to improve operational safety and performance at the latter’s Koodaideri iron ore project in the Pilbara, Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
