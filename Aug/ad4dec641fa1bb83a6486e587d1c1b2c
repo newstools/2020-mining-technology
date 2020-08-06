@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian gold miner Newcrest Mining has awarded a contract to engineering services provider Worley for its Lihir gold mine. The mine is located about 900km north-east of Port Moresby on the island of Lihir in Papua New Guinea (PNG). Under the contract, Worley will deliver engineering, procurement and construction management (EPCM) services to Lihir gold mine. The engineering services company will also provide support to the mine site, process plant as well as other associated infrastructure. Worley Australia & New Zealand managing director Gillian Cagney said: “We are delighted to continue our relationship with Newcrest, working together to safely deliver a portfolio of projects to budget and schedule. “Creating further economic value and expanding opportunities for PNG nationals will remain a focus for both companies. “More than 20% of our Lihir team are nationals which contributes to Newcrest’s already impressive in-country employment. “Our community improvement programmes have included the distribution of personal solar lights to children living in isolated villages, reforming a local beach with recycled mine-site tires and water sanitation for seaside communities.” Lihir mine was managed by a subsidiary of Rio Tinto until late 2005, and later the operatorship was handed over to Lihir Gold. In 2010, Newcrest Mining acquired Lihir Gold in a $9bn deal. Worley has previously worked for Newcrest’s projects in Australia, PNG and Indonesia. In June this year, Worley secured a three-year services contract from Alcoa of Australia for the latter’s mining, refining, and smelting operations.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
