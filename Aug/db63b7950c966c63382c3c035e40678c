@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Rio Tinto has awarded a contract to engineering company Scott Technology to provide equipment for a sample preparation and analysis laboratory at the Robe Valley iron ore mine in Western Australia. The Robe Valley project is situated nearly 140km south-west of Karratha in the Pilbara region. It produces iron ore at the Mesa A and Mesa J hubs, which is then processed at Cape Lambert. Robe Valley deposits are owned by the Robe joint venture between Rio Tinto (53%), Mitsui Iron Ore Development (33%), and Nippon Steel Australia (14%). According to the engineering firm, the contract is the second iron ore sample laboratory project awarded to Scott by Rio Tinto this year. Work at the Robe Valley project, which comprises Scott’s Rocklabs equipment and other third-party supplies, has already started. The new laboratory is expected to be operational by June next year. Scott Technology CEO John Kippenberger said: “This latest contract award further cements Scott’s evolution in the mining sector from a world leading supplier of sample preparation equipment, to a complete end-to-end automation and analysis solution provider. “The iron-ore sector is continuing to experience positive interest and investment in automation given the underlying strength in demand across precious metals and iron ore.” In December last year, Rio Tinto selected CIMIC Group company CPB Contractors to deliver three separate packages of work at the Robe Valley project. In October 2019, Rio Tinto awarded a contract to CAPE to relocate and modify the current electrical services, as well as install overhead and underground 33kV powerlines of the Robe Valley project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
