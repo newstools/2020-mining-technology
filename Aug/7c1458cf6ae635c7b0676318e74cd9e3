@@ -1,0 +1,15 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Ok Tedi Mining (OTML) has suspended normal operations at its copper and gold mine in Tabubil, Papua New Guinea (PNG) for 14 days after seven workers tested positive for Covid-19. OTML said that these cases are the “first positive cases” to be recorded in Tabubil. Of the total cases, only one worker has showed symptoms for the virus, while the other six are currently asymptomatic. All of them are in isolation at the Tabubil Hospital. According to the company, the new cases were believed to have contracted the virus from a person who flew from capital Port Moresby to the port town of Kiunga late last month. For this reason, OTML said it is strictly limiting the movement of people between its operational sites in Tabubil, Bige and Kiunga. During the suspension period, Ok Tedi will implement contact tracing, testing as well as isolation procedures to limit further spread of the virus. OTML managing director and CEO Musje Werror said: “Operations will resume when we are confident our workforce will not be infected with the Covid-19 virus whilst going about their normal day to day work. “At this stage we are hopeful resumption of operations will occur at the conclusion of the 14-day lockdown and quarantine period. However, we cannot be certain until results from further contact tracing are available.” The company claimed that the 14-day shutdown will have a huge economic impact and said that the suspension is likely to prevent about $40m from coming into the country.
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
