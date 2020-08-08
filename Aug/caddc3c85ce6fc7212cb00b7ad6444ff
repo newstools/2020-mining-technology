@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Metals processing firm Jubilee Metals Group has signed a joint venture (JV) agreement with an undisclosed private Zambian company. Under the JV agreement, Jubilee Metals will secure the rights to process two-million tonnes (Mt) of copper run-of-mine (RoM) material. The JV creates further potential to increase the supply of copper ore to about four-million tonnes. Jubilee said that the project would target the “near-term production” of copper concentrate through a newly constructed copper concentrate processing facility. The company said that the processing facility will be built on a brownfield site adjacent to the tailings and added that the facility will be commissioned in two phases. First copper concentrate from the facility is expected within four months. Jubilee Metals CEO Leon Coetzer said: “This JV Agreement offers tremendous earnings potential for Jubilee. “The project has been a key target for Jubilee to drive the ramp-up in our copper production while we are implementing our previously announced Project Elephant. “This transaction complements the already secured large copper resource and will provide us with earnings in the near term. “The combination of easily accessible large surface resources, together with a fully operational copper refinery, offers us the potential to replicate, at a larger scale, the success Jubilee is achieving with its PGM and Chrome operations in South Africa. “For Jubilee to have entered into this JV Agreement so soon after announcing Project Elephant is testament to a period of intensive work by our team and I would like to thank everyone for their efforts.” In September last year, Jubilee Metals Group completed the platinum group metals (PGM) recovery plant for the Windsor PGM project in the Western Bushveld complex in South Africa.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
