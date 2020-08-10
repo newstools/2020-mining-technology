@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian iron ore company Fortescue is set to review a mining expansion plan that is said to threaten Australian sacred sites. According to a Reuters report, the company will revisit the plan that involves expanding an iron ore mine in Pilbara region, after the Wintawari Guruma indigenous peoples said that the move will endanger a 60,000-year-old rock shelter among other sacred sites. Fortescue has already approached the government to delay the heritage exemption request by two months. The move comes after the government asked for a response from another miner Rio Tinto after it blew up two rock shelters of cultural and historical significance in May. The Fortescue application is related to a mining expansion near Spear Hill. The Wintawari Guruma people told the news agency that initial testing of two rock shelters suggests that one of the sites is more than 60,000 years old. A third site is said to feature engraved rock art on a series of five stone panels depicting animals, human figures and other geometric motifs. The indigenous group considers these ancient art forms as sacred. Fortescue refused to specifically comment on the preservation of Spear Hill. However, the company said that it had previously reached an agreement with the Wintawari Guruma for a boundary around Spear Hill. “As a result of this constructive consultation, we expect to achieve avoidance of significant cultural heritage beyond the current two-year mine plan,” Reuters quoted Fortescue as saying in a statement. Earlier this year, Fortescue unveiled its plans to achieve net-zero operational emissions by 2040. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
