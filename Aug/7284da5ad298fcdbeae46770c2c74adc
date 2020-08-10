@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Engineering firm UGL has secured several construction and maintenance contracts with key miners, including Rio Tinto and BHP. The contract works, to be conducted over a multi-year period, carry a combined value of more than A$200m ($143.3m). UGL managing director Jason Spears said: “These new contracts and contract extensions highlight UGL’s capabilities in the mining sector and expand on our strong relationships with our clients. We look forward to carrying out these contracts in a safe and reliable manner.” Rio Tinto contracted the CIMIC Group company for civil, structural, mechanical, piping, electrical, communications and instrumentation work at the Mesa J PP2 Rescreening Plant in Western Australia. The project will employ around 160 people with works slated to commence immediately and continue until September next year. UGL will also carry out similar works along with rail services for shutdowns and sustaining capital projects across BHP’s Western Australian iron ore mine site and port operations. The company also secured an extension for scheduled major shutdown services at Rio Tinto’s Alumina Refinery. Furthermore, UGL will a run of mine crusher and materials handling circuit for Roy Hill. The scope of works will include supply, structural, mechanical, electrical and instrumentation services employing around 100 people. CIMIC Group CEO Juan Santamaria said: “These contracts are a demonstration of UGL’s 30 years of experience in building partnerships with leading mining companies and delivering a solid performance of maintenance and shutdown services.” In January, UGL secured contracts to provide project maintenance services for its mining clients in Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
