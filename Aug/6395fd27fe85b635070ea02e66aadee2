@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Treasury Metals, a gold focused company with assets in Canada, has completed its previously announced acquisition of Tamaka Gold, a wholly-owned subsidiary of First Mining. The acquisition was completed more than two months after Treasury signed a definitive share purchase agreement to acquire all of the issued and outstanding shares of Tamaka Gold. With the completion of the acquisition, Treasury Metals secures a 100% interest in the Goldlund Gold Project, located adjacent to its Goliath Gold project in Northwestern Ontario. Goldlund features a near-surface gold resource estimated to host 809,200 ounces of gold in the Indicated category and 876,954 ounces of gold in the Inferred category across a 280km2 area. Treasury CEO Greg Ferron said: “Completion of this acquisition comes at a transformational time for our shareholders and solidifies the Goliath and Goldlund projects as among the largest undeveloped gold assets in Canada. “The close proximity of the Goliath-Goldlund gold projects create a multi-million ounce, district-scale opportunity with significant resource growth potential. “We are pleased to have added the Goldlund gold project into our development timeline, and combined with the existing infrastructure in the region, and pending further economic and technical evaluation, it is expected to generate substantial co-development synergies as the properties are further advanced.” The company has already initiated several programmes to advance the Goliath and Goldlund gold projects. It includes completion of an economic evaluation of a Goliath plus Goldlund scenario, while technical studies are underway. A 25,000m drilling campaign has also commenced. In June last year, Canadian Environmental Assessment Agency released its draft environmental assessment report for Goliath gold project. The agency concluded that Goliath gold project is not likely to cause significant adverse environmental effects.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
