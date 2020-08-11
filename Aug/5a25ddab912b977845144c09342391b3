@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Sheffield Resources and YGH Australia Investment (Yansteel), a subsidiary of Yangang (Hong Kong), have signed a non-binding term sheet to form a joint venture (JV) to develop Thunderbird Mineral Sands Project. The formation of the JV is subject to further negotiation, execution of formal agreements and other conditions, including applicable regulatory or shareholder approvals. Located around 60km from Derby in Western Australia, the Thunderbird Mineral Sands Project is one of the major mineral sands deposits to be discovered in the last 30 years. The project will produce zircon and ilmenite, suitable for the ceramic sector and paint pigment industry respectively. As agreed, Yansteel will invest A$130.1m ($93.32m) in equity to acquire a 50% interest in the project. Sheffield also approved the issuance of more than 34 million fully paid ordinary shares to Yansteel for nearly A$12.9m ($9.25m). This share placement is not conditional upon the completion of the JV transaction. Both the companies also entered a take-or-pay agreement for all ilmenite produced from the first stage of the project.   Will a global recession spell bad news for the mining industry?  View Results Sheffield Resources managing director Bruce McFadzean said: “The joint venture with Yansteel, if completed, will provide the project equity presently estimated to fund Stage 1 of the Thunderbird Project. “The transaction with Yansteel also secures offtake for all of the ilmenite. We welcome Yansteel as a shareholder and look forward to working with them to develop Thunderbird. To attract such a strong partner is testimony to the quality of the Thunderbird Mineral Sands Project. “This outcome achieves all of the objectives of the strategic partner process undertaken by Sheffield over the past 18 months and, if completed, will provide the means by which Sheffield shareholders can realise the underlying value of the project.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
