@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Premier Gold Mines is set to acquire the Getchell Project in the Getchell gold belt, in a move bolster its presence in the US state of Nevada. The company, along with its subsidiary Premier Gold Mines USA (PG USA), entered into a definitive purchase agreement to acquire all outstanding membership interests of Osgood Mining Company from the Waterton Global Resource Management. The Osgood Mining Company is the owner of the Getchell Project. As agreed, Premier Gold Mines will pay $23m in cash on closing. Waterton will also receive 13,777,098 Premier common shares, warrants to purchase more than 12 million Premier common shares as consideration. The seller is also entitled to several milestone payments. The Getchell Project has been under care and maintenance since 2015. Open-pit mining operations were conducted on the site between 1980 and 1999. Subsequently, underground test mining was carried out in the early 2010s. Once the deal is complete, the Getchell Project will be owned by PG USA. Premier president and CEO Ewan Downie said: “We are very excited to add the Getchell Project to our already strong base of Nevada assets. “The property has a long track record of successful gold production and we believe that the open pit and underground gold historical resources at Getchell were amongst the highest-grade in North America based on historical work completed on the property and the property will form an integral part of our US-based activities.” The transaction is expected to close in the fourth quarter of this year, subject to regulatory and third-party approvals as well as other customary conditions. Recently, Premier Gold Mines unveiled plans of spinning out PG USA, which holds its Nevada assets, to shareholders.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
