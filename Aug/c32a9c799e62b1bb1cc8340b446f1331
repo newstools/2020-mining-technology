@@ -1,0 +1,39 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The UK closed its last colliery in 2015. While there are plans to open another, the UK Coal Authority currently oversees the collateral damage left by the industry. Practically, this means it manages several mine water treatment facilities.
+In the coastal town of Seaham, near Newcastle, one treatment facility has plans to lead the way in an energy revolution. Here, water from the former Dawdon Colliery is treated for its high levels of salt. While this water would usually be managed with lagoons, local wildlife and transport links made an active chemical treatment plant necessary.
+The extracted water is also warm, so much so that in 2011 the plant started pumping heat from the water for its own needs. Now, the UK government plans to build a new village a few miles away, and in February this year it approved plans to use the mine water to heat it. In the new village, builders will design 750 homes to use water extracted from the defunct mine. This would be a stable heat source, unaffected by outside factors, with the potential to provide 6MW of heating energy for no carbon emissions.
+The Coal Authority worked with Tolent Housing on the project, with professional services firm RPS consulting. RPS technical director Stuart Long assisted in consultations, saying: “The technology involved isn’t particularly complex, but the problem we have in this country is a mistrust of district heating systems. People think they are being bound into an energy tariff that they have no control over. This isn’t the case on the continent; particularly in Scandinavia, where they are streets ahead of the UK.”
+The Seaham project is the most advanced of the five that are in progress, with another 70 projects being investigated. Soon, borehole drilling in Gateshead will investigate adding 6MW of energy to a district heating scheme. In south Wales, engineers at the Caeraw project are designing the next set of boreholes to take heat to nearby houses.
+Jeremy Crooks, head of innovation from the Coal Authority, told us pumping stations currently process 100MW of heat energy. With nowhere to go, this heat dissipates into the environment.
+He said: “As an energy source, this is an area that doesn’t require massive amounts of innovation or new technologies. It’s already sitting there; it just hasn’t been done in the UK. The restraint is the commercial side: is it viable as an energy source compared to other sources? With our first schemes, we’re looking to be 10% below the price of gas heating.
+“A quarter of the population live on top of coal fields, including nine of the ten largest urban centres. Regardless of location, the mines could also benefit horticulture. The water can be used to heat growing houses and then spread the benefit across the country via food.” Many factors affect how much heat a mine can provide. Charlotte Adams of the University of Newcastle has studied mine water assessment and recovery, and she said the structure, age, and location of a mine can affect its geothermal ability.
+“The deepest mine we have is about 1.4km deep, and the temperature we see there is about 40°C. Most of the ones we work with day-to-day are between 14°C and 20°C. We believe that, carefully managed, we can maintain the supply temperature from the subsurface.”
+“We normally look at removing 4°C-5°C from the ambient mine water temperature. We’re looking at whether we could take more than that out if you’ve got a long flow path [between where the water is inserted and where it is extracted].”
+Approximately one third of the water taken from mines is fresh, but mining companies could take advantage of the minerals dissolved in extracted water. The most common is iron, which can be precipitated out by aerating the water. Crooks said that the Coal Authority has found numerous markets for this, including cleaning contaminants from arsenic-ridden areas.
+He continued: “After we’ve treated it, 34% of the water is near drinking water standards. We’ve got a number of water retailers that are pursuing opportunities at the moment. Another 38% is very slightly saline, that can be used as grey water or for agriculture. And we’re keen to talk to any companies who can use, for instance, the salt in the water for gritting roads.
+“There is a technology called salinity gradients to get energy from saline water. It hasn’t been perfected yet, but we’re very interested.” As geothermal heating projects go, mine water is cooler than most projects would aim for. However, the convenience of consistent water flow and mine management makes projects less risky than conventional geothermal drilling. Other community heating schemes would provide hotter water, but they would also require conductive metal pipes that lose heat and efficiency.
+Moreover, because mine shafts convey water more easily than the underground aquifers used in geothermal heating schemes, less boreholes need to be dug to supply the water. With proper planning, developers can arrange these so water travels through miles of tunnels while covering very little distance above ground.
+On the other hand, geothermal schemes have a flexibility in their physical location that mine water schemes do not. The expense of converting houses to use mine water district heating means homeowners often choose not to. Seaham Garden Village will build homes specifically to use the mine water, but new developments near existing mines remain relatively rare. In the UK, projects are simplified by the fact that the Coal Authority owns most mines and holds plans for them. Despite this, ownership disputes can still cause problems. The Shawfair development in Scotland abandoned plans to use mine water heat in its district heating after such a dispute, but planners have since returned to the idea.
+Shawfair was a joint project with the Heerlen project in the Netherlands, which was successful and continues operating today. While district heating is a relatively new concept in the UK, some European countries, such as Sweden, use it in the majority of homes. In areas with significant coal mining, developers may sit on top of a lucrative opportunity.
+In July, a report by energy distributor National Grid warned that the UK would need to follow Sweden’s lead to meet its legislated goal of net-zero emissions by 2050. At the current rate, the country would go from approximately 500,000 homes using community heating in 2019 to 1.5 million in 2050. To achieve net-zero, this would need to be at least 3 million.
+The Coal Authority hopes some of these will use the geothermal heat of former mines. At the same time, Adams said that she expects the number of pumping stations to increase, as water levels inside abandoned mines recover to their previous levels.
+She also said there are questions yet to answer: “There’s a lack of regulation for heat networks. How do we bring back jobs and skills to areas that are still suffering high levels of deprivation from the closure of the mines? We’ve got to get people educated and thinking about how they might buy and trade heat instead of gas.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
