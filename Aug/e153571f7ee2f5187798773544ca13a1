@@ -1,0 +1,21 @@
+Australian miner Whitehaven Coal has secured key regulatory approval for a AUD607m ($433.75m) expansion of the Vickery coal mine in the New South Wales. The Independent Planning Commission (IPC) in the state approved the expansion despite opposition from the environmental groups and local farming communities. In a statement, IPC noted that it approved the expansion with several conditions to mitigate environmental and social impacts. In 2018, Whitehaven Coal filed an application to expand Vickery Coal Project to increase coal extraction by more than 24%, boost annual extraction rate to 10 million tonnes and expand the disturbance area by 776 hectares. The plan also includes building a new coal handling and preparation plant (CHPP) at the site that will connect to the main Werris Creek-to-Mungindi railway line. Earlier this year, the Department of Planning, Industry and Environment finalised its assessment on the expansion and approached the IPC for evaluation. The commission received 1928 unique submissions, of which 57% were against the expansion. It also received 935 campaign emails objecting Whitehaven Coal’s application. However, IPC approved the expansion stating that the impacts associated are acceptable. “The Commission finds that on balance, and when weighed against the objects of the Environmental Planning and Assessment Act 1979 (EP&A Act), ecologically sustainable development (ESD) principles, relevant policy framework, and socio-economic benefits, the impacts associated with the Project are acceptable and the Project is in the public interest,” the statement said. Whitehaven Coal welcomed the decision. The company further said that it will now focus on procuring necessary secondary approvals and other project optimisation works. The project is expected to generate 500 jobs during construction phase and 450 ongoing operational roles thereafter.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
