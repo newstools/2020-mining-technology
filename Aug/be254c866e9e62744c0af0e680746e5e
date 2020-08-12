@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. ABB has secured a A$24m ($17m) contract to provide mine hoist systems to Newmont’s Tanami gold mine in Australia. ABB will be responsible for the design, supply, installation and provision of long-term services for the entire mine hoist mechanical and electrical systems for the mine production shaft at the site. The technology company will deliver a double-drum personnel-riding hoist and a friction hoist over a 90-week period. The recovered ore is currently trucked from the underground mine to the surface through a system of declines, which creates logistical and other challenges, as well as prevents its planned expansion. The delivery of the mine hoist systems is expected to accelerate the Tanami Expansion 2 (TE2) project that seeks to increase the annual processing capacity of the site from 2.6Mtpa to 3.5Mtpa while extending the mine life beyond 2040. Located in the Tanami Desert around 949km south-west of Darwin, Northern Territory, the Tanami gold mine has produced more than 10Moz of gold since 1986. The underground gold mine is operated by a Newmont division called Newmont Mining Service. Newmont regional project director Neil Steyn said: “The Tanami expansion project (TE2) includes the construction of a 5.4m shaft that can reach 1,460m below the surface to enable recovery of ore at depth. “This provides a viable solution to extend the mine and with additional investment in processing is expected to increase production to 3.5 million tonnes per year. “ABB’s in-house mechanical hoist design capability will help deliver a tailormade solution in a cost-effective way.” ABB will also provide digital applications including functional safety, a programmable logic controllers (PLC) control system, remote operations, shaft communication and the latest drive systems technology as part of the TE2 project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
