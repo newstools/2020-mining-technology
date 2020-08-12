@@ -1,0 +1,21 @@
+The COVID-19 pandemic coupled with the lockdown restrictions directly impacted the commodity market by disrupting supply chains and forcing production cuts. The most severely impacted commodity remains oil, followed by agricultural commodities and industrial and precious metals. The full impact of the pandemic on the commodity market will depend on how long it lasts. Verdict has conducted a poll to assess which among the five countries namely Australia, China, Canada, India, and Russia will witness the lowest impact on commodity production due to COVID-19 in 2020. Analysis of the results shows that commodity production in Australia is expected to be least affected. A majority of 44% of the respondents voted that commodity production in Australia is expected to be least affected, while 21% opined that China’s commodity production will be least affected and 16% felt that commodity production in Canada will be least affected. Further, 10% of the respondents opined that commodity production in India will be least affected and 9% of the respondents felt that Russia’s commodity production will be least affected in 2020.  The analysis is based on 472 responses received from readers of Mining Technology, a Verdict network site, between 18 June and 10 August 2020. The COVID-19 pandemic is expected to lead to a permanent change in the supply and demand of commodities especially those that are dependent on transportation. Emerging markets and developing economies, which are heavily dependent on commodities are expected to be the worst affected. Further, the pandemic may result in fundamental shifts to the commodity markets including higher transportation charges, increased trade costs and stockpiling of certain commodities. China, for example, accounts for approximately half of the global demand for industrial metals and 10% of oil demand. Although demand was initially impacted after the outbreak in China, it has returned to normal to some extent. However, spreading of the disease in other countries may delay the return of demand in the country. Countries such as Australia and India have been impacted by the disruptions caused in Asia and other regions, in addition to the lockdown restrictions. Canada’s mining and oil and gas sectors have been impacted due to supply chain disruptions in North America.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
