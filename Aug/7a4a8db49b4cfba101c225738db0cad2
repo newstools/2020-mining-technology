@@ -1,0 +1,21 @@
+The COVID-19 pandemic has impacted several industries globally, particularly power, manufacturing, and auto, which drive the demand for metals and minerals. Verdict has conducted a poll to assess which metals and minerals will be the worst affected in demand terms in 2020. Analysis of the results shows that the demand for metallurgical coal will be the most affected. A majority 27% of the respondents voted that demand for metallurgical coal will be the worst affected during the year, followed by 23% who felt that platinum demand will be the most affected and 17% who opined that demand for copper will be the worst affected. Another 17% of the respondents felt that demand for iron ore and aluminium will be the worst affected in 2020.  The analysis is based on 453 responses received from readers of Mining Technology, a Verdict network site, between 18 June and 10 August. Coal demand fell significantly during the second quarter of 2020 as lockdown measures decreased power demand and in turn reduced coal usage. The International Energy Agency (IEA) estimates the global coal demand to fall by 8% in 2020, which will be the biggest decline since World War II. Global coal production is expected to grow marginally in 2020 at 0.5%, according to GlobalData. Demand for coal, however, is expected to remain stable until 2024 as demand increases in Asia particularly China and India. GlobalData also forecasts the consumption of iron ore to decline to 2.8% in 2020 as vehicle sales plummet. The demand is expected to rebound once the coronavirus pandemic is fully under control. The outlook for platinum remains positive although production has not recovered completely. The metal will be in demand to meet the stricter environmental performance requirements for the automotive industry. Strong recovery for copper is also forecast although the metal may remain in surplus for a few years. Demand for aluminium is expected to fall as demand from end-user segments remains low. The weak demand is also expected to lead to an increase in the surplus of 1.3Mt of primary aluminium in 2020, according to GlobalData.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
