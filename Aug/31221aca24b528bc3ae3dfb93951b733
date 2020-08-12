@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. New Dimension Resources (NDR) has executed an option and purchase agreement with EMX Royalty to acquire three projects in Scandinavia. The three projects include the Southern Gold Line Project in central Sweden and the Løkken and Kjøli copper-zinc-gold projects in central Norway. Consisting of a group of licences, the Southern Gold Line project hosts orogenic-style gold mineralisation along granite-greenstone contacts and intrusion-related gold mineralisation. Løkken and Kjøli are copper-rich, volcanogenic massive sulphide (VMS)-style projects. As agreed, NDR paid EMX $25,000 in cash as consideration upon signing. The company will also issue three million shares to EMX after the completion of all on-site due diligence, expected by 1 September. During the initial option period from 1 September 2020 to 1 September 2021, NDR will invest at least $100,000 for exploration in each of the three projects. In the following year, the company will invest $500,000 on all three projects. The acquisition terms also entitle EMX for several milestone and royalty payments. EMX will also retain a free-carried 9.9% shareholding in NDR until the latter completes financings worth C$4.5m. New Dimension Resources CEO Eric Roth said: “I am very pleased to be reporting the acquisition of these three highly prospective gold and copper properties in Sweden and Norway from EMX. “The Southern Gold Line represents a highly underexplored extension of the Swedish Gold Line, and our focus here will be to advance targets hosting gold mineralisation in similar geologic and structural settings to the adjacent Fäboliden deposit. “At both Løkken and Kjøli, we are excited by the potential for new discovery given that VMS deposits typically occur in clusters and existing geological and geophysical datasets suggest numerous untested anomalies along strike from previous mining operations.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
