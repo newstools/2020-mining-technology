@@ -1,0 +1,12 @@
+Radisson Mining Resources has signed a binding agreement to acquire the New Alger Gold Property from Renforth Resources. The acquired property is located adjacent to the Radisson’s O’Brien Project in the Canadian province of Quebec. The acquisition bolsters Radisson’s presence in the Bousquet-Cadillac mining camp further increasing exploration potentiality. Radisson also expects that the deal will help the company to attract investors for its O’Brien Project. As agreed, Radisson will acquire 100% interest in New Alger by issuing 12 million class A common shares to Renforth and C$500,000 in cash at closing. Additionally, Renforth will receive C$1.5m ($1.13m) before commencing commercial production at New Alger. The amount will also be payable in case Radisson decides to sale the property for more than C$40m ($30.07m) or for a change of control in Radisson. The two companies also agreed into a long-term strategic partnership that involves a 9.6% equity investment by Radisson in Renforth. Radisson Mining Resources Mario Bouchard said: “We are delighted to announce this partnership with Renforth and strongly believe this will prove to be a win-win situation for both companies. “Considering our significant holdings in one of the most prolific gold mining camps, our interests are very much aligned, making this collaboration very significant.” Renforth Resources president and CEO Nicole Brewster said: “This transaction delivers to Renforth’s shareholders a significant return on our investment to date in New Alger. “This re-positions Renforth as extremely well funded, with cash and securities, to allow us to continue exploration on several of our properties, including our Parbec open pit constrained gold resource.” In June, Renforth Resources published an Updated Mineral Resource Estimate and Technical Report on the New Alger gold deposit. The property has a pit-constrained Indicated Resource of 61,500 ounces and Inferred Resource of 123,300 ounces. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
