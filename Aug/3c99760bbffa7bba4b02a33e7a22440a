@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Russia is planning an investment of around $1.5bn in rare earth minerals, which are “critical” to the defence, telecommunications as well as renewable energy sectors. The latest move comes as the country strives to become the biggest producer of rare earths after China by the year 2030, Reuters reported citing a top government official. Russia’s initiative aligns with other countries, such as the US, which are also trying to reduce their reliance on China for rare earths. Rare earths are used as critical components across several industries, from electric vehicles to smartphones. They are vital for satellites, missile guidance systems, missile defence systems and more. China serves as home to 63% of global rare earths production. The country’s dominance on the mineral is very much “established”, that it is so “hard to weaken”. Russia has reserves of about 12 million tonnes (Mt), which is equivalent to 10% of the “global total”. Russia’s deputy industry and trade minister Alexei Besprozvannykh said that the country is offering reduced mining taxes to investors in a list of 11 projects. These projects, which require at least $1.5bn in investment, are designed to increase Russia’s global rare earths output share to 10% by the year 2030, which currently stands at 1.3%. Besprozvannykh told Reuters in an interview that China will keep its “market dominance”, but Russia’s “goal is to be at least the second after them by 2030.” He added that Russia’s rare earths concentrate production might reach 7,000 tonnes per annum by 2024. Last month, Australian rare earths miner Lynas signed a contract with the US Department of Defense (DoD) to begin initial work on a heavy rare earth separation facility in Texas, US. This project is being funded by the Pentagon as part of the DoD’s desire to boost domestic production of rare earths. China currently dominates the production and export of these materials, and there are fears that escalating tensions between the US and China, could lead to China cutting off the US supply.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
