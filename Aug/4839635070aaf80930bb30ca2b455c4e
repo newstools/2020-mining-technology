@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Nickel development company Horizonte Minerals has secured a $325m syndicated loan to fund the construction and development of its flagship Araguaia nickel mine in Brazil. A syndicate of five international financial institutions – BNP Paribas, ING Capital, Mizuho Bank, Natixis, and Société Générale – who will serve as the “Mandated Lead Arrangers” for the financing. Located in the state of Pará in Brazil, the Araguaia nickel project is considered to be one of the world’s biggest undeveloped saprolite nickel resources. Horizonte chief executive Jeremy Martin said: “The mandating of five international financial institutions, with strong mining and metals track records, for the arrangement of a large senior debt facility is a significant achievement for Horizonte. “This debt facility will cover a significant portion of the pre-production capex required to complete the Stage 1 construction for Araguaia. We are targeting completion of the project financing package for the Project by the end of 2020, provided that restrictions related to the Covid-19 pandemic do not cause further delays. We aim to start construction in early 2021. “The interest of top tier financial institutions further validates Araguaia’s status as a Tier 1 nickel project and will be the first of our two 100% owned nickel projects to move to the construction phase. This major milestone moves us closer to our goal of becoming a nickel producer.” Horizonte noted that the debt facility closing is expected by the end of the 2020 calendar year, subject to necessary approvals. The pre-feasibility study (PFS) of the Araguaia project was completed in 2016, while the feasibility study (FS) results were released in October 2018. The FS proposed the construction of a second rotary kiln electric furnace (RKEF) process plant in the second phase, with an aim to double the output from 14,500tpa to 29,000tpa. In August 2019, Horizonte Minerals signed a royalty agreement with Orion Mine to provide financing to advance Araguaia ferronickel project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
