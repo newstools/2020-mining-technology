@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian iron ore miner Vale has received board approval to proceed further with the Serra Sul 120 iron ore mine expansion project, with an estimated multi-year investment of $1.5bn. The expansion project will increase Vale’s S11D mine-plant capacity by 20Mtpa, bringing the total site capacity to 120Mtpa. The Serra Sul 120 project is located in the municipality of Canaã dos Carajás in Brazil. The project scope includes the opening of new mining areas, implementation of new processing lines at the plant, the duplication of the long-distance belt conveyor (TCLD), as well as the expansion of storage areas, among many others. Expected to be completed in the first half of 2024, the Serra Sul 120 is expected to increase Vale’s total production capacity in Northern System to 260Mtpa. In a press statement, Vale stated: “The investment to duplicate the existing TCLD, in the amount of $385m, in addition to providing flexibility, also aggregates important elements for the reduction of operational risks, adding reliability to the system. “With the Serra Sul 120 Project’s anticipation and the delay in the execution of projects in 2020 due to the Covid-19 pandemic, Vale informs that it will revise and update, in due course, its investment guidance for 2021, currently at $5bn, and in the period between 2022-2024, with an average of $4.5bn.” Last month, Vale reportedly announced plans for further expanding its Northern System mining complex and also restart mining at the Samarco complex in Brazil. Meanwhile, in a separate development, Vale said it enlarged the security area around the Doutor dam at the Timbopeba mine in the Mariana Complex, Minas Gerais.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
