@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Chinese gold miner Shandong Gold Mining said its acquisition of Canadian miner TMAC Resources, which owns the Hope Bay property in Nunavut, should be approved for economic reasons. In May, Shandong Gold Mining signed an agreement to acquire all of the outstanding shares of TMAC Resources. This deal will see the Chinese firm pay C$1.75 ($1.24) a share in cash to TMAC. TMAC shareholders approved the deal in June but the deal still requires approval from the Canadian Government, Reuters reported. The main objective of the Chinese gold miner is to add TAMC’s Hope Bay gold property in the Canadian Arctic, which is a region of ‘growing strategic importance’ as climate change makes resources ‘more accessible’. According to lawyers and security analysts, the strategic location of the asset could prompt Canada to block the deal. Hope Bay is a high-grade gold camp which produced 138,510oz last year. It is located approximately 685km north-east of Yellow Knife and 125km south-west of Cambridge Bay, in the western Nunavut territory of Canada. The news agency quoted Shandong unit Streamers Gold Mining chief executive Mark Wall as saying that Shandong is keen to ‘revitalise’ Hope Bay. Wall said: “The net benefit to Canada will be an international company focused on continuing to drive and expand Canadian employment and the broader spend from Canadian suppliers.” The Hope Bay gold mine began its commercial production in May 2017. This March, TMAC released an updated pre-feasibility report for the Hope Bay project. In June, Canadian precious metals miner Barrick Gold sold a partial stake in Shandong Gold Mining for $210m.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
