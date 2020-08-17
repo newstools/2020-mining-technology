@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian gold miner Kirkland Lake Gold has agreed on a deal to install Chrysos PhotonAssay for its Fosterville gold operation in Victoria, Australia. Designed to deliver fast and accurate gold analysis, Chrysos PhotonAssay is a quantitative and ‘chemistry-free’ replacement for fire assay on-site and in the laboratory. This technology causes ‘excitation’ of atomic nuclei, providing improved analysis of gold, silver and complementary elements in less than two minutes. Kirkland Lake Gold Australia chief geologist Wess Edgar said: “We believe the PhotonAssay method has potential benefits for our business that include simple sample preparation, fast turnaround times for high-quality results, and improved outcomes related to health, environment, and the community.” Fosterville is 100% owned by Kirkland Lake and has increased its output since commencing operations in 2005. In 2018, the mine produced 356,230oz at an average grade of 24.9 gram per tonne (g/t). Chrysos CEO Dirk Treasure stated: “Our PhotonAssay installations provide single-touch operation and improved safety outcomes, whilst also reducing labour requirements and the potential for human error. “The technology’s fast turnaround on high sample volumes provides customers with time-critical operational data and drives optimisation through their entire value chain.” In March 2019, Kirkland Lake Gold adopted Micromine’s underground mining software solution Pitram at the Fosterville operation. Kirkland Lake Gold recently disposed its shares in exploration company Osisko Mining and reduced its shareholdings in Novo Resources, which explores and develops gold projects in Pilbara, Western Australia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
