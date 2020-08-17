@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. BHP has reformed its approach towards climate action and encouraged industry bodies such as the Minerals Council of Australia, the Business Council of Australia and the Australian Petroleum Production and Exploration Association to follow suit. The mining major noted that it will monitor the work of these industry associations to ensure they match its ‘climate position’ to limit global warming to below two degrees Celsius, Reuters reported. The Minerals Council of Australia (MCA), one of the industry associations that BHP is part of, has welcomed BHP’s call for climate action. MCA chief executive Tania Constable said: “The MCA welcomes today’s confirmation by BHP in its latest industry association review of the importance of responsible and constructive advocacy and the need to align with community and stakeholder expectations. “The MCA will work with BHP and state associations to progress the key issues raised in BHP’s industry association review. “The MCA will also continue working with all its members, the wider industry, government and the community – including through constructive engagement in relevant policy debates – to keep building a safer, stronger, more sustainable and more responsible future Australian minerals sector.” In June this year, MCA released a ‘Climate Action Plan’ (CAP) towards achieving net-zero emissions in the country, as well as worldwide. In July last year, BHP committed to invest $400m as part of its Climate Investment Programme over the next five years to reduce greenhouse gas emissions. This programme is aimed at developing technologies to reduce emissions generated from its own operations and through the use of its resources. In November 2019, Industry body the International Council on Mining and Metals (ICMM) launched a report on how to access and manage climate resilience in the mining and metals industry.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
