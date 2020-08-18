@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Professional services company Accenture and global miner Anglo American have signed an agreement to extend the latter’s role as a ‘strategic information technology (IT) services’ provider to Anglo. Under the agreement, Accenture will provide IT services to Anglo until 2023. According to Accenture, the agreement is an extension of a partnership that started in 2011. It will accelerate Anglo American’s information management (IM) capabilities with “new technologies” as well as “delivery practices”, which it claims will drive innovation. The professional services firm was first selected as a key technology services provider to Anglo in 2011. Accenture Technology Asia Pacific, Middle East & Africa Pavan Sethi said: “Prior to the extension of the agreement, Anglo American and Accenture worked together to co-create future services and determine key priorities. “We are honoured to continue our work with Anglo American and help fulfil their IM ambitions and mandate.” In November 2019, Accenture opened an innovation hub at the Exchange Tower, 2 The Esplanade, Perth, Australia, to help mining and energy firms boost their return on investments in digital technologies. In February 2019, Accenture announced plans to launch the Applied Intelligence Studio for Mining in its office in Johannesburg, South Africa.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
