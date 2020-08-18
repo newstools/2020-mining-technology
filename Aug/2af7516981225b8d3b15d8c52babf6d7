@@ -1,0 +1,21 @@
+Impala Platinum Holdings (Implats) has announced that the criminal charges filed against its subsidiary, Impala Platinum Limited, have been withdrawn. The charges were initially filed by the South African state in April, for alleged contraventions of the country’s Covid-19 lockdown restrictions by the company’s Impala Rustenburg division. The charges were related to the company calling for employees to return to work in early April, at the height of South Africa’s nationwide lockdown measures aimed at suppressing the spread of Covid-19. The company reportedly called for 6,000 employees to return to work, claiming it had been granted an exemption allowing it to do so. Impala Rustenburg chief executive Mark Munroe had appeared in court in April as the representative of the company, which was charged with violations of the Disaster Management Act 57 – the legislation used to implement South Africa’s Covid-19 suppression measures. Munroe appeared in court again yesterday, where all charges against the company were dropped. An Implats spokesperson told Reuters that the court did not provide details on why the charges were dropped. In a statement, Implats CEO Nico Muller commented on the withdrawal: “Implats welcomes this development and continues to prioritise efforts by our management team, in close collaboration with government, to protect the health and wellbeing of all stakeholders.” Muller also commended the actions of Munroe, as well as Implats’ health, safety, and environment executive Dr. Jon Andrews, in shaping efforts to manage the effects of the pandemic on the company’s operations. In June, mines in South Africa were permitted to reopen and work up to maximum capacity, albeit with measures in place to mitigate the risk of Covid-19 transmission. In its statement, Implats’ reaffirmed its support for efforts against the coronavirus pandemic, and outlined that it had “thrown its full weight” into supporting such efforts, “committing substantial financial, planning, and logistical support to various initiatives surrounding [its] operations.” The company also said that despite improvements in the Covid-19 infection rate, “the near-term operating environment will remain challenging and will require continued focus and vigilance in order [to] mitigate ongoing risks posed by the coronavirus.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
