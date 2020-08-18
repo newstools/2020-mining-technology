@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. American multinational holding company Berkshire Hathaway, owned by Warren Buffett, has bought a new stake in mining major Barrick Gold. Barrick Gold’s stock soared by 12% after Warren Buffett’s firm bought a stake in the company. The latest move comes as gold prices have soared to record highs this year. The Covid-19 outbreak has prompted investors to pile into the precious metal, usually seen as a safe-haven investment during tumultuous times. Wall Street also recognises gold as a safe haven investment as the world battles against the Covid-19 outbreak. The precious metal also benefited from the weaker US dollar. Berkshire Hathaway purchased a 20.9 million-share stake in Barrick Gold, valued at about $564m, reported FOX News Network. The news agency quoted Barrick Gold CEO Mark Bristow as stating: “It’s the ultimate privilege to have Berkshire Hathaway as an investor in one’s company and something that I’ve been aspiring to. “We hope it’s not the end,” Bristow continued. “We’re very privileged to have them [Berkshire Hathaway] as an owner, and we feel the same about anybody who buys our shares.” Last week, Barrick Gold said it is on track to achieve annual production within its 2020 guidance range, despite Covid-19 challenges. The company’s second quarter results show year-to-date gold production of 2.4 million ounces driven by strong operating performances, particularly from Nevada Gold Mines in the US, Loulo-Gounkoto in Mali, and Kibali in the Democratic Republic of Congo. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
