@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. African lithium developer Prospect Resources has signed a seven-year offtake deal with industrial minerals group Sibelco for ultra-low iron petalite concentrate from its Arcadia project in Zimbabwe. The Arcadia lithium project located near Harare, Zimbabwe, is considered to be one of the world’s biggest hard rock lithium resources. It is located 38km east of Harare and lies in the high veld near the Arcturus gold mine. The offtake agreement will cover 100,000 dry metric tonnes (dmt) per annum of ultra-low iron petalite concentrate, resulting in up to 700,000dmt over the seven-year contract. Prospect Resources managing director Sam Hosack said: “I am pleased to announce that we have signed an offtake agreement with Sibelco for Arcadia’s premium ultra-low iron petalite. Sibelco is the largest distributor of ultra-low iron petalite in Europe and possibly the world and we believe that this is the largest ultra-low iron petalite offtake agreement ever signed. “Sibelco is a global industrial minerals business, with an annual turnover of some €3.5bn. Once in production, Prospect is expected to be the largest ultra-low iron petalite producer in the world.” Prospect Resources fully owns the lithium project, which is estimated to produce an average of 75,000tpa of spodumene and 155,000tpa of petalite concentrates during its 20-year mine life. The pre-feasibility study (PFS) of the project was completed in June 2017 while production is expected to start in the third quarter of 2018. In February 2018, Prospect Resources signed an option agreement with TSM Enterprises to acquire a 100% direct interest in the Tombolo Klippe Project in the southeastern Democratic Republic of Congo (DRC).
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
