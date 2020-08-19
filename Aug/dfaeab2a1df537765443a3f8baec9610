@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mineral exploration firm Japan Gold and its partner Barrick Gold are moving forward with  exploration activities in the Kitami Region, located in northeast Hokkaido in Japan. The latest move comes as part of the two companies’ joint efforts to explore the country’s gold mining potential. Barrick Gold and Japan Gold announced their alliance in February this year. Under the joint venture, the two companies completed bulk leach extractable gold (BLEG) and rock chip sampling over eight of the 14 Barrick Alliance projects located in Southern Kyushu Epithermal Gold Province within the Hokusatsu region. Last month, Japan Gold and Barrick Gold began regional scale geophysical-gravity surveys in the Hokusatsu region of Japan. In late July, Barrick Alliance’s field teams relocated from southern Kyushu province to northeast Hokkaido. Currently, Barrick Gold is advancing the exploration work at Sanru project in Japan. Sanru is Japan Gold’s biggest project. It covers a 25km-long strike length on the prospective Omu-Kamikawa trend in the country’s major epithermal gold province Hokkaido. Within the Kitami region, Japan Gold has nine projects with applications and prospecting rights covering about 737km2 of prospective ground within the region. Eight of these projects are included as part of the Barrick Alliance. Japan Gold currently holds a total portfolio of 30 projects in the country. Barrick has committed to solely fund an initial evaluation phase of 28 out of 30 projects that Japan Gold holds in the country. In May this year, Japan Gold, in alliance with Barrick Gold, announced plans to jointly explore and develop certain gold mineral properties and mining projects in Japan. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
