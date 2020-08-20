@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. East African mining firm Shanta Gold has completed the 100% acquisition of Barrick Gold’s subsidiary Acacia Exploration Kenya (AEKL). The shares were acquired from three of Barrick’s subsidiaries. In February, the East African mining firm announced the acquisition of AEKL from Barrick in a cash-and-share transaction. AEKL has a 100% participating interest in Afriore-held licences, including an existing high-grade resource in south-western Kenya. The project is estimated to hold 1.18 million ounces (Moz) of gold grading 12.6 grams per tonne (g/t). Valued at a total purchase price of $14.5m, the deal gave Shanta its first asset outside Tanzania. The purchase consideration comprised $7m in cash for the assets and $7.5m in shares, and a 2% net smelter return (NSR) will be with Barrick over the life of mine. Accordingly, more than 54 million shares in Shanta Gold have been issued to Barrick resulting in a proforma interest of 6.4% in the former company. Shanta Gold CEO Eric Zurrin said: “The West Kenya acquisition is significant for Shanta Gold, creating an East African gold mining champion with realisable growth prospects and high asset quality across three attractive gold projects. “Now that the Transaction is complete, we are turning our focus to integrating West Kenya into the Shanta portfolio and accelerating progress on the ground with plans to begin infill drilling and to further delineate the resource potential. “We are committed to responsibly investing in Kenya and working with the government, communities and local stakeholders.” In July 2019, Shanta Gold brought its Ilunga underground mine at the New Luika Gold project in south-western Tanzania into commercial production.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
