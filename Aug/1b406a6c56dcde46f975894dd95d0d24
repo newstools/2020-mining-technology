@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Russian diamond miner Alrosa has received regulatory approval to open up and develop reserves at the upper horizons of the International underground mine. Alrosa received the approval from Russia’s regulatory body Glavgosexpertiza. The International underground diamond mine is located 16km south-west of the town of Mirny in Russia. It produced 2.2 million carats of diamonds last year, contributing 6% of the company’s total output. According to the company, production from the mine is expected to start in the fourth quarter of this year. Alrosa noted that the first stage of production suggested mining at the depth of 200m to 560m. In the second stage, the extraction will be carried from 155m to 200m depth, at the deep horizons of the deposit. Alrosa First Deputy CEO and COO Igor Sobolev said: “This year we start a planned development of the upper horizons of the Inter underground mine. This project has been included in all production and investment plans and it allows developing all commercial reserves of the deposit in a completely safe way. The company has already built the third, 347.4 m long shaft to extract these reserves. “The ore from the upper horizons to be received as early as in 4Q 2020 with the capacity gradually increasing in coming years. We expect to mine these reserves for about 10 years”. In the year 1999, underground mining began at the International kimberlite pipe. In June this year,  Alrosa announced that operations restarted International mine after it has been suspended for a while as several employees tested positive for Covid-19. In May, Alrosa had to suspend production at the Aikhal underground mine and the Zarya open pit mine due to the drop in demand and sales caused by the Covid-19 pandemic.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
