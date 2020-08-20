@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian mining company Ivanhoe Mines has signed an agreement with China Nonferrous Metal Mining (CNMC), to jointly explore, develop or acquire mining projects in Africa. The strategic partnership would also see the two companies being active in the Democratic Republic of Congo (DRC), exploring production, smelting, and logistics opportunities. Ivanhoe Mines co-chairmen Robert Friedland said: “Our long-standing relationship with CNMC goes back decades to when Wu Jianchang was the general manager of China National Nonferrous Metals Industry Corporation − a pioneer industrial group specialising in the mining and metallurgy sector. “Our good friends at CNMC are aware of the enormous challenges of discovering and building a new world-scale copper, nickel, zinc, or platinum-group metals mine.” Ivanhoe is developing the Kamoa-Kakula copper project in the DRC and the Platreef project in South Africa. CNMC’s assets in Africa comprise the Chambishi copper mine in Zambia, the Deziwa copper and cobalt mine in the DRC. The Lualaba copper smelter in DRC is also one of the CNMC’s core assets. It is about 45km from Kamoa-Kakula. CNMC chairman Wang Tongzhou said: “This year, the Covid-19 pandemic has engulfed the world and greatly impacted mining companies. “In these challenging times, the need to work together is more pressing than ever. Building on the opportunities created by this agreement and championing the mutually beneficial alliance, I believe that the core projects of each of our companies will soon be realised.” Last month, Ivanhoe Mines said it is holding strategic talks for its Western Forelands project in the DRC and its Platreef project in South Africa’s Bushveld Complex. In May last year, CNMC and an undisclosed Turkish company planned to acquire a stake in Konkola Copper Mines (KCM), a copper mining and smelting company in Zambia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
