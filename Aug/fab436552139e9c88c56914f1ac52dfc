@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational mining major BHP has announced its plans to sell a number of coal assets following mounting investor pressure to distance itself from the high-polluting fossil fuel. The latest move comes as the mining major is getting ready for a transition towards a low-carbon future. As part of the company’s 2020 financial year results update, BHP’s chief executive Mike Henry said that the company plans to exit from BHP Mitsui Coal (BMC). BMC owns and operates two open-cut metallurgical coal mines in Queensland’s Bowen Basin, the South Walker Creek mine and Poitrel mine. BMC is 80% owned by BHP and 20% by Mitsui. Mike Henry told the Financial Times that divestment of these thermal coal mines might take about two years and is weighing all options, from trade sales to demergers. Henry stated: “Collectively these assets have further upside potential to be unlocked through productivity and growth, but are unlikely to compete for capital within BHP. “While it is still relatively early we are considering all options, including a potential demerger of these assets, or trade sale opportunities for value.” Recently, BHP reformed its approach towards climate action and encouraged industry bodies such as the Minerals Council of Australia, the Business Council of Australia and the Australian Petroleum Production and Exploration Association to follow suit. For the year that ended 30 June, BHP’s underlying profit attributable from continuing operations fell to $9.06bn from $9.47bn a year ago. The company also reported that its annual profit declined 4.3%, as disruptions caused by the Covid-19 pandemic overshadowed iron ore prices and suppressed signs of a demand rebound from China.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
