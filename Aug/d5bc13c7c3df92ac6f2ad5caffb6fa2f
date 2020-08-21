@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Alaska mine developer Northern Dynasty has announced the results of an updated mineral resource estimate for its Pebble copper, gold and molybdenum deposit in the Bristol Bay region in south-west Alaska, US. Covering a large area on the state-owned land designated as a potential site for mineral exploration and development, the Pebble deposit is a greenfield project. The project is being developed by the Pebble Partnership, a subsidiary of Northern Dynasty. Studies of the mineral resources at Pebble confirmed that the deposit also comprises quantities of Rhenium. Rhenium is a metal that has uses in the defence sector, making it a critical material for the US. The metal is used in jet engines and other military applications. It is also used for producing high-octane fuels. The Pebble deposit is now estimated to contain 2.6 million kilograms of rhenium, 57 billion pounds of copper, 71Moz of gold, 3.4 billion pounds of molybdenum, as well as 345Moz of silver. Northern Dynasty president and CEO Ron Thiessen said: “Certainly the US military has identified Rhenium as a critical mineral, and one the United States must develop additional domestic production of in order to enhance its military security. “The development of Alaska’s Pebble Project would clearly go a long way toward filling that gap, while also addressing substantial US domestic supply deficits for other critical minerals – notably copper and silver.” The Pebble deposit will not only be able to produce base and precious metals, but also a critical mineral required by the US for securing military dominance. Earlier this week, Northern Dynasty revealed that the Alaska Republican Party officially passed a resolution in support of the responsible development of the Pebble mine. The mine has been controversial since it was first proposed. In July last year, Northern Dynasty announced that the US Environmental Protection Agency (EPA) withdrew its proposed restrictions on mining operations in Bristol Bay. This move came after the agency reconsidered an Obama-era decision that suspended development on the deposit citing concerns it could harm Alaska’s salmon fishing industry.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
