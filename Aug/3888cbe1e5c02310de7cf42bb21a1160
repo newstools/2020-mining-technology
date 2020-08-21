@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Equipment provider Sandvik has announced that Long Ying Construction Engineering is now the first customer in China to purchase Sandvik Mobile Crushers and Screens’ QI442 HS crusher. This horizontal shaft impact (HIS) crusher will provide accurate material reduction at high rates of throughput. Long Ying Construction Engineering services the requirements and needs of the local construction industry in the Guangdong region of China, operating in areas ranging across demolition, construction machinery rental, civil engineering contracting, tunnelling, landscaping and environmental engineering, as well as supplying aggregates arising from its multi-faceted operations. The crusher, through the use of Sandvik’s advanced modular hanging screen, can also produce up to three products as and when required. Sandvik Mobile Crushers and Screens’ authorised distributor, POTA Environmental Technology, recommended the QI442 HS crusher to Long Ying, when the latter sought to improve its crushing and screening equipment. According to Sandvik, the QI442 HS is equipped with a wide range of features designed to improve the return on investment and the operator’s experience. Currently, Long Ying is using the advanced crusher to crush construction and demolition waste with a maximum feed size of 800mm. Last month, Sandvik Mining and Rock Technology formed a partnership with Exyn Technologies to advance autonomous mining capabilities in the industry.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
