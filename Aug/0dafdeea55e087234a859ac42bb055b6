@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Global production of bauxite is forecast to decline by 0.1% this year, to 344Mt, according to analytics and data company GlobalData, with production being marginally affected by the temporary suspension of mines due to the Covid-19 pandemic. The data firm said that production in Australia is expected to increase by 1.9% to 107.2kt this year, accounting for almost a third of the global total. Australia is the largest producer of bauxite, used to produce aluminium, and measures aimed at containing the spread of coronavirus across the country’s mining regions have meant that bauxite operations have been minimally affected by Covid-19 disruptions. Rio Tinto, the largest bauxite miner in Australia, reported production of 24.8Mt of bauxite in the first half of 2020, up 8% year-on-year. The increase was primarily due to the ramping up of Rio Tinto’s Amrun mine in the far north of Queensland, Australia. The production outlook is also positive for India. GlobalData senior mining analyst Vinneth Bajaj said: “In India, the fifth largest producer, bauxite was exempted from the country’s first 21-day lockdown period, with no major hindrance for bauxite miners thereafter. As a result, the country’s bauxite production is expected to increase by 6.5% in 2020.” But China is expected to see a fall in bauxite output of 1.8% this year, despite China’s mines returning to full capacity from mid-April. Brazil could see a more significant drop, with GlobalData forecasting a 4.2% decline in the country’s output primarily owing to depleting ore grades. Covid-19 disrupted smaller bauxite-producing countries more heavily, with Indonesia, Jamaica, Russia, Kazakhstan, Ghana, and Guyana expected to see a collective production drop from 37Mt in 2019 to 33.8Mt in 2020. In 2019, these countries accounted for 10.8% of global bauxite output, but this share is set to drop to 9.8% this year. “Production over the forecast period (2021–2024) is expected to grow at a CAGR of 2.8%, to reach 387.4Mt in 2024, with Australia, Guinea, and India to be the key contributors,” Bajaj said. “Combined output from these three markets is expected to increase from 226.8Mt in 2021 to 258.8Mt in 2024.” The forecast accounts for key projects expected to commence operations in the period, including the Kindia project in Guinea, which is wholly owned by Anglo-African Minerals. The Kindia project is expected to commence operations in 2021 with an annual saleable production capacity of 5Mt.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
