@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Gold mining and exploration company Calibre Mining has completed the acquisition of Canadian miner Iamgold’s 70% interest in the Eastern Borosi gold-silver property. The Eastern Borosi gold-silver property is located in northeastern Nicaragua. Calibre Mining has surplus processing capacity of about 1.5 million tonnes per annum (mtpa) at the company’s Libertad Complex. The company will be launching technical studies of the gold-silver property in the fourth quarter this year to better understand how material from Eastern Borosi could be processed at Libertad. Last week, Calibre agreed to acquire Iamgold’s 70% interest in the Eastern Borosi gold-silver property. As per the terms of the transaction, Calibre would issue Iamgold 2,253,961 shares in the company, representing a value of $3m. After one-year of the transaction agreement, Calibre would pay Iamgold $1m in cash. Iamgold would also retain a 2% net smelter royalty (NSR) from the property. With this acquisition, Calibre now controls 100% of a low-sulphidation, epithermal district which hosts high-grade, gold-silver vein systems. In June this year, Calibre Mining reduced its 2020 production guidance after a ten-week suspension of mining activities due to the novel coronavirus (Covid-19) pandemic. In July 2019, Calibre Mining signed a $100m binding agreement to acquire the El Limon and La Libertad Gold Mines, as well as the Pavon Gold Project and additional mineral concessions in Nicaragua from B2Gold.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
