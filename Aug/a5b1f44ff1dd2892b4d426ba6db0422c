@@ -1,0 +1,22 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Trump administration is reportedly not ready to grant a permit for the controversial Pebble gold and copper mine in south-west Alaska, US. The mine has recently drawn opposition from several Republicans, POLITICO reported citing people familiar with the matter. According to the news agency, several Republicans, including the president’s eldest son, Fox News host Tucker Carlson and vice-president Mike Pence’s former chief of staff Nick Ayers, have campaigned against the project, citing concerns that the project threatens the Bristol Bay salmon fishery. On 24 August, the US Army Corps of Engineers is expected to send a letter to the Pebble Limited Partnership saying because the plan will cause ‘significant degradation’. The company needs to conduct a deep analysis of the project’s environmental impact before it can gain a key federal permit. Pebble is a proposed copper, gold and molybdenum deposit in the Bristol Bay region in south-west Alaska, US. It is being developed by the Pebble Partnership, a subsidiary of Northern Dynasty. Covering a large area on the state-owned land designated as a potential site for mineral exploration and development, the Pebble deposit is a greenfield project. Studies of the mineral resources at Pebble recently confirmed that the deposit also comprises quantities of rhenium. Last week, Northern Dynasty revealed that the Alaska Republican Party officially passed a resolution in support of the responsible development of the Pebble mine. The mine has been controversial since it was first proposed. In July 2019, Northern Dynasty announced that the US Environmental Protection Agency (EPA) withdrew its proposed restrictions on mining operations in Bristol Bay.
+This move came after the agency reconsidered an Obama-era decision that suspended development on the deposit citing concerns it could harm Alaska’s salmon fishing industry.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
