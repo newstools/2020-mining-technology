@@ -1,0 +1,12 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Democratic Republic of the Congo (DRC) has given mining companies an ‘indefinite waiver’ to an export ban on cobalt hydroxide and carbonate. The latest move comes after a meeting with the country’s biggest miners in the DRC’s capital city Kinshasa, Reuters reported. On 22 August, concentrates of 3Ts (tin, tungsten and tantalum), have also been granted an indefinite waiver by the DRC’s mines ministry. An export ban waiver on copper concentrate was also announced by the ministry. However, the duration of this waiver is yet to be determined as companies are expected to submit their proposals on the plan a week from now. Congo is the world’s largest producer of cobalt and Africa’s biggest copper producer. It banned exports of copper and cobalt concentrates in 2013 to encourage miners to process the ore in the country itself. The latest decision by the government comes as a relief to cobalt, copper and tin miners in Congo, as well as Zambian smelters and refiners. Reuters cited the ministry as stating: “After a long debate, the mines minister Professor Willy Kitobo Samsoni decided to grant an indefinite waiver for cobalt hydroxides and carbonates, the tin concentrates of Alphamin, and concentrates of 3Ts.” Alphamin operates a tin mine in the Congo’s North Kivu province. In January, state-owned firm China Nonferrous Metal Mining (CNMC) launched the Congo’s first large-scale smelter, the Lualaba Copper Smelter (LCS), which is 45km from the Kamoa-Kakula project in the DRC. The government joint venture (JV) is capable of processing 400,000tpa of copper concentrate and producing 120,000tpa of copper blister. However, LCS cannot process all of the Congo’s copper production, even at full capacity. According to the central bank, the Congo produced 765,000t of copper concentrate in the first half of this year alone, marking a 13.4% increase year-on-year (YoY). In September 2019, the Indonesian Government intended to bring forward the ban on nickel exports from 2022 to January 2020, enabling higher exports of nickel from the Philippines to China. jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
