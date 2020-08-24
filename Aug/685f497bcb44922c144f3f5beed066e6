@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. WestStar Industrial’s engineering contractor business Alltype Engineering has won a contract from Fortescue Metals Group (FMG) for process piping fabrication works at the Christmas Creek iron ore mine in Western Australia (WA). The Christmas Creek iron ore operations are located in Pilbara, WA. Operations at Christmas Creek are combined with activities at Cloudbreak. Both deposits are situated 110km north of Newman. Alltype will provide process piping fabrication works for FMG’s wet high-intensity magnetic separation (WHIMS) project at Christmas Creek. Alltype’s multiple works at FMG are valued at $7m in contracts relating to mining, oil and gas, power generation, water, waste processing and transport infrastructure projects this financial year. Alltype Engineering managing director Kelvin Andrijich said: “Recent supply chain disruption to overseas and interstate fabrication options has increased the market opportunity of the business, resulting in significantly increased levels of tendering for committed major project works, new clients domestically and internationally, with notable consumption of industry capacity. “Alltype has been delivering accelerated fabricated steel, plate and piping products and equipment to enable major resource and infrastructure projects to maintain progress and momentum on site. “Once this alternative supply chain process was proven successful, it has resulted in multiple repeat orders and future supply opportunities. Our site teams continue to assist with critical infrastructure works on both planned and reactive basis to our client’s needs.” Last November, WestStar Industrial executed a share sale agreement to purchase 100% of Alltype Engineering. In November 2018, mining services provider Thiess received a contract to install autonomous haulage system (AHS) technology at Christmas Creek.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
