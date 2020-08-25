@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian mining firm New Gold has closed the sale of its Blackwater Gold Project in British Columbia to Artemis Gold for a total cash consideration of C$190m (approximately $144m). The Blackwater Gold Project is located 160km south-west of Prince George and 100km south of Vanderhoof in central British Columbia. It is spread over 15,000ha on the northern flanks of Mt Davidson. The Canadian miner will receive a gold stream on 8% gold produced from the project. This total will drop to 4% once the company receives approximately 280,000oz of gold. As part of the deal, New Gold also acquired 7,407,407 common shares of Artemis. Artemis Gold has already made an initial payment of C$140m ($106.1m) and will make a $50m ($37.9m) cash payment a year after the transaction closes (21 August 2021). An agreement to sell the Blackwater Gold Project was signed in June. New Gold CEO Renaud Adams said: “The divestment of the Blackwater Project completes another key transaction for New Gold that allows us to retain exposure to Blackwater through the gold stream and our equity position in Artemis. “We believe that Artemis is the best-positioned team to advance the project for the benefit of all stakeholders, including the host communities and partners. We look forward to participating in the future success of Blackwater and wish the team well. “This transaction, along with the C$300m ($227.4) partnership with Ontario Teachers’ Pension Plan, as well as the recent restructuring of our balance sheet through the C$400m ($303m) bond offering that funded the redemption of the 2022 senior notes provides us with additional liquidity and financial flexibility as we transition to the next phase of our growth plan.” In April 2019, New Gold secured environmental approval from the Canadian Environmental Assessment Agency for the Blackwater Gold Project. The Blackwater Gold Project is expected to produce 60,000tpd of gold and silver ore over a mine life of 17 years.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
