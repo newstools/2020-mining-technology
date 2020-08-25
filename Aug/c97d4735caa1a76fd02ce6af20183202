@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian miner Midland Exploration’s subsidiary Midland Base Metals has executed a new funding deal with BHP subsidiary Rio Algom to advance nickel exploration activities in northern Quebec, Canada. Under the first phase, Rio Algom will fund 100% of Midland’s exploration for nickel within the Nunavik territory up to C$1.4m ($1.06m), on an annual basis, for a minimum period of two years. Midland also noted that BHP may propose additional exploration work for C$700,000 ($530,736) before advancing an ‘identified’ project to the second phase. Midland Exploration stated: “Following the first phase, one or more specific exploration targets may be advanced to a second phase to be further developed as a separate designated project. Meanwhile, a formal joint venture (JV) would be formed in the third phase with initial participating interests of 70% by BHP and the remaining 30% by Midland. Midland Exploration added: “Both parties would contribute to the expenses pro-rata to their participating interests. BHP would be the operator for all JV Projects. “For each JV project, BHP will pay to Midland a joint venture success fee of C$200,000 ($151,639) after the formation of the joint venture, including the transfer of tenements, data ownership and any other assets related to the JV project to, or for the benefit of, the joint venture.” Midland’s partnership with Rio Algom to explore nickel comes as demand for electric vehicle (EV) battery metal has increased, Reuters reported. In February 2019, Midland Exploration started a drilling programme totalling more than 1,800m to test new geophysical targets identified on the Jouvex project in Canada.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
