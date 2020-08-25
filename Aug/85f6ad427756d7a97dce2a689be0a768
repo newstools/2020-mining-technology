@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Everledger has partnered with JD.com, China’s largest online and offline retailer, and the Gemological Institute of America (GIA) to help increase trust and transparency in diamond provenance and further confidence in online diamond purchases. Through blockchain interoperability technology, the Everledger platform syncs GIA diamond grading information to the JD Blockchain anti-counterfeiting and tracing platform, and provides customers with independently verified diamond certificates and origin information through the JD.com app, mobile, and desktop websites. With the new collaboration, JD.com’s customers will be able to check the validity of a GIA diamond grading report and will have online access to insights into the characteristics of their diamond before the diamond and its GIA report physically arrives. In order to determine the quality of a diamond, GIA relies on its 4 Cs diamond grading methodology, focussed on cut, colour, clarity, and carat weight. JD.com division general manager Junshu Fu said: “This cooperation has multiple meanings. On the one hand, JingZhi Alliance, the jewellery quality assurance program, has now added another important component – GIA, the world’s largest diamond certification organisation, with its professional verification services. On the other hand, blockchain technology provides a more credible and assured online diamond purchase experience for consumers.” The application of blockchain technology in e-commerce to store verifiable grading report information on the blockchain for consumers is aimed at enhancing the digital e-commerce experience and building more trust in China’s online jewellery market. The platform will also be used to prevent grading report fraud. Using algorithms, JD.com will identify and reduce the fraudulent use of GIA reports, by checking that multiple diamonds aren’t being sold with the same report. This will be supplemented by live streams and customer education initiatives to help customers learn how to avoid fraudulent activity when purchasing diamonds. Everledger chief operating officer Chris Taylor said: “Given the growth in e-commerce, fraud is a very real risk in the diamond market, which is why it’s so important that consumers have access to secure and trustworthy information. By bringing cutting edge blockchain technology, online luxury shopping, and GIA’s gold standard grading expertise together on JD.com, we’re empowering consumers to purchase luxury items with increased confidence.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
