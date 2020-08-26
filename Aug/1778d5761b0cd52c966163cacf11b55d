@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Zambia’s mining investment division ZCCM-IH is reportedly seeking a ‘controlling stake’ in Glencore subsidiary Mopani Copper Mines (MCM), according to the country’s Mines Minister Richard Musukwa. The latest move comes after a disagreement over Glencore’s plan to suspend production, Reuters reported. Mopani Copper Mines is 73.1% owned by Glencore, 16.9% by First Quantum Minerals and the remaining 10% by ZCCM-IH. Musukwa said that a 10% stake was ‘not sufficient’ to determine MCM’s future and noted that Zambia’s mining investment unit was, therefore, seeking a larger stake to hold a controlling interest in Mopani. For ZCCM-IH to own a majority stake in Mopani, Glencore should sell more than 41% of the company to the former. Musukwa added that the Zambian Government is working closely with labour unions and suppliers to ensure continued operations during the talks. Last month, Musukwa rejected MCM’s proposal to suspend operations due to low copper prices as a result of the interruptions to transportation and supply chains caused by the Covid-19 outbreak. In April, Zambia intended to revoke the mining licences of MCM as the firm did not give sufficient notice before suspending its mining operations due to the Covid-19 crisis. In the same month, Glencore launched a $25m fund in response to the pandemic.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
