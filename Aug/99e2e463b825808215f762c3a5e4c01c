@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian iron ore miner Vale and Ningbo Zhoushan Port Group (NZP) have opened the Shulanghu Grinding Hub in China. Marking Vale’s first grinding hub in the country, it is located in the Shulanghu Ore Transfer Terminal, in Zhoushan City, Zhejiang. It comprises three production lines that can produce three million tonnes per annum (Mtpa) of ore. The grinding hub is generating a completely new product, known as GF88. According to Vale, GF88 is a high-grade ground iron ore fine that uses the company’s flagship Carajás Fines as raw material. It provides an eco-friendly solution for pellet production. Vale Ferrous Minerals executive director Marcello Spinelli, who virtually attended the ceremony, stated: “Vale is enriching its product portfolio to better meet China’s increasing demand for quality, environmental performance and innovation in a new era. GF88 is a truly ‘green’ mineral product. “It enjoys high iron content, low impurities and low loss-on-ignition characteristics. It also deploys a unique, innovative and environmental-friendly production process, which has no need for heating or water and generates no tailings. “With the launching of GF88 in China, together with other high-quality iron ore products and blends, Vale will continue to contribute to China’s greener future.” Despite the challenges posed by the Covid-19 pandemic, the technical teams in Brazil and China have been working towards the advancement of the Shulanghu grinding project, maintaining health and safety standards as top priorities. Last month, Vale reportedly announced plans to further expand its Northern System mining complex and restart mining at the Samarco complex in Brazil.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
