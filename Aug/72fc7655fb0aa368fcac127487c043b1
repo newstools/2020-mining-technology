@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The US Department of Energy (DoE) has announced its plans to provide $20m in financing for basic research, which is aimed at ensuring the continued availability of rare earth elements in the US. Rare earth elements are ‘critical’ to the defence, telecommunications and renewable energy sectors. These elements are used as critical components across several industries, ranging from electric vehicles to smartphones. They are vital for satellites, missile guidance systems, missile defence systems and more. DoE Office of Science director Chris Fall said: “Rare earth elements play an indispensable role in materials needed for today’s advanced technologies and are essential to a functioning American economy. “This fundamental research is aimed at both improving current availability and supply of these elements and finding promising alternative materials.” According to the DoE, the research will focus on optimising the use and extraction of the elements from geological and recycled sources. The research also seeks to reduce the reliance on rare earths by ‘discovering’ substitute materials with similar properties as that of these elements. Two weeks ago, Russia planned a $1.5bn investment in rare earth minerals. Both Russia and the US are trying to reduce their reliance on China for rare earths. As trade relations between the US and China deteriorate further, the US House of Representatives launched a bipartisan caucus last month to boost the production of strategically important minerals. The caucus members plan to initially focus on legislation to permanently fund rare earths research at the laboratories of the US DoE.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
