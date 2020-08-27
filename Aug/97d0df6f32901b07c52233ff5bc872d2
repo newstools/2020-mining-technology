@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Bellevue Gold has selected Macmahon Group unit GBF Mining and Industrial Services to complete stage one development of the Bellevue gold project in Western Australia. The Bellevue gold project is 400km north-west of Kalgoorlie. Under stage one, GBF Mining will construct a portal to enable large-scale mining equipment to access underground areas. The portal will connect the existing decline and enable the construction of underground drilling platforms. These platforms help in accelerating infill and exploration drilling, as well as reduce costs at the site, allowing a low-capital intensive restart to operations. Bellevue Gold managing director Steve Parsons said: “We are advancing early-stage development work such as preliminary surface infrastructure and the decline in parallel with mining studies and exploration because that will maximise our ability to create value for shareholders as quickly as possible. “Our strategy is aimed at capitalising on the strong gold price by starting production as soon as commercially and technically possible while, at the same time, continuing to grow and upgrade the resource.” Bellevue is expecting a further increase in the indicated resource in the December quarter, with stage two infill drilling standing at 2.3Moz at 10g/t of gold. Most of the Bellevue gold project’s indicated resource includes a high-grade core of 480,000oz at 15.5g/t of gold at the Viago and Deacon lodes. Last month, Bellevue Gold said it was set to transition to the project development phase at the Bellevue gold project after confirming a high-grade resource. According to the company, the maiden indicated resource in the Viago and Deacon Main resource areas comprises a high-grade mineralisation core of 860,000oz at 11.6g/t of gold.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
