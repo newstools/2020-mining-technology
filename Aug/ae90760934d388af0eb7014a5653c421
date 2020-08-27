@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The Brazilian state of Minas Gerais has asked a judge to order iron ore miner Vale to pay for economic losses and other damages with respect to the Brumadinho tailings dam disaster that occurred last year. State authorities and federal prosecutors have sent a joint petition seeking a judge’s order for Vale to freeze R$26.7bn ($4.78bn) in assets for ‘eventual restitution’ to Minas Gerais. They are also seeking R$28bn ($5.01bn) in collective ‘moral and social’ damages. Last month, a Brazilian court ordered Vale to pay R$7.9bn ($1.47B) in guarantees for damages from the disaster, which occurred on 25 January 2019 when a dam located near the Córrego do Feijão iron mine collapsed, causing a mudslide to hit the town of Brumadinho. This incident is considered one of the worst environmental disasters in Brazilian history, with 84 people confirmed dead and around 270 still missing. The disaster led to the Brazilian Government banning the construction of new upstream mining dams in February 2019. In July of the same year, Vale agreed to pay compensation to the families of the victims. Since the start of last year, iron ore production in Brazil has suffered due to the disaster, weather-related conditions and the spread of Covid-19 pandemic. Last year, Brazil’s overall iron ore output was 404.9Mt.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
