@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. India’s state-owned coal mining company Coal India Limited (CIL) has reportedly awarded an Rs29bn (approximately $390m) contract to Belarusian dump tracks manufacturer Belaz for 96 250t dumpers. The amount for purchasing the dumpers would be met out of CIL’s own finances, reported India’s PTI. According to the news agency, the purchase package includes the cost of the dumpers and spares for eight years, as well as a one-year warranty period. The first batch comprising six dumpers is expected to be launched within eight months of the signing of the contract. The 96 dumpers will be added to CIL’s heavy earthmoving machinery fleet and would be deployed in South Eastern Coalfields (SECL), taking the total count of 240t dumpers to 162, out of which 66 are already in operation. Of the total 96 dumpers, 84 dumpers would be put into operation in the Gevra project in Korba district of Chhattisgarh, India. The remaining 12 would be operated Chhattisgarh’s Kusmunda project. Both mines are open cast projects of SECL. Dumpers are mainly used in open cast mines. They help in the transport of bulk materials such as overburden, which is an important task in open pit exploitations. A CIL senior executive was quoted as stating: “This move is in line with improving our production and productivity in open cast mines.” In January, the Indian Government granted environmental clearance for Coal India to proceed with 17 projects, which will produce an additional 150Mt of coal in five years. In November 2018, the government initiated the process to sell a stake of up to 9% in Coal India as part of its plan to achieve its divestment target.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
