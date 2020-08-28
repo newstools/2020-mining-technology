@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Australian gold mining company Capricorn Metals has selected MACA Mining as the preferred contractor to provide mining services for its Karlawinda gold project in Western Australia (WA). In this regard, Capricorn Metals has issued a letter of intent (LoI) to award the initial five-year term contract to the MACA subsidiary. The A$400m ($290m) contract comes with an option to extend the term, depending on Capricorn Metals’ decision. According to Capricorn Metals, the LoI was issued to MACA due to the latter’s price competitiveness and expertise of ‘similar-scale’ gold projects in WA. The Karlawinda Gold Project is located nearly 70km south-east of Newman, Pilbara, WA. Under the contract, MACA Mining will provide open-pit mining services for the project, which includes drilling and blasting, as well as loading and hauling. The company said that its scope under the contract will involve the movement of nearly 11 million bank cubic metres of ore and waste per annum by deploying a fleet of 180t dumpers. While ancillary works are likely to begin in December, open-pit mining activities are to follow in the March quarter of next year. Capricorn Metals executive chairman Mark Clark said: “The selection of a preferred mining contractor is the culmination of a competitive process that included a number of very competent Australian mining services providers. “MACA was selected as the preferred contractor after submitting a compelling bid both in terms of price and execution. We look forward to partnering with MACA in the successful operation of the Karlawinda Gold Project.” In September 2018, Capricorn Metals received a non-binding, indicative takeover bid from gold and nickel explorer Regis Resources. Under the offer, Regis proposed to acquire 100% of the Australian firm.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
