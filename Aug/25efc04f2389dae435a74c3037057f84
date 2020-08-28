@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Commodities trader Glencore is reportedly said to sell its entire stake (73.1%) in Mopani Copper Mines (MCM) to the Zambian Government’s mining investment unit ZCCM-IH. The latest news comes as the commodities major doesn’t want to just become a minority stakeholder of MCM, Reuters reported citing two sources with direct knowledge of the matter. Mopani Copper Mines is currently 73.1% owned by Glencore, 16.9% by First Quantum Minerals and the remaining 10% by ZCCM-IH. On 25 August, Zambian Mines Minister Richard Musukwa had said that the Government and Glencore are at ‘cross purposes’ over MCM and announced that the country’s mining investment arm intends to increase its shareholding in MCM to 51% or ‘even more’. In April, Zambia intended to revoke the mining licences of MCM as the firm did not give sufficient notice before suspending its mining operations due to the Covid-19 crisis. According to the two sources with direct knowledge, Glencore is seeking to entirely exit the asset. The news agency quoted one of the sources as stating: “As of now, we are discussing a potential sale of their stake in Mopani.” ZCCM-IH’s move to take control of Mopani is part of its strategy to transition towards operating mines from holding minority stakes. According to Reuters, Glencore wrote off the value of MCM by $1.144bn in its H1-2020 earnings report earlier this month, saying that the ‘estimated recoverable value’ was $704m. Last month, Musukwa rejected MCM’s proposal to suspend operations due to low copper prices as a result of the interrupted transportation and supply chains caused by the Covid-19 outbreak.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
