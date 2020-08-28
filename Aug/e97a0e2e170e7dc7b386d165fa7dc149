@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canadian precious metals explorer SilverCrest Metals has acquired a 100% interest in the El Picacho property, which is 40km north-east of the company’s flagship Las Chispas mine in Mexico. The Las Chispas gold-silver project is in Sonora, Mexico. SilverCrest paid $1.6m to American Metal Mining for this property, besides paying required government taxes to bring the 11 mining concessions part of the El Picacho property to good status. According to the precious metals explorer, Picacho may be considered as either a ‘standalone mine’ or a ‘satellite project’ for additional mill feed to Las Chispas. SilverCrest Metals CEO Eric Fier said: “We first looked at acquiring Picacho in 2016, after the sale of SilverCrest Mines Inc. (SilverCrest’s predecessor) in 2015, as a continuation of our regional exploration program on the search of a new district containing multiple precious metal epithermal veins. “After four years of patience, we have now acquired the next district. The most historic prominent vein in the district, El Picacho Vein, can be easily accessed by a 4m x 4m underground decline, which visually shows the vein underground as approximately 6m wide with historic grades and SilverCrest recent sampling results ranging from 350g/t to 1,000g/t silver equivalent (AgEq).” El Picacho has a historic resource estimate of 360,000t grading 8.5g/t gold and 40g/t silver (67g/t AgEq). In May, SilverCrest Metals announced that it will resume exploration and development work at the Las Chispas gold-silver project.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
