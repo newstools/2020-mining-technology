@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Codelco, the state-owned mining firm of Chile, is reportedly planning to move further with plans to unveil mining automation at its operations. The latest move comes as part of the company’s efforts to maintain production levels going forward due to the declining ore grades and the Covid-19 pandemic disruptions, Reuters reported citing the company’s CEO Octavio Araneda. Codelco’s digitalisation agenda progress has soured the company’s relations with its unions as the potential for advances in technology reduces the need for manual workforce. However, technological advancement is critical to ensuring the longer-term feasibility of mining, Araneda said. The news agency quoted Araneda as saying: “We are committed to a programme of introducing autonomous trucks in the pits. That’s a potent and challenging goal in terms of automation. “That’s the big step still remaining to take, our are plants are already pretty automated.” Furthermore, Araneda noted that the company was prepared for a second wave of Covid-19 infections. He added: “It is very likely that increases in the number of infections will happen in the country and the regions where we operate.” Last week, Chile surpassed more than 400,000 cases of Covid-19 infections and over 11,000 deaths from the disease. The country, however, witnessed a drop in daily infection rates. Last month, the Government of Chile reportedly ruled out the privatisation of the state-owned copper miner after a lawmakers group proposed to divest it in order to raise funds in response to the Covid-19 pandemic. In the same month, unions representing Codelco workers stated that nearly 3,000 workers have been infected with Covid-19 and urged for more safety measures at the company’s operations.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
