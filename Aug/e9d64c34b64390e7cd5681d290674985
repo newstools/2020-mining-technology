@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Resource company Australian Vanadium (AVL) has secured mining lease for its vanadium project located in Western Australia (WA). The mining lease for the Australian Vanadium Project will have an initial term of 21 years from 28 August this year. The Western Australian Government Department of Mines, Industry Regulation and Safety has granted the ‘Mining Lease M 51/878’ for the project which comprises 11 tenements covering 760km². AVL completely owns the Australian Vanadium Project. According to the company, the lease covers 70% of the declared mineral resources over a single continuous area of the project. Australian Vanadium managing director Vincent Algar said: “The grant of the Mining Lease is an important milestone for AVL and provides certainty to investors and potential project financiers in Australia and globally.” The Australian Vanadium Project is considered as one of the highest grade vanadium projects worldwide, with a 208.2 million tonnes (Mt) resource grading 0.74% of vanadium pentoxide (V₂O₅). It also includes a high grade zone of 87.9Mt at 1.06% vanadium oxide. The mining lease will continue to advance the completion of the project’s approvals to start operations. AVL has developed a production capability locally for ultra-high purity vanadium electrolyte that forms a key component of vanadium redox flow batteries (VRFB) marketed through VSUN Energy, the company’s wholly-owned subsidiary. Recently, AVL planned to build a processing plant near its project located at Gabanintha, Western Australia. This move is expected to allow the company to profit from otherwise wasted ‘iron-rich calcine material’. In March 2017, AVL identified significant Cobalt assays in the Gabanintha vanadium project by reviewing previous drill programmes.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
