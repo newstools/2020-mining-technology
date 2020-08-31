@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. AngloGold Ashanti and Barrick Gold have agreed to sell their 80% stake in the Morila gold mine in southern Mali to Australian company Mali Lithium. Mali government holds the remaining 20% ownership of the gold mine. The deal is valued at a cash consideration of between $22m and $27m. Barrick noted that the decision of the current shareholders of both the companies to sell their stakes in Morila would bring access to extra resources at the mine and would extend the life of the gold mine. The parties expect to complete the transaction by October this year. Morila poured its first gold in October 2000. It laid the foundation for Barrick legacy company Randgold Resources to become one of the world’s leading gold miners. Barrick Gold said that the mine, known in its heyday as “Morila the Gorilla”, has produced about 6.9 million ounces (Moz) of gold and generated over $2.5bn for its stakeholders in taxes and dividends. According to Reuters, the latest move comes as political crisis grips Mali after a group of soldiers seized power in a coup. Mali Lithium executive chairman Dr Alistair Cowden said: “Morila is one of West Africa’s great gold mines and we are excited and privileged to acquire a mine of Morila’s calibre with its past production plus Mineral Resources (gold endowment) of 8.7 million ounces of gold. “Our current intention is that all employees at the mine will retained and it is our hope that we can support the local community through additional employment opportunities as operations scale up. “We have a second world class asset in the Goulamina Lithium Project (Goulamina), however, Morila and Goulamina will benefit from a sharp individual focus.” Mali Lithium noted that the acquisition is set to transform the company into a cash-generating gold producer. Morila is expected to produce approximately 26,350oz of gold from November this year to the second quarter of next year.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
