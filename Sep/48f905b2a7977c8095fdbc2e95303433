@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Vancouver-based Auryn Resources has announced a C$22.5m ($17.2m) bought-deal private placement financing, which is a key condition of a recently announced transaction with Canadian explorer Eastmain Resources. Auryn signed an agreement with a syndicate of Canadian underwriters for an aggregate of 7.5 million subscription receipts, which would be exchanged for common shares of Auryn at the completion of the Eastmain transaction. The Eastmain transaction will create Fury Gold as a developer of Canadian gold projects. Auryn Resources director and executive chairman Ivan Bebek said: “We are excited to welcome these investors as new shareholders of Fury Gold and to position the company with $22.5m to carry out its aggressive growth plans through exploration and development over the next 12 months. “With this financing condition met, we look forward to our planned 50,000-meter drill program commencing this fall to expand the Eau Claire high-grade gold deposit, following the closing of the Eastmain Transaction.” In July, Auryn signed a definitive agreement to acquire Eastmain after spinning-out its own Peruvian operations to shareholders. The deal would see the Vancouver-based Auryn spinning out its Peruvian assets into two new companies, with one focusing on the Sombrero project named SpinCo Sombrero, and another consisting of the Curibaya and Huilacollo projects, dubbed as SpinCo Curibaya. Eastmain interim president and CEO Blair Schultz said: “This financing is a big step forward for Eastmain as we prepare to become Fury Gold Mines shareholders. Fury is creating a Canadian-focused gold company, well-positioned to capitalise on the opportunities at Eau Claire and across its pipeline of high-grade gold assets.” In August 2017, Auryn Resources acquired the rights to the Tacora and Andamarca properties that lie next to its Huilacollo gold epithermal project in the Tacna province of southern Peru.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
