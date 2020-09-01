@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Mineral exploration and development company Nubian Resources has signed a binding letter of intent (LoI) with precious metals explorer Athena Silver. Following the agreement, Athena will acquire the company’s Excelsior Springs exploration project in Nevada, US. Covering an area of 3.5km², mining claims of the Excelsior Springs comprise the historic Buster mine, which has past production of around 15,000t grading 37g/t of gold to a maximum depth of 70m. The exploration project is located in the Walker-Lane tectonic zone of southern Nevada, which serves as home to several historic gold mines. Nubian president and CEO Martin Walter said: “The divestment of the Excelsior Springs property to Athena is expected to unlock the value in the Excelsior Springs property for shareholders quicker given Nubian’s focus on its properties in Australia and Peru.” Under the terms of the LoI, Nubian will retain a 1% net smelter royalty (NSR) on the property, and Athena will have the right to buy 0.5% for $500,000 and the remaining 0.5% at a ‘fair’ market price. Athena president and CEO John Power said: “The potential acquisition of Excelsior Springs gives us the opportunity to build value with this advanced stage gold exploration property in Nevada, one of the world’s best mining jurisdictions, and provides excellent diversification from our prior focus on the Calico Mining (Silver) District in California. “The prior work and drill campaigns undertaken at Excelsior Springs provides a great foundation to quickly advance the project, which we believe has the potential to host one or more open-pittable gold deposits, along with higher-grade veins that could be mined underground”. The transaction remains subject to necessary regulatory approvals and other applicable laws.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
