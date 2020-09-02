@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational mining major BHP plans to reduce scope two emissions at its Queensland coal mines by 50% by the year 2025. The company signed a renewable power purchasing agreement with Queensland’s clean energy generator and retailer CleanCo. According to BHP, the 50% reduction is based on emissions levels from the company’s 2020 fiscal year (FY), with the agreement switching electricity production to low emissions sources such as solar and wind power. The agreement is scheduled to run for a period of five years from 1 January next year, and is expected to displace around 1.7 million tonnes (Mt) of carbon dioxide equivalent between 2021 and 2025. BHP Minerals Australia president Edgar Basto said: “This is an important step forward in BHP’s transition to more sustainable energy use across our portfolio, and a first for our Australian operations. It will diversify our energy supply, help to reduce our energy costs, and reduce BHP’s Australian Scope 2 emissions by 20 per cent from FY2020 levels. “This is a prime example of prudent business decisions going hand-in-hand with social value, strengthening our business and benefiting the community.” BHP noted that power will be delivered from CleanCo’s “low emissions” portfolio for the first two years of the agreement, and will switch to newly operational solar and wind farms from late 2022. The contract is expected to contribute to BHP’s medium-term target for reducing scope one and scope two emissions, which is due to be announced shortly by the company. BHP Mitsubishi Alliance (BMA) asset president James Palmer said: “This contract will help our operations across Queensland to further increase their sustainability through reducing the greenhouse gas emissions we generate from electricity use by half. “It will also support two greenfield renewable projects that in turn are expected to generate regional jobs in Queensland.” Last month, BHP announced plans to sell a number of coal assets following mounting investor pressure to distance itself from the high-polluting fossil fuel. In the same month, the company reformed its approach towards climate action and encouraged industry bodies such as the Minerals Council of Australia, the Business Council of Australia and the Australian Petroleum Production and Exploration Association to follow suit.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
