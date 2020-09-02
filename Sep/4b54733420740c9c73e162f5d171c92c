@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. African gold producer, developer and explorer Hummingbird Resources has completed the acquisition of Cassidy Gold Corporation’s Kouroussa gold project in Guinea. Situated near the town of Kouroussa in the eastern Republic of Guinea, Kouroussa is a near term development asset in the “prolific” Siguiri Basin. It has a high grade mineral resource of 1.18 million ounces (Moz) of gold at over three grams per tonne, a lucrative pre-tax NPV10 of $110m. The project has an internal rate of return (IRR) of 51.2%, based on a gold price of $1,350 per ounce. Hummingbird CEO Dan Betts said: “We now eagerly await the awarding of the mining licence from the Government of Guinea and look forward to working with them to develop this exciting project as partners for the benefit of all stakeholders. “Our dedicated project management team have started development plans and the permitting process as we highlighted in our recent 1H-2020 interim results. “The completion of the acquisition gives us further confidence to advance with these initiatives to bring Kouroussa into production and transform Hummingbird into a multi-asset producing resources company.” Hummingbird is now waiting to be awarded the mining licence for the project from the government of Guinea. Once awarded, the African gold producer will pay the initial consideration of £10m ($13.3m), which will be satisfied through the issuance of about 35.25 million new ordinary shares in Hummingbird priced at 28.4p per each share. In June, Hummingbird joined gold industry market development organisation World Gold Council’s (WGC’s) board of members. In May last year, Hummingbird Resources proceeded with its Dugbe gold project after signing a mineral development agreement in Liberia.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
