@@ -1,0 +1,22 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. India’s Union Cabinet has approved a memorandum of understanding (MoU) between the Geological Survey of India (GSI) and the Geological Survey of Finland (Geologian tutkimuskeskus). The MoU is with respect to the cooperation in the field of geology and mineral resources between the two countries, India’s PTI reported. It also facilitates cooperation in the field of geology, mineral prognostication and suitability analysis, training, 3/4D modelling, as well as seismic and other geophysical surveys. The MoU aims to bolster the scientific links between the two organisations. GSI is a geo-scientific organisation of the Indian government involved in the creation and updating of national geoscientific information and mineral resource assessment, while the Geological Survey of Finland is a centre on the assessment and sustainable use of geological resources. PTI stated: “This MoU aims to provide with a framework and a platform to promote and foster cooperation in the fields of geology, and mineral resources between the Participants for mutual economic, social and environmental benefit; and share experiences on geological data management and information dissemination to promote exploration and mining, in the areas of geology and mineral resources.” In June this year, the Geological Survey of Finland GTK and VTT Technical Research Centre of Finland launched a new battery materials tracing platform, the Battrace project. This project is aimed at enhancing sustainability in the mining industry.				                                           	
+															    															                                                        					
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
