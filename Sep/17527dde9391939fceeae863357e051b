@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. US company Albemarle has been selected by the US Department of Energy (DoE) as a ‘critical partner’ for two lithium research projects. The partnership will continue for three years through a Battery Manufacturing Lab Call. Albemarle said it will work in conjunction with two Department of Energy laboratories on the approved projects of the company. The first project, in collaboration with Argonne National Laboratory, will conduct research to enable the ‘development of a novel technology’, which eliminates steps in the current process by going directly from lithium chloride (LiCl) to lithium hydroxide (LiOH). The second project, in partnership with Pacific Northwest National Laboratory, will ‘accelerate the commercialisation of high-energy cathodes’ that are used for battery life extension in electric vehicles. Albemarle Lithium chief technology officer Glen Merfeld said: “We are honoured to have the DoE select these two important research efforts in partnership with Argonne National Laboratory and Pacific Northwest National Laboratory. “Successful execution of the first project will allow for more efficient utilisation of the lithium brine resource in the Clayton Valley area of Nevada and a new pathway to a critical lithium material. The technology could also help make US geothermal and oilfield brines more economical, including our brine reserves in Magnolia, Arkansas. “Through the second project, we will learn how tailored lithium salts can further improve cathode performance, leading to more energy-dense and longer life lithium-ion batteries.” Last month, the US DoE announced its plans to provide $20m in financing for basic research, which is aimed at ensuring the continued availability of rare earth elements in the US. In May, Albemarle expressed interest in acquiring all or part of Chinese manufacturing firm Tianqi Lithium’s controlling stake in Australia’s Greenbushes lithium mine.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
