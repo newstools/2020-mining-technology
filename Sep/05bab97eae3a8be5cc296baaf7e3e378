@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Forum Energy Metals has announced that Rio Tinto Exploration Canada (RTEC) has commenced drilling at the former’s Janice Lake sedimentary copper-silver project in the Canadian province of Saskatchewan. In June, RTEC commenced exploration at the Janice Lake project. Rio Tinto currently has the option to earn up to an 80% interest in the Canadian project by spending up to $C30m ($31.15m) on exploration. A rotary air blast (RAB) drill has arrived on site to investigate historical and newly mapped regional copper showings, as well as recently developed geophysical targets buried by overburden. It is expected that the targets will determine the extent of the copper-silver mineralisation over the 52km length of the property. Forum Energy Metals anticipates that rotary air blast drilling will help develop a diamond drill programme scheduled for next year. Forum Energy Metals stated: “RTEC’s exploration program announced by Forum on June 23, 2020 is making substantial progress. “Construction continues at the Burbidge Lake camp which is nearing completion, geology crews continue to map and sample outcrop, soils and vegetation and the geophysical crew has completed its IP Resistivity survey over the Jansem deposit.” Furthermore, construction of the project’s nearby Burbidge Lake camp is nearing completion. It will be used for Jansen Lake’s 2021 exploration programme. In January last year, Benton Resources signed an agreement with RTEC to earn the right to acquire 100% interest in Baril Lake claims in Ontario.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
