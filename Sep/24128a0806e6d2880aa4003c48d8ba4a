@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Precious metals royalty and streaming company Maverix Metals has announced the completion of the royalty reduction agreement with mineral resource company Karora Resources. The transaction is with respect to reducing the gold royalty at Karora’s Beta Hunt mine in Western Australia. It allows shareholders of both the companies to unlock the significant value at Beta Hunt gold mine. Maverix CEO Dan O’Flaherty said: “Maverix is pleased to support Karora as it continues to unlock Beta Hunt’s potential. We remain focused on growing our asset portfolio by pursuing opportunities to acquire high quality royalties and streams, creating further per share value for our shareholders.” The royalty and streaming company has agreed with Karora to reduce the royalty on the mine’s gold production from 7.5% to 4.75% effective from 1 July this year. Maverix will receive a total cash consideration of $18m for the transaction, with $15.5m received on closing of the transaction. Karora agreed to pay the remaining $2.5m in January next year. Maverix noted that it will use the proceeds from the transaction to reduce the amount drawn under its revolving credit facility. Karora chairman and CEO Paul Andre Huet said: “Having now materially reduced the royalty burden at Beta Hunt, we are excited to move forward with our exploration program underground. “This transaction has the potential to unlock significant value for both Karora and Maverix shareholders by allowing our strong operational team to develop Beta Hunt to its full potential. We look forward to continue working with our partner, Maverix, at the Beta Hunt mine.” In May 2018, Newmont Mining signed an agreement to divest its royalty portfolio to Maverix Metals.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
