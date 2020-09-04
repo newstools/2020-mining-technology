@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Multinational mining major BHP has awarded a tender to Eastern Pacific Shipping (EPS) to charter liquefied natural gas (LNG)-fuelled Newcastlemax bulk carrier tender. It is expected to reduce greenhouse gas (GHG) emissions by over 30% for each voyage. EPS received the contract for a five-year time charter for five bulk carriers, which will be used to ferry iron ore between China and Western Australia from 2022. The company added that it is the first LNG dual-fuel Newcastlemax bulk carrier contract in the world. The contract for LNG bunkering supply is scheduled to be announced next month. BHP chief commercial officer Vandita Pant said that the vessels with LNG will eliminate sulphur oxide emissions and decrease CO₂ and nitrogen oxide emissions. Pant said: “The tender marks a progressive shift for BHP and the broader mining and shipping industry and is a significant step toward lowering GHG emissions in the 1.5 billion tonne iron ore seaborne market. “We expect the introduction of LNG-fuelled vessels will result in more than 30% lower CO₂ emissions on a per voyage basis compared to conventional fuel along the Western Australia to China route.” In July last year, BHP floated a bulk carrier tender for LNG-fuelled vessels to transport its iron ore. EPS provided a competitive bid with an improved vessel design, fuel efficiency and reduction in GHG emissions, Pant said. The fleet of five vessels will have a deadweight tonnage of 209,000 and will be powered by LNG, which produces lower GHG emissions. EPS CEO Cyril Ducau added: “BHP’s commitment to making a positive change for the industry resonated with our decarbonisation mission and our culture of environmental protection. “When these vessels deliver in 2022, they will be the cleanest and most efficient in the entire dry bulk shipping fleet and will be IMO 2030-compliant, eight years ahead of schedule.”
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
