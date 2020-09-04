@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Brazilian iron-ore miner Vale has announced that it had made its first sale of iron ore using blockchain technology. The latest development is an important step towards the digitalisation of the sales and trade process, according to Vale. It also offers better service to the customers as well as “predictability” across the steel value chain. Vale noted that the sale has been conducted with Nanjing Iron and Steel subsidiary Nanjing Iron & Steel Group International Trade for a cargo of 176,000t of Brazilian blend fines (BRBF) from Teluk Rubiah Maritime Terminal (TRMT) in Malaysia to China. Blockchain technology connects buyers, sellers and service providers in mining and metals supply chains via shared information. Vale stated: “The Letter of Credit (LC) was issued through Contour blockchain platform whilst the shipping documents and the electronic Bill of Lading were handled via essDOCS’ CargoDocs solution – with all actions carried out through a single, interfaced platform consolidated in Contour.” The Brazilian miner said that the integrated transaction enabled transparency with real-time visibility of the documentation to all stakeholders. It also helped in reducing the quantity of emails and paperwork exchanged among the parties. The sale is backed by support from DBS Bank and Standard Chartered Bank Malaysia Berhad. According to Vale, the transaction is aligned with the company’s strategy of becoming a customer-centred company through greater integration with clients for new solutions. In June this year, BHP completed its first iron-ore trade with steel producer China Baowu on Canadian startup MineHub Technologies’ blockchain-based platform.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
