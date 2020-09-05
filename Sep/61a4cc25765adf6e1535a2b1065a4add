@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. Canada-headquartered gold producer Caledonia Mining has raised $13m via the sale and issue of 597,963 shares in the company. The proceeds from the sale will be used to invest in the construction of a solar power plant to supply electricity to Caledonia’s primary asset, the Blanket mine in Zimbabwe. Caledonia Mining has completed the financing, which it announced in July this year, with shares being sold on the New York Stock Exchange. The company initially filed an application to the London Stock Exchange’s AIM for a block admission of up to 800,000 new depositary interests, representing the same number of shares in the company, to raise the $13m sum. Caledonia Mining has raised the maximum amount of funds sought under the sales agreement and has cancelled the remaining portion of the block admission. The Blanket mine is an established Zimbabwean gold mine that has operated in some capacity since 1907. Caledonia Mining has been pushing forward with a solar plant to power the Blanket mine, which is located in the southwest of Zimbabwe, since 2019. The mine has previously faced interruptions to its electricity supply from the grid, which the operator has circumvented using diesel generators. Due to the rising costs of diesel fuel and problems in obtaining a secured supply, a solar power plant was proposed to reduce the reliance on diesel power as well as mitigate the impact of Zimbabwe’s grid instability. The planned solar plant could provide all of Blanket’s power requirements during daylight hours; Caledonia Mining says it envisages that the mine will run on solar power during daylight hours while at night it will use a combination of grid and diesel power, in conjunction with a small energy storage system. In addition to providing a more reliable electricity supply, the solar plant also provides a greener power solution and chimes with a wider Zimbabwean push for green power. In September 2019, the Zimbabwe Energy Regulatory Authority said it had processed 39 solar power projects with a capacity to generate over 1,151Mw with a combined cost of over $2.3bn in investments. Zimbabwe has suffered rolling power cuts owing to low water levels at the Kariba Dam, which provides power to parts of both Zimbabwe and neighbouring Zambia, as well as maintenance issues at a coal-fired power station in Hwange. These two sources provide the bulk of grid power in Zimbabwe, and the ongoing issues at both facilities have led to widespread energy shortages in the country. To make up for the shortfall, Zimbabwe has been importing electricity from South Africa and Mozambique, but problems with South Africa’s domestic supply have led to exports being suspended. Solar power has been touted as the solution to Zimbabwe’s energy problems, offering a relatively cheap, highly-scalable means of supplying electricity, and the country has secured assistance from the World Bank to introduce a programme for procuring large scale solar power projects.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
