@@ -1,0 +1,21 @@
+Sign up here for GlobalData's free bi-weekly Covid-19 report on the latest information your industry needs to know. The European Union (EU) has added lithium, a key component for batteries in electric vehicles (EVs), to its list of critical raw materials for the first time. The latest announcement was made by the EU Commission, the 27-nation bloc’s executive, as part of its latest presentation of “2020 List of Critical Raw Materials”. Helium was dropped from the latest list of 30 materials, Reuters reported. In a press statement, the EU Commission said that its proposed recovery plan from the Covid-19 pandemic places an emphasis on “building back greener, more digital and more resilient”. The commission also believes Europe should strive towards the development and diversification of the raw materials supply. European Commission vice-president Maroš Šefčovič said: “A secure and sustainable supply of raw materials is a prerequisite for a resilient economy. For e-car batteries and energy storage alone, Europe will for instance need up to 18 times more lithium by 2030 and up to 60 times more by 2050. “As our foresight shows, we cannot allow to replace current reliance on fossil fuels with dependency on critical raw materials. This has been magnified by the coronavirus disruptions in our strategic value chains. “We will therefore build a strong alliance to collectively shift from high dependency to diversified, sustainable and socially-responsible sourcing, circularity and innovation”. Recently, US Department of Energy (DoE) selected Albemarle as a ‘critical partner’ for two lithium research projects. Last month, the UK government said it would invest in the construction of a zero-carbon lithium extraction pilot plant in Cornwall. The investment comes as part of the UK’s £900m Getting Building Fund, which aims to fund housebuilding and infrastructure as well as stimulate job creation.
+
+
+										    
+										    
+
+
+										    		                                    
+											
+											jQuery( document ).ready(function() {
+												/* Companies carousel */
+												jQuery('.carousel').slick({
+												  dots: true,
+												  infinite: true,
+												  speed: 300,
+												  lazyLoad: 'ondemand',
+												  slidesToShow: 1,
+												  slidesToScroll: 1,
+												  adaptiveHeight: true
+												});
+											});
